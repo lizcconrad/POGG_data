@@ -1,0 +1,5 @@
+strict digraph  {
+idValve1 [node_type=entity_node, root=root];
+open;
+idValve1 -> open  [edge_type=property, label=idValve1_prop_idOpenState];
+}

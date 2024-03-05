@@ -1,0 +1,17 @@
+strict digraph  {
+idDrawer1 [node_type=entity_node, root=root];
+closed;
+1;
+upper;
+idBarrel1;
+idwood;
+true;
+idPill3;
+idDrawer1 -> closed  [edge_type=property, label=idDrawer1_prop_idOpenState];
+idDrawer1 -> 1  [edge_type=property, label=idDrawer1_prop_idOrdinality];
+idDrawer1 -> upper  [edge_type=property, label=idDrawer1_prop_idVerticalArrangement];
+idDrawer1 -> idBarrel1  [edge_type=relationship, label=isWestOf];
+idBarrel1 -> idwood  [edge_type=property, label=idBarrel1_prop_idMaterial];
+idBarrel1 -> true  [edge_type=property, label=idBarrel1_prop_idInterestingObject];
+idBarrel1 -> idPill3  [edge_type=relationship, label=isEastOf];
+}

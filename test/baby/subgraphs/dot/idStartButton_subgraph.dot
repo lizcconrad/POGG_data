@@ -1,0 +1,15 @@
+strict digraph  {
+idStartButton [node_type=entity_node, root=root];
+off;
+true;
+idPorch1;
+"[The, sayName(idFrontDoor1)] is north and [the, sayName(idSidewalk1)] is south.";
+idFrontDoor1idPorch1idNorthOfOpening;
+idButton1;
+idStartButton -> off  [edge_type=property, label=idStartButton_prop_idPowerState];
+idStartButton -> true  [edge_type=property, label=idStartButton_prop_idUnknownObject];
+idStartButton -> idPorch1  [edge_type=relationship, label=isEastOf];
+idStartButton -> idFrontDoor1idPorch1idNorthOfOpening  [edge_type=relationship, label=isEastOf];
+idPorch1 -> "[The, sayName(idFrontDoor1)] is north and [the, sayName(idSidewalk1)] is south."  [edge_type=property, label=idPorch1_prop_idDirectionDescription];
+idPorch1 -> idButton1  [edge_type=relationship, label=isSouthOf];
+}

@@ -1,0 +1,7 @@
+strict digraph  {
+idScientistCostume1 [node_type=entity_node, root=root];
+gold;
+true;
+idScientistCostume1 -> gold  [edge_type=property, label=idScientistCostume1_prop_idColor];
+idScientistCostume1 -> true  [edge_type=property, label=idScientistCostume1_prop_idUnknownObject];
+}

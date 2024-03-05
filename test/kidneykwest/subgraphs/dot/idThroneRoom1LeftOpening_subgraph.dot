@@ -1,0 +1,5 @@
+strict digraph  {
+idThroneRoom1LeftOpening [node_type=entity_node, root=root];
+idBarn1RightOpening;
+idThroneRoom1LeftOpening -> idBarn1RightOpening  [edge_type=relationship, label=isEastOf];
+}

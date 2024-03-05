@@ -1,0 +1,11 @@
+strict digraph  {
+idDrawer1 [node_type=entity_node, root=root];
+no;
+closed;
+idLivingroom1;
+idBathroom1FrontOpening;
+idDrawer1 -> no  [edge_type=property, label=idDrawer1_prop_idImmovable];
+idDrawer1 -> closed  [edge_type=property, label=idDrawer1_prop_idOpenState];
+idDrawer1 -> idLivingroom1  [edge_type=relationship, label=isWestOf];
+idLivingroom1 -> idBathroom1FrontOpening  [edge_type=relationship, label=isEastOf];
+}

@@ -1,0 +1,13 @@
+strict digraph  {
+idBackyardDoor1Key [node_type=entity_node, root=root];
+blue;
+true;
+idDriverSeat;
+idDriver1;
+yes;
+idBackyardDoor1Key -> blue  [edge_type=property, label=idBackyardDoor1Key_prop_idColor];
+idBackyardDoor1Key -> true  [edge_type=property, label=idBackyardDoor1Key_prop_idUnknownObject];
+idBackyardDoor1Key -> idDriverSeat  [edge_type=relationship, label=isWestOf];
+idDriverSeat -> idDriver1  [edge_type=property, label=idDriverSeat_prop_idOwnedBy];
+idDriverSeat -> yes  [edge_type=property, label=idDriverSeat_prop_idImmovable];
+}

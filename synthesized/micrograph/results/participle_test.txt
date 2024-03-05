@@ -1,0 +1,43 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/synthesized/micrograph/participle_test.dot
+[ TOP: h136
+  INDEX: e133
+  RELS: < [ unknown LBL: h135 ARG: x119 ARG0: e133 ]
+          [ _the_q LBL: h132 ARG0: x119 RSTR: h130 BODY: h131 ]
+          [ _lock_v_cause LBL: h120 ARG0: e125 ARG1: i126 ARG2: x119 ]
+          [ _door_n_1 LBL: h120 ARG0: x119 ] >
+  HCONS: < h130 qeq h120 h136 qeq h135 > ]
+GENERATED RESULTS ... 
+The locked door
+The locked doors
+The locked doors.
+The locked door.
+The doors to lock.
+The doors to lock
+The door locked.
+The door locked
+The door to lock.
+The doors locked.
+The doors locked
+The doors, to lock.
+The door, to lock.
+The door to lock
+The doors, locked.
+The door, locked.
+
+TOTAL RESULTS: 16
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  ---------------
+idDoor_1  True            MRS fragment produced  True               Included in MRS
+locked_2  True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idOpenState_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

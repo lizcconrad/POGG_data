@@ -1,0 +1,13 @@
+strict digraph  {
+idWolf2 [node_type=entity_node, root=root];
+brown;
+tiny;
+idCardKey1;
+true;
+idFusePackage;
+idWolf2 -> brown  [edge_type=property, label=idWolf2_prop_idColor];
+idWolf2 -> tiny  [edge_type=property, label=idWolf2_prop_idSize];
+idWolf2 -> idCardKey1  [edge_type=relationship, label=isWestOf];
+idCardKey1 -> true  [edge_type=property, label=idCardKey1_prop_idUnknownObject];
+idCardKey1 -> idFusePackage  [edge_type=relationship, label=isNear];
+}

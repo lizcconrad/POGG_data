@@ -1,0 +1,5 @@
+strict digraph  {
+idKitchen1 [node_type=entity_node, root=root];
+true;
+idKitchen1 -> true  [edge_type=property, label=idKitchen1_prop_idUnknownObject];
+}

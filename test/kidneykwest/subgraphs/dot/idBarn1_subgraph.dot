@@ -1,0 +1,14 @@
+strict digraph  {
+idBarn1 [node_type=entity_node, root=root];
+idCarrot1;
+orange;
+true;
+idThroneRoom1;
+idPhosphateCrystal_idCarrot1;
+idBarn1 -> idCarrot1  [edge_type=relationship, label=isWestOf];
+idBarn1 -> idThroneRoom1  [edge_type=relationship, label=isWestOf];
+idCarrot1 -> orange  [edge_type=property, label=idCarrot1_prop_idColor];
+idCarrot1 -> true  [edge_type=property, label=idCarrot1_prop_idUnknownObject];
+idCarrot1 -> idPhosphateCrystal_idCarrot1  [edge_type=relationship, label=isNear];
+idThroneRoom1 -> idBarn1  [edge_type=relationship, label=isEastOf];
+}

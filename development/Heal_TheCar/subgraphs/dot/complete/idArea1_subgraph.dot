@@ -1,0 +1,7 @@
+strict digraph  {
+idArea1 [node_type=entity_node, root=root];
+logged;
+stumpy;
+idArea1 -> logged  [edge_type=property, label=idArea1_prop_idDescriptor];
+idArea1 -> stumpy  [edge_type=property, label=idArea1_prop_idDescriptor_1];
+}

@@ -1,0 +1,13 @@
+strict digraph  {
+idCardKey1 [node_type=entity_node, root=root];
+true;
+idComputerRoom1;
+blue;
+idCandyBar1;
+idMachineRoomFrontOpening;
+idCardKey1 -> true  [edge_type=property, label=idCardKey1_prop_idUnknownObject];
+idCardKey1 -> idCandyBar1  [edge_type=relationship, label=isNorthOf];
+idCardKey1 -> idComputerRoom1  [edge_type=relationship, label=isNear];
+idComputerRoom1 -> blue  [edge_type=property, label=idComputerRoom1_prop_idColor];
+idComputerRoom1 -> idMachineRoomFrontOpening  [edge_type=relationship, label=isNorthOf];
+}

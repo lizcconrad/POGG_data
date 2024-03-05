@@ -1,0 +1,13 @@
+strict digraph  {
+idBranch1 [node_type=entity_node, root=root];
+long;
+idLeg1;
+healthy;
+idLocalFront;
+idMoss1;
+idBranch1 -> long  [edge_type=property, label=idBranch1_prop_idDescriptor];
+idBranch1 -> idLeg1  [edge_type=relationship, label=isWestOf];
+idLeg1 -> healthy  [edge_type=property, label=idLeg1_prop_idDescriptor];
+idLeg1 -> idLocalFront  [edge_type=property, label=idLeg1_prop_idLocation];
+idLeg1 -> idMoss1  [edge_type=relationship, label=isEastOf];
+}

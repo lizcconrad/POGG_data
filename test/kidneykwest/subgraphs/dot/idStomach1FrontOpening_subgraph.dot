@@ -1,0 +1,13 @@
+strict digraph  {
+idStomach1FrontOpening [node_type=entity_node, root=root];
+idLargeIntestine1;
+large;
+idVilli1;
+true;
+yes;
+idStomach1FrontOpening -> idLargeIntestine1  [edge_type=relationship, label=isNorthOf];
+idStomach1FrontOpening -> idVilli1  [edge_type=relationship, label=isNorthOf];
+idLargeIntestine1 -> large  [edge_type=property, label=idLargeIntestine1_prop_idSize];
+idVilli1 -> true  [edge_type=property, label=idVilli1_prop_idInterestingObject];
+idVilli1 -> yes  [edge_type=property, label=idVilli1_prop_idImmovable];
+}

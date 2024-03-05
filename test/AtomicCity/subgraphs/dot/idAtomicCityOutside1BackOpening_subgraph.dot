@@ -1,0 +1,15 @@
+strict digraph  {
+idAtomicCityOutside1BackOpening [node_type=entity_node, root=root];
+idAdamLeftHand;
+left;
+idFuse30A;
+rusty;
+red;
+idElevator1FrontOpening;
+idAtomicCityOutside1BackOpening -> idAdamLeftHand  [edge_type=relationship, label=isNorthOf];
+idAtomicCityOutside1BackOpening -> idFuse30A  [edge_type=relationship, label=isNorthOf];
+idAdamLeftHand -> left  [edge_type=property, label=idAdamLeftHand_prop_idSide];
+idAdamLeftHand -> idElevator1FrontOpening  [edge_type=relationship, label=isNorthOf];
+idFuse30A -> rusty  [edge_type=property, label=idFuse30A_prop_idTexture];
+idFuse30A -> red  [edge_type=property, label=idFuse30A_prop_idColor];
+}

@@ -1,0 +1,8 @@
+digraph  {
+idTaillight1 [node_type=entity_node, root=root];
+unlit;
+idDen1;
+idTaillight1 -> unlit  [edge_type=property, label=idTaillight1_prop_idLitState];
+idTaillight1 -> idTaillight1  [edge_type=relationship, label=isNear];
+idTaillight1 -> idDen1  [edge_type=relationship, label=isNear];
+}

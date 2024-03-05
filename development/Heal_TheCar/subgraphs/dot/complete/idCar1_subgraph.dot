@@ -1,0 +1,15 @@
+strict digraph  {
+idCar1 [node_type=entity_node, root=root];
+black;
+old;
+yes;
+idTaillight1;
+unlit;
+idSpill1;
+idCar1 -> black  [edge_type=property, label=idCar1_prop_idColor];
+idCar1 -> old  [edge_type=property, label=idCar1_prop_idDescriptor];
+idCar1 -> yes  [edge_type=property, label=idCar1_prop_idImmovable];
+idCar1 -> idTaillight1  [edge_type=relationship, label=isEastOf];
+idTaillight1 -> unlit  [edge_type=property, label=idTaillight1_prop_idLitState];
+idTaillight1 -> idSpill1  [edge_type=relationship, label=isWestOf];
+}

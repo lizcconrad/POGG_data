@@ -1,0 +1,15 @@
+strict digraph  {
+idGlowingGrass1 [node_type=entity_node, root=root];
+uncountable;
+green;
+yes;
+idGlowingArea1;
+glowing;
+idPlayerLeftHand;
+idGlowingGrass1 -> uncountable  [edge_type=property, label=idGlowingGrass1_prop_idArticleType];
+idGlowingGrass1 -> green  [edge_type=property, label=idGlowingGrass1_prop_idColor];
+idGlowingGrass1 -> yes  [edge_type=property, label=idGlowingGrass1_prop_idImmovable];
+idGlowingGrass1 -> idGlowingArea1  [edge_type=relationship, label=isNear];
+idGlowingArea1 -> glowing  [edge_type=property, label=idGlowingArea1_prop_idDescriptor];
+idGlowingArea1 -> idPlayerLeftHand  [edge_type=relationship, label=isSouthOf];
+}

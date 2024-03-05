@@ -1,0 +1,17 @@
+strict digraph  {
+idPillow2 [node_type=entity_node, root=root];
+red;
+thin;
+idLock1;
+locked;
+idLivingRoomToBedroomDoor1;
+open;
+idLivingroom1BackOpening;
+idPillow2 -> red  [edge_type=property, label=idPillow2_prop_idColor];
+idPillow2 -> thin  [edge_type=property, label=idPillow2_prop_idDescriptor];
+idPillow2 -> idLock1  [edge_type=relationship, label=isWestOf];
+idPillow2 -> idLivingRoomToBedroomDoor1  [edge_type=relationship, label=isWestOf];
+idLock1 -> locked  [edge_type=property, label=idLock1_prop_idLockedState];
+idLivingRoomToBedroomDoor1 -> open  [edge_type=property, label=idLivingRoomToBedroomDoor1_prop_idOpenState];
+idLivingRoomToBedroomDoor1 -> idLivingroom1BackOpening  [edge_type=relationship, label=isWestOf];
+}

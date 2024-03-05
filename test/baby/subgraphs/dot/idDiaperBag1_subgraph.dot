@@ -1,0 +1,7 @@
+strict digraph  {
+idDiaperBag1 [node_type=entity_node, root=root];
+closed;
+true;
+idDiaperBag1 -> closed  [edge_type=property, label=idDiaperBag1_prop_idOpenState];
+idDiaperBag1 -> true  [edge_type=property, label=idDiaperBag1_prop_idUnknownObject];
+}

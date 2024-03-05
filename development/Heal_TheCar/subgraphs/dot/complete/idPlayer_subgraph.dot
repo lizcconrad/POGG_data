@@ -1,0 +1,7 @@
+strict digraph  {
+idPlayer [node_type=entity_node, root=root];
+false;
+idDen1;
+idPlayer -> false  [edge_type=property, label=idPlayer_prop_idEatenBerry];
+idPlayer -> idDen1  [edge_type=relationship, label=isEastOf];
+}

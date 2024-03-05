@@ -1,0 +1,62 @@
+Data Questions
+
+Things to clear out…?
+- left hand, right hand ... keep
+- backside ... keep
+- opening ... keep
+
+- idCar1_prop_idMentionedInExamineText
+    - entities associated with the object that are already described in the examine text, so don't need to be described again
+- idCar1_prop_idExamineText
+    - examine the lamp ... "the lamp has instructions etc"
+- idArea1_prop_idDisplayName
+    - casually look at something, what's it going to say, e.g. "there's a lamp"
+- _prop_idName
+
+
+what are… can the player know about these…?
+- idCarKey1_prop_idUnknownObject
+- idBush1_prop_idImmovable
+
+
+What is…
+idArea1_prop_idCompoundName
+
+… in … Heal_TheCar
+idCarKey1 -> idCar  [label=idCarKey1_prop_idCompoundName];
+idCarKey1 -> idHorse  [label=idCarKey1_prop_idCompoundName_1];
+
+
+
+
+which scenarios are what?
+most to least complicated...
+richest...
+- heal — "Headlights" ... 5?
+
+- baby — "Baby on Board"
+- kidneykwest — "Kidney Kwest"
+
+
+less rich...
+- atomiccity — "Atomic City"
+- scenario — "The Cave Game"
+- tutorial —
+
+
+DEV
+- Heal_TheTrees
+- Heal_TheCar
+- tutorial
+
+PRE-TEST
+- TBD
+
+TEST
+- Heal_TheCave
+- Heal_TheFlashback
+- Heal_TheLake
+- kidneykwest
+- baby
+- atomiccity
+- scenario ("the cave game")

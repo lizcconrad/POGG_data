@@ -1,0 +1,13 @@
+strict digraph  {
+idBranch1 [node_type=entity_node, root=root];
+brown;
+idGlowingGrass1;
+yes;
+glowing;
+idPlayerBackside;
+idBranch1 -> brown  [edge_type=property, label=idBranch1_prop_idColor];
+idBranch1 -> idGlowingGrass1  [edge_type=relationship, label=isNorthOf];
+idGlowingGrass1 -> yes  [edge_type=property, label=idGlowingGrass1_prop_idImmovable];
+idGlowingGrass1 -> glowing  [edge_type=property, label=idGlowingGrass1_prop_idDescriptor];
+idGlowingGrass1 -> idPlayerBackside  [edge_type=relationship, label=isSouthOf];
+}

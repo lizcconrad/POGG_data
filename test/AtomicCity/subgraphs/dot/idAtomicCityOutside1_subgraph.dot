@@ -1,0 +1,15 @@
+strict digraph  {
+idAtomicCityOutside1 [node_type=entity_node, root=root];
+idWolf3;
+grey;
+tiny;
+idLongHallwayFrontOpening;
+idMachineRoomFrontOpening;
+idWolf2;
+idAtomicCityOutside1 -> idWolf3  [edge_type=relationship, label=isEastOf];
+idAtomicCityOutside1 -> idLongHallwayFrontOpening  [edge_type=relationship, label=isNorthOf];
+idWolf3 -> grey  [edge_type=property, label=idWolf3_prop_idColor];
+idWolf3 -> tiny  [edge_type=property, label=idWolf3_prop_idSize];
+idWolf3 -> idMachineRoomFrontOpening  [edge_type=relationship, label=isWestOf];
+idLongHallwayFrontOpening -> idWolf2  [edge_type=relationship, label=isEastOf];
+}

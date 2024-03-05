@@ -1,0 +1,15 @@
+strict digraph  {
+idTheFlashback1 [node_type=entity_node, root=root];
+idWater1;
+dirty;
+blue;
+idBathroom1;
+messy;
+idPlayerLeftHand;
+idTheFlashback1 -> idWater1  [edge_type=relationship, label=isNear];
+idTheFlashback1 -> idBathroom1  [edge_type=relationship, label=isNear];
+idWater1 -> dirty  [edge_type=property, label=idWater1_prop_idDescriptor];
+idWater1 -> blue  [edge_type=property, label=idWater1_prop_idColor];
+idBathroom1 -> messy  [edge_type=property, label=idBathroom1_prop_idDescriptor];
+idBathroom1 -> idPlayerLeftHand  [edge_type=relationship, label=isSouthOf];
+}

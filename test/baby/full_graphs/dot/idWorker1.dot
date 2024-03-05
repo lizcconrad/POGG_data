@@ -1,0 +1,10 @@
+digraph  {
+idWorker1 [node_type=entity_node];
+true [node_type=property_node];
+idDaycare1 [node_type=entity_node];
+idWorld1 [node_type=entity_node];
+idWorker1 -> true  [edge_type=property, label=idWorker1_prop_idUnknownObject];
+idWorker1 -> idDaycare1  [edge_type=relationship, label=isNear];
+idWorker1 -> idWorld1  [edge_type=relationship, label=isInsideOf];
+idWorker1 -> idWorker1  [edge_type=relationship, label=isNear];
+}

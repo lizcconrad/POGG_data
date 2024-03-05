@@ -1,0 +1,11 @@
+strict digraph  {
+idButtonY [node_type=entity_node, root=root];
+2;
+idCaptainsChair1;
+idleather;
+idCaptain1;
+idButtonY -> 2  [edge_type=property, label=idButtonY_prop_idOrdinality];
+idButtonY -> idCaptainsChair1  [edge_type=relationship, label=isNorthOf];
+idCaptainsChair1 -> idleather  [edge_type=property, label=idCaptainsChair1_prop_idMaterial];
+idCaptainsChair1 -> idCaptain1  [edge_type=property, label=idCaptainsChair1_prop_idOwnedBy];
+}

@@ -1,0 +1,13 @@
+strict digraph  {
+idCavern7LeftOpening [node_type=entity_node, root=root];
+idCavern5;
+smelly;
+ominous;
+idPlayerBackside;
+idCavern4FrontOpening;
+idCavern7LeftOpening -> idPlayerBackside  [edge_type=relationship, label=isWestOf];
+idCavern7LeftOpening -> idCavern5  [edge_type=relationship, label=isWestOf];
+idCavern5 -> smelly  [edge_type=property, label=idCavern5_prop_idDescriptor_2];
+idCavern5 -> ominous  [edge_type=property, label=idCavern5_prop_idDescriptor];
+idCavern5 -> idCavern4FrontOpening  [edge_type=relationship, label=isNorthOf];
+}

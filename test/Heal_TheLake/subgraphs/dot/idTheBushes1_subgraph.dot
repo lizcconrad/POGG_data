@@ -1,0 +1,21 @@
+strict digraph  {
+idTheBushes1 [node_type=entity_node, root=root];
+bushy;
+overgrown;
+idLeg1;
+right;
+idLocalFront;
+idBerry1;
+red;
+idSmoke1;
+idArea1;
+idTheBushes1 -> bushy  [edge_type=property, label=idTheBushes1_prop_idDescriptor];
+idTheBushes1 -> overgrown  [edge_type=property, label=idTheBushes1_prop_idDescriptor_1];
+idTheBushes1 -> idLeg1  [edge_type=relationship, label=isWestOf];
+idTheBushes1 -> idBerry1  [edge_type=relationship, label=isNear];
+idLeg1 -> right  [edge_type=property, label=idLeg1_prop_idLocation_1];
+idLeg1 -> idLocalFront  [edge_type=property, label=idLeg1_prop_idLocation];
+idLeg1 -> idSmoke1  [edge_type=relationship, label=isSouthOf];
+idBerry1 -> red  [edge_type=property, label=idBerry1_prop_idColor];
+idBerry1 -> idArea1  [edge_type=relationship, label=isWestOf];
+}

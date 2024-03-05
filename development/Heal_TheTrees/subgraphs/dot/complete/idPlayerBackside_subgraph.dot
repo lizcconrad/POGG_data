@@ -1,0 +1,9 @@
+strict digraph  {
+idPlayerBackside [node_type=entity_node, root=root];
+idCave1;
+dark;
+idRockyArea1;
+idPlayerBackside -> idCave1  [edge_type=relationship, label=isSouthOf];
+idCave1 -> dark  [edge_type=property, label=idCave1_prop_idTint];
+idCave1 -> idRockyArea1  [edge_type=relationship, label=isEastOf];
+}

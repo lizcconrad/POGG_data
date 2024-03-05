@@ -1,0 +1,21 @@
+strict digraph  {
+idFuse30A [node_type=entity_node, root=root];
+true;
+red;
+rusty;
+idShutoffValveLight1;
+off;
+unlit;
+idComputerRoom1FrontOpeningDoor;
+open;
+idWolf1;
+idFuse30A -> true  [edge_type=property, label=idFuse30A_prop_idUnknownObject];
+idFuse30A -> red  [edge_type=property, label=idFuse30A_prop_idColor];
+idFuse30A -> rusty  [edge_type=property, label=idFuse30A_prop_idTexture];
+idFuse30A -> idShutoffValveLight1  [edge_type=relationship, label=isNorthOf];
+idFuse30A -> idComputerRoom1FrontOpeningDoor  [edge_type=relationship, label=isSouthOf];
+idShutoffValveLight1 -> off  [edge_type=property, label=idShutoffValveLight1_prop_idColor];
+idShutoffValveLight1 -> unlit  [edge_type=property, label=idShutoffValveLight1_prop_idLitState];
+idShutoffValveLight1 -> idWolf1  [edge_type=relationship, label=isEastOf];
+idComputerRoom1FrontOpeningDoor -> open  [edge_type=property, label=idComputerRoom1FrontOpeningDoor_prop_idOpenState];
+}

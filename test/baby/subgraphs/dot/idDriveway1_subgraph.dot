@@ -1,0 +1,9 @@
+strict digraph  {
+idDriveway1 [node_type=entity_node, root=root];
+"West is [the, sayName(idSidewalk1)].{p}";
+idBedroom1LeftOpening;
+idBabyCarSeat;
+idDriveway1 -> "West is [the, sayName(idSidewalk1)].{p}"  [edge_type=property, label=idDriveway1_prop_idDirectionDescription];
+idDriveway1 -> idBedroom1LeftOpening  [edge_type=relationship, label=isWestOf];
+idBedroom1LeftOpening -> idBabyCarSeat  [edge_type=relationship, label=isEastOf];
+}

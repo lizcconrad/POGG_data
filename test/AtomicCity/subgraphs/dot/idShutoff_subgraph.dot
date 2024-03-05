@@ -1,0 +1,11 @@
+strict digraph  {
+idShutoff [node_type=entity_node, root=root];
+closed;
+idPipe2;
+idLongHallway;
+idAtomicCityOutside1;
+idShutoff -> closed  [edge_type=property, label=idShutoff_prop_idOpenState];
+idShutoff -> idPipe2  [edge_type=relationship, label=isNear];
+idShutoff -> idLongHallway  [edge_type=relationship, label=isSouthOf];
+idPipe2 -> idAtomicCityOutside1  [edge_type=relationship, label=isSouthOf];
+}

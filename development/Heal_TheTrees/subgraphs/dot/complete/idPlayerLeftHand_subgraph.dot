@@ -1,0 +1,16 @@
+strict digraph  {
+idPlayerLeftHand [node_type=entity_node, root=root];
+idLocalLeft;
+idGlowingGrass1;
+uncountable;
+glowing;
+idCave1;
+dark;
+idPlayerLeftHand -> idLocalLeft  [edge_type=property, label=idPlayerLeftHand_prop_idLocation];
+idPlayerLeftHand -> idGlowingGrass1  [edge_type=relationship, label=isNorthOf];
+idPlayerLeftHand -> idCave1  [edge_type=relationship, label=isSouthOf];
+idGlowingGrass1 -> uncountable  [edge_type=property, label=idGlowingGrass1_prop_idArticleType];
+idGlowingGrass1 -> glowing  [edge_type=property, label=idGlowingGrass1_prop_idDescriptor];
+idCave1 -> dark  [edge_type=property, label=idCave1_prop_idTint];
+idCave1 -> idPlayerLeftHand  [edge_type=relationship, label=isNorthOf];
+}

@@ -1,0 +1,5 @@
+strict digraph  {
+idGreenRoomBackOpeningDoorKeyhole [node_type=entity_node];
+idGreenRoomBackOpeningDoor [node_type=entity_node];
+idGreenRoomBackOpeningDoorKeyhole -> idGreenRoomBackOpeningDoor  [edge_type=relationship, label=isNear];
+}

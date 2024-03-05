@@ -1,0 +1,13 @@
+strict digraph  {
+idFairyWorldLobby1RightOpening [node_type=entity_node, root=root];
+idDog1;
+black;
+0;
+idThroneRoom1;
+idChip2;
+idFairyWorldLobby1RightOpening -> idDog1  [edge_type=relationship, label=isEastOf];
+idFairyWorldLobby1RightOpening -> idThroneRoom1  [edge_type=relationship, label=isWestOf];
+idDog1 -> black  [edge_type=property, label=idDog1_prop_idColor];
+idDog1 -> 0  [edge_type=property, label=idDog1_prop_idEatingFoodTurnsRemaining];
+idDog1 -> idChip2  [edge_type=relationship, label=isWestOf];
+}

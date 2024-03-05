@@ -1,0 +1,18 @@
+digraph  {
+idPlayer [node_type=entity_node];
+idTutorialRoom1 [node_type=entity_node];
+idWorld1 [node_type=entity_node];
+idDesk1 [node_type=entity_node];
+idGameRoom1 [node_type=entity_node];
+idTutorialRoom1Door [node_type=entity_node];
+idGameRoom1BackOpening [node_type=entity_node];
+idTutorialRoom1FrontOpening [node_type=entity_node];
+idPlayer -> idTutorialRoom1  [edge_type=relationship, label=isNear];
+idPlayer -> idWorld1  [edge_type=relationship, label=isInsideOf];
+idPlayer -> idPlayer  [edge_type=relationship, label=isNear];
+idPlayer -> idDesk1  [edge_type=relationship, label=isNear];
+idPlayer -> idGameRoom1  [edge_type=relationship, label=isSouthOf];
+idPlayer -> idTutorialRoom1Door  [edge_type=relationship, label=isSouthOf];
+idPlayer -> idGameRoom1BackOpening  [edge_type=relationship, label=isSouthOf];
+idPlayer -> idTutorialRoom1FrontOpening  [edge_type=relationship, label=isSouthOf];
+}

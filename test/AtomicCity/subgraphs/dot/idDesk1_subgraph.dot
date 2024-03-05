@@ -1,0 +1,21 @@
+strict digraph  {
+idDesk1 [node_type=entity_node, root=root];
+idaluminum;
+yes;
+idOffice1;
+grey;
+idShutoffValveLight1;
+off;
+unlit;
+idOffice1RightOpening;
+idFuse30A;
+idDesk1 -> idaluminum  [edge_type=property, label=idDesk1_prop_idMaterial];
+idDesk1 -> yes  [edge_type=property, label=idDesk1_prop_idImmovable];
+idDesk1 -> idOffice1  [edge_type=relationship, label=isEastOf];
+idDesk1 -> idShutoffValveLight1  [edge_type=relationship, label=isNorthOf];
+idOffice1 -> grey  [edge_type=property, label=idOffice1_prop_idColor];
+idOffice1 -> idOffice1RightOpening  [edge_type=relationship, label=isWestOf];
+idShutoffValveLight1 -> off  [edge_type=property, label=idShutoffValveLight1_prop_idColor];
+idShutoffValveLight1 -> unlit  [edge_type=property, label=idShutoffValveLight1_prop_idLitState];
+idShutoffValveLight1 -> idFuse30A  [edge_type=relationship, label=isSouthOf];
+}

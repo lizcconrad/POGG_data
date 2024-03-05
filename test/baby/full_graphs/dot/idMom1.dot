@@ -1,0 +1,10 @@
+digraph  {
+idMom1 [node_type=entity_node];
+true [node_type=property_node];
+idLab1 [node_type=entity_node];
+idWorld1 [node_type=entity_node];
+idMom1 -> true  [edge_type=property, label=idMom1_prop_idUnknownObject];
+idMom1 -> idLab1  [edge_type=relationship, label=isNear];
+idMom1 -> idWorld1  [edge_type=relationship, label=isInsideOf];
+idMom1 -> idMom1  [edge_type=relationship, label=isNear];
+}

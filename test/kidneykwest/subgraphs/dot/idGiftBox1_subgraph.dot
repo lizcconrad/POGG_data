@@ -1,0 +1,12 @@
+strict digraph  {
+idGiftBox1 [node_type=entity_node, root=root];
+closed;
+idKelly1;
+happy;
+idDrawer3;
+idGiftBox1 -> closed  [edge_type=property, label=idGiftBox1_prop_idOpenState];
+idGiftBox1 -> idKelly1  [edge_type=relationship, label=isNear];
+idKelly1 -> happy  [edge_type=property, label=idKelly1_prop_idEmotion];
+idKelly1 -> closed  [edge_type=property, label=idKelly1_prop_idOpenState];
+idKelly1 -> idDrawer3  [edge_type=relationship, label=isNorthOf];
+}

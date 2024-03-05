@@ -1,0 +1,7 @@
+strict digraph  {
+idGreenRoomFrontOpening [node_type=entity_node, root=root];
+short;
+open;
+idGreenRoomFrontOpening -> short  [edge_type=property, label=idGreenRoomFrontOpening_prop_idHeight];
+idGreenRoomFrontOpening -> open  [edge_type=property, label=idGreenRoomFrontOpening_prop_idOpenState];
+}

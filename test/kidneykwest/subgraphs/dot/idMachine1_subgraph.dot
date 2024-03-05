@@ -1,0 +1,19 @@
+strict digraph  {
+idMachine1 [node_type=entity_node, root=root];
+true;
+yes;
+off;
+idDrawer3;
+3;
+low;
+idFairyWorldLobby1BackOpening;
+idPill1;
+idMachine1 -> true  [edge_type=property, label=idMachine1_prop_idInterestingObject];
+idMachine1 -> yes  [edge_type=property, label=idMachine1_prop_idImmovable];
+idMachine1 -> off  [edge_type=property, label=idMachine1_prop_idPowerState];
+idMachine1 -> idDrawer3  [edge_type=relationship, label=isNorthOf];
+idMachine1 -> idFairyWorldLobby1BackOpening  [edge_type=relationship, label=isNorthOf];
+idDrawer3 -> 3  [edge_type=property, label=idDrawer3_prop_idOrdinality];
+idDrawer3 -> low  [edge_type=property, label=idDrawer3_prop_idVerticalArrangement];
+idDrawer3 -> idPill1  [edge_type=relationship, label=isSouthOf];
+}

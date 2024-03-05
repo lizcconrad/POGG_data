@@ -1,0 +1,9 @@
+strict digraph  {
+idComputerRoom1FrontOpening [node_type=entity_node, root=root];
+idLongHallwayFrontOpening;
+idOffice1RightOpening;
+idAdamLeftHand;
+idComputerRoom1FrontOpening -> idLongHallwayFrontOpening  [edge_type=relationship, label=isNorthOf];
+idComputerRoom1FrontOpening -> idOffice1RightOpening  [edge_type=relationship, label=isEastOf];
+idOffice1RightOpening -> idAdamLeftHand  [edge_type=relationship, label=isWestOf];
+}

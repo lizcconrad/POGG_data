@@ -1,0 +1,5 @@
+strict digraph  {
+idPlayerBackside [node_type=entity_node, root=root];
+idCavern7BackOpening;
+idPlayerBackside -> idCavern7BackOpening  [edge_type=relationship, label=isEastOf];
+}

@@ -1,0 +1,22 @@
+digraph  {
+idPlayer [node_type=entity_node];
+0 [node_type=property_node];
+3 [node_type=property_node];
+1 [node_type=property_node];
+idDramaBuilding1 [node_type=entity_node];
+idWorld1 [node_type=entity_node];
+idDramaBuilding1Door [node_type=entity_node];
+idCostumeCloset1BackOpening [node_type=entity_node];
+idDramaBuilding1FrontOpening [node_type=entity_node];
+idCostumeCloset1 [node_type=entity_node];
+idPlayer -> 0  [edge_type=property, label=idPlayer_prop_idBinderTakenTurns];
+idPlayer -> 3  [edge_type=property, label=idPlayer_prop_idTurnsSinceFood];
+idPlayer -> 1  [edge_type=property, label=idPlayer_prop_idMapY];
+idPlayer -> idDramaBuilding1  [edge_type=relationship, label=isNear];
+idPlayer -> idWorld1  [edge_type=relationship, label=isInsideOf];
+idPlayer -> idPlayer  [edge_type=relationship, label=isNear];
+idPlayer -> idDramaBuilding1Door  [edge_type=relationship, label=isSouthOf];
+idPlayer -> idCostumeCloset1BackOpening  [edge_type=relationship, label=isSouthOf];
+idPlayer -> idDramaBuilding1FrontOpening  [edge_type=relationship, label=isSouthOf];
+idPlayer -> idCostumeCloset1  [edge_type=relationship, label=isSouthOf];
+}

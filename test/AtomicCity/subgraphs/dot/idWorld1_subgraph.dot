@@ -1,0 +1,7 @@
+strict digraph  {
+idWorld1 [node_type=entity_node, root=root];
+idAtomicCityOutside1;
+idComputerRoom1BackOpening;
+idWorld1 -> idAtomicCityOutside1  [edge_type=relationship, label=isNear];
+idAtomicCityOutside1 -> idComputerRoom1BackOpening  [edge_type=relationship, label=isNorthOf];
+}

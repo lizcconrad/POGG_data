@@ -1,0 +1,13 @@
+strict digraph  {
+idStick1 [node_type=entity_node, root=root];
+idwood;
+idPill3;
+idPill1;
+idDrawer2;
+idDrawer3;
+idStick1 -> idwood  [edge_type=property, label=idStick1_prop_idMaterial];
+idStick1 -> idPill3  [edge_type=relationship, label=isWestOf];
+idStick1 -> idPill1  [edge_type=relationship, label=isWestOf];
+idPill3 -> idDrawer2  [edge_type=relationship, label=isNorthOf];
+idPill1 -> idDrawer3  [edge_type=relationship, label=isNorthOf];
+}

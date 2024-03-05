@@ -1,0 +1,20 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/synthesized/micrograph/no_MRS.dot
+
+
+TOTAL RESULTS: 0
+
+Node         MRS Produced    Reason               Included in MRS    Reason
+-----------  --------------  -------------------  -----------------  -------------------
+empty_2      False           Node not in lexicon  False              Node not in lexicon
+idNothing_1  False           Node not in lexicon  False              Node not in lexicon
+
+Edge    MRS Composed    Reason                     Included in MRS    Reason
+------  --------------  -------------------------  -----------------  -------------------------
+void_1  False           Outbound from failed node  False              Outbound from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             0        2           0
+Nodes              Included             0        2           0
+Edges              Produced             0        1           0
+Edges              Included             0        1           0

@@ -1,0 +1,56 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheTrees/subgraphs/dot/complete/idGlowingGrass1_subgraph.dot
+[ TOP: h247
+  INDEX: e244
+  RELS: < [ unknown LBL: h246 ARG: x240 ARG0: e244 ]
+          [ def_udef_a_q LBL: h243 ARG0: x240 RSTR: h241 BODY: h242 ]
+          [ _near_p LBL: h235 ARG0: e232 ARG1: x240 ARG2: x185 ]
+          [ def_udef_a_q LBL: h239 ARG0: x185 RSTR: h237 BODY: h238 ]
+          [ loc_nonsp LBL: h231 ARG0: i228 ARG1: x185 ARG2: x224 ]
+          [ _glow_v_1 LBL: h231 ARG0: e187 [ e PROG: bool ] ARG1: x185 ]
+          [ _area_n_of LBL: h231 ARG0: x185 ]
+          [ def_implicit_q LBL: h227 ARG0: x224 RSTR: h225 BODY: h226 ]
+          [ _south_a_1 LBL: h217 ARG0: i214 ARG1: x224 ARG2: x218 ]
+          [ def_udef_a_q LBL: h221 ARG0: x218 RSTR: h219 BODY: h220 ]
+          [ poss LBL: h191 ARG0: e210 ARG1: x218 ARG2: x203 ]
+          [ compound LBL: h191 ARG0: e199 ARG1: x218 ARG2: x192 ]
+          [ udef_q LBL: h198 ARG0: x192 RSTR: h196 BODY: h197 ]
+          [ _left_n_of LBL: h194 ARG0: x192 ARG1: i193 ]
+          [ _hand_n_1 LBL: h191 ARG0: x218 ]
+          [ def_udef_a_q LBL: h209 ARG0: x203 RSTR: h207 BODY: h208 ]
+          [ _player_n_of LBL: h205 ARG0: x203 ARG1: i204 ]
+          [ place_n LBL: h217 ARG0: x224 ]
+          [ _immovable_a_1 LBL: h235 ARG0: e179 ARG1: x240 ]
+          [ _green_a_2 LBL: h235 ARG0: i172 ARG1: x240 ]
+          [ _un-_a_neg LBL: h235 ARG0: i169 ARG1: x240 ]
+          [ _countable_a_1 LBL: h235 ARG0: e166 ARG1: x240 ]
+          [ _grass_n_1 LBL: h235 ARG0: x240 ] >
+  HCONS: < h196 qeq h194 h207 qeq h205 h219 qeq h191 h225 qeq h217 h237 qeq h231 h241 qeq h235 h247 qeq h246 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                MRS Produced    Reason                 Included in MRS    Reason
+------------------  --------------  ---------------------  -----------------  ---------------
+glowing_3           True            MRS fragment produced  True               Included in MRS
+green_2             True            MRS fragment produced  True               Included in MRS
+idGlowingArea_2     True            MRS fragment produced  True               Included in MRS
+idGlowingGrass_1    True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_3  True            MRS fragment produced  True               Included in MRS
+uncountable_2       True            MRS fragment produced  True               Included in MRS
+yes_2               True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idArticleType_1  True            MRS composed  True               Included in MRS
+idColor_2        True            MRS composed  True               Included in MRS
+idDescriptor_4   True            MRS composed  True               Included in MRS
+idImmovable_3    True            MRS composed  True               Included in MRS
+isNear_4         True            MRS composed  True               Included in MRS
+isSouthOf_5      True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7        7           1
+Nodes              Included             7        7           1
+Edges              Produced             6        6           1
+Edges              Included             6        6           1

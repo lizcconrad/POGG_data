@@ -1,0 +1,25 @@
+strict digraph  {
+idCarDoor1 [node_type=entity_node];
+black [node_type=property_node];
+old [node_type=property_node];
+closed [node_type=property_node];
+crumpled [node_type=property_node];
+visible [node_type=property_node];
+idLocalFront [node_type=property_node];
+left [node_type=property_node];
+idDriver [node_type=property_node];
+idDriver1 [node_type=property_node];
+yes [node_type=property_node];
+idCarDoorLock1 [node_type=property_node];
+idCarDoor1 -> black  [edge_type=property, label=idCarDoor1_prop_idColor];
+idCarDoor1 -> old  [edge_type=property, label=idCarDoor1_prop_idDescriptor];
+idCarDoor1 -> closed  [edge_type=property, label=idCarDoor1_prop_idOpenState];
+idCarDoor1 -> crumpled  [edge_type=property, label=idCarDoor1_prop_idDescriptor_1];
+idCarDoor1 -> visible  [edge_type=property, label=idCarDoor1_prop_idDescriptor_2];
+idCarDoor1 -> idLocalFront  [edge_type=property, label=idCarDoor1_prop_idLocation];
+idCarDoor1 -> left  [edge_type=property, label=idCarDoor1_prop_idLocation_1];
+idCarDoor1 -> idDriver  [edge_type=property, label=idCarDoor1_prop_idCarSide];
+idCarDoor1 -> idDriver1  [edge_type=property, label=idCarDoor1_prop_idOwnedBy];
+idCarDoor1 -> yes  [edge_type=property, label=idCarDoor1_prop_idImmovable];
+idCarDoor1 -> idCarDoorLock1  [edge_type=property, label=idCarDoor1_prop_idLockMechanism];
+}

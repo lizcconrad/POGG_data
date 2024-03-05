@@ -1,0 +1,9 @@
+strict digraph  {
+idPlayer [node_type=entity_node, root=root];
+idBackyardDoor1;
+closed;
+idBackyardDoor1Lock;
+idPlayer -> idBackyardDoor1  [edge_type=relationship, label=isSouthOf];
+idBackyardDoor1 -> closed  [edge_type=property, label=idBackyardDoor1_prop_idOpenState];
+idBackyardDoor1 -> idBackyardDoor1Lock  [edge_type=property, label=idBackyardDoor1_prop_idLockMechanism];
+}

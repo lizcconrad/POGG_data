@@ -1,0 +1,11 @@
+strict digraph  {
+idPlayerLeftHand [node_type=entity_node, root=root];
+idLocalLeft;
+idSideMirror1;
+idFace;
+broken;
+idPlayerLeftHand -> idLocalLeft  [edge_type=property, label=idPlayerLeftHand_prop_idLocation];
+idPlayerLeftHand -> idSideMirror1  [edge_type=relationship, label=isWestOf];
+idSideMirror1 -> idFace  [edge_type=property, label=idSideMirror1_prop_idDescriptor_1];
+idSideMirror1 -> broken  [edge_type=property, label=idSideMirror1_prop_idDescriptor_2];
+}

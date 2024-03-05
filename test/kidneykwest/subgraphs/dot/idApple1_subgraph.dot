@@ -1,0 +1,7 @@
+strict digraph  {
+idApple1 [node_type=entity_node, root=root];
+red;
+true;
+idApple1 -> red  [edge_type=property, label=idApple1_prop_idColor];
+idApple1 -> true  [edge_type=property, label=idApple1_prop_idUnknownObject];
+}

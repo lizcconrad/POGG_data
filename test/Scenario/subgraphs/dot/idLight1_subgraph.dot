@@ -1,0 +1,9 @@
+strict digraph  {
+idLight1 [node_type=entity_node, root=root];
+purple;
+on;
+lit;
+idLight1 -> purple  [edge_type=property, label=idLight1_prop_idColor];
+idLight1 -> on  [edge_type=property, label=idLight1_prop_idPowerState];
+idLight1 -> lit  [edge_type=property, label=idLight1_prop_idLitState];
+}

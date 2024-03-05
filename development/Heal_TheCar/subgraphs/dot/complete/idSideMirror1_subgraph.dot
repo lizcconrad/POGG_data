@@ -1,0 +1,16 @@
+digraph  {
+idSideMirror1 [node_type=entity_node, root=root];
+shiny;
+idFace;
+broken;
+idStump1;
+hollow;
+brown;
+idSideMirror1 -> shiny  [edge_type=property, label=idSideMirror1_prop_idDescriptor];
+idSideMirror1 -> idFace  [edge_type=property, label=idSideMirror1_prop_idDescriptor_1];
+idSideMirror1 -> broken  [edge_type=property, label=idSideMirror1_prop_idDescriptor_2];
+idSideMirror1 -> idStump1  [edge_type=relationship, label=isEastOf];
+idSideMirror1 -> idSideMirror1  [edge_type=relationship, label=isNear];
+idStump1 -> hollow  [edge_type=property, label=idStump1_prop_idDescriptor_1];
+idStump1 -> brown  [edge_type=property, label=idStump1_prop_idColor];
+}

@@ -1,0 +1,11 @@
+strict digraph  {
+idDrawer1 [node_type=entity_node, root=root];
+closed;
+idKeyBlue;
+blue;
+idControlPanel1;
+idDrawer1 -> closed  [edge_type=property, label=idDrawer1_prop_idOpenState];
+idDrawer1 -> idKeyBlue  [edge_type=relationship, label=isBeneath];
+idKeyBlue -> blue  [edge_type=property, label=idKeyBlue_prop_idColor];
+idKeyBlue -> idControlPanel1  [edge_type=relationship, label=isNorthOf];
+}

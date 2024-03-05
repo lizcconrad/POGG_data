@@ -1,0 +1,11 @@
+strict digraph  {
+idPail1 [node_type=entity_node, root=root];
+idmetal;
+idPhosphateCrystal_idHamburger1;
+shiny;
+blue;
+idPail1 -> idmetal  [edge_type=property, label=idPail1_prop_idMaterial];
+idPail1 -> idPhosphateCrystal_idHamburger1  [edge_type=relationship, label=isWestOf];
+idPhosphateCrystal_idHamburger1 -> shiny  [edge_type=property, label=idPhosphateCrystal_idHamburger1_prop_idTrait];
+idPhosphateCrystal_idHamburger1 -> blue  [edge_type=property, label=idPhosphateCrystal_idHamburger1_prop_idColor];
+}

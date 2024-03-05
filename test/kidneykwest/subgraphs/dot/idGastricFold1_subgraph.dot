@@ -1,0 +1,9 @@
+strict digraph  {
+idGastricFold1 [node_type=entity_node, root=root];
+gastric;
+yes;
+true;
+idGastricFold1 -> gastric  [edge_type=property, label=idGastricFold1_prop_idMaterial];
+idGastricFold1 -> yes  [edge_type=property, label=idGastricFold1_prop_idImmovable];
+idGastricFold1 -> true  [edge_type=property, label=idGastricFold1_prop_idInterestingObject];
+}

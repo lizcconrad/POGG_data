@@ -1,0 +1,11 @@
+strict digraph  {
+idCavern6TopOpening [node_type=entity_node, root=root];
+open;
+glowing;
+small;
+idCavern7RightOpening;
+idCavern6TopOpening -> open  [edge_type=property, label=idCavern6TopOpening_prop_idOpenState];
+idCavern6TopOpening -> glowing  [edge_type=property, label=idCavern6TopOpening_prop_idTint];
+idCavern6TopOpening -> small  [edge_type=property, label=idCavern6TopOpening_prop_idSize];
+idCavern6TopOpening -> idCavern7RightOpening  [edge_type=relationship, label=isWestOf];
+}

@@ -1,0 +1,17 @@
+strict digraph  {
+idCavern8 [node_type=entity_node, root=root];
+rocky;
+8;
+idGrass1;
+short;
+yes;
+idCavern4BackOpening;
+idSpider1;
+idCavern8 -> rocky  [edge_type=property, label=idCavern8_prop_idDescriptor];
+idCavern8 -> 8  [edge_type=property, label=idCavern8_prop_idOrdinality];
+idCavern8 -> idCavern4BackOpening  [edge_type=relationship, label=isWestOf];
+idCavern8 -> idGrass1  [edge_type=relationship, label=isWestOf];
+idGrass1 -> short  [edge_type=property, label=idGrass1_prop_idHeight];
+idGrass1 -> yes  [edge_type=property, label=idGrass1_prop_idImmovable];
+idCavern4BackOpening -> idSpider1  [edge_type=relationship, label=isEastOf];
+}

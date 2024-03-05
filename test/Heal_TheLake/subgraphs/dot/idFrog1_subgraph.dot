@@ -1,0 +1,15 @@
+strict digraph  {
+idFrog1 [node_type=entity_node, root=root];
+idBerry1;
+red;
+idDeer1;
+bleeding;
+brown;
+idTree1;
+idFrog1 -> idBerry1  [edge_type=relationship, label=isWestOf];
+idFrog1 -> idDeer1  [edge_type=relationship, label=isWestOf];
+idBerry1 -> red  [edge_type=property, label=idBerry1_prop_idColor];
+idDeer1 -> bleeding  [edge_type=property, label=idDeer1_prop_idDescriptor_1];
+idDeer1 -> brown  [edge_type=property, label=idDeer1_prop_idColor];
+idDeer1 -> idTree1  [edge_type=relationship, label=isEastOf];
+}

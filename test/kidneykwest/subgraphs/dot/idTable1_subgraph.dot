@@ -1,0 +1,5 @@
+strict digraph  {
+idTable1 [node_type=entity_node, root=root];
+idmarble;
+idTable1 -> idmarble  [edge_type=property, label=idTable1_prop_idMaterial];
+}

@@ -1,0 +1,9 @@
+strict digraph  {
+idWindow1 [node_type=entity_node, root=root];
+idDriver1;
+yes;
+dark;
+idWindow1 -> idDriver1  [edge_type=property, label=idWindow1_prop_idOwnedBy];
+idWindow1 -> yes  [edge_type=property, label=idWindow1_prop_idImmovable];
+idWindow1 -> dark  [edge_type=property, label=idWindow1_prop_idDescriptor];
+}

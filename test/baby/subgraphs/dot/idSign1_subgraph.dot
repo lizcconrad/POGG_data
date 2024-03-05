@@ -1,0 +1,13 @@
+strict digraph  {
+idSign1 [node_type=entity_node, root=root];
+true;
+idClosetToWorkshopDoor;
+idmetal;
+small;
+idSign1Text;
+idSign1 -> true  [edge_type=property, label=idSign1_prop_idUnknownObject];
+idSign1 -> idClosetToWorkshopDoor  [edge_type=relationship, label=isNear];
+idSign1 -> idSign1Text  [edge_type=relationship, label=isNear];
+idClosetToWorkshopDoor -> idmetal  [edge_type=property, label=idClosetToWorkshopDoor_prop_idMaterial];
+idClosetToWorkshopDoor -> small  [edge_type=property, label=idClosetToWorkshopDoor_prop_idSize];
+}

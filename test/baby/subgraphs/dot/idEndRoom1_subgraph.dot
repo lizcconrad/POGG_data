@@ -1,0 +1,13 @@
+strict digraph  {
+idEndRoom1 [node_type=entity_node, root=root];
+true;
+idBaby1;
+false;
+idBackyard1;
+idEndRoom1 -> true  [edge_type=property, label=idEndRoom1_prop_idUnknownObject];
+idEndRoom1 -> idBaby1  [edge_type=relationship, label=isNear];
+idEndRoom1 -> idBackyard1  [edge_type=relationship, label=isNear];
+idBaby1 -> false  [edge_type=property, label=idBaby1_prop_idSeen];
+idBaby1 -> true  [edge_type=property, label=idBaby1_prop_idUnknownObject];
+idBackyard1 -> true  [edge_type=property, label=idBackyard1_prop_idUnknownObject];
+}

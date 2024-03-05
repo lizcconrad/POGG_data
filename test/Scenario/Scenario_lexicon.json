@@ -1,0 +1,118 @@
+{
+    "entityTypes": {
+        "idBook": "",
+        "idBook1Page1": "",
+        "idBook1Page1Text": "",
+        "idBook1Page2": "",
+        "idBook1Page2Text": "",
+        "idBook1Page3": "",
+        "idBook1Page3Torn": "",
+        "idBook1Page3TornText": "",
+        "idCrystal": "",
+        "idDarkCave": "",
+        "idDarkCaveFrontOpening": "",
+        "idDiamond": "",
+        "idEntrancecave": "",
+        "idEntrancecaveBackOpening": "",
+        "idFlashlight": "",
+        "idFlashlight1Switch": "",
+        "idFlashlight1_prop_idPowerControl": "",
+        "idFlashlight2_prop_idPowerControl": "",
+        "idFlashlightHandle": "",
+        "idGreenRoom": "",
+        "idGreenRoomBackOpening": "",
+        "idGreenRoomBackOpeningDoor": "",
+        "idGreenRoomBackOpeningDoorKeyhole": "",
+        "idGreenRoomFrontOpening": "",
+        "idKey": "",
+        "idKeyhole": "",
+        "idLexi": "",
+        "idLexiLeftHand": "",
+        "idLexiRightHand": "",
+        "idLight": "",
+        "idLock": "",
+        "idLockFace": "",
+        "idMachine": "",
+        "idMachine1_prop_idPowerControl": "",
+        "idOnSwitch": "",
+        "idPlage": "",
+        "idPlageBackOpening": "",
+        "idPlageFrontOpening": "",
+        "idRock": "",
+        "idSafe": "",
+        "idTable": "",
+        "idWorld": ""
+    },
+    "propertyValues": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "blue": "",
+        "closed": "",
+        "dark": "",
+        "green": "",
+        "idFlashlight2Switch": "",
+        "left": "",
+        "lit": "",
+        "locked": "",
+        "medium": "",
+        "off": "",
+        "on": "",
+        "open": "",
+        "orange": "",
+        "purple": "",
+        "red": "",
+        "right": "",
+        "rough": "",
+        "short": "",
+        "smooth": "",
+        "tall": "",
+        "true": "",
+        "unlit": "",
+        "unlocked": "",
+        "yellow": ""
+    },
+    "properties": {
+        "idHeight": "",
+        "idOpenState": "",
+        "idOrdinality": "",
+        "idLockedState": "",
+        "idColor": "",
+        "idTone": "",
+        "idCardinality": "",
+        "idUnknownObject": "",
+        "idPowerState": "",
+        "idLitState": "",
+        "idPowerControl": "",
+        "idTexture": "",
+        "idSide": "",
+        "isInsideOf": {
+            "composition": "",
+            "property_predicate": {
+                "predicate_type": "",
+                "predicate_label": ""
+            }
+        },
+        "isNear": {
+            "composition": "",
+            "property_predicate": {
+                "predicate_type": "",
+                "predicate_label": ""
+            }
+        },
+        "isNorthOf": {
+            "composition": "",
+            "property_predicate": {
+                "predicate_type": "",
+                "predicate_label": ""
+            }
+        },
+        "isSouthOf": {
+            "composition": "",
+            "property_predicate": {
+                "predicate_type": "",
+                "predicate_label": ""
+            }
+        }
+    }
+}

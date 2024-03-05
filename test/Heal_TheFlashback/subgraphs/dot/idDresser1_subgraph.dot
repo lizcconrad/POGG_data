@@ -1,0 +1,20 @@
+strict digraph  {
+idDresser1 [node_type=entity_node, root=root];
+brown;
+scratched;
+yes;
+idToilet1;
+white;
+idBathroom1;
+messy;
+idCouch1;
+idDresser1 -> brown  [edge_type=property, label=idDresser1_prop_idColor];
+idDresser1 -> scratched  [edge_type=property, label=idDresser1_prop_idDescriptor];
+idDresser1 -> yes  [edge_type=property, label=idDresser1_prop_idImmovable];
+idDresser1 -> idToilet1  [edge_type=relationship, label=isNorthOf];
+idDresser1 -> idBathroom1  [edge_type=relationship, label=isNorthOf];
+idToilet1 -> white  [edge_type=property, label=idToilet1_prop_idColor];
+idToilet1 -> yes  [edge_type=property, label=idToilet1_prop_idImmovable];
+idBathroom1 -> messy  [edge_type=property, label=idBathroom1_prop_idDescriptor];
+idBathroom1 -> idCouch1  [edge_type=relationship, label=isWestOf];
+}

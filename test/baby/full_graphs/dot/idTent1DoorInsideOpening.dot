@@ -1,0 +1,5 @@
+strict digraph  {
+idTent1DoorInsideOpening [node_type=entity_node];
+idTent1Door [node_type=entity_node];
+idTent1DoorInsideOpening -> idTent1Door  [edge_type=relationship, label=isSouthOf];
+}

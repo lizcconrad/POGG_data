@@ -1,0 +1,18 @@
+strict digraph  {
+idPlayerBackside [node_type=entity_node, root=root];
+idPassengerSeat;
+true;
+yes;
+idBedroom1;
+"West is [the, sayName(idLivingRoom1)]. East is [a, sayName(idCloset1)].{p}";
+idBackyardDoor1Key;
+idBackyardDoor1;
+idPlayerBackside -> idPassengerSeat  [edge_type=relationship, label=isWestOf];
+idPlayerBackside -> idBedroom1  [edge_type=relationship, label=isWestOf];
+idPassengerSeat -> true  [edge_type=property, label=idPassengerSeat_prop_idUnknownObject];
+idPassengerSeat -> yes  [edge_type=property, label=idPassengerSeat_prop_idImmovable];
+idPassengerSeat -> idBackyardDoor1Key  [edge_type=relationship, label=isEastOf];
+idBedroom1 -> "West is [the, sayName(idLivingRoom1)]. East is [a, sayName(idCloset1)].{p}"  [edge_type=property, label=idBedroom1_prop_idDirectionDescription];
+idBedroom1 -> true  [edge_type=property, label=idBedroom1_prop_idUnknownObject];
+idBedroom1 -> idBackyardDoor1  [edge_type=relationship, label=isEastOf];
+}

@@ -1,0 +1,5 @@
+strict digraph  {
+idLock1 [node_type=entity_node, root=root];
+locked;
+idLock1 -> locked  [edge_type=property, label=idLock1_prop_idLockedState];
+}

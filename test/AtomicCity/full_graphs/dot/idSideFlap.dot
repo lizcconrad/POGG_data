@@ -1,0 +1,9 @@
+strict digraph  {
+idSideFlap [node_type=entity_node];
+closed [node_type=property_node];
+idPipeSideOpening [node_type=entity_node];
+idSideFlapHandle [node_type=entity_node];
+idSideFlap -> closed  [edge_type=property, label=idSideFlap_prop_idOpenState];
+idSideFlap -> idPipeSideOpening  [edge_type=relationship, label=isNear];
+idSideFlap -> idSideFlapHandle  [edge_type=relationship, label=isNear];
+}

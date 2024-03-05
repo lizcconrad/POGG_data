@@ -1,0 +1,23 @@
+strict digraph  {
+idWater1 [node_type=entity_node, root=root];
+uncountable;
+yes;
+dirty;
+idChair1;
+wobbly;
+brown;
+idPlayerLeftHand;
+idLocalLeft;
+idCabinet1;
+idPillBottle1;
+idWater1 -> uncountable  [edge_type=property, label=idWater1_prop_idArticleType];
+idWater1 -> yes  [edge_type=property, label=idWater1_prop_idImmovable];
+idWater1 -> dirty  [edge_type=property, label=idWater1_prop_idDescriptor];
+idWater1 -> idChair1  [edge_type=relationship, label=isWestOf];
+idWater1 -> idPlayerLeftHand  [edge_type=relationship, label=isSouthOf];
+idChair1 -> wobbly  [edge_type=property, label=idChair1_prop_idDescriptor];
+idChair1 -> brown  [edge_type=property, label=idChair1_prop_idColor];
+idChair1 -> idCabinet1  [edge_type=relationship, label=isNorthOf];
+idPlayerLeftHand -> idLocalLeft  [edge_type=property, label=idPlayerLeftHand_prop_idLocation];
+idPlayerLeftHand -> idPillBottle1  [edge_type=relationship, label=isNorthOf];
+}

@@ -1,0 +1,17 @@
+strict digraph  {
+idSign1 [node_type=entity_node, root=root];
+yes;
+true;
+idTutorialRoom1Door;
+closed;
+idTutorialRoom1DoorLock;
+idSign1Text;
+idPlayer;
+idSign1 -> yes  [edge_type=property, label=idSign1_prop_idImmovable];
+idSign1 -> true  [edge_type=property, label=idSign1_prop_idUnknownObject];
+idSign1 -> idTutorialRoom1Door  [edge_type=relationship, label=isNear];
+idSign1 -> idSign1Text  [edge_type=relationship, label=isNear];
+idTutorialRoom1Door -> closed  [edge_type=property, label=idTutorialRoom1Door_prop_idOpenState];
+idTutorialRoom1Door -> idTutorialRoom1DoorLock  [edge_type=property, label=idTutorialRoom1Door_prop_idLockMechanism];
+idTutorialRoom1Door -> idPlayer  [edge_type=relationship, label=isNorthOf];
+}

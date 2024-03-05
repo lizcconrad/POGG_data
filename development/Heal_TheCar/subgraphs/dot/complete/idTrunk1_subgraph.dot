@@ -1,0 +1,20 @@
+strict digraph  {
+idTrunk1 [node_type=entity_node, root=root];
+black;
+unbroken;
+untouched;
+idWhistle1;
+cracked;
+white;
+idCarKey1;
+true;
+idTrunk1 -> black  [edge_type=property, label=idTrunk1_prop_idColor];
+idTrunk1 -> unbroken  [edge_type=property, label=idTrunk1_prop_idDescriptor];
+idTrunk1 -> untouched  [edge_type=property, label=idTrunk1_prop_idDescriptor_1];
+idTrunk1 -> idWhistle1  [edge_type=relationship, label=isWestOf];
+idTrunk1 -> idCarKey1  [edge_type=relationship, label=isEastOf];
+idWhistle1 -> cracked  [edge_type=property, label=idWhistle1_prop_idDescriptor];
+idWhistle1 -> white  [edge_type=property, label=idWhistle1_prop_idColor];
+idCarKey1 -> black  [edge_type=property, label=idCarKey1_prop_idColor];
+idCarKey1 -> true  [edge_type=property, label=idCarKey1_prop_idUnknownObject];
+}

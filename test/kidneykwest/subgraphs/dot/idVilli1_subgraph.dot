@@ -1,0 +1,7 @@
+strict digraph  {
+idVilli1 [node_type=entity_node, root=root];
+true;
+yes;
+idVilli1 -> true  [edge_type=property, label=idVilli1_prop_idInterestingObject];
+idVilli1 -> yes  [edge_type=property, label=idVilli1_prop_idImmovable];
+}

@@ -1,0 +1,12 @@
+strict digraph  {
+idClosetToWorkshopDoor [node_type=entity_node, root=root];
+closed;
+small;
+idmetal;
+idBedroom1LeftOpening;
+idClosetToWorkshopDoor -> closed  [edge_type=property, label=idClosetToWorkshopDoor_prop_idOpenState];
+idClosetToWorkshopDoor -> small  [edge_type=property, label=idClosetToWorkshopDoor_prop_idSize];
+idClosetToWorkshopDoor -> idmetal  [edge_type=property, label=idClosetToWorkshopDoor_prop_idMaterial];
+idClosetToWorkshopDoor -> idBedroom1LeftOpening  [edge_type=relationship, label=isEastOf];
+idBedroom1LeftOpening -> idClosetToWorkshopDoor  [edge_type=relationship, label=isWestOf];
+}

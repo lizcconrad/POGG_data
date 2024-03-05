@@ -1,0 +1,83 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/synthesized/micrograph/micrograph_0.dot
+[ TOP: h118
+  INDEX: e115
+  RELS: < [ unknown LBL: h117 ARG: x73 ARG0: e115 ]
+          [ _the_q LBL: h114 ARG0: x73 RSTR: h112 BODY: h113 ]
+          [ _on_p_loc LBL: h77 ARG0: e103 ARG1: x73 ARG2: x78 ]
+          [ _the_q LBL: h110 ARG0: x78 RSTR: h108 BODY: h109 ]
+          [ loc_nonsp LBL: h102 ARG0: i99 ARG1: x78 ARG2: x93 ]
+          [ _wooden_a_1 LBL: h102 ARG0: e80 ARG1: x78 ]
+          [ _table_n_1 LBL: h102 ARG0: x78 ]
+          [ def_implicit_q LBL: h98 ARG0: x93 RSTR: h96 BODY: h97 ]
+          [ _east_a_1 LBL: h88 ARG0: i85 ARG1: x93 ARG2: x83 ]
+          [ _the_q LBL: h92 ARG0: x83 RSTR: h90 BODY: h91 ]
+          [ _window_n_1 LBL: h84 ARG0: x83 ]
+          [ place_n LBL: h88 ARG0: x93 ]
+          [ _red_a_1 LBL: h77 ARG0: i75 ARG1: x73 ]
+          [ _apple_n_1 LBL: h77 ARG0: x73 ] >
+  HCONS: < h90 qeq h84 h96 qeq h88 h108 qeq h102 h112 qeq h77 h118 qeq h117 > ]
+GENERATED RESULTS ... 
+The red apple on the wooden tables east of the window
+The red apple on the wooden table east of the window
+The red apples on the wooden tables east of the window
+The red apples on the wooden table east of the window
+The red apple on the wooden tables east of the windows.
+The red apple on the wooden table east of the windows.
+The red apples on the wooden tables east of the windows.
+The red apples on the wooden table east of the windows.
+The red apple on the wooden tables east of the windows
+The red apple on the wooden table east of the windows
+The red apples on the wooden tables east of the windows
+The red apples on the wooden table east of the windows
+The red apple on the wooden tables east of the window.
+The red apple on the wooden table east of the window.
+The red apples on the wooden tables east of the window.
+The red apples on the wooden table east of the window.
+The red apples, on the wooden tables east of the window
+The red apples, on the wooden table east of the window
+The red apple, on the wooden tables east of the window
+The red apple, on the wooden table east of the window
+The red apples, on the wooden tables east of the windows
+The red apples, on the wooden table east of the windows
+The red apple, on the wooden tables east of the windows
+The red apple, on the wooden table east of the windows
+The red apple on the wooden tables, east of the window
+The red apple on the wooden table, east of the window
+The red apples on the wooden tables, east of the window
+The red apples on the wooden table, east of the window
+The red apple on the wooden tables, east of the windows
+The red apple on the wooden table, east of the windows
+The red apples on the wooden tables, east of the windows
+The red apples on the wooden table, east of the windows
+The red apples, on the wooden tables, east of the window
+The red apple, on the wooden tables, east of the window
+The red apples, on the wooden table, east of the window
+The red apple, on the wooden table, east of the window
+The red apples, on the wooden tables, east of the windows
+The red apples, on the wooden table, east of the windows
+The red apple, on the wooden tables, east of the windows
+The red apple, on the wooden table, east of the windows
+
+TOTAL RESULTS: 40
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  ---------------
+idApple_1   True            MRS fragment produced  True               Included in MRS
+idTable_2   True            MRS fragment produced  True               Included in MRS
+idWindow_3  True            MRS fragment produced  True               Included in MRS
+red_2       True            MRS fragment produced  True               Included in MRS
+wooden_3    True            MRS fragment produced  True               Included in MRS
+
+Edge        MRS Composed    Reason        Included in MRS    Reason
+----------  --------------  ------------  -----------------  ---------------
+color_1     True            MRS composed  True               Included in MRS
+isEastOf_3  True            MRS composed  True               Included in MRS
+isOn_2      True            MRS composed  True               Included in MRS
+material_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             5        5           1
+Nodes              Included             5        5           1
+Edges              Produced             4        4           1
+Edges              Included             4        4           1

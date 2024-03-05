@@ -1,0 +1,5 @@
+strict digraph  {
+idKitchen1RightOpening [node_type=entity_node, root=root];
+idPlayerBackside;
+idKitchen1RightOpening -> idPlayerBackside  [edge_type=relationship, label=isWestOf];
+}

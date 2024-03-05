@@ -1,0 +1,14 @@
+strict digraph  {
+idPill2 [node_type=entity_node, root=root];
+idCarrot1;
+orange;
+true;
+idBarn1RightOpening;
+idBagOfChips1;
+idPill2 -> idCarrot1  [edge_type=relationship, label=isWestOf];
+idPill2 -> idBarn1RightOpening  [edge_type=relationship, label=isEastOf];
+idCarrot1 -> orange  [edge_type=property, label=idCarrot1_prop_idColor];
+idCarrot1 -> true  [edge_type=property, label=idCarrot1_prop_idUnknownObject];
+idCarrot1 -> idBagOfChips1  [edge_type=relationship, label=isEastOf];
+idBarn1RightOpening -> idPill2  [edge_type=relationship, label=isWestOf];
+}

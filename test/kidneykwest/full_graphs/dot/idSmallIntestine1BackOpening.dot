@@ -1,0 +1,29 @@
+strict digraph  {
+idSmallIntestine1BackOpening [node_type=entity_node];
+idValve1 [node_type=entity_node];
+idLargeIntestine1FrontOpening [node_type=entity_node];
+idLargeIntestine1 [node_type=entity_node];
+idStomach1 [node_type=entity_node];
+idStomach1FrontOpening [node_type=entity_node];
+idStomach1BackOpening [node_type=entity_node];
+idThroat1 [node_type=entity_node];
+idPyloricSphincter1 [node_type=entity_node];
+idSmallIntestine1FrontOpening [node_type=entity_node];
+idThroatSphincter1 [node_type=entity_node];
+idThroat1BackOpening [node_type=entity_node];
+idDuct1 [node_type=entity_node];
+idGastricFold1 [node_type=entity_node];
+idSmallIntestine1BackOpening -> idValve1  [edge_type=relationship, label=isNorthOf];
+idSmallIntestine1BackOpening -> idLargeIntestine1FrontOpening  [edge_type=relationship, label=isNorthOf];
+idSmallIntestine1BackOpening -> idLargeIntestine1  [edge_type=relationship, label=isNorthOf];
+idSmallIntestine1BackOpening -> idStomach1  [edge_type=relationship, label=isSouthOf];
+idSmallIntestine1BackOpening -> idStomach1FrontOpening  [edge_type=relationship, label=isSouthOf];
+idSmallIntestine1BackOpening -> idStomach1BackOpening  [edge_type=relationship, label=isSouthOf];
+idSmallIntestine1BackOpening -> idThroat1  [edge_type=relationship, label=isSouthOf];
+idSmallIntestine1BackOpening -> idPyloricSphincter1  [edge_type=relationship, label=isSouthOf];
+idSmallIntestine1BackOpening -> idSmallIntestine1FrontOpening  [edge_type=relationship, label=isSouthOf];
+idSmallIntestine1BackOpening -> idThroatSphincter1  [edge_type=relationship, label=isSouthOf];
+idSmallIntestine1BackOpening -> idThroat1BackOpening  [edge_type=relationship, label=isSouthOf];
+idSmallIntestine1BackOpening -> idDuct1  [edge_type=relationship, label=isSouthOf];
+idSmallIntestine1BackOpening -> idGastricFold1  [edge_type=relationship, label=isSouthOf];
+}

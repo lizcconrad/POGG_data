@@ -1,0 +1,7 @@
+strict digraph  {
+idBedroom1 [node_type=entity_node, root=root];
+"West is [the, sayName(idLivingRoom1)]. East is [a, sayName(idCloset1)].{p}";
+true;
+idBedroom1 -> "West is [the, sayName(idLivingRoom1)]. East is [a, sayName(idCloset1)].{p}"  [edge_type=property, label=idBedroom1_prop_idDirectionDescription];
+idBedroom1 -> true  [edge_type=property, label=idBedroom1_prop_idUnknownObject];
+}

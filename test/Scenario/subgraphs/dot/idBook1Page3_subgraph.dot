@@ -1,0 +1,7 @@
+strict digraph  {
+idBook1Page3 [node_type=entity_node, root=root];
+3;
+true;
+idBook1Page3 -> 3  [edge_type=property, label=idBook1Page3_prop_idCardinality];
+idBook1Page3 -> true  [edge_type=property, label=idBook1Page3_prop_idUnknownObject];
+}

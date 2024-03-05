@@ -1,0 +1,14 @@
+strict digraph  {
+idLivingRoom1 [node_type=entity_node, root=root];
+"There are doors to [the, sayName(idKitchen1)], [the, sayName(idBackyard1)] (with [a, sayName(idDogDoor1)] installed), [the, sayName(idBedroom1)] and [the, sayName(idPorch1)].{p}";
+true;
+idTent1;
+unusual;
+idCouch1;
+idLivingRoom1 -> "There are doors to [the, sayName(idKitchen1)], [the, sayName(idBackyard1)] (with [a, sayName(idDogDoor1)] installed), [the, sayName(idBedroom1)] and [the, sayName(idPorch1)].{p}"  [edge_type=property, label=idLivingRoom1_prop_idDirectionDescription];
+idLivingRoom1 -> true  [edge_type=property, label=idLivingRoom1_prop_idUnknownObject];
+idLivingRoom1 -> idTent1  [edge_type=relationship, label=isWestOf];
+idTent1 -> unusual  [edge_type=property, label=idTent1_prop_idShape];
+idTent1 -> true  [edge_type=property, label=idTent1_prop_idUnknownObject];
+idTent1 -> idCouch1  [edge_type=relationship, label=isEastOf];
+}

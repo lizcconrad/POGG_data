@@ -1,0 +1,11 @@
+strict digraph  {
+idLivingRoomToBedroomDoor [node_type=entity_node, root=root];
+open;
+true;
+idPlayerBackside;
+idBedroom1LeftOpening;
+idLivingRoomToBedroomDoor -> open  [edge_type=property, label=idLivingRoomToBedroomDoor_prop_idOpenState];
+idLivingRoomToBedroomDoor -> true  [edge_type=property, label=idLivingRoomToBedroomDoor_prop_idUnknownObject];
+idLivingRoomToBedroomDoor -> idPlayerBackside  [edge_type=relationship, label=isEastOf];
+idPlayerBackside -> idBedroom1LeftOpening  [edge_type=relationship, label=isWestOf];
+}

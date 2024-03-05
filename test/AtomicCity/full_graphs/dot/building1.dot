@@ -1,0 +1,38 @@
+digraph  {
+building1 [node_type=entity_node];
+old [node_type=property_node];
+idAtomicCityOutside1 [node_type=entity_node];
+idIdaho1 [node_type=entity_node];
+idComputerRoom1 [node_type=entity_node];
+idLongHallway [node_type=entity_node];
+idOffice1 [node_type=entity_node];
+idMachineRoom [node_type=entity_node];
+idElevator1 [node_type=entity_node];
+idAdam [node_type=entity_node];
+idDesk1 [node_type=entity_node];
+idWolf1 [node_type=entity_node];
+idWolf2 [node_type=entity_node];
+idWolf3 [node_type=entity_node];
+idWolf4 [node_type=entity_node];
+idMachine1 [node_type=entity_node];
+idCandyBar1 [node_type=entity_node];
+idWorld1 [node_type=entity_node];
+building1 -> old  [edge_type=property, label=building1_prop_oldAdjectiveType3];
+building1 -> idAtomicCityOutside1  [edge_type=relationship, label=isNear];
+building1 -> idIdaho1  [edge_type=relationship, label=isInsideOf];
+building1 -> idComputerRoom1  [edge_type=relationship, label=isNear];
+building1 -> idLongHallway  [edge_type=relationship, label=isNear];
+building1 -> idOffice1  [edge_type=relationship, label=isNear];
+building1 -> idMachineRoom  [edge_type=relationship, label=isNear];
+building1 -> idElevator1  [edge_type=relationship, label=isNear];
+building1 -> idAdam  [edge_type=relationship, label=isNear];
+building1 -> idDesk1  [edge_type=relationship, label=isNear];
+building1 -> idWolf1  [edge_type=relationship, label=isNear];
+building1 -> idWolf2  [edge_type=relationship, label=isNear];
+building1 -> idWolf3  [edge_type=relationship, label=isNear];
+building1 -> idWolf4  [edge_type=relationship, label=isNear];
+building1 -> idMachine1  [edge_type=relationship, label=isNear];
+building1 -> idCandyBar1  [edge_type=relationship, label=isNear];
+building1 -> idWorld1  [edge_type=relationship, label=isInsideOf];
+building1 -> building1  [edge_type=relationship, label=isNear];
+}

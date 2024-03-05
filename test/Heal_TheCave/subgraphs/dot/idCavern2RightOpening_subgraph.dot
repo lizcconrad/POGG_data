@@ -1,0 +1,9 @@
+strict digraph  {
+idCavern2RightOpening [node_type=entity_node, root=root];
+idCavern1;
+1;
+original;
+idCavern2RightOpening -> idCavern1  [edge_type=relationship, label=isWestOf];
+idCavern1 -> 1  [edge_type=property, label=idCavern1_prop_idOrdinality];
+idCavern1 -> original  [edge_type=property, label=idCavern1_prop_idDescriptor];
+}

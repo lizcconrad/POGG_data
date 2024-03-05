@@ -1,0 +1,11 @@
+strict digraph  {
+idLabel1 [node_type=entity_node, root=root];
+idButtonZ;
+3;
+idThroneRoom1;
+idDog1;
+idLabel1 -> idButtonZ  [edge_type=relationship, label=isSouthOf];
+idLabel1 -> idThroneRoom1  [edge_type=relationship, label=isWestOf];
+idButtonZ -> 3  [edge_type=property, label=idButtonZ_prop_idOrdinality];
+idThroneRoom1 -> idDog1  [edge_type=relationship, label=isEastOf];
+}

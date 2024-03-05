@@ -1,0 +1,94 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idPlayer_subgraph.dot
+[ TOP: h403
+  INDEX: e400
+  RELS: < [ unknown LBL: h402 ARG: x396 ARG0: e400 ]
+          [ def_udef_a_q LBL: h399 ARG0: x396 RSTR: h397 BODY: h398 ]
+          [ loc_nonsp LBL: h372 ARG0: i392 ARG1: x396 ARG2: x388 ]
+          [ _player_n_of LBL: h372 ARG0: x396 ARG1: i371 ]
+          [ def_implicit_q LBL: h391 ARG0: x388 RSTR: h389 BODY: h390 ]
+          [ _east_a_1 LBL: h381 ARG0: i378 ARG1: x388 ARG2: x376 ]
+          [ def_udef_a_q LBL: h385 ARG0: x376 RSTR: h383 BODY: h384 ]
+          [ _den_n_1 LBL: h377 ARG0: x376 ]
+          [ place_n LBL: h381 ARG0: x388 ] >
+  HCONS: < h383 qeq h377 h389 qeq h381 h397 qeq h372 h403 qeq h402 > ]
+GENERATED RESULTS ... 
+The players east of the dens
+The players east of the den
+The players east of the dens.
+The players east of a den
+A player east of the dens
+The player east of the dens
+The players east of a den.
+A player east of the den
+The player east of the den
+Players east of the dens
+The players east of the den.
+Players east of the den
+A player east of the dens.
+The player east of the dens.
+A player east of a den
+The player east of a den
+The players east of dens
+Players east of the dens.
+Players east of a den
+The players east of dens.
+The player, east of the dens
+A player east of a den.
+The player east of a den.
+Player east of the dens
+The players, east of the dens
+A player east of the den.
+The player east of the den.
+The player, east of the den
+Players, east of the dens
+Player east of the den
+Players east of a den.
+Player, east of the dens
+The players, east of the den
+Players east of the den.
+A player, east of the dens
+Players, east of the den
+Player, east of the den
+A player east of dens
+The player east of dens
+The player, east of a den
+Player east of the dens.
+Player east of a den
+A player, east of the den
+The players, east of a den
+Players east of dens
+A player east of dens.
+The player east of dens.
+Players, east of a den
+Player, east of a den
+Players east of dens.
+A player, east of a den
+Player east of a den.
+Player east of the den.
+The player, east of dens
+Player east of dens
+The players, east of dens
+Players, east of dens
+Player east of dens.
+Player, east of dens
+A player, east of dens
+
+TOTAL RESULTS: 60
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  -------------------------
+false_2     True            MRS fragment produced  False              Descends from failed edge
+idDen_2     True            MRS fragment produced  True               Included in MRS
+idPlayer_1  True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason                                  Included in MRS    Reason
+--------------  --------------  --------------------------------------  -----------------  --------------------------------------
+idEatenBerry_1  False           'idEatenBerry' has no value in lexicon  False              'idEatenBerry' has no value in lexicon
+isEastOf_2      True            MRS composed                            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

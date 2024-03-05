@@ -1,0 +1,15 @@
+strict digraph  {
+idCostumeCloset1BackOpening [node_type=entity_node];
+idDramaBuilding1Door [node_type=entity_node];
+idDramaBuilding1FrontOpening [node_type=entity_node];
+idDramaBuilding1 [node_type=entity_node];
+idPlayer [node_type=entity_node];
+idPlayerLeftHand [node_type=entity_node];
+idPlayerRightHand [node_type=entity_node];
+idCostumeCloset1BackOpening -> idDramaBuilding1Door  [edge_type=relationship, label=isNorthOf];
+idCostumeCloset1BackOpening -> idDramaBuilding1FrontOpening  [edge_type=relationship, label=isNorthOf];
+idCostumeCloset1BackOpening -> idDramaBuilding1  [edge_type=relationship, label=isNorthOf];
+idCostumeCloset1BackOpening -> idPlayer  [edge_type=relationship, label=isNorthOf];
+idCostumeCloset1BackOpening -> idPlayerLeftHand  [edge_type=relationship, label=isNorthOf];
+idCostumeCloset1BackOpening -> idPlayerRightHand  [edge_type=relationship, label=isNorthOf];
+}

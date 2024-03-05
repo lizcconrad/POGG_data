@@ -1,0 +1,19 @@
+strict digraph  {
+idLock2 [node_type=entity_node, root=root];
+locked;
+idEntrancecave;
+1;
+open;
+idRock2;
+red;
+rough;
+idDiamond1;
+idLock2 -> locked  [edge_type=property, label=idLock2_prop_idLockedState];
+idLock2 -> idEntrancecave  [edge_type=relationship, label=isSouthOf];
+idLock2 -> idRock2  [edge_type=relationship, label=isSouthOf];
+idEntrancecave -> 1  [edge_type=property, label=idEntrancecave_prop_idOrdinality];
+idEntrancecave -> open  [edge_type=property, label=idEntrancecave_prop_idOpenState];
+idEntrancecave -> idDiamond1  [edge_type=relationship, label=isNear];
+idRock2 -> red  [edge_type=property, label=idRock2_prop_idColor];
+idRock2 -> rough  [edge_type=property, label=idRock2_prop_idTexture];
+}

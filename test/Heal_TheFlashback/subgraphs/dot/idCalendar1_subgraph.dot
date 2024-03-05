@@ -1,0 +1,17 @@
+strict digraph  {
+idCalendar1 [node_type=entity_node, root=root];
+small;
+idKitchen1;
+bare;
+idDesk1;
+used;
+yes;
+idSock1;
+idCalendar1 -> small  [edge_type=property, label=idCalendar1_prop_idSize];
+idCalendar1 -> idKitchen1  [edge_type=relationship, label=isNear];
+idCalendar1 -> idDesk1  [edge_type=relationship, label=isSouthOf];
+idKitchen1 -> bare  [edge_type=property, label=idKitchen1_prop_idDescriptor];
+idDesk1 -> used  [edge_type=property, label=idDesk1_prop_idDescriptor];
+idDesk1 -> yes  [edge_type=property, label=idDesk1_prop_idImmovable];
+idDesk1 -> idSock1  [edge_type=relationship, label=isEastOf];
+}

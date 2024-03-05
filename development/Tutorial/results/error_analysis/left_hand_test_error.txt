@@ -1,0 +1,215 @@
+MRS WITH ERROR:
+
+[ TOP: h134
+  INDEX: e131
+  RELS: < [ unknown LBL: h133 ARG: x116 ARG0: e131 ]
+          [ _on_p_loc LBL: h126 ARG0: e123 ARG1: x116 ARG2: x127 ]
+          [ _the_q LBL: h130 ARG0: x127 RSTR: h128 BODY: h129 ]
+          [ _left_n_of LBL: h122 ARG0: x127 ARG1: i121 ]
+          [ def_explicit_q LBL: h126 ARG0: x116 RSTR: h117 BODY: h118 ]
+          [ poss LBL: h115 ARG0: e112 ARG1: x116 ARG2: x108 ]
+          [ compound LBL: h115 ARG0: e101 ARG1: x116 ARG2: x94 ]
+          [ udef_q LBL: h100 ARG0: x94 RSTR: h98 BODY: h99 ]
+          [ _left_n_of LBL: h96 ARG0: x94 ARG1: i95 ]
+          [ _hand_n_1 LBL: h115 ARG0: x116 ]
+          [ _the_q LBL: h111 ARG0: x108 RSTR: h109 BODY: h110 ]
+          [ _player_n_of LBL: h107 ARG0: x108 ARG1: i106 ] >
+  HCONS: < h128 qeq h122 h98 qeq h96 h109 qeq h107 h117 qeq h115 h134 qeq h133 > ]
+
+GENERATED RESULTS ... 
+
+DESIRED STRING: the player's left hand on the left
+------------------------------------------------------------------------------
+TARGET SSEMENT #0:
+[ TOP: h0
+  INDEX: e2 [ e SF: prop ]
+  RELS: < [ unknown<0:34> LBL: h1 ARG: x4 [ x PERS: 3 NUM: sg IND: + ] ARG0: e2 ]
+          [ _the_q<0:3> LBL: h5 ARG0: x6 [ x PERS: 3 NUM: sg IND: + ] RSTR: h7 BODY: h8 ]
+          [ _player_n_of<4:10> LBL: h9 ARG0: x6 ARG1: i10 ]
+          [ def_explicit_q<10:12> LBL: h11 ARG0: x4 RSTR: h12 BODY: h13 ]
+          [ poss<10:12> LBL: h14 ARG0: e15 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x6 ]
+          [ _leave_v_1<13:17> LBL: h14 ARG0: e16 [ e SF: prop TENSE: untensed MOOD: indicative PROG: bool PERF: - ] ARG1: i17 ARG2: x4 ]
+          [ _hand_n_1<18:22> LBL: h14 ARG0: x4 ]
+          [ _on_p_loc<23:25> LBL: h14 ARG0: e18 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x19 [ x PERS: 3 NUM: sg IND: + ] ]
+          [ _the_q<26:29> LBL: h20 ARG0: x19 RSTR: h21 BODY: h22 ]
+          [ _left_n_of<30:34> LBL: h23 ARG0: x19 ARG1: i24 ] >
+  HCONS: < h0 qeq h1 h7 qeq h9 h12 qeq h14 h21 qeq h23 >
+  ICONS: < e16 topic x4 > ]
+
+SSEMENTs don't contain the same RELs
+Extra Target RELs: ['_leave_v_1']
+
+Extra Composed RELs: ['_left_n_of', 'compound', 'udef_q']
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+TARGET SSEMENT #1:
+[ TOP: h0
+  INDEX: e2 [ e SF: prop ]
+  RELS: < [ unknown<0:34> LBL: h1 ARG: x4 [ x PERS: 3 NUM: sg IND: + ] ARG0: e2 ]
+          [ _the_q<0:3> LBL: h5 ARG0: x6 [ x PERS: 3 NUM: sg IND: + ] RSTR: h7 BODY: h8 ]
+          [ _player_n_of<4:10> LBL: h9 ARG0: x6 ARG1: i10 ]
+          [ def_explicit_q<10:12> LBL: h11 ARG0: x4 RSTR: h12 BODY: h13 ]
+          [ poss<10:12> LBL: h14 ARG0: e15 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x6 ]
+          [ compound<13:22> LBL: h14 ARG0: e16 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x17 [ x IND: + ] ]
+          [ udef_q<13:17> LBL: h18 ARG0: x17 RSTR: h19 BODY: h20 ]
+          [ _left_n_of<13:17> LBL: h21 ARG0: x17 ARG1: i22 ]
+          [ _hand_n_1<18:22> LBL: h14 ARG0: x4 ]
+          [ _on_p_loc<23:25> LBL: h14 ARG0: e23 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x24 [ x PERS: 3 NUM: sg IND: + ] ]
+          [ _the_q<26:29> LBL: h25 ARG0: x24 RSTR: h26 BODY: h27 ]
+          [ _left_n_of<30:34> LBL: h28 ARG0: x24 ARG1: i29 ] >
+  HCONS: < h0 qeq h1 h7 qeq h9 h12 qeq h14 h19 qeq h21 h26 qeq h28 > ]
+
+Equivalencies in TARGET SSEMENT not found in COMPOSED SSEMENT:
+REGULARIZED          FULL
+-------------------  ---------------------------
+def_explicit_q__LBL  def_explicit_q__h11-q4__LBL
+
+REGULARIZED     FULL
+--------------  -----------------------
+_hand_n_1__LBL  _hand_n_1__h14-x4__LBL
+_on_p_loc__LBL  _on_p_loc__h14-e23__LBL
+compound__LBL   compound__h14-e16__LBL
+poss__LBL       poss__h14-e15__LBL
+
+
+Equivalencies in COMPOSED SSEMENT not found in TARGET SSEMENT:
+REGULARIZED          FULL
+-------------------  ------------------------------
+_on_p_loc__LBL       _on_p_loc__h126-e123__LBL
+def_explicit_q__LBL  def_explicit_q__h126-q116__LBL
+
+REGULARIZED     FULL
+--------------  -------------------------
+_hand_n_1__LBL  _hand_n_1__h115-x116__LBL
+compound__LBL   compound__h115-e101__LBL
+poss__LBL       poss__h115-e112__LBL
+
+
+
+HCONs in TARGET SSEMENT not found in COMPOSED SSEMENT:
+	REGULARIZED: __def_explicit_q__RSTR =qeq= ___hand_n_1__LBL___on_p_loc__LBL__compound__LBL__poss__LBL
+	FULL: __def_explicit_q__h11-q4__RSTR =qeq= ___hand_n_1__h14-x4__LBL___on_p_loc__h14-e23__LBL__compound__h14-e16__LBL__poss__h14-e15__LBL
+
+
+HCONs in COMPOSED SSEMENT not found in TARGET SSEMENT:
+	REGULARIZED: __def_explicit_q__RSTR =qeq= ___hand_n_1__LBL__compound__LBL__poss__LBL
+	FULL: __def_explicit_q__h126-q116__RSTR =qeq= ___hand_n_1__h115-x116__LBL__compound__h115-e101__LBL__poss__h115-e112__LBL
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+TARGET SSEMENT #2:
+[ TOP: h0
+  INDEX: e2 [ e SF: prop ]
+  RELS: < [ unknown<0:34> LBL: h1 ARG: x4 [ x PERS: 3 NUM: sg IND: + ] ARG0: e2 ]
+          [ _the_q<0:3> LBL: h5 ARG0: x4 RSTR: h6 BODY: h7 ]
+          [ _players_a_1<4:12> LBL: h8 ARG0: e9 [ e SF: prop TENSE: untensed MOOD: indicative PROG: bool PERF: - ] ARG1: x4 ]
+          [ compound<4:12> LBL: h8 ARG0: e10 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: e9 ]
+          [ _leave_v_1<13:17> LBL: h8 ARG0: e11 [ e SF: prop TENSE: untensed MOOD: indicative PROG: bool PERF: - ] ARG1: i12 ARG2: x4 ]
+          [ _hand_n_1<18:22> LBL: h8 ARG0: x4 ]
+          [ _on_p_loc<23:25> LBL: h8 ARG0: e13 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x14 [ x PERS: 3 NUM: sg IND: + ] ]
+          [ _the_q<26:29> LBL: h15 ARG0: x14 RSTR: h16 BODY: h17 ]
+          [ _left_n_of<30:34> LBL: h18 ARG0: x14 ARG1: i19 ] >
+  HCONS: < h0 qeq h1 h6 qeq h8 h16 qeq h18 >
+  ICONS: < e11 topic x4 > ]
+
+SSEMENTs don't contain the same RELs
+Extra Target RELs: ['_leave_v_1', '_players_a_1']
+
+Extra Composed RELs: ['_left_n_of', '_player_n_of', 'def_explicit_q', 'poss', 'udef_q']
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+TARGET SSEMENT #3:
+[ TOP: h0
+  INDEX: e2 [ e SF: prop ]
+  RELS: < [ unknown<0:34> LBL: h1 ARG: x4 [ x PERS: 3 NUM: sg IND: + ] ARG0: e2 ]
+          [ _the_q<0:3> LBL: h5 ARG0: x4 RSTR: h6 BODY: h7 ]
+          [ _players_a_1<4:12> LBL: h8 ARG0: e9 [ e SF: prop TENSE: untensed MOOD: indicative PROG: bool PERF: - ] ARG1: x4 ]
+          [ compound<4:12> LBL: h8 ARG0: e10 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: e9 ]
+          [ compound<13:22> LBL: h8 ARG0: e11 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x12 [ x IND: + ] ]
+          [ udef_q<13:17> LBL: h13 ARG0: x12 RSTR: h14 BODY: h15 ]
+          [ _left_n_of<13:17> LBL: h16 ARG0: x12 ARG1: i17 ]
+          [ _hand_n_1<18:22> LBL: h8 ARG0: x4 ]
+          [ _on_p_loc<23:25> LBL: h8 ARG0: e18 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x19 [ x PERS: 3 NUM: sg IND: + ] ]
+          [ _the_q<26:29> LBL: h20 ARG0: x19 RSTR: h21 BODY: h22 ]
+          [ _left_n_of<30:34> LBL: h23 ARG0: x19 ARG1: i24 ] >
+  HCONS: < h0 qeq h1 h6 qeq h8 h14 qeq h16 h21 qeq h23 > ]
+
+SSEMENTs don't contain the same RELs
+Extra Target RELs: ['_players_a_1', 'compound']
+
+Extra Composed RELs: ['_player_n_of', 'def_explicit_q', 'poss']
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+TARGET SSEMENT #4:
+[ TOP: h0
+  INDEX: e2 [ e SF: prop ]
+  RELS: < [ unknown<0:34> LBL: h1 ARG: x4 [ x PERS: 3 NUM: sg IND: + ] ARG0: e2 ]
+          [ _the_q<0:3> LBL: h5 ARG0: x4 RSTR: h6 BODY: h7 ]
+          [ _players_a_1<4:12> LBL: h8 ARG0: e9 [ e SF: prop ] ARG1: i10 ]
+          [ compound<4:12> LBL: h8 ARG0: e11 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: i12 ARG2: e9 ]
+          [ _leave_v_on<13:17> LBL: h13 ARG0: e14 [ e SF: prop TENSE: untensed MOOD: indicative PROG: bool PERF: - ] ARG1: i15 ARG2: x4 ]
+          [ _hand_n_1<18:22> LBL: h13 ARG0: x4 ]
+          [ _on_p_loc<23:25> LBL: h13 ARG0: e16 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x17 [ x PERS: 3 NUM: sg IND: + ] ]
+          [ _the_q<26:29> LBL: h18 ARG0: x17 RSTR: h19 BODY: h20 ]
+          [ _left_n_of<30:34> LBL: h21 ARG0: x17 ARG1: i22 ] >
+  HCONS: < h0 qeq h1 h6 qeq h13 h19 qeq h21 >
+  ICONS: < e14 topic x4 > ]
+
+SSEMENTs don't contain the same RELs
+Extra Target RELs: ['_leave_v_on', '_players_a_1']
+
+Extra Composed RELs: ['_left_n_of', '_player_n_of', 'def_explicit_q', 'poss', 'udef_q']
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+TARGET SSEMENT #5:
+[ TOP: h0
+  INDEX: e2 [ e SF: prop ]
+  RELS: < [ unknown<0:34> LBL: h1 ARG: x4 [ x PERS: 3 NUM: sg IND: + ] ARG0: e2 ]
+          [ _the_q<0:3> LBL: h5 ARG0: x4 RSTR: h6 BODY: h7 ]
+          [ compound<4:22> LBL: h8 ARG0: e9 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x10 [ x IND: + ] ]
+          [ udef_q<4:17> LBL: h11 ARG0: x10 RSTR: h12 BODY: h13 ]
+          [ _players_a_1<4:12> LBL: h14 ARG0: e15 [ e SF: prop TENSE: untensed MOOD: indicative PROG: bool PERF: - ] ARG1: x10 ]
+          [ compound<4:12> LBL: h14 ARG0: e16 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x10 ARG2: e15 ]
+          [ _left_n_of<13:17> LBL: h14 ARG0: x10 ARG1: i17 ]
+          [ _hand_n_1<18:22> LBL: h8 ARG0: x4 ]
+          [ _on_p_loc<23:25> LBL: h8 ARG0: e18 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x19 [ x PERS: 3 NUM: sg IND: + ] ]
+          [ _the_q<26:29> LBL: h20 ARG0: x19 RSTR: h21 BODY: h22 ]
+          [ _left_n_of<30:34> LBL: h23 ARG0: x19 ARG1: i24 ] >
+  HCONS: < h0 qeq h1 h6 qeq h8 h12 qeq h14 h21 qeq h23 > ]
+
+SSEMENTs don't contain the same RELs
+Extra Target RELs: ['_players_a_1', 'compound']
+
+Extra Composed RELs: ['_player_n_of', 'def_explicit_q', 'poss']
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+TARGET SSEMENT #6:
+[ TOP: h0
+  INDEX: e2 [ e SF: prop ]
+  RELS: < [ unknown<0:34> LBL: h1 ARG: x4 [ x PERS: 3 ] ARG0: e2 ]
+          [ appos<0:34> LBL: h1 ARG0: e5 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x6 [ x PERS: 3 NUM: sg IND: + ] ]
+          [ generic_entity<0:12> LBL: h7 ARG0: x4 ]
+          [ _the_q<0:3> LBL: h8 ARG0: x9 [ x PERS: 3 NUM: sg IND: + ] RSTR: h10 BODY: h11 ]
+          [ _player_n_of<4:10> LBL: h12 ARG0: x9 ARG1: i13 ]
+          [ def_explicit_q<10:12> LBL: h14 ARG0: x4 RSTR: h15 BODY: h16 ]
+          [ poss<10:12> LBL: h7 ARG0: e17 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: x4 ARG2: x9 ]
+          [ _leave_v_transfer<13:17> LBL: h7 ARG0: e18 [ e SF: prop TENSE: untensed MOOD: indicative ] ARG1: i19 ARG2: x20 [ x PERS: 3 NUM: sg IND: + ] ARG3: x4 ]
+          [ idiom_q_i<18:22> LBL: h21 ARG0: x20 RSTR: h22 BODY: h23 ]
+          [ _hand_n_1<18:22> LBL: h24 ARG0: x20 ]
+          [ _on_p_state<23:25> LBL: h7 ARG0: e25 [ e SF: prop TENSE: untensed MOOD: indicative PROG: - PERF: - ] ARG1: e18 ]
+          [ _the_q<26:29> LBL: h26 ARG0: x6 RSTR: h27 BODY: h28 ]
+          [ _left_n_of<30:34> LBL: h29 ARG0: x6 ARG1: i30 ] >
+  HCONS: < h0 qeq h1 h10 qeq h12 h15 qeq h7 h22 qeq h24 h27 qeq h29 >
+  ICONS: < e18 topic x4 > ]
+
+SSEMENTs don't contain the same RELs
+Extra Target RELs: ['_leave_v_transfer', '_on_p_state', 'appos', 'generic_entity', 'idiom_q_i']
+
+Extra Composed RELs: ['_left_n_of', '_on_p_loc', 'compound', 'udef_q']
+
+------------------------------------------------------------------------------

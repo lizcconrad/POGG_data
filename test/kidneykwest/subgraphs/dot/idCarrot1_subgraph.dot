@@ -1,0 +1,20 @@
+strict digraph  {
+idCarrot1 [node_type=entity_node, root=root];
+orange;
+true;
+idPhosphateCrystal_idChip1;
+shiny;
+idChip2;
+idpotato;
+salty;
+idLab1BackOpening;
+idCarrot1 -> orange  [edge_type=property, label=idCarrot1_prop_idColor];
+idCarrot1 -> true  [edge_type=property, label=idCarrot1_prop_idUnknownObject];
+idCarrot1 -> idPhosphateCrystal_idChip1  [edge_type=relationship, label=isEastOf];
+idCarrot1 -> idChip2  [edge_type=relationship, label=isEastOf];
+idPhosphateCrystal_idChip1 -> shiny  [edge_type=property, label=idPhosphateCrystal_idChip1_prop_idTrait];
+idPhosphateCrystal_idChip1 -> true  [edge_type=property, label=idPhosphateCrystal_idChip1_prop_idUnknownObject];
+idPhosphateCrystal_idChip1 -> idLab1BackOpening  [edge_type=relationship, label=isNorthOf];
+idChip2 -> idpotato  [edge_type=property, label=idChip2_prop_idMaterial];
+idChip2 -> salty  [edge_type=property, label=idChip2_prop_idSaltiness];
+}

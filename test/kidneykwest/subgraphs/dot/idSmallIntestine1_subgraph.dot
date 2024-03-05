@@ -1,0 +1,13 @@
+strict digraph  {
+idSmallIntestine1 [node_type=entity_node, root=root];
+small;
+idKidney1;
+left;
+idPlayer;
+idThroat1;
+idSmallIntestine1 -> small  [edge_type=property, label=idSmallIntestine1_prop_idSize];
+idSmallIntestine1 -> idKidney1  [edge_type=relationship, label=isNear];
+idKidney1 -> left  [edge_type=property, label=idKidney1_prop_idSide];
+idKidney1 -> idPlayer  [edge_type=property, label=idKidney1_prop_idOwnedBy];
+idKidney1 -> idThroat1  [edge_type=relationship, label=isNear];
+}

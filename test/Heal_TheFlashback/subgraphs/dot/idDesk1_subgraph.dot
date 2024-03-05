@@ -1,0 +1,22 @@
+strict digraph  {
+idDesk1 [node_type=entity_node, root=root];
+used;
+wooden;
+idwood;
+idSock1;
+white;
+idLocalLeft;
+idPillow1;
+dirty;
+idLivingroom1;
+idDesk1 -> used  [edge_type=property, label=idDesk1_prop_idDescriptor];
+idDesk1 -> wooden  [edge_type=property, label=idDesk1_prop_idMaterial_1];
+idDesk1 -> idwood  [edge_type=property, label=idDesk1_prop_idMaterial];
+idDesk1 -> idSock1  [edge_type=relationship, label=isEastOf];
+idDesk1 -> idPillow1  [edge_type=relationship, label=isEastOf];
+idSock1 -> white  [edge_type=property, label=idSock1_prop_idColor];
+idSock1 -> idLocalLeft  [edge_type=property, label=idSock1_prop_idLocation];
+idSock1 -> idLivingroom1  [edge_type=relationship, label=isWestOf];
+idPillow1 -> white  [edge_type=property, label=idPillow1_prop_idColor];
+idPillow1 -> dirty  [edge_type=property, label=idPillow1_prop_idDescriptor];
+}

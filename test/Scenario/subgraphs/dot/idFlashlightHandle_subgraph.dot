@@ -1,0 +1,9 @@
+strict digraph  {
+idFlashlightHandle [node_type=entity_node, root=root];
+idGreenRoomBackOpening;
+medium;
+idLexiLeftHand;
+idFlashlightHandle -> idGreenRoomBackOpening  [edge_type=relationship, label=isSouthOf];
+idGreenRoomBackOpening -> medium  [edge_type=property, label=idGreenRoomBackOpening_prop_idHeight];
+idGreenRoomBackOpening -> idLexiLeftHand  [edge_type=relationship, label=isSouthOf];
+}

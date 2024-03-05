@@ -1,0 +1,13 @@
+strict digraph  {
+idClearing1 [node_type=entity_node, root=root];
+grassy;
+idGlowingGrass1;
+yes;
+uncountable;
+idPlayer;
+idClearing1 -> grassy  [edge_type=property, label=idClearing1_prop_idDescriptor];
+idClearing1 -> idGlowingGrass1  [edge_type=relationship, label=isNorthOf];
+idGlowingGrass1 -> yes  [edge_type=property, label=idGlowingGrass1_prop_idImmovable];
+idGlowingGrass1 -> uncountable  [edge_type=property, label=idGlowingGrass1_prop_idArticleType];
+idGlowingGrass1 -> idPlayer  [edge_type=relationship, label=isSouthOf];
+}

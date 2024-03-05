@@ -1,0 +1,9 @@
+strict digraph  {
+idFuse3 [node_type=entity_node, root=root];
+green;
+idLongHallwayLeftOpening;
+idComputerRoom1;
+idFuse3 -> green  [edge_type=property, label=idFuse3_prop_idColor];
+idFuse3 -> idLongHallwayLeftOpening  [edge_type=relationship, label=isEastOf];
+idLongHallwayLeftOpening -> idComputerRoom1  [edge_type=relationship, label=isSouthOf];
+}

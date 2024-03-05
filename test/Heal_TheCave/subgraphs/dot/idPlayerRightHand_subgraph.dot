@@ -1,0 +1,7 @@
+strict digraph  {
+idPlayerRightHand [node_type=entity_node, root=root];
+right;
+idCavern7LeftOpening;
+idPlayerRightHand -> right  [edge_type=property, label=idPlayerRightHand_prop_idLocation];
+idPlayerRightHand -> idCavern7LeftOpening  [edge_type=relationship, label=isEastOf];
+}

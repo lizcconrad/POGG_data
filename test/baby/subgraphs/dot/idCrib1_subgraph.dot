@@ -1,0 +1,9 @@
+strict digraph  {
+idCrib1 [node_type=entity_node, root=root];
+true;
+idWorld1;
+idMom1;
+idCrib1 -> true  [edge_type=property, label=idCrib1_prop_idUnknownObject];
+idCrib1 -> idWorld1  [edge_type=relationship, label=isInsideOf];
+idWorld1 -> idMom1  [edge_type=relationship, label=isNear];
+}

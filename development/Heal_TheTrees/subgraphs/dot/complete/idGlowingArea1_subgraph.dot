@@ -1,0 +1,7 @@
+strict digraph  {
+idGlowingArea1 [node_type=entity_node, root=root];
+glowing;
+idPlayerBackside;
+idGlowingArea1 -> glowing  [edge_type=property, label=idGlowingArea1_prop_idDescriptor];
+idGlowingArea1 -> idPlayerBackside  [edge_type=relationship, label=isSouthOf];
+}

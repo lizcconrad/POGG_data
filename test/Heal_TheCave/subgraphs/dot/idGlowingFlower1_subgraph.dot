@@ -1,0 +1,17 @@
+strict digraph  {
+idGlowingFlower1 [node_type=entity_node, root=root];
+green;
+dim;
+yes;
+idCavern7;
+glowing;
+7;
+idCavern7LeftOpening;
+idGlowingFlower1 -> green  [edge_type=property, label=idGlowingFlower1_prop_idColor];
+idGlowingFlower1 -> dim  [edge_type=property, label=idGlowingFlower1_prop_idTint];
+idGlowingFlower1 -> yes  [edge_type=property, label=idGlowingFlower1_prop_idImmovable];
+idGlowingFlower1 -> idCavern7  [edge_type=relationship, label=isEastOf];
+idCavern7 -> glowing  [edge_type=property, label=idCavern7_prop_idTint];
+idCavern7 -> 7  [edge_type=property, label=idCavern7_prop_idOrdinality];
+idCavern7 -> idCavern7LeftOpening  [edge_type=relationship, label=isEastOf];
+}

@@ -1,0 +1,19 @@
+strict digraph  {
+idPlageBackOpening [node_type=entity_node, root=root];
+short;
+open;
+idGreenRoomFrontOpening;
+idFlashlight1Switch;
+yellow;
+off;
+idLock2;
+idPlageBackOpening -> short  [edge_type=property, label=idPlageBackOpening_prop_idHeight];
+idPlageBackOpening -> open  [edge_type=property, label=idPlageBackOpening_prop_idOpenState];
+idPlageBackOpening -> idGreenRoomFrontOpening  [edge_type=relationship, label=isNorthOf];
+idPlageBackOpening -> idFlashlight1Switch  [edge_type=relationship, label=isNorthOf];
+idGreenRoomFrontOpening -> short  [edge_type=property, label=idGreenRoomFrontOpening_prop_idHeight];
+idGreenRoomFrontOpening -> open  [edge_type=property, label=idGreenRoomFrontOpening_prop_idOpenState];
+idFlashlight1Switch -> yellow  [edge_type=property, label=idFlashlight1Switch_prop_idColor];
+idFlashlight1Switch -> off  [edge_type=property, label=idFlashlight1Switch_prop_idPowerState];
+idFlashlight1Switch -> idLock2  [edge_type=relationship, label=isSouthOf];
+}

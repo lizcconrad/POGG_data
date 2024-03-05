@@ -1,0 +1,124 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheTrees/subgraphs/dot/complete/idGlowingFlower1_subgraph.dot
+[ TOP: h375
+  INDEX: e372
+  RELS: < [ unknown LBL: h374 ARG: x368 ARG0: e372 ]
+          [ def_udef_a_q LBL: h371 ARG0: x368 RSTR: h369 BODY: h370 ]
+          [ _un-_a_neg LBL: h352 ARG0: i357 ARG1: e358 ]
+          [ _know_v_1 LBL: h352 ARG0: e358 ARG1: u361 ARG2: x368 ]
+          [ _green_a_2 LBL: h352 ARG0: i350 ARG1: x368 ]
+          [ _glow_v_1 LBL: h352 ARG0: e347 [ e PROG: bool ] ARG1: x368 ]
+          [ _flower_n_1 LBL: h352 ARG0: x368 ] >
+  HCONS: < h369 qeq h352 h375 qeq h374 > ]
+GENERATED RESULTS ... 
+A green unknown flower glowing.
+The green unknown flowers glowing.
+The glowing green unknown flowers
+The green unknown flower glowing.
+Glowing green unknown flowers
+The unknown green glowing flowers
+The glowing green unknown flower
+A glowing green unknown flower
+The glowing green unknown flowers.
+Unknown green glowing flowers
+An unknown green glowing flower
+The unknown green glowing flower
+Green unknown flowers glowing.
+The unknown green flowers glowing.
+The green glowing unknown flowers
+The glowing unknown green flowers
+Glowing green unknown flowers.
+The green unknown glowing flowers
+A green unknown flower glowing
+The green unknown flowers glowing
+Green glowing unknown flowers
+Green unknown flower glowing.
+Green unknown glowing flowers
+A green unknown flower, glowing.
+The unknown green glowing flowers.
+Green unknown flowers, glowing.
+Glowing unknown green flowers
+The green unknown glowing flower
+The unknown glowing green flowers
+An unknown green flower glowing.
+Unknown green glowing flowers.
+The unknown green flower glowing.
+The glowing unknown green flowers.
+The green glowing unknown flower
+A green unknown glowing flower
+The glowing unknown green flower
+The green unknown flower glowing
+A green glowing unknown flower
+The green glowing unknown flowers.
+The green unknown flowers, glowing.
+Unknown glowing green flowers
+A glowing unknown green flower
+The green unknown glowing flowers.
+Glowing unknown green flowers.
+Green glowing unknown flowers.
+The glowing green unknown flower.
+Green unknown glowing flowers.
+The unknown glowing green flowers.
+An unknown glowing green flower
+The unknown glowing green flower
+A glowing green unknown flower.
+Unknown green flowers, glowing.
+The green unknown flower, glowing.
+Unknown green flowers glowing.
+Unknown glowing green flowers.
+Glowing green unknown flower
+Unknown green glowing flower
+An unknown green glowing flower.
+The unknown green glowing flower.
+The unknown green flowers glowing
+Unknown green flower glowing.
+The unknown green flowers, glowing.
+Green unknown flowers glowing
+Green unknown flower, glowing.
+Green unknown flower glowing
+The glowing unknown green flower.
+Green unknown glowing flower
+An unknown green flower, glowing.
+A glowing unknown green flower.
+Green glowing unknown flower
+The green glowing unknown flower.
+The unknown green flower, glowing.
+An unknown green flower glowing
+The green unknown glowing flower.
+The unknown green flower glowing
+An unknown glowing green flower.
+A green glowing unknown flower.
+The unknown glowing green flower.
+A green unknown glowing flower.
+Glowing unknown green flower
+Unknown green flower, glowing.
+Unknown glowing green flower
+Glowing green unknown flower.
+Unknown green glowing flower.
+Unknown green flowers glowing
+Unknown green flower glowing
+Green glowing unknown flower.
+Green unknown glowing flower.
+Glowing unknown green flower.
+Unknown glowing green flower.
+
+TOTAL RESULTS: 90
+
+Node               MRS Produced    Reason                 Included in MRS    Reason
+-----------------  --------------  ---------------------  -----------------  ---------------
+glowing_2          True            MRS fragment produced  True               Included in MRS
+green_2            True            MRS fragment produced  True               Included in MRS
+idGlowingFlower_1  True            MRS fragment produced  True               Included in MRS
+true_2             True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idColor_2          True            MRS composed  True               Included in MRS
+idDescriptor_1     True            MRS composed  True               Included in MRS
+idUnknownObject_3  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4           1
+Nodes              Included             4        4           1
+Edges              Produced             3        3           1
+Edges              Included             3        3           1

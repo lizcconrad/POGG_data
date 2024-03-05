@@ -1,0 +1,17 @@
+strict digraph  {
+idPhosphateCrystal_idHamburger1 [node_type=entity_node, root=root];
+blue;
+shiny;
+true;
+idBarn1Door;
+idwood;
+open;
+idMachine1;
+idPhosphateCrystal_idHamburger1 -> blue  [edge_type=property, label=idPhosphateCrystal_idHamburger1_prop_idColor];
+idPhosphateCrystal_idHamburger1 -> shiny  [edge_type=property, label=idPhosphateCrystal_idHamburger1_prop_idTrait];
+idPhosphateCrystal_idHamburger1 -> true  [edge_type=property, label=idPhosphateCrystal_idHamburger1_prop_idUnknownObject];
+idPhosphateCrystal_idHamburger1 -> idBarn1Door  [edge_type=relationship, label=isEastOf];
+idBarn1Door -> idwood  [edge_type=property, label=idBarn1Door_prop_idMaterial];
+idBarn1Door -> open  [edge_type=property, label=idBarn1Door_prop_idOpenState];
+idBarn1Door -> idMachine1  [edge_type=relationship, label=isWestOf];
+}

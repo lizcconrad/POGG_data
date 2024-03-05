@@ -1,0 +1,21 @@
+strict digraph  {
+idGrass1 [node_type=entity_node, root=root];
+green;
+uncountable;
+flattened;
+idBerry1;
+red;
+idDeer1;
+bloody;
+bleeding;
+idPlayer;
+idGrass1 -> green  [edge_type=property, label=idGrass1_prop_idColor];
+idGrass1 -> uncountable  [edge_type=property, label=idGrass1_prop_idArticleType];
+idGrass1 -> flattened  [edge_type=property, label=idGrass1_prop_idDescriptor];
+idGrass1 -> idBerry1  [edge_type=relationship, label=isEastOf];
+idGrass1 -> idDeer1  [edge_type=relationship, label=isNear];
+idBerry1 -> red  [edge_type=property, label=idBerry1_prop_idColor];
+idDeer1 -> bloody  [edge_type=property, label=idDeer1_prop_idDescriptor];
+idDeer1 -> bleeding  [edge_type=property, label=idDeer1_prop_idDescriptor_1];
+idDeer1 -> idPlayer  [edge_type=relationship, label=isEastOf];
+}

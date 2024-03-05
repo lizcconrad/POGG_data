@@ -1,0 +1,9 @@
+strict digraph  {
+idComputerRoom1BackOpening [node_type=entity_node, root=root];
+idShutoff;
+closed;
+idLongHallwayFrontOpeningDoor;
+idComputerRoom1BackOpening -> idShutoff  [edge_type=relationship, label=isNorthOf];
+idShutoff -> closed  [edge_type=property, label=idShutoff_prop_idOpenState];
+idShutoff -> idLongHallwayFrontOpeningDoor  [edge_type=relationship, label=isSouthOf];
+}

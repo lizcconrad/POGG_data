@@ -1,0 +1,11 @@
+strict digraph  {
+idCavern1RightOpening [node_type=entity_node, root=root];
+idGrass1;
+short;
+yes;
+idGlowingFlower1;
+idCavern1RightOpening -> idGrass1  [edge_type=relationship, label=isEastOf];
+idGrass1 -> short  [edge_type=property, label=idGrass1_prop_idHeight];
+idGrass1 -> yes  [edge_type=property, label=idGrass1_prop_idImmovable];
+idGrass1 -> idGlowingFlower1  [edge_type=relationship, label=isWestOf];
+}

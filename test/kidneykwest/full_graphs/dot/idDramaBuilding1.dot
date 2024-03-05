@@ -1,0 +1,16 @@
+digraph  {
+idDramaBuilding1 [node_type=entity_node];
+idPlayer [node_type=entity_node];
+idWorld1 [node_type=entity_node];
+idCostumeCloset1 [node_type=entity_node];
+idDramaBuilding1Door [node_type=entity_node];
+idCostumeCloset1BackOpening [node_type=entity_node];
+idDramaBuilding1FrontOpening [node_type=entity_node];
+idDramaBuilding1 -> idPlayer  [edge_type=relationship, label=isNear];
+idDramaBuilding1 -> idWorld1  [edge_type=relationship, label=isInsideOf];
+idDramaBuilding1 -> idDramaBuilding1  [edge_type=relationship, label=isNear];
+idDramaBuilding1 -> idCostumeCloset1  [edge_type=relationship, label=isSouthOf];
+idDramaBuilding1 -> idDramaBuilding1Door  [edge_type=relationship, label=isSouthOf];
+idDramaBuilding1 -> idCostumeCloset1BackOpening  [edge_type=relationship, label=isSouthOf];
+idDramaBuilding1 -> idDramaBuilding1FrontOpening  [edge_type=relationship, label=isSouthOf];
+}

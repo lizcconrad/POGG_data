@@ -1,0 +1,19 @@
+strict digraph  {
+idPlayerBackside [node_type=entity_node];
+idPlayer [node_type=entity_node];
+idGlowingArea1 [node_type=entity_node];
+idGlowingGrass1 [node_type=entity_node];
+idCave1 [node_type=entity_node];
+idRockyArea1 [node_type=entity_node];
+idBottle1 [node_type=entity_node];
+idPebble1 [node_type=entity_node];
+idRockPile1 [node_type=entity_node];
+idPlayerBackside -> idPlayer  [edge_type=relationship, label=isNear];
+idPlayerBackside -> idGlowingArea1  [edge_type=relationship, label=isNorthOf];
+idPlayerBackside -> idGlowingGrass1  [edge_type=relationship, label=isNorthOf];
+idPlayerBackside -> idCave1  [edge_type=relationship, label=isSouthOf];
+idPlayerBackside -> idRockyArea1  [edge_type=relationship, label=isEastOf];
+idPlayerBackside -> idBottle1  [edge_type=relationship, label=isEastOf];
+idPlayerBackside -> idPebble1  [edge_type=relationship, label=isEastOf];
+idPlayerBackside -> idRockPile1  [edge_type=relationship, label=isEastOf];
+}

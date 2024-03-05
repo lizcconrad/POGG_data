@@ -1,0 +1,9 @@
+strict digraph  {
+idPipe1 [node_type=entity_node, root=root];
+idElevator1;
+idButton1;
+idShutoff;
+idPipe1 -> idElevator1  [edge_type=relationship, label=isNorthOf];
+idElevator1 -> idButton1  [edge_type=property, label=idElevator1_prop_idCurrentLevel];
+idElevator1 -> idShutoff  [edge_type=relationship, label=isSouthOf];
+}

@@ -1,0 +1,5 @@
+strict digraph  {
+idFuseSocket2 [node_type=entity_node, root=root];
+2;
+idFuseSocket2 -> 2  [edge_type=property, label=idFuseSocket2_prop_idOrdinality];
+}

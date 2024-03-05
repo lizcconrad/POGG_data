@@ -1,0 +1,7 @@
+strict digraph  {
+idPill3 [node_type=entity_node, root=root];
+idFairyWorldLobby1BackOpening;
+idThrone1;
+idPill3 -> idFairyWorldLobby1BackOpening  [edge_type=relationship, label=isNorthOf];
+idFairyWorldLobby1BackOpening -> idThrone1  [edge_type=relationship, label=isWestOf];
+}

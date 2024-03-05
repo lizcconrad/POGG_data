@@ -1,0 +1,17 @@
+strict digraph  {
+idTent1Door [node_type=entity_node];
+open [node_type=property_node];
+true [node_type=property_node];
+idTent1DoorInsideOpening [node_type=entity_node];
+idTent1DoorOutsideOpening [node_type=entity_node];
+idTent1 [node_type=entity_node];
+idDock1 [node_type=entity_node];
+idGoButton [node_type=entity_node];
+idTent1Door -> open  [edge_type=property, label=idTent1Door_prop_idOpenState];
+idTent1Door -> true  [edge_type=property, label=idTent1Door_prop_idUnknownObject];
+idTent1Door -> idTent1DoorInsideOpening  [edge_type=relationship, label=isNorthOf];
+idTent1Door -> idTent1DoorOutsideOpening  [edge_type=relationship, label=isNear];
+idTent1Door -> idTent1  [edge_type=relationship, label=isNorthOf];
+idTent1Door -> idDock1  [edge_type=relationship, label=isNorthOf];
+idTent1Door -> idGoButton  [edge_type=relationship, label=isNorthOf];
+}

@@ -1,0 +1,5 @@
+strict digraph  {
+idButtonX [node_type=entity_node, root=root];
+1;
+idButtonX -> 1  [edge_type=property, label=idButtonX_prop_idOrdinality];
+}

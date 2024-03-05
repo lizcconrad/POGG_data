@@ -1,0 +1,9 @@
+strict digraph  {
+idMarsh1 [node_type=entity_node, root=root];
+mossy;
+idTheCliff1;
+idArea1;
+idMarsh1 -> mossy  [edge_type=property, label=idMarsh1_prop_idDescriptor];
+idMarsh1 -> idTheCliff1  [edge_type=relationship, label=isInsideOf];
+idTheCliff1 -> idArea1  [edge_type=relationship, label=isNear];
+}

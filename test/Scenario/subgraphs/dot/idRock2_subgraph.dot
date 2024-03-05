@@ -1,0 +1,7 @@
+strict digraph  {
+idRock2 [node_type=entity_node, root=root];
+red;
+rough;
+idRock2 -> red  [edge_type=property, label=idRock2_prop_idColor];
+idRock2 -> rough  [edge_type=property, label=idRock2_prop_idTexture];
+}

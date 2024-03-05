@@ -1,0 +1,9 @@
+strict digraph  {
+idPlayerBackside [node_type=entity_node, root=root];
+idMeadow1;
+grassy;
+idFrog1;
+idPlayerBackside -> idMeadow1  [edge_type=relationship, label=isWestOf];
+idPlayerBackside -> idFrog1  [edge_type=relationship, label=isEastOf];
+idMeadow1 -> grassy  [edge_type=property, label=idMeadow1_prop_idDescriptor];
+}

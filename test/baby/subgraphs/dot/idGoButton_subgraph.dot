@@ -1,0 +1,7 @@
+strict digraph  {
+idGoButton [node_type=entity_node, root=root];
+green;
+true;
+idGoButton -> green  [edge_type=property, label=idGoButton_prop_idColor];
+idGoButton -> true  [edge_type=property, label=idGoButton_prop_idUnknownObject];
+}

@@ -1,0 +1,10 @@
+strict digraph  {
+idThief1 [node_type=entity_node, root=root];
+true;
+idCar1;
+yes;
+idThief1 -> true  [edge_type=property, label=idThief1_prop_idUnknownObject];
+idThief1 -> idCar1  [edge_type=relationship, label=isNear];
+idCar1 -> true  [edge_type=property, label=idCar1_prop_idUnknownObject];
+idCar1 -> yes  [edge_type=property, label=idCar1_prop_idImmovable];
+}

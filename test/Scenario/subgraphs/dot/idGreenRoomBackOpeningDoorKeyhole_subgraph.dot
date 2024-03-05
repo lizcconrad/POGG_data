@@ -1,0 +1,11 @@
+strict digraph  {
+idGreenRoomBackOpeningDoorKeyhole [node_type=entity_node, root=root];
+idGreenRoomBackOpeningDoor;
+locked;
+closed;
+idEntrancecave;
+idGreenRoomBackOpeningDoorKeyhole -> idGreenRoomBackOpeningDoor  [edge_type=relationship, label=isNear];
+idGreenRoomBackOpeningDoor -> locked  [edge_type=property, label=idGreenRoomBackOpeningDoor_prop_idLockedState];
+idGreenRoomBackOpeningDoor -> closed  [edge_type=property, label=idGreenRoomBackOpeningDoor_prop_idOpenState];
+idGreenRoomBackOpeningDoor -> idEntrancecave  [edge_type=relationship, label=isSouthOf];
+}

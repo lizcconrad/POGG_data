@@ -1,0 +1,9 @@
+strict digraph  {
+idDramaBuilding1FrontOpening [node_type=entity_node];
+idDramaBuilding1Door [node_type=entity_node];
+idCostumeCloset1BackOpening [node_type=entity_node];
+idCostumeCloset1 [node_type=entity_node];
+idDramaBuilding1FrontOpening -> idDramaBuilding1Door  [edge_type=relationship, label=isSouthOf];
+idDramaBuilding1FrontOpening -> idCostumeCloset1BackOpening  [edge_type=relationship, label=isSouthOf];
+idDramaBuilding1FrontOpening -> idCostumeCloset1  [edge_type=relationship, label=isSouthOf];
+}

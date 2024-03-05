@@ -1,0 +1,9 @@
+strict digraph  {
+idPlayerRightHand [node_type=entity_node, root=root];
+right;
+idMoss1;
+uncountable;
+idPlayerRightHand -> right  [edge_type=property, label=idPlayerRightHand_prop_idLocation];
+idPlayerRightHand -> idMoss1  [edge_type=relationship, label=isEastOf];
+idMoss1 -> uncountable  [edge_type=property, label=idMoss1_prop_idArticleType];
+}

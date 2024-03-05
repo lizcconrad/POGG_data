@@ -1,0 +1,11 @@
+strict digraph  {
+idMushroom1 [node_type=entity_node, root=root];
+blue;
+idCavern5;
+cold;
+5;
+idMushroom1 -> blue  [edge_type=property, label=idMushroom1_prop_idColor];
+idMushroom1 -> idCavern5  [edge_type=relationship, label=isEastOf];
+idCavern5 -> cold  [edge_type=property, label=idCavern5_prop_idDescriptor_1];
+idCavern5 -> 5  [edge_type=property, label=idCavern5_prop_idOrdinality];
+}

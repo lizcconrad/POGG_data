@@ -1,0 +1,9 @@
+strict digraph  {
+idFrontDoor1idPorch1idNorthOfOpening [node_type=entity_node, root=root];
+idCardKey1;
+true;
+idSidewalk1;
+idFrontDoor1idPorch1idNorthOfOpening -> idCardKey1  [edge_type=relationship, label=isSouthOf];
+idCardKey1 -> true  [edge_type=property, label=idCardKey1_prop_idUnknownObject];
+idCardKey1 -> idSidewalk1  [edge_type=relationship, label=isNorthOf];
+}

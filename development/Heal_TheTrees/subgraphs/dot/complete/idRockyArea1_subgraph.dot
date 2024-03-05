@@ -1,0 +1,12 @@
+digraph  {
+idRockyArea1 [node_type=entity_node, root=root];
+rocky;
+idPlayer;
+false;
+idPlayerBackside;
+idRockyArea1 -> rocky  [edge_type=property, label=idRockyArea1_prop_idDescriptor];
+idRockyArea1 -> idPlayerBackside  [edge_type=relationship, label=isWestOf];
+idRockyArea1 -> idPlayer  [edge_type=relationship, label=isWestOf];
+idPlayer -> false  [edge_type=property, label=idPlayer_prop_idBottleFound];
+idPlayer -> idPlayer  [edge_type=relationship, label=isNear];
+}

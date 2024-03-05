@@ -1,0 +1,5 @@
+strict digraph  {
+idCarDoorLock1 [node_type=entity_node];
+locked [node_type=property_node];
+idCarDoorLock1 -> locked  [edge_type=property, label=idCarDoorLock1_prop_idLockedState];
+}

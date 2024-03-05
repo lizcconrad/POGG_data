@@ -1,0 +1,15 @@
+strict digraph  {
+idSock1 [node_type=entity_node, root=root];
+white;
+old;
+idLocalLeft;
+idDrawer2;
+false;
+closed;
+idSock1 -> white  [edge_type=property, label=idSock1_prop_idColor];
+idSock1 -> old  [edge_type=property, label=idSock1_prop_idDescriptor];
+idSock1 -> idLocalLeft  [edge_type=property, label=idSock1_prop_idLocation];
+idSock1 -> idDrawer2  [edge_type=relationship, label=isWestOf];
+idDrawer2 -> false  [edge_type=property, label=idDrawer2_prop_idImmovable];
+idDrawer2 -> closed  [edge_type=property, label=idDrawer2_prop_idOpenState];
+}

@@ -1,0 +1,17 @@
+strict digraph  {
+idSink1 [node_type=entity_node, root=root];
+idporcelain;
+yes;
+white;
+idLivingRoomToBedroomDoor1;
+open;
+idCalendar1;
+small;
+idSink1 -> idporcelain  [edge_type=property, label=idSink1_prop_idDescriptor];
+idSink1 -> yes  [edge_type=property, label=idSink1_prop_idImmovable];
+idSink1 -> white  [edge_type=property, label=idSink1_prop_idColor];
+idSink1 -> idLivingRoomToBedroomDoor1  [edge_type=relationship, label=isWestOf];
+idSink1 -> idCalendar1  [edge_type=relationship, label=isWestOf];
+idLivingRoomToBedroomDoor1 -> open  [edge_type=property, label=idLivingRoomToBedroomDoor1_prop_idOpenState];
+idCalendar1 -> small  [edge_type=property, label=idCalendar1_prop_idSize];
+}

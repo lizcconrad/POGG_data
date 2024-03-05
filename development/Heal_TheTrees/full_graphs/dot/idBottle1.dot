@@ -1,0 +1,37 @@
+strict digraph  {
+idBottle1 [node_type=entity_node];
+brown [node_type=property_node];
+broken [node_type=property_node];
+sharp [node_type=property_node];
+shiny [node_type=property_node];
+idRockPile1 [node_type=entity_node];
+idRockyArea1 [node_type=entity_node];
+idPebble1 [node_type=entity_node];
+idGlowingArea1 [node_type=entity_node];
+idGlowingGrass1 [node_type=entity_node];
+idCave1 [node_type=entity_node];
+idClearing1 [node_type=entity_node];
+idBranch1 [node_type=entity_node];
+idGrass1 [node_type=entity_node];
+idPlayer [node_type=entity_node];
+idPlayerBackside [node_type=entity_node];
+idPlayerLeftHand [node_type=entity_node];
+idPlayerRightHand [node_type=entity_node];
+idBottle1 -> brown  [edge_type=property, label=idBottle1_prop_idColor];
+idBottle1 -> broken  [edge_type=property, label=idBottle1_prop_idIntegrity];
+idBottle1 -> sharp  [edge_type=property, label=idBottle1_prop_idDescriptor];
+idBottle1 -> shiny  [edge_type=property, label=idBottle1_prop_idDescriptor_1];
+idBottle1 -> idRockPile1  [edge_type=relationship, label=isNear];
+idBottle1 -> idRockyArea1  [edge_type=relationship, label=isNear];
+idBottle1 -> idPebble1  [edge_type=relationship, label=isNear];
+idBottle1 -> idGlowingArea1  [edge_type=relationship, label=isWestOf];
+idBottle1 -> idGlowingGrass1  [edge_type=relationship, label=isWestOf];
+idBottle1 -> idCave1  [edge_type=relationship, label=isWestOf];
+idBottle1 -> idClearing1  [edge_type=relationship, label=isWestOf];
+idBottle1 -> idBranch1  [edge_type=relationship, label=isWestOf];
+idBottle1 -> idGrass1  [edge_type=relationship, label=isWestOf];
+idBottle1 -> idPlayer  [edge_type=relationship, label=isWestOf];
+idBottle1 -> idPlayerBackside  [edge_type=relationship, label=isWestOf];
+idBottle1 -> idPlayerLeftHand  [edge_type=relationship, label=isWestOf];
+idBottle1 -> idPlayerRightHand  [edge_type=relationship, label=isWestOf];
+}

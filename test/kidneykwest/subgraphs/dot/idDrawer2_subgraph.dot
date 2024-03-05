@@ -1,0 +1,7 @@
+strict digraph  {
+idDrawer2 [node_type=entity_node, root=root];
+closed;
+2;
+idDrawer2 -> closed  [edge_type=property, label=idDrawer2_prop_idOpenState];
+idDrawer2 -> 2  [edge_type=property, label=idDrawer2_prop_idOrdinality];
+}

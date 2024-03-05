@@ -1,0 +1,17 @@
+strict digraph  {
+idPlayerBackside [node_type=entity_node, root=root];
+idClearing1;
+bushy;
+idStump1;
+chopped;
+hollow;
+idArea1;
+idWhistle1;
+idPlayerBackside -> idClearing1  [edge_type=relationship, label=isWestOf];
+idPlayerBackside -> idStump1  [edge_type=relationship, label=isEastOf];
+idClearing1 -> bushy  [edge_type=property, label=idClearing1_prop_idDescriptor];
+idClearing1 -> idArea1  [edge_type=relationship, label=isEastOf];
+idStump1 -> chopped  [edge_type=property, label=idStump1_prop_idDescriptor];
+idStump1 -> hollow  [edge_type=property, label=idStump1_prop_idDescriptor_1];
+idStump1 -> idWhistle1  [edge_type=relationship, label=isWestOf];
+}

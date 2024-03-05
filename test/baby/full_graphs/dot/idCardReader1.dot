@@ -1,0 +1,9 @@
+strict digraph  {
+idCardReader1 [node_type=entity_node];
+locked [node_type=property_node];
+true [node_type=property_node];
+idDriversSideFrontDoor [node_type=entity_node];
+idCardReader1 -> locked  [edge_type=property, label=idCardReader1_prop_idLockedState];
+idCardReader1 -> true  [edge_type=property, label=idCardReader1_prop_idUnknownObject];
+idCardReader1 -> idDriversSideFrontDoor  [edge_type=relationship, label=isNear];
+}

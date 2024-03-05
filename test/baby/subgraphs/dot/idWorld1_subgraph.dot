@@ -1,0 +1,11 @@
+strict digraph  {
+idWorld1 [node_type=entity_node, root=root];
+idCar1;
+yes;
+idMom1;
+idScreen1;
+idWorld1 -> idCar1  [edge_type=relationship, label=isNear];
+idCar1 -> yes  [edge_type=property, label=idCar1_prop_idImmovable];
+idCar1 -> idMom1  [edge_type=property, label=idCar1_prop_idOwnedBy];
+idCar1 -> idScreen1  [edge_type=relationship, label=isEastOf];
+}

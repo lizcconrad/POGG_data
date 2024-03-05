@@ -1,0 +1,11 @@
+strict digraph  {
+idBerry2 [node_type=entity_node, root=root];
+green;
+idSmoke1;
+yes;
+idMarsh1;
+idBerry2 -> green  [edge_type=property, label=idBerry2_prop_idColor];
+idBerry2 -> idSmoke1  [edge_type=relationship, label=isWestOf];
+idSmoke1 -> yes  [edge_type=property, label=idSmoke1_prop_idImmovable];
+idSmoke1 -> idMarsh1  [edge_type=relationship, label=isEastOf];
+}

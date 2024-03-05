@@ -1,0 +1,20 @@
+strict digraph  {
+idDrawer2 [node_type=entity_node, root=root];
+false;
+closed;
+idDrawer1;
+no;
+idBed1;
+yes;
+unmade;
+idBedroom1BackOpening;
+idDrawer2 -> false  [edge_type=property, label=idDrawer2_prop_idImmovable];
+idDrawer2 -> closed  [edge_type=property, label=idDrawer2_prop_idOpenState];
+idDrawer2 -> idDrawer1  [edge_type=relationship, label=isEastOf];
+idDrawer2 -> idBed1  [edge_type=relationship, label=isEastOf];
+idDrawer1 -> no  [edge_type=property, label=idDrawer1_prop_idImmovable];
+idDrawer1 -> closed  [edge_type=property, label=idDrawer1_prop_idOpenState];
+idBed1 -> yes  [edge_type=property, label=idBed1_prop_idImmovable];
+idBed1 -> unmade  [edge_type=property, label=idBed1_prop_idDescriptor];
+idBed1 -> idBedroom1BackOpening  [edge_type=relationship, label=isNorthOf];
+}

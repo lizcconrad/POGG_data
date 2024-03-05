@@ -1,0 +1,38 @@
+digraph  {
+idCrowbar1 [node_type=entity_node];
+black [node_type=property_node];
+cool [node_type=property_node];
+true [node_type=property_node];
+idTrunk1 [node_type=entity_node];
+idTheCarRoom1 [node_type=entity_node];
+idArea1 [node_type=entity_node];
+idBumper1 [node_type=entity_node];
+idCarKey1 [node_type=entity_node];
+idStump1 [node_type=entity_node];
+idDen1 [node_type=entity_node];
+idBear1 [node_type=entity_node];
+idTaillight1 [node_type=entity_node];
+idTire1 [node_type=entity_node];
+idClearing1 [node_type=entity_node];
+idBush1 [node_type=entity_node];
+idSideMirror1 [node_type=entity_node];
+idWhistle1 [node_type=entity_node];
+idCrowbar1 -> black  [edge_type=property, label=idCrowbar1_prop_idColor];
+idCrowbar1 -> cool  [edge_type=property, label=idCrowbar1_prop_idDescriptor];
+idCrowbar1 -> true  [edge_type=property, label=idCrowbar1_prop_idUnknownObject];
+idCrowbar1 -> idTrunk1  [edge_type=relationship, label=isNear];
+idCrowbar1 -> idTheCarRoom1  [edge_type=relationship, label=isNear];
+idCrowbar1 -> idCrowbar1  [edge_type=relationship, label=isNear];
+idCrowbar1 -> idArea1  [edge_type=relationship, label=isEastOf];
+idCrowbar1 -> idBumper1  [edge_type=relationship, label=isEastOf];
+idCrowbar1 -> idCarKey1  [edge_type=relationship, label=isEastOf];
+idCrowbar1 -> idStump1  [edge_type=relationship, label=isEastOf];
+idCrowbar1 -> idDen1  [edge_type=relationship, label=isEastOf];
+idCrowbar1 -> idBear1  [edge_type=relationship, label=isEastOf];
+idCrowbar1 -> idTaillight1  [edge_type=relationship, label=isEastOf];
+idCrowbar1 -> idTire1  [edge_type=relationship, label=isEastOf];
+idCrowbar1 -> idClearing1  [edge_type=relationship, label=isWestOf];
+idCrowbar1 -> idBush1  [edge_type=relationship, label=isWestOf];
+idCrowbar1 -> idSideMirror1  [edge_type=relationship, label=isWestOf];
+idCrowbar1 -> idWhistle1  [edge_type=relationship, label=isWestOf];
+}

@@ -1,0 +1,9 @@
+strict digraph  {
+idCavern5LeftOpening [node_type=entity_node, root=root];
+idCavern6Outside;
+outside;
+idCavern3LeftOpening;
+idCavern5LeftOpening -> idCavern6Outside  [edge_type=relationship, label=isEastOf];
+idCavern5LeftOpening -> idCavern3LeftOpening  [edge_type=relationship, label=isWestOf];
+idCavern6Outside -> outside  [edge_type=property, label=idCavern6Outside_prop_idDescriptor];
+}

@@ -1,0 +1,13 @@
+strict digraph  {
+idCaptainsChair1 [node_type=entity_node, root=root];
+idleather;
+idCaptain1;
+idCoat1;
+warm;
+idKelly1;
+idCaptainsChair1 -> idleather  [edge_type=property, label=idCaptainsChair1_prop_idMaterial];
+idCaptainsChair1 -> idCaptain1  [edge_type=property, label=idCaptainsChair1_prop_idOwnedBy];
+idCaptainsChair1 -> idCoat1  [edge_type=relationship, label=isEastOf];
+idCoat1 -> warm  [edge_type=property, label=idCoat1_prop_idMaterial];
+idCoat1 -> idKelly1  [edge_type=relationship, label=isWestOf];
+}

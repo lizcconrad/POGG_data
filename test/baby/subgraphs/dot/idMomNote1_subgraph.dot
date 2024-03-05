@@ -1,0 +1,9 @@
+strict digraph  {
+idMomNote1 [node_type=entity_node, root=root];
+idMom1;
+true;
+idBackyardDoor1idLivingRoom1FrontOpening;
+idMomNote1 -> idMom1  [edge_type=property, label=idMomNote1_prop_idOwnedBy];
+idMomNote1 -> true  [edge_type=property, label=idMomNote1_prop_idUnknownObject];
+idMomNote1 -> idBackyardDoor1idLivingRoom1FrontOpening  [edge_type=relationship, label=isSouthOf];
+}

@@ -1,0 +1,27 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/synthesized/micrograph/bad_MRS.dot
+[ TOP: h13
+  INDEX: e10
+  RELS: < [ unknown LBL: h12 ARG: x6 ARG0: e10 ]
+          [ _the_q LBL: h9 ARG0: x6 RSTR: h7 BODY: h8 ]
+          [ _blue_a_1 LBL: h2 ARG0: i3 ARG1: x6 ]
+          [ _red_a_1 LBL: h2 ARG0: i0 ARG1: x6 ] >
+  HCONS: < h7 qeq h2 h13 qeq h12 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node    MRS Produced    Reason                 Included in MRS    Reason
+------  --------------  ---------------------  -----------------  ---------------
+blue_2  True            MRS fragment produced  True               Included in MRS
+red_1   True            MRS fragment produced  True               Included in MRS
+
+Edge     MRS Composed    Reason        Included in MRS    Reason
+-------  --------------  ------------  -----------------  ---------------
+color_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

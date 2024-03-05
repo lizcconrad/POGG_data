@@ -1,0 +1,106 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idMan1_subgraph.dot
+[ TOP: h791
+  INDEX: e788
+  RELS: < [ unknown LBL: h790 ARG: x784 ARG0: e788 ]
+          [ def_udef_a_q LBL: h787 ARG0: x784 RSTR: h785 BODY: h786 ]
+          [ _familiar_a_with LBL: h783 ARG0: e780 ARG1: x784 ARG2: u782 ]
+          [ _immovable_a_1 LBL: h783 ARG0: e774 ARG1: x784 ]
+          [ _un-_a_neg LBL: h783 ARG0: i759 ARG1: e762 ]
+          [ _know_v_1 LBL: h783 ARG0: e762 ARG1: u763 ARG2: x784 ]
+          [ _man_n_1 LBL: h783 ARG0: x784 ] >
+  HCONS: < h785 qeq h783 h791 qeq h790 > ]
+GENERATED RESULTS ... 
+An unknown immovable familiar man
+The unknown immovable familiar man
+The familiar immovable unknown man
+The familiar immovable unknown men
+The unknown immovable familiar men
+A familiar immovable unknown man
+An immovable familiar unknown man
+An unknown familiar immovable man
+The immovable familiar unknown man
+The immovable familiar unknown men
+The unknown familiar immovable man
+The familiar immovable unknown men.
+The unknown immovable familiar men.
+The unknown familiar immovable men
+Unknown familiar immovable man
+Unknown immovable familiar man
+An unknown immovable familiar man.
+The familiar immovable unknown man.
+The immovable familiar unknown men.
+The unknown immovable familiar man.
+Unknown immovable familiar men
+Familiar immovable unknown man
+Familiar immovable unknown men
+A familiar immovable unknown man.
+An immovable familiar unknown man.
+The immovable familiar unknown man.
+Immovable familiar unknown man
+Immovable familiar unknown men
+An immovable unknown familiar man
+Unknown familiar immovable men
+The immovable unknown familiar man
+Unknown immovable familiar men.
+Familiar immovable unknown men.
+The familiar unknown immovable man
+The immovable unknown familiar men
+Familiar unknown immovable man
+Immovable familiar unknown man
+Immovable familiar unknown men.
+The familiar unknown immovable men
+Unknown immovable familiar man.
+A familiar unknown immovable man
+Familiar immovable unknown man.
+The unknown familiar immovable men.
+Immovable unknown familiar man
+The immovable unknown familiar men.
+Immovable unknown familiar men
+Immovable familiar unknown man.
+An unknown familiar immovable man.
+The unknown familiar immovable man.
+Familiar unknown immovable men
+Unknown familiar immovable man
+An immovable unknown familiar man.
+The immovable unknown familiar man.
+Familiar immovable unknown man
+Immovable familiar unknown man.
+Immovable unknown familiar men.
+Immovable unknown familiar man
+Unknown immovable familiar man
+Unknown familiar immovable men.
+Immovable unknown familiar man.
+Unknown familiar immovable man.
+The familiar unknown immovable men.
+Familiar unknown immovable man
+Familiar immovable unknown man.
+The familiar unknown immovable man.
+Familiar unknown immovable men.
+Immovable unknown familiar man.
+Unknown immovable familiar man.
+A familiar unknown immovable man.
+Familiar unknown immovable man.
+Unknown familiar immovable man.
+Familiar unknown immovable man.
+
+TOTAL RESULTS: 72
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  ---------------
+familiar_2  True            MRS fragment produced  True               Included in MRS
+idMan_1     True            MRS fragment produced  True               Included in MRS
+true_2      True            MRS fragment produced  True               Included in MRS
+yes_2       True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idDescriptor__3    True            MRS composed  True               Included in MRS
+idImmovable_2      True            MRS composed  True               Included in MRS
+idUnknownObject_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4           1
+Nodes              Included             4        4           1
+Edges              Produced             3        3           1
+Edges              Included             3        3           1

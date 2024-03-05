@@ -1,0 +1,15 @@
+strict digraph  {
+idBaby1 [node_type=entity_node, root=root];
+0;
+babyDoNothing;
+false;
+idBed1;
+true;
+idKitchen1RightOpening;
+idBaby1 -> 0  [edge_type=property, label=idBaby1_prop_idCryTurns];
+idBaby1 -> babyDoNothing  [edge_type=property, label=idBaby1_prop_idTask];
+idBaby1 -> false  [edge_type=property, label=idBaby1_prop_idSeen];
+idBaby1 -> idBed1  [edge_type=relationship, label=isWestOf];
+idBed1 -> true  [edge_type=property, label=idBed1_prop_idUnknownObject];
+idBed1 -> idKitchen1RightOpening  [edge_type=relationship, label=isEastOf];
+}

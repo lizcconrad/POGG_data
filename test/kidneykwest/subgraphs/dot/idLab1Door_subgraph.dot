@@ -1,0 +1,7 @@
+strict digraph  {
+idLab1Door [node_type=entity_node, root=root];
+white;
+open;
+idLab1Door -> white  [edge_type=property, label=idLab1Door_prop_idColor];
+idLab1Door -> open  [edge_type=property, label=idLab1Door_prop_idOpenState];
+}

@@ -1,0 +1,11 @@
+strict digraph  {
+idFlashlight1 [node_type=entity_node, root=root];
+yellow;
+off;
+unlit;
+idLockFace2;
+idFlashlight1 -> yellow  [edge_type=property, label=idFlashlight1_prop_idColor];
+idFlashlight1 -> off  [edge_type=property, label=idFlashlight1_prop_idPowerState];
+idFlashlight1 -> unlit  [edge_type=property, label=idFlashlight1_prop_idLitState];
+idFlashlight1 -> idLockFace2  [edge_type=relationship, label=isSouthOf];
+}

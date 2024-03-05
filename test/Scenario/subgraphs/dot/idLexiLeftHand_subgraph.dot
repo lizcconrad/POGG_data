@@ -1,0 +1,13 @@
+strict digraph  {
+idLexiLeftHand [node_type=entity_node, root=root];
+left;
+idGreenRoomBackOpeningDoor;
+closed;
+locked;
+idLexiRightHand;
+idLexiLeftHand -> left  [edge_type=property, label=idLexiLeftHand_prop_idSide];
+idLexiLeftHand -> idGreenRoomBackOpeningDoor  [edge_type=relationship, label=isNorthOf];
+idGreenRoomBackOpeningDoor -> closed  [edge_type=property, label=idGreenRoomBackOpeningDoor_prop_idOpenState];
+idGreenRoomBackOpeningDoor -> locked  [edge_type=property, label=idGreenRoomBackOpeningDoor_prop_idLockedState];
+idGreenRoomBackOpeningDoor -> idLexiRightHand  [edge_type=relationship, label=isSouthOf];
+}

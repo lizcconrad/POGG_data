@@ -1,0 +1,9 @@
+strict digraph  {
+idTutorialRoom1FrontOpening [node_type=entity_node];
+idTutorialRoom1Door [node_type=entity_node];
+idGameRoom1 [node_type=entity_node];
+idGameRoom1BackOpening [node_type=entity_node];
+idTutorialRoom1FrontOpening -> idTutorialRoom1Door  [edge_type=relationship, label=isSouthOf];
+idTutorialRoom1FrontOpening -> idGameRoom1  [edge_type=relationship, label=isSouthOf];
+idTutorialRoom1FrontOpening -> idGameRoom1BackOpening  [edge_type=relationship, label=isSouthOf];
+}

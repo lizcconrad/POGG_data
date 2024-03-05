@@ -1,0 +1,7 @@
+strict digraph  {
+idTorch1 [node_type=entity_node, root=root];
+yes;
+idThroneRoom1;
+idTorch1 -> yes  [edge_type=property, label=idTorch1_prop_idImmovable];
+idTorch1 -> idThroneRoom1  [edge_type=relationship, label=isNear];
+}

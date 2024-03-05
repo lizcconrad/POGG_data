@@ -1,0 +1,9 @@
+strict digraph  {
+idMan1 [node_type=entity_node, root=root];
+true;
+yes;
+familiar;
+idMan1 -> true  [edge_type=property, label=idMan1_prop_idUnknownObject];
+idMan1 -> yes  [edge_type=property, label=idMan1_prop_idImmovable];
+idMan1 -> familiar  [edge_type=property, label=idMan1_prop_idDescriptor_1];
+}

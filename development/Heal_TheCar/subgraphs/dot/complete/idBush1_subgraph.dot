@@ -1,0 +1,7 @@
+strict digraph  {
+idBush1 [node_type=entity_node, root=root];
+green;
+yes;
+idBush1 -> green  [edge_type=property, label=idBush1_prop_idColor];
+idBush1 -> yes  [edge_type=property, label=idBush1_prop_idImmovable];
+}

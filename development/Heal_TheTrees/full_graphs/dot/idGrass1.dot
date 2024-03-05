@@ -1,0 +1,32 @@
+digraph  {
+idGrass1 [node_type=entity_node];
+tall [node_type=property_node];
+green [node_type=property_node];
+uncountable [node_type=property_node];
+idClearing1 [node_type=entity_node];
+idTheTrees1 [node_type=entity_node];
+idPlayer [node_type=entity_node];
+idBranch1 [node_type=entity_node];
+idGlowingArea1 [node_type=entity_node];
+idGlowingGrass1 [node_type=entity_node];
+idCave1 [node_type=entity_node];
+idRockyArea1 [node_type=entity_node];
+idBottle1 [node_type=entity_node];
+idPebble1 [node_type=entity_node];
+idRockPile1 [node_type=entity_node];
+idGrass1 -> tall  [edge_type=property, label=idGrass1_prop_idHeight];
+idGrass1 -> green  [edge_type=property, label=idGrass1_prop_idColor];
+idGrass1 -> uncountable  [edge_type=property, label=idGrass1_prop_idArticleType];
+idGrass1 -> idClearing1  [edge_type=relationship, label=isNear];
+idGrass1 -> idTheTrees1  [edge_type=relationship, label=isInsideOf];
+idGrass1 -> idPlayer  [edge_type=relationship, label=isNear];
+idGrass1 -> idGrass1  [edge_type=relationship, label=isNear];
+idGrass1 -> idBranch1  [edge_type=relationship, label=isNear];
+idGrass1 -> idGlowingArea1  [edge_type=relationship, label=isNorthOf];
+idGrass1 -> idGlowingGrass1  [edge_type=relationship, label=isNorthOf];
+idGrass1 -> idCave1  [edge_type=relationship, label=isSouthOf];
+idGrass1 -> idRockyArea1  [edge_type=relationship, label=isEastOf];
+idGrass1 -> idBottle1  [edge_type=relationship, label=isEastOf];
+idGrass1 -> idPebble1  [edge_type=relationship, label=isEastOf];
+idGrass1 -> idRockPile1  [edge_type=relationship, label=isEastOf];
+}

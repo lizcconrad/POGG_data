@@ -1,0 +1,13 @@
+strict digraph  {
+idBumper1 [node_type=entity_node, root=root];
+idCarKey1;
+black;
+true;
+idTheCar1;
+idPlayer;
+idBumper1 -> idTheCar1  [edge_type=relationship, label=isInsideOf];
+idBumper1 -> idCarKey1  [edge_type=relationship, label=isNear];
+idCarKey1 -> black  [edge_type=property, label=idCarKey1_prop_idColor];
+idCarKey1 -> true  [edge_type=property, label=idCarKey1_prop_idUnknownObject];
+idTheCar1 -> idPlayer  [edge_type=relationship, label=isNear];
+}

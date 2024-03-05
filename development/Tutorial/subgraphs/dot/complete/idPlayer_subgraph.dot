@@ -1,0 +1,6 @@
+digraph  {
+idPlayer [node_type=entity_node, root=root];
+idTutorialRoom1FrontOpening;
+idPlayer -> idPlayer  [edge_type=relationship, label=isNear];
+idPlayer -> idTutorialRoom1FrontOpening  [edge_type=relationship, label=isSouthOf];
+}

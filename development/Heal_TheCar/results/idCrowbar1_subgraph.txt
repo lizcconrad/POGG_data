@@ -1,0 +1,59 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idCrowbar1_subgraph.dot
+[ TOP: h699
+  INDEX: e696
+  RELS: < [ unknown LBL: h698 ARG: x692 ARG0: e696 ]
+          [ def_udef_a_q LBL: h695 ARG0: x692 RSTR: h693 BODY: h694 ]
+          [ loc_nonsp LBL: h619 ARG0: i688 ARG1: x692 ARG2: x675 ]
+          [ _un-_a_neg LBL: h619 ARG0: i617 ARG1: e620 ]
+          [ _know_v_1 LBL: h619 ARG0: e620 ARG1: u621 ARG2: x692 ]
+          [ _cool_a_1 LBL: h619 ARG0: e609 ARG1: x692 ARG2: i611 ]
+          [ _black_a_1 LBL: h619 ARG0: i606 ARG1: x692 ]
+          [ _crowbar_n_1 LBL: h619 ARG0: x692 ]
+          [ def_implicit_q LBL: h687 ARG0: x675 RSTR: h685 BODY: h686 ]
+          [ _east_a_1 LBL: h683 ARG0: i674 ARG1: x675 ARG2: x628 ]
+          [ def_udef_a_q LBL: h681 ARG0: x628 RSTR: h679 BODY: h680 ]
+          [ loc_nonsp LBL: h629 ARG0: i670 ARG1: x628 ARG2: x666 ]
+          [ _chop_v_1 LBL: h629 ARG0: e640 ARG1: i641 ARG2: x628 ]
+          [ _immovable_a_1 LBL: h629 ARG0: e634 ARG1: x628 ]
+          [ _stump_n_1 LBL: h629 ARG0: x628 ]
+          [ def_implicit_q LBL: h669 ARG0: x666 RSTR: h667 BODY: h668 ]
+          [ _west_a_1 LBL: h665 ARG0: i656 ARG1: x666 ARG2: x644 ]
+          [ def_udef_a_q LBL: h663 ARG0: x644 RSTR: h661 BODY: h662 ]
+          [ compound LBL: h655 ARG0: e652 ARG1: x644 ARG2: x646 ]
+          [ udef_q LBL: h651 ARG0: x646 RSTR: h649 BODY: h650 ]
+          [ _side_n_1 LBL: h647 ARG0: x646 ]
+          [ _mirror_n_1 LBL: h655 ARG0: x644 ]
+          [ place_n LBL: h665 ARG0: x666 ]
+          [ place_n LBL: h683 ARG0: x675 ] >
+  HCONS: < h649 qeq h647 h661 qeq h655 h667 qeq h665 h679 qeq h629 h685 qeq h683 h693 qeq h619 h699 qeq h698 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node            MRS Produced    Reason                 Included in MRS    Reason
+--------------  --------------  ---------------------  -----------------  ---------------
+black_2         True            MRS fragment produced  True               Included in MRS
+chopped_3       True            MRS fragment produced  True               Included in MRS
+cool_2          True            MRS fragment produced  True               Included in MRS
+idCrowbar_1     True            MRS fragment produced  True               Included in MRS
+idSideMirror_3  True            MRS fragment produced  True               Included in MRS
+idStump_2       True            MRS fragment produced  True               Included in MRS
+true_2          True            MRS fragment produced  True               Included in MRS
+yes_3           True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idColor_1          True            MRS composed  True               Included in MRS
+idDescriptor_2     True            MRS composed  True               Included in MRS
+idDescriptor_5     True            MRS composed  True               Included in MRS
+idImmovable_4      True            MRS composed  True               Included in MRS
+idUnknownObject_3  True            MRS composed  True               Included in MRS
+isEastOf_4         True            MRS composed  True               Included in MRS
+isWestOf_6         True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             8        8           1
+Nodes              Included             8        8           1
+Edges              Produced             7        7           1
+Edges              Included             7        7           1

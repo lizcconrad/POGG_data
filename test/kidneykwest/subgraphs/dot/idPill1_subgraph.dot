@@ -1,0 +1,17 @@
+strict digraph  {
+idPill1 [node_type=entity_node, root=root];
+idDrawer1;
+closed;
+upper;
+idGoggles1;
+plastic;
+true;
+idCabin1Door;
+idPill1 -> idDrawer1  [edge_type=relationship, label=isNorthOf];
+idPill1 -> idGoggles1  [edge_type=relationship, label=isNorthOf];
+idDrawer1 -> closed  [edge_type=property, label=idDrawer1_prop_idOpenState];
+idDrawer1 -> upper  [edge_type=property, label=idDrawer1_prop_idVerticalArrangement];
+idDrawer1 -> idCabin1Door  [edge_type=relationship, label=isSouthOf];
+idGoggles1 -> plastic  [edge_type=property, label=idGoggles1_prop_idMaterial];
+idGoggles1 -> true  [edge_type=property, label=idGoggles1_prop_idUnknownObject];
+}

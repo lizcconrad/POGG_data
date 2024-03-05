@@ -1,0 +1,5 @@
+strict digraph  {
+idBoulder2 [node_type=entity_node, root=root];
+small;
+idBoulder2 -> small  [edge_type=property, label=idBoulder2_prop_idSize];
+}

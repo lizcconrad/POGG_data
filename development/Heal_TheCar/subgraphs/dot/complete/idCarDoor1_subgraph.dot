@@ -1,0 +1,9 @@
+strict digraph  {
+idCarDoor1 [node_type=entity_node, root=root];
+idCarDoorLock1;
+crumpled;
+closed;
+idCarDoor1 -> idCarDoorLock1  [edge_type=property, label=idCarDoor1_prop_idLockMechanism];
+idCarDoor1 -> crumpled  [edge_type=property, label=idCarDoor1_prop_idDescriptor_1];
+idCarDoor1 -> closed  [edge_type=property, label=idCarDoor1_prop_idOpenState];
+}

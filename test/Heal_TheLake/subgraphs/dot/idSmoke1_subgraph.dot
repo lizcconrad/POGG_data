@@ -1,0 +1,14 @@
+strict digraph  {
+idSmoke1 [node_type=entity_node, root=root];
+yes;
+idGrass1;
+green;
+uncountable;
+idBerry2;
+idSmoke1 -> yes  [edge_type=property, label=idSmoke1_prop_idImmovable];
+idSmoke1 -> idGrass1  [edge_type=relationship, label=isNorthOf];
+idSmoke1 -> idBerry2  [edge_type=relationship, label=isEastOf];
+idGrass1 -> green  [edge_type=property, label=idGrass1_prop_idColor];
+idGrass1 -> uncountable  [edge_type=property, label=idGrass1_prop_idArticleType];
+idBerry2 -> green  [edge_type=property, label=idBerry2_prop_idColor];
+}

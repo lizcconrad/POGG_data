@@ -1,0 +1,15 @@
+strict digraph  {
+idChip1 [node_type=entity_node, root=root];
+idpotato;
+salty;
+idCaptainsChair1;
+idleather;
+idCaptain1;
+idThroneRoom1LeftOpening;
+idChip1 -> idpotato  [edge_type=property, label=idChip1_prop_idMaterial];
+idChip1 -> salty  [edge_type=property, label=idChip1_prop_idSaltiness];
+idChip1 -> idThroneRoom1LeftOpening  [edge_type=relationship, label=isWestOf];
+idChip1 -> idCaptainsChair1  [edge_type=relationship, label=isNorthOf];
+idCaptainsChair1 -> idleather  [edge_type=property, label=idCaptainsChair1_prop_idMaterial];
+idCaptainsChair1 -> idCaptain1  [edge_type=property, label=idCaptainsChair1_prop_idOwnedBy];
+}

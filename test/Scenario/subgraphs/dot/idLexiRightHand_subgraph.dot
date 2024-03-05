@@ -1,0 +1,11 @@
+strict digraph  {
+idLexiRightHand [node_type=entity_node, root=root];
+right;
+idFlashlight2Switch;
+orange;
+on;
+idLexiRightHand -> right  [edge_type=property, label=idLexiRightHand_prop_idSide];
+idLexiRightHand -> idFlashlight2Switch  [edge_type=relationship, label=isNorthOf];
+idFlashlight2Switch -> orange  [edge_type=property, label=idFlashlight2Switch_prop_idColor];
+idFlashlight2Switch -> on  [edge_type=property, label=idFlashlight2Switch_prop_idPowerState];
+}

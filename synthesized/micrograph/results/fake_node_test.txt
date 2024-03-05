@@ -1,0 +1,48 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/synthesized/micrograph/fake_node_test.dot
+[ TOP: h72
+  INDEX: e69
+  RELS: < [ unknown LBL: h71 ARG: x46 ARG0: e69 ]
+          [ _the_q LBL: h68 ARG0: x46 RSTR: h66 BODY: h67 ]
+          [ _on_p_loc LBL: h47 ARG0: e57 ARG1: x46 ARG2: x52 ]
+          [ _the_q LBL: h64 ARG0: x52 RSTR: h62 BODY: h63 ]
+          [ _wooden_a_1 LBL: h56 ARG0: e54 ARG1: x52 ]
+          [ _table_n_1 LBL: h56 ARG0: x52 ]
+          [ _apple_n_1 LBL: h47 ARG0: x46 ] >
+  HCONS: < h62 qeq h56 h66 qeq h47 h72 qeq h71 > ]
+GENERATED RESULTS ... 
+The apples on the wooden tables
+The apples on the wooden table
+The apples on the wooden tables.
+The apple on the wooden tables
+The apples, on the wooden tables
+The apple, on the wooden tables
+The apples, on the wooden table
+The apple, on the wooden table
+The apple on the wooden table
+The apple on the wooden tables.
+The apples on the wooden table.
+The apple on the wooden table.
+
+TOTAL RESULTS: 12
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  -------------------------
+idApple_1  True            MRS fragment produced  True               Included in MRS
+idTable_2  True            MRS fragment produced  True               Included in MRS
+sweet_2    True            MRS fragment produced  False              Descends from failed edge
+wooden_3   True            MRS fragment produced  True               Included in MRS
+yellow_2   False           Node not in lexicon    False              Node not in lexicon
+
+Edge        MRS Composed    Reason                  Included in MRS    Reason
+----------  --------------  ----------------------  -----------------  ----------------------
+color_2     False           Inbound to failed node  False              Inbound to failed node
+flavor_1    False           Edge not in lexicon     False              Edge not in lexicon
+isOn_3      True            MRS composed            True               Included in MRS
+material_3  True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        5         0.8
+Nodes              Included             3        5         0.6
+Edges              Produced             2        4         0.5
+Edges              Included             2        4         0.5

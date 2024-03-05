@@ -1,0 +1,7 @@
+strict digraph  {
+idKeyBlue [node_type=entity_node, root=root];
+blue;
+true;
+idKeyBlue -> blue  [edge_type=property, label=idKeyBlue_prop_idColor];
+idKeyBlue -> true  [edge_type=property, label=idKeyBlue_prop_idUnknownObject];
+}

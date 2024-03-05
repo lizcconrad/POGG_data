@@ -1,0 +1,5 @@
+strict digraph  {
+idPlayer [node_type=entity_node, root=root];
+false;
+idPlayer -> false  [edge_type=property, label=idPlayer_prop_idBoulderMoved];
+}

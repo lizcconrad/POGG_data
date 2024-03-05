@@ -1,0 +1,9 @@
+strict digraph  {
+idMachineDoorHandle [node_type=entity_node, root=root];
+idMachineDoor;
+closed;
+locked;
+idMachineDoorHandle -> idMachineDoor  [edge_type=relationship, label=isNear];
+idMachineDoor -> closed  [edge_type=property, label=idMachineDoor_prop_idOpenState];
+idMachineDoor -> locked  [edge_type=property, label=idMachineDoor_prop_idLockedState];
+}

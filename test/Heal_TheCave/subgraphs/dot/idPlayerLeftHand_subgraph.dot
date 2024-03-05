@@ -1,0 +1,5 @@
+strict digraph  {
+idPlayerLeftHand [node_type=entity_node, root=root];
+idLocalLeft;
+idPlayerLeftHand -> idLocalLeft  [edge_type=property, label=idPlayerLeftHand_prop_idLocation];
+}

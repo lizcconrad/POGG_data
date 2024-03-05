@@ -1,0 +1,7 @@
+strict digraph  {
+idLot1 [node_type=entity_node, root=root];
+dusty;
+true;
+idLot1 -> dusty  [edge_type=property, label=idLot1_prop_idMaterial];
+idLot1 -> true  [edge_type=property, label=idLot1_prop_idUnknownObject];
+}

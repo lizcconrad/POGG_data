@@ -1,0 +1,11 @@
+strict digraph  {
+idBathroom1 [node_type=entity_node, root=root];
+messy;
+idDrawer2;
+false;
+closed;
+idBathroom1 -> messy  [edge_type=property, label=idBathroom1_prop_idDescriptor];
+idBathroom1 -> idDrawer2  [edge_type=relationship, label=isWestOf];
+idDrawer2 -> false  [edge_type=property, label=idDrawer2_prop_idImmovable];
+idDrawer2 -> closed  [edge_type=property, label=idDrawer2_prop_idOpenState];
+}

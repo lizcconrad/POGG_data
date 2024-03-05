@@ -1,0 +1,19 @@
+strict digraph  {
+idCavern4FrontOpening [node_type=entity_node, root=root];
+idCavern5;
+5;
+smelly;
+idDeerSkeleton1;
+white;
+old;
+idCavern6FrontOpening;
+idSpider1;
+idCavern4FrontOpening -> idCavern5  [edge_type=relationship, label=isSouthOf];
+idCavern4FrontOpening -> idDeerSkeleton1  [edge_type=relationship, label=isSouthOf];
+idCavern5 -> 5  [edge_type=property, label=idCavern5_prop_idOrdinality];
+idCavern5 -> smelly  [edge_type=property, label=idCavern5_prop_idDescriptor_2];
+idCavern5 -> idCavern6FrontOpening  [edge_type=relationship, label=isEastOf];
+idDeerSkeleton1 -> white  [edge_type=property, label=idDeerSkeleton1_prop_idColor];
+idDeerSkeleton1 -> old  [edge_type=property, label=idDeerSkeleton1_prop_idDescriptor];
+idDeerSkeleton1 -> idSpider1  [edge_type=relationship, label=isEastOf];
+}

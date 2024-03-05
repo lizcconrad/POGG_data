@@ -1,0 +1,5 @@
+strict digraph  {
+idMachineFrontOpening [node_type=entity_node];
+idMachineDoor [node_type=entity_node];
+idMachineFrontOpening -> idMachineDoor  [edge_type=relationship, label=isSouthOf];
+}

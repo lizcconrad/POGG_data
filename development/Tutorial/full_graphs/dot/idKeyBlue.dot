@@ -1,0 +1,22 @@
+digraph  {
+idKeyBlue [node_type=entity_node];
+blue [node_type=property_node];
+true [node_type=property_node];
+idDrawer1 [node_type=entity_node];
+idDesk1 [node_type=entity_node];
+idTutorialRoom1 [node_type=entity_node];
+idGameRoom1 [node_type=entity_node];
+idTutorialRoom1Door [node_type=entity_node];
+idGameRoom1BackOpening [node_type=entity_node];
+idTutorialRoom1FrontOpening [node_type=entity_node];
+idKeyBlue -> blue  [edge_type=property, label=idKeyBlue_prop_idColor];
+idKeyBlue -> true  [edge_type=property, label=idKeyBlue_prop_idUnknownObject];
+idKeyBlue -> idDrawer1  [edge_type=relationship, label=isNear];
+idKeyBlue -> idDesk1  [edge_type=relationship, label=isNear];
+idKeyBlue -> idTutorialRoom1  [edge_type=relationship, label=isNear];
+idKeyBlue -> idKeyBlue  [edge_type=relationship, label=isNear];
+idKeyBlue -> idGameRoom1  [edge_type=relationship, label=isSouthOf];
+idKeyBlue -> idTutorialRoom1Door  [edge_type=relationship, label=isSouthOf];
+idKeyBlue -> idGameRoom1BackOpening  [edge_type=relationship, label=isSouthOf];
+idKeyBlue -> idTutorialRoom1FrontOpening  [edge_type=relationship, label=isSouthOf];
+}

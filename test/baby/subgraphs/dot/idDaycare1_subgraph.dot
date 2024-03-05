@@ -1,0 +1,9 @@
+strict digraph  {
+idDaycare1 [node_type=entity_node, root=root];
+idBaby1;
+0;
+idNone;
+idDaycare1 -> idBaby1  [edge_type=relationship, label=isNear];
+idBaby1 -> 0  [edge_type=property, label=idBaby1_prop_idCryTurns];
+idBaby1 -> idNone  [edge_type=property, label=idBaby1_prop_idCrawlingRoom];
+}

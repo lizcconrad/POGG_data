@@ -1,0 +1,22 @@
+strict digraph  {
+idPassengerSeat [node_type=entity_node, root=root];
+idPassenger1;
+yes;
+true;
+idTable1;
+idmetal;
+modern;
+idBedroomToClosetDoor;
+open;
+idFrontDoor1;
+idPassengerSeat -> idPassenger1  [edge_type=property, label=idPassengerSeat_prop_idOwnedBy];
+idPassengerSeat -> yes  [edge_type=property, label=idPassengerSeat_prop_idImmovable];
+idPassengerSeat -> true  [edge_type=property, label=idPassengerSeat_prop_idUnknownObject];
+idPassengerSeat -> idTable1  [edge_type=relationship, label=isEastOf];
+idPassengerSeat -> idBedroomToClosetDoor  [edge_type=relationship, label=isWestOf];
+idTable1 -> idmetal  [edge_type=property, label=idTable1_prop_idMaterial];
+idTable1 -> modern  [edge_type=property, label=idTable1_prop_idShape];
+idBedroomToClosetDoor -> open  [edge_type=property, label=idBedroomToClosetDoor_prop_idOpenState];
+idBedroomToClosetDoor -> true  [edge_type=property, label=idBedroomToClosetDoor_prop_idUnknownObject];
+idBedroomToClosetDoor -> idFrontDoor1  [edge_type=relationship, label=isEastOf];
+}

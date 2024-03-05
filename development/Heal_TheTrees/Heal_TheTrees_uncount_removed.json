@@ -1,0 +1,151 @@
+{
+    "entityTypes": {
+        "idBottle": "_bottle_n_of",
+        "idBranch": "_branch_n_of",
+        "idCave": "_cave_n_1",
+        "idClearing": "_clearing_n_1",
+        "idGlowingArea": "_area_n_of",
+        "idGlowingFlower": "_flower_n_1",
+        "idGlowingGrass": "_grass_n_1",
+        "idGrass": "_grass_n_1",
+        "idPebble": "_pebble_n_1",
+        "idPlayer": "_player_n_of",
+        "idPlayerBackside": {
+            "composition": "possessive",
+            "predicates": {
+                "head": "_backside_n_1",
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerLeftHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_left_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerRightHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_right_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idRockPile": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_pile_n_of",
+                "modifier": "_rock_n_1"
+            }
+        },
+        "idRockyArea": "_area_n_of",
+        "idTheTrees": "_tree_n_1"
+    },
+    "propertyValues": {
+        "bright": "_bright_a_1",
+        "broken": "_break_v_cause",
+        "brown": "_brown_a_1",
+        "bumpy": "_bumpy_a_1",
+        "dark": "_dark_a_1",
+        "false": "_false_a_of",
+        "glowing": "_glow_v_1",
+        "grassy": "_grassy_a_1",
+        "green": "_green_a_2",
+        "grey": "_grey_a_1",
+        "idLocalLeft": "_left_n_of",
+        "right": "_right_n_of",
+        "rocky": "_rocky_a_1",
+        "sharp": "_sharp_a_1",
+        "shiny": "_shiny_a_1",
+        "smooth": "_smooth_a_1",
+        "tall": "_tall_a_1",
+        "true": "_true_a_of",
+        "uncountable": "",
+        "yes": "_true_a_of"
+    },
+    "properties": {
+        "idDescriptor": "descriptor",
+        "idBottleFound": "",
+        "idHeight": "adjective",
+        "idColor": "adjective",
+        "idArticleType": "descriptor",
+        "idImmovable": {
+            "composition": "boolean",
+            "property_predicate": {
+                "predicate_type": "boolean_adjective_ssement",
+                "predicate_label": ["_immovable_a_1", "_movable_a_1"]
+            }
+        },
+        "idIntegrity": "descriptor",
+        "idDescriptor_": "descriptor",
+        "idTint": "adjective",
+        "idLocation": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_on_p_loc"
+            }
+        },
+        "idUnknownObject": {
+            "composition": "boolean",
+            "property_predicate": {
+                "predicate_type": "boolean_pass_part_ssement",
+                "predicate_label": [["_un-_a_neg", "_know_v_1"], "_know_v_1"]
+            }
+        },
+        "isEastOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_east_a_1"
+            }
+        },
+        "isInsideOf": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_inside+of_p"
+            }
+        },
+        "isNear": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_near_p"
+            }
+        },
+        "isNorthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_north_a_1"
+            }
+        },
+        "isSouthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_south_a_1"
+            }
+        },
+        "isWestOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_west_a_1"
+            }
+        }
+    }
+}

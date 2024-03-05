@@ -1,0 +1,11 @@
+strict digraph  {
+idWorker1LeftHand [node_type=entity_node, root=root];
+idLocalLeft;
+idWorker1;
+true;
+idDaycare1;
+idWorker1LeftHand -> idLocalLeft  [edge_type=property, label=idWorker1LeftHand_prop_idLocation];
+idWorker1LeftHand -> idWorker1  [edge_type=relationship, label=isNear];
+idWorker1 -> true  [edge_type=property, label=idWorker1_prop_idUnknownObject];
+idWorker1 -> idDaycare1  [edge_type=relationship, label=isNear];
+}

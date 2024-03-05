@@ -1,0 +1,14 @@
+strict digraph  {
+idTheTrees1 [node_type=entity_node, root=root];
+idGlowingArea1;
+glowing;
+idPlayer;
+false;
+idClearing1;
+idTheTrees1 -> idGlowingArea1  [edge_type=relationship, label=isNear];
+idTheTrees1 -> idPlayer  [edge_type=relationship, label=isNear];
+idGlowingArea1 -> glowing  [edge_type=property, label=idGlowingArea1_prop_idDescriptor];
+idGlowingArea1 -> idTheTrees1  [edge_type=relationship, label=isInsideOf];
+idPlayer -> false  [edge_type=property, label=idPlayer_prop_idBottleFound];
+idPlayer -> idClearing1  [edge_type=relationship, label=isNear];
+}

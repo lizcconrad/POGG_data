@@ -1,0 +1,15 @@
+strict digraph  {
+idDog1 [node_type=entity_node, root=root];
+black;
+0;
+idMachine1;
+off;
+idThing;
+idHamburger1;
+idDog1 -> black  [edge_type=property, label=idDog1_prop_idColor];
+idDog1 -> 0  [edge_type=property, label=idDog1_prop_idEatingFoodTurnsRemaining];
+idDog1 -> idMachine1  [edge_type=relationship, label=isWestOf];
+idMachine1 -> off  [edge_type=property, label=idMachine1_prop_idPowerState];
+idMachine1 -> idThing  [edge_type=property, label=idMachine1_prop_idButtonsPushed];
+idMachine1 -> idHamburger1  [edge_type=relationship, label=isNorthOf];
+}

@@ -1,0 +1,11 @@
+strict digraph  {
+idLexi [node_type=entity_node, root=root];
+idMachine1;
+off;
+idOnSwitch1;
+idDiamond1;
+idLexi -> idMachine1  [edge_type=relationship, label=isNorthOf];
+idLexi -> idDiamond1  [edge_type=relationship, label=isNear];
+idMachine1 -> off  [edge_type=property, label=idMachine1_prop_idPowerState];
+idMachine1 -> idOnSwitch1  [edge_type=property, label=idMachine1_prop_idPowerControl];
+}

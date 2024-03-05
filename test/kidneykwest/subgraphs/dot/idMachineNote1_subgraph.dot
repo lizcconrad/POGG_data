@@ -1,0 +1,11 @@
+strict digraph  {
+idMachineNote1 [node_type=entity_node, root=root];
+true;
+idCabin1Door;
+blue;
+open;
+idMachineNote1 -> true  [edge_type=property, label=idMachineNote1_prop_idUnknownObject];
+idMachineNote1 -> idCabin1Door  [edge_type=relationship, label=isSouthOf];
+idCabin1Door -> blue  [edge_type=property, label=idCabin1Door_prop_idColor];
+idCabin1Door -> open  [edge_type=property, label=idCabin1Door_prop_idOpenState];
+}

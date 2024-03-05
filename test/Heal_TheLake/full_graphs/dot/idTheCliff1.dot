@@ -1,0 +1,37 @@
+strict digraph  {
+idTheCliff1 [node_type=entity_node];
+idTheBushes1 [node_type=entity_node];
+idMeadow1 [node_type=entity_node];
+idMarsh1 [node_type=entity_node];
+idArea1 [node_type=entity_node];
+idPlayer [node_type=entity_node];
+idBush1 [node_type=entity_node];
+idBush2 [node_type=entity_node];
+idTree1 [node_type=entity_node];
+idBerry1 [node_type=entity_node];
+idBerry2 [node_type=entity_node];
+idBerry3 [node_type=entity_node];
+idGrass1 [node_type=entity_node];
+idDeer1 [node_type=entity_node];
+idLog1 [node_type=entity_node];
+idFrog1 [node_type=entity_node];
+idMoss1 [node_type=entity_node];
+idBranch1 [node_type=entity_node];
+idTheCliff1 -> idTheBushes1  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idMeadow1  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idMarsh1  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idArea1  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idPlayer  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idBush1  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idBush2  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idTree1  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idBerry1  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idBerry2  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idBerry3  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idGrass1  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idDeer1  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idLog1  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idFrog1  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idMoss1  [edge_type=relationship, label=isNear];
+idTheCliff1 -> idBranch1  [edge_type=relationship, label=isNear];
+}

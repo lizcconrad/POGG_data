@@ -1,0 +1,5 @@
+strict digraph  {
+idMachineRoom [node_type=entity_node, root=root];
+red;
+idMachineRoom -> red  [edge_type=property, label=idMachineRoom_prop_idColor];
+}

@@ -1,0 +1,21 @@
+strict digraph  {
+idCavern5 [node_type=entity_node, root=root];
+cold;
+5;
+ominous;
+idPlayerRightHand;
+right;
+idGrass1;
+green;
+uncountable;
+idCavern4BackOpening;
+idCavern5 -> cold  [edge_type=property, label=idCavern5_prop_idDescriptor_1];
+idCavern5 -> 5  [edge_type=property, label=idCavern5_prop_idOrdinality];
+idCavern5 -> ominous  [edge_type=property, label=idCavern5_prop_idDescriptor];
+idCavern5 -> idPlayerRightHand  [edge_type=relationship, label=isNorthOf];
+idCavern5 -> idGrass1  [edge_type=relationship, label=isEastOf];
+idPlayerRightHand -> right  [edge_type=property, label=idPlayerRightHand_prop_idLocation];
+idPlayerRightHand -> idCavern4BackOpening  [edge_type=relationship, label=isSouthOf];
+idGrass1 -> green  [edge_type=property, label=idGrass1_prop_idColor];
+idGrass1 -> uncountable  [edge_type=property, label=idGrass1_prop_idArticleType];
+}

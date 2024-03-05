@@ -1,0 +1,17 @@
+strict digraph  {
+idCavern7BackOpening [node_type=entity_node, root=root];
+idCavern3;
+strange;
+3;
+idSpiderWeb1;
+white;
+false;
+idTheCave1;
+idCavern7BackOpening -> idCavern3  [edge_type=relationship, label=isWestOf];
+idCavern7BackOpening -> idSpiderWeb1  [edge_type=relationship, label=isNorthOf];
+idCavern3 -> strange  [edge_type=property, label=idCavern3_prop_idDescriptor];
+idCavern3 -> 3  [edge_type=property, label=idCavern3_prop_idOrdinality];
+idSpiderWeb1 -> white  [edge_type=property, label=idSpiderWeb1_prop_idColor];
+idSpiderWeb1 -> false  [edge_type=property, label=idSpiderWeb1_prop_idWebTouched];
+idSpiderWeb1 -> idTheCave1  [edge_type=relationship, label=isInsideOf];
+}

@@ -1,0 +1,31 @@
+strict digraph  {
+idTutorialRoom1Door [node_type=entity_node];
+closed [node_type=property_node];
+idTutorialRoom1DoorLock [node_type=property_node];
+idTutorialRoom1FrontOpening [node_type=entity_node];
+idGameRoom1BackOpening [node_type=entity_node];
+idSign1 [node_type=entity_node];
+idTutorialRoom1 [node_type=entity_node];
+idDesk1 [node_type=entity_node];
+idDrawer1 [node_type=entity_node];
+idKeyBlue [node_type=entity_node];
+idPlayer [node_type=entity_node];
+idPlayerBackside [node_type=entity_node];
+idPlayerLeftHand [node_type=entity_node];
+idPlayerRightHand [node_type=entity_node];
+idGameRoom1 [node_type=entity_node];
+idTutorialRoom1Door -> closed  [edge_type=property, label=idTutorialRoom1Door_prop_idOpenState];
+idTutorialRoom1Door -> idTutorialRoom1DoorLock  [edge_type=property, label=idTutorialRoom1Door_prop_idLockMechanism];
+idTutorialRoom1Door -> idTutorialRoom1FrontOpening  [edge_type=relationship, label=isNorthOf];
+idTutorialRoom1Door -> idGameRoom1BackOpening  [edge_type=relationship, label=isSouthOf];
+idTutorialRoom1Door -> idSign1  [edge_type=relationship, label=isNear];
+idTutorialRoom1Door -> idTutorialRoom1  [edge_type=relationship, label=isNorthOf];
+idTutorialRoom1Door -> idDesk1  [edge_type=relationship, label=isNorthOf];
+idTutorialRoom1Door -> idDrawer1  [edge_type=relationship, label=isNorthOf];
+idTutorialRoom1Door -> idKeyBlue  [edge_type=relationship, label=isNorthOf];
+idTutorialRoom1Door -> idPlayer  [edge_type=relationship, label=isNorthOf];
+idTutorialRoom1Door -> idPlayerBackside  [edge_type=relationship, label=isNorthOf];
+idTutorialRoom1Door -> idPlayerLeftHand  [edge_type=relationship, label=isNorthOf];
+idTutorialRoom1Door -> idPlayerRightHand  [edge_type=relationship, label=isNorthOf];
+idTutorialRoom1Door -> idGameRoom1  [edge_type=relationship, label=isSouthOf];
+}

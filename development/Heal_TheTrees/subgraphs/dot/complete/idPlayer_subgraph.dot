@@ -1,0 +1,15 @@
+strict digraph  {
+idPlayer [node_type=entity_node, root=root];
+false;
+idRockyArea1;
+rocky;
+idBottle1;
+shiny;
+brown;
+idPlayer -> false  [edge_type=property, label=idPlayer_prop_idBottleFound];
+idPlayer -> idRockyArea1  [edge_type=relationship, label=isEastOf];
+idPlayer -> idBottle1  [edge_type=relationship, label=isEastOf];
+idRockyArea1 -> rocky  [edge_type=property, label=idRockyArea1_prop_idDescriptor];
+idBottle1 -> shiny  [edge_type=property, label=idBottle1_prop_idDescriptor_1];
+idBottle1 -> brown  [edge_type=property, label=idBottle1_prop_idColor];
+}

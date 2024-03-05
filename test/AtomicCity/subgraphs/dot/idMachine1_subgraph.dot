@@ -1,0 +1,11 @@
+strict digraph  {
+idMachine1 [node_type=entity_node, root=root];
+idOnSwitch1;
+yes;
+off;
+idElevatorOpening;
+idMachine1 -> idOnSwitch1  [edge_type=property, label=idMachine1_prop_idPowerControl];
+idMachine1 -> yes  [edge_type=property, label=idMachine1_prop_idImmovable];
+idMachine1 -> off  [edge_type=property, label=idMachine1_prop_idPowerState];
+idMachine1 -> idElevatorOpening  [edge_type=relationship, label=isNorthOf];
+}

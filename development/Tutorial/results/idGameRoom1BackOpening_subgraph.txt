@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Tutorial/subgraphs/dot/complete/idGameRoom1BackOpening_subgraph.dot
+[ TOP: h339
+  INDEX: e336
+  RELS: < [ unknown LBL: h338 ARG: x332 ARG0: e336 ]
+          [ def_udef_a_q LBL: h335 ARG0: x332 RSTR: h333 BODY: h334 ]
+          [ compound LBL: h321 ARG0: e328 ARG1: x332 ARG2: x322 ]
+          [ udef_q LBL: h327 ARG0: x322 RSTR: h325 BODY: h326 ]
+          [ _back_n_1 LBL: h323 ARG0: x322 ]
+          [ _opening_n_1 LBL: h321 ARG0: x332 ] >
+  HCONS: < h325 qeq h323 h333 qeq h321 h339 qeq h338 > ]
+GENERATED RESULTS ... 
+The back openings
+The back opening
+A back opening
+The back openings.
+Back openings.
+Back openings
+Back opening
+The back opening.
+A back opening.
+The backed, openings.
+Backed, opening
+The backed, openings
+Backed, openings.
+The backed, opening
+A backed, opening
+Backed, openings
+The backed opening
+Back opening.
+Backed openings
+Backed, opening.
+The backed, opening.
+A backed opening
+A backed, opening.
+The backed openings
+The backed openings.
+Backed openings.
+Backed opening
+The backed opening.
+A backed opening.
+Backed opening.
+
+TOTAL RESULTS: 30
+
+Node                      MRS Produced    Reason                 Included in MRS    Reason
+------------------------  --------------  ---------------------  -----------------  ---------------
+idGameRoom1BackOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

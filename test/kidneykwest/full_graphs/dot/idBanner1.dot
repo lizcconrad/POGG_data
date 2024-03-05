@@ -1,0 +1,7 @@
+strict digraph  {
+idBanner1 [node_type=entity_node];
+red [node_type=property_node];
+idFairyWorldLobby1 [node_type=entity_node];
+idBanner1 -> red  [edge_type=property, label=idBanner1_prop_idColor];
+idBanner1 -> idFairyWorldLobby1  [edge_type=relationship, label=isNear];
+}

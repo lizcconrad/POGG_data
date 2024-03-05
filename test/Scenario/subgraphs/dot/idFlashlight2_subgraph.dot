@@ -1,0 +1,15 @@
+strict digraph  {
+idFlashlight2 [node_type=entity_node, root=root];
+idFlashlight2Switch;
+on;
+orange;
+idGreenRoomBackOpening;
+medium;
+idSafe2;
+idFlashlight2 -> idFlashlight2Switch  [edge_type=property, label=idFlashlight2_prop_idPowerControl];
+idFlashlight2 -> on  [edge_type=property, label=idFlashlight2_prop_idPowerState];
+idFlashlight2 -> orange  [edge_type=property, label=idFlashlight2_prop_idColor];
+idFlashlight2 -> idGreenRoomBackOpening  [edge_type=relationship, label=isSouthOf];
+idFlashlight2 -> idSafe2  [edge_type=relationship, label=isSouthOf];
+idGreenRoomBackOpening -> medium  [edge_type=property, label=idGreenRoomBackOpening_prop_idHeight];
+}

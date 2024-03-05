@@ -1,0 +1,13 @@
+strict digraph  {
+idLongHallwayLeftOpening [node_type=entity_node, root=root];
+idLongHallwayFrontOpeningDoor;
+idLongHallwayFrontOpeningDoorLock;
+closed;
+idPipe1;
+idLongHallwayFrontOpening;
+idLongHallwayLeftOpening -> idLongHallwayFrontOpeningDoor  [edge_type=relationship, label=isSouthOf];
+idLongHallwayLeftOpening -> idPipe1  [edge_type=relationship, label=isNorthOf];
+idLongHallwayFrontOpeningDoor -> idLongHallwayFrontOpeningDoorLock  [edge_type=property, label=idLongHallwayFrontOpeningDoor_prop_idLockMechanism];
+idLongHallwayFrontOpeningDoor -> closed  [edge_type=property, label=idLongHallwayFrontOpeningDoor_prop_idOpenState];
+idLongHallwayFrontOpeningDoor -> idLongHallwayFrontOpening  [edge_type=relationship, label=isNorthOf];
+}

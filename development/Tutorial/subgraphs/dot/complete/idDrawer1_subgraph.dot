@@ -1,0 +1,17 @@
+strict digraph  {
+idDrawer1 [node_type=entity_node, root=root];
+closed;
+idKeyBlue;
+blue;
+true;
+idTutorialRoom1FrontOpening;
+idTutorialRoom1;
+idTutorialRoom1Door;
+idDrawer1 -> closed  [edge_type=property, label=idDrawer1_prop_idOpenState];
+idDrawer1 -> idKeyBlue  [edge_type=relationship, label=isBeneath];
+idDrawer1 -> idTutorialRoom1FrontOpening  [edge_type=relationship, label=isSouthOf];
+idKeyBlue -> blue  [edge_type=property, label=idKeyBlue_prop_idColor];
+idKeyBlue -> true  [edge_type=property, label=idKeyBlue_prop_idUnknownObject];
+idKeyBlue -> idTutorialRoom1  [edge_type=relationship, label=isNear];
+idTutorialRoom1FrontOpening -> idTutorialRoom1Door  [edge_type=relationship, label=isSouthOf];
+}

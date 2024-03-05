@@ -1,0 +1,11 @@
+strict digraph  {
+idPebble1 [node_type=entity_node, root=root];
+grey;
+smooth;
+idGlowingArea1;
+glowing;
+idPebble1 -> grey  [edge_type=property, label=idPebble1_prop_idColor];
+idPebble1 -> smooth  [edge_type=property, label=idPebble1_prop_idDescriptor];
+idPebble1 -> idGlowingArea1  [edge_type=relationship, label=isWestOf];
+idGlowingArea1 -> glowing  [edge_type=property, label=idGlowingArea1_prop_idDescriptor];
+}

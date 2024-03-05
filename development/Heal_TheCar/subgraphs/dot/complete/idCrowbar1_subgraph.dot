@@ -1,0 +1,17 @@
+strict digraph  {
+idCrowbar1 [node_type=entity_node, root=root];
+black;
+cool;
+true;
+idStump1;
+yes;
+chopped;
+idSideMirror1;
+idCrowbar1 -> black  [edge_type=property, label=idCrowbar1_prop_idColor];
+idCrowbar1 -> cool  [edge_type=property, label=idCrowbar1_prop_idDescriptor];
+idCrowbar1 -> true  [edge_type=property, label=idCrowbar1_prop_idUnknownObject];
+idCrowbar1 -> idStump1  [edge_type=relationship, label=isEastOf];
+idStump1 -> yes  [edge_type=property, label=idStump1_prop_idImmovable];
+idStump1 -> chopped  [edge_type=property, label=idStump1_prop_idDescriptor];
+idStump1 -> idSideMirror1  [edge_type=relationship, label=isWestOf];
+}

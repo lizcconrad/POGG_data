@@ -1,0 +1,11 @@
+strict digraph  {
+idPassengersSideFrontDoor [node_type=entity_node, root=root];
+idLocalFront;
+closed;
+true;
+idDriversSideFrontDoorInsideOpening;
+idPassengersSideFrontDoor -> idLocalFront  [edge_type=property, label=idPassengersSideFrontDoor_prop_idLocation];
+idPassengersSideFrontDoor -> closed  [edge_type=property, label=idPassengersSideFrontDoor_prop_idOpenState];
+idPassengersSideFrontDoor -> true  [edge_type=property, label=idPassengersSideFrontDoor_prop_idUnknownObject];
+idPassengersSideFrontDoor -> idDriversSideFrontDoorInsideOpening  [edge_type=relationship, label=isEastOf];
+}

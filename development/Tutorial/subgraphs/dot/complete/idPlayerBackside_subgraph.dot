@@ -1,0 +1,5 @@
+strict digraph  {
+idPlayerBackside [node_type=entity_node, root=root];
+idGameRoom1BackOpening;
+idPlayerBackside -> idGameRoom1BackOpening  [edge_type=relationship, label=isSouthOf];
+}

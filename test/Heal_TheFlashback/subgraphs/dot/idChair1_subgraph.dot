@@ -1,0 +1,7 @@
+strict digraph  {
+idChair1 [node_type=entity_node, root=root];
+wobbly;
+brown;
+idChair1 -> wobbly  [edge_type=property, label=idChair1_prop_idDescriptor];
+idChair1 -> brown  [edge_type=property, label=idChair1_prop_idColor];
+}

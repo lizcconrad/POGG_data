@@ -1,0 +1,5 @@
+strict digraph  {
+idElevatorSlotFacePlate [node_type=entity_node, root=root];
+locked;
+idElevatorSlotFacePlate -> locked  [edge_type=property, label=idElevatorSlotFacePlate_prop_idLockedState];
+}

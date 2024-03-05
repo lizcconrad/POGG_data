@@ -1,0 +1,5 @@
+strict digraph  {
+idMachineDoorHandle [node_type=entity_node];
+idMachineDoor [node_type=entity_node];
+idMachineDoorHandle -> idMachineDoor  [edge_type=relationship, label=isNear];
+}

@@ -1,0 +1,13 @@
+strict digraph  {
+idPlage [node_type=entity_node, root=root];
+2;
+idPlageBackOpening;
+short;
+open;
+idGreenRoom;
+idPlage -> 2  [edge_type=property, label=idPlage_prop_idOrdinality];
+idPlage -> idPlageBackOpening  [edge_type=relationship, label=isNorthOf];
+idPlageBackOpening -> short  [edge_type=property, label=idPlageBackOpening_prop_idHeight];
+idPlageBackOpening -> open  [edge_type=property, label=idPlageBackOpening_prop_idOpenState];
+idPlageBackOpening -> idGreenRoom  [edge_type=relationship, label=isNorthOf];
+}

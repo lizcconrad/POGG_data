@@ -1,0 +1,28 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheTrees/subgraphs/dot/current/clearing_test.dot
+[ TOP: h15
+  INDEX: e12
+  RELS: < [ unknown LBL: h14 ARG: e6 ARG0: e12 ]
+          [ def_udef_a_q LBL: h11 ARG0: e6 RSTR: h9 BODY: h10 ]
+          [ _un-_a_neg LBL: h4 ARG0: i5 ARG1: e6 ]
+          [ _countable_a_1 LBL: h4 ARG0: e2 ARG1: e6 ]
+          [ _grass_n_1 LBL: h4 ARG0: e6 ] >
+  HCONS: < h9 qeq h4 h15 qeq h14 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node              MRS Produced    Reason                 Included in MRS    Reason
+----------------  --------------  ---------------------  -----------------  ---------------
+idGlowingGrass_1  True            MRS fragment produced  True               Included in MRS
+uncountable_2     True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idArticleType_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

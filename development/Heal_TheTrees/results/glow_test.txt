@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheTrees/subgraphs/dot/current/glow_test.dot
+[ TOP: h12
+  INDEX: e9
+  RELS: < [ unknown LBL: h11 ARG: x5 ARG0: e9 ]
+          [ def_udef_a_q LBL: h8 ARG0: x5 RSTR: h6 BODY: h7 ]
+          [ _glow_v_1 LBL: h1 ARG0: e2 [ e PROG: bool ] ARG1: x5 ]
+          [ _grass_n_1 LBL: h1 ARG0: x5 ] >
+  HCONS: < h6 qeq h1 h12 qeq h11 > ]
+GENERATED RESULTS ... 
+The glowing grasses
+A grass glowing.
+The glowing grasses.
+Glowing grasses
+The grasses glowing.
+The glowing grass.
+The glowing grass
+Glowing grasses.
+The grass glowing.
+Grasses glowing.
+A glowing grass.
+A glowing grass
+Glowing grass
+Glowing grass.
+A grass, glowing.
+Grasses, glowing.
+The grasses, glowing.
+A grass glowing
+Grass, glowing.
+The grasses glowing
+The grass, glowing.
+Grass glowing.
+Glowing grass.
+The grass glowing
+Grass, glowing.
+Glowing grass
+Grasses glowing
+Grass glowing.
+Grass glowing
+Grass glowing
+
+TOTAL RESULTS: 30
+
+Node              MRS Produced    Reason                 Included in MRS    Reason
+----------------  --------------  ---------------------  -----------------  ---------------
+glowing_2         True            MRS fragment produced  True               Included in MRS
+idGlowingGrass_1  True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason        Included in MRS    Reason
+--------------  --------------  ------------  -----------------  ---------------
+idDescriptor_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

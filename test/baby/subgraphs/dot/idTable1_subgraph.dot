@@ -1,0 +1,14 @@
+strict digraph  {
+idTable1 [node_type=entity_node, root=root];
+yes;
+modern;
+idmetal;
+idDriverSeat;
+true;
+idTable1 -> yes  [edge_type=property, label=idTable1_prop_idImmovable];
+idTable1 -> modern  [edge_type=property, label=idTable1_prop_idShape];
+idTable1 -> idmetal  [edge_type=property, label=idTable1_prop_idMaterial];
+idTable1 -> idDriverSeat  [edge_type=relationship, label=isWestOf];
+idDriverSeat -> true  [edge_type=property, label=idDriverSeat_prop_idUnknownObject];
+idDriverSeat -> yes  [edge_type=property, label=idDriverSeat_prop_idImmovable];
+}

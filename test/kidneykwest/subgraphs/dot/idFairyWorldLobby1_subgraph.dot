@@ -1,0 +1,19 @@
+strict digraph  {
+idFairyWorldLobby1 [node_type=entity_node, root=root];
+white;
+idmarble;
+idButtonX;
+1;
+idPhosphateCrystal_idCarrot1;
+blue;
+true;
+idKelly1;
+idFairyWorldLobby1 -> white  [edge_type=property, label=idFairyWorldLobby1_prop_idColor];
+idFairyWorldLobby1 -> idmarble  [edge_type=property, label=idFairyWorldLobby1_prop_idMaterial];
+idFairyWorldLobby1 -> idButtonX  [edge_type=relationship, label=isSouthOf];
+idFairyWorldLobby1 -> idPhosphateCrystal_idCarrot1  [edge_type=relationship, label=isWestOf];
+idButtonX -> 1  [edge_type=property, label=idButtonX_prop_idOrdinality];
+idPhosphateCrystal_idCarrot1 -> blue  [edge_type=property, label=idPhosphateCrystal_idCarrot1_prop_idColor];
+idPhosphateCrystal_idCarrot1 -> true  [edge_type=property, label=idPhosphateCrystal_idCarrot1_prop_idUnknownObject];
+idPhosphateCrystal_idCarrot1 -> idKelly1  [edge_type=relationship, label=isEastOf];
+}

@@ -1,0 +1,13 @@
+strict digraph  {
+idFrontDoor1 [node_type=entity_node, root=root];
+closed;
+idFrontDoor1Lock;
+idPassengerSeat;
+idPassenger1;
+true;
+idFrontDoor1 -> closed  [edge_type=property, label=idFrontDoor1_prop_idOpenState];
+idFrontDoor1 -> idFrontDoor1Lock  [edge_type=property, label=idFrontDoor1_prop_idLockMechanism];
+idFrontDoor1 -> idPassengerSeat  [edge_type=relationship, label=isWestOf];
+idPassengerSeat -> idPassenger1  [edge_type=property, label=idPassengerSeat_prop_idOwnedBy];
+idPassengerSeat -> true  [edge_type=property, label=idPassengerSeat_prop_idUnknownObject];
+}

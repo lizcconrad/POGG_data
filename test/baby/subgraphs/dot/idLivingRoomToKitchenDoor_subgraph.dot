@@ -1,0 +1,12 @@
+strict digraph  {
+idLivingRoomToKitchenDoor [node_type=entity_node, root=root];
+open;
+true;
+idCloset1;
+idCar1;
+idLivingRoomToKitchenDoor -> open  [edge_type=property, label=idLivingRoomToKitchenDoor_prop_idOpenState];
+idLivingRoomToKitchenDoor -> true  [edge_type=property, label=idLivingRoomToKitchenDoor_prop_idUnknownObject];
+idLivingRoomToKitchenDoor -> idCloset1  [edge_type=relationship, label=isWestOf];
+idCloset1 -> true  [edge_type=property, label=idCloset1_prop_idUnknownObject];
+idCloset1 -> idCar1  [edge_type=relationship, label=isEastOf];
+}

@@ -1,0 +1,7 @@
+strict digraph  {
+idDock1 [node_type=entity_node, root=root];
+yes;
+true;
+idDock1 -> yes  [edge_type=property, label=idDock1_prop_idImmovable];
+idDock1 -> true  [edge_type=property, label=idDock1_prop_idUnknownObject];
+}

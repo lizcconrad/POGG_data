@@ -1,0 +1,14 @@
+strict digraph  {
+idKidney1 [node_type=entity_node, root=root];
+left;
+idPlayer;
+idKidney2;
+right;
+idBody1;
+idKidney1 -> left  [edge_type=property, label=idKidney1_prop_idSide];
+idKidney1 -> idPlayer  [edge_type=property, label=idKidney1_prop_idOwnedBy];
+idKidney1 -> idKidney2  [edge_type=relationship, label=isNear];
+idKidney2 -> right  [edge_type=property, label=idKidney2_prop_idSide];
+idKidney2 -> idPlayer  [edge_type=property, label=idKidney2_prop_idOwnedBy];
+idKidney2 -> idBody1  [edge_type=relationship, label=isNear];
+}

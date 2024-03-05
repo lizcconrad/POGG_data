@@ -1,0 +1,11 @@
+strict digraph  {
+idPyloricSphincter1 [node_type=entity_node, root=root];
+pyloric;
+closed;
+idValve1;
+open;
+idPyloricSphincter1 -> pyloric  [edge_type=property, label=idPyloricSphincter1_prop_idMaterial];
+idPyloricSphincter1 -> closed  [edge_type=property, label=idPyloricSphincter1_prop_idOpenState];
+idPyloricSphincter1 -> idValve1  [edge_type=relationship, label=isNorthOf];
+idValve1 -> open  [edge_type=property, label=idValve1_prop_idOpenState];
+}

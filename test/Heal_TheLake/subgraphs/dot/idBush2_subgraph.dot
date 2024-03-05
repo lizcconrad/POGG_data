@@ -1,0 +1,12 @@
+strict digraph  {
+idBush2 [node_type=entity_node, root=root];
+yellow;
+yes;
+idTree1;
+green;
+idBush2 -> yellow  [edge_type=property, label=idBush2_prop_idColor];
+idBush2 -> yes  [edge_type=property, label=idBush2_prop_idImmovable];
+idBush2 -> idTree1  [edge_type=relationship, label=isNear];
+idTree1 -> green  [edge_type=property, label=idTree1_prop_idColor];
+idTree1 -> yes  [edge_type=property, label=idTree1_prop_idImmovable];
+}

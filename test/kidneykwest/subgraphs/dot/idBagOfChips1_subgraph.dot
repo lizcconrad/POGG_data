@@ -1,0 +1,17 @@
+strict digraph  {
+idBagOfChips1 [node_type=entity_node, root=root];
+idThrone1;
+yes;
+idiron;
+idBarn1Door;
+idwood;
+open;
+idPill1;
+idBagOfChips1 -> idThrone1  [edge_type=relationship, label=isWestOf];
+idBagOfChips1 -> idBarn1Door  [edge_type=relationship, label=isEastOf];
+idThrone1 -> yes  [edge_type=property, label=idThrone1_prop_idImmovable];
+idThrone1 -> idiron  [edge_type=property, label=idThrone1_prop_idMaterial];
+idThrone1 -> idPill1  [edge_type=relationship, label=isEastOf];
+idBarn1Door -> idwood  [edge_type=property, label=idBarn1Door_prop_idMaterial];
+idBarn1Door -> open  [edge_type=property, label=idBarn1Door_prop_idOpenState];
+}

@@ -1,0 +1,21 @@
+strict digraph  {
+idStump1 [node_type=entity_node, root=root];
+hollow;
+chopped;
+yes;
+idSideMirror1;
+shiny;
+idFace;
+idTire1;
+black;
+idBush1;
+idStump1 -> hollow  [edge_type=property, label=idStump1_prop_idDescriptor_1];
+idStump1 -> chopped  [edge_type=property, label=idStump1_prop_idDescriptor];
+idStump1 -> yes  [edge_type=property, label=idStump1_prop_idImmovable];
+idStump1 -> idSideMirror1  [edge_type=relationship, label=isWestOf];
+idStump1 -> idTire1  [edge_type=relationship, label=isNorthOf];
+idSideMirror1 -> shiny  [edge_type=property, label=idSideMirror1_prop_idDescriptor];
+idSideMirror1 -> idFace  [edge_type=property, label=idSideMirror1_prop_idDescriptor_1];
+idSideMirror1 -> idBush1  [edge_type=relationship, label=isNear];
+idTire1 -> black  [edge_type=property, label=idTire1_prop_idColor];
+}

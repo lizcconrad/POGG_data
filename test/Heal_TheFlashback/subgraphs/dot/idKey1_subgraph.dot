@@ -1,0 +1,9 @@
+strict digraph  {
+idKey1 [node_type=entity_node, root=root];
+yellow;
+true;
+idLivingroom1BackOpening;
+idKey1 -> yellow  [edge_type=property, label=idKey1_prop_idColor];
+idKey1 -> true  [edge_type=property, label=idKey1_prop_idUnknownObject];
+idKey1 -> idLivingroom1BackOpening  [edge_type=relationship, label=isSouthOf];
+}

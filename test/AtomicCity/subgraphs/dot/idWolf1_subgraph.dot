@@ -1,0 +1,7 @@
+strict digraph  {
+idWolf1 [node_type=entity_node, root=root];
+black;
+tiny;
+idWolf1 -> black  [edge_type=property, label=idWolf1_prop_idColor];
+idWolf1 -> tiny  [edge_type=property, label=idWolf1_prop_idSize];
+}

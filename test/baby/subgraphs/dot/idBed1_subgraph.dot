@@ -1,0 +1,5 @@
+strict digraph  {
+idBed1 [node_type=entity_node, root=root];
+true;
+idBed1 -> true  [edge_type=property, label=idBed1_prop_idUnknownObject];
+}

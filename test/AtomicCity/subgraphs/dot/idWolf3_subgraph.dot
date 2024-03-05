@@ -1,0 +1,9 @@
+strict digraph  {
+idWolf3 [node_type=entity_node, root=root];
+grey;
+tiny;
+idElevatorOpening;
+idWolf3 -> grey  [edge_type=property, label=idWolf3_prop_idColor];
+idWolf3 -> tiny  [edge_type=property, label=idWolf3_prop_idSize];
+idWolf3 -> idElevatorOpening  [edge_type=relationship, label=isWestOf];
+}

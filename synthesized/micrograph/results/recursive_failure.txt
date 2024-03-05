@@ -1,0 +1,32 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/synthesized/micrograph/recursive_failure.dot
+[ TOP: h45
+  INDEX: e42
+  RELS: < [ unknown LBL: h44 ARG: x14 ARG0: e42 ]
+          [ _the_q LBL: h41 ARG0: x14 RSTR: h39 BODY: h40 ]
+          [ _apple_n_1 LBL: h15 ARG0: x14 ] >
+  HCONS: < h39 qeq h15 h45 qeq h44 > ]
+GENERATED RESULTS ... 
+The apple
+The apples
+The apples.
+The apple.
+
+TOTAL RESULTS: 4
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  -------------------------
+idApple_1   True            MRS fragment produced  True               Included in MRS
+idChair_2   False           Node not in lexicon    False              Node not in lexicon
+idTable_3   True            MRS fragment produced  False              Descends from failed node
+idWindow_4  True            MRS fragment produced  False              Descends from failed node
+
+Edge        MRS Composed    Reason        Included in MRS    Reason
+----------  --------------  ------------  -----------------  -------------------------
+isEastOf_1  True            MRS composed  False              Descends from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        4        0.75
+Nodes              Included             1        4        0.25
+Edges              Produced             1        1        1
+Edges              Included             0        1        0

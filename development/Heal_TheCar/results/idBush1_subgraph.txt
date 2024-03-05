@@ -1,0 +1,50 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idBush1_subgraph.dot
+[ TOP: h65
+  INDEX: e62
+  RELS: < [ unknown LBL: h64 ARG: x43 ARG0: e62 ]
+          [ def_udef_a_q LBL: h61 ARG0: x43 RSTR: h59 BODY: h60 ]
+          [ _immovable_a_1 LBL: h47 ARG0: e52 ARG1: x43 ]
+          [ _green_a_2 LBL: h47 ARG0: i45 ARG1: x43 ]
+          [ _bush_n_1 LBL: h47 ARG0: x43 ] >
+  HCONS: < h59 qeq h47 h65 qeq h64 > ]
+GENERATED RESULTS ... 
+The green immovable bush
+A green immovable bush
+Green immovable bushes
+Immovable green bushes
+The immovable green bushes
+An immovable green bush
+The immovable green bush
+The green immovable bushes
+Immovable green bushes.
+The immovable green bushes.
+The green immovable bushes.
+Green immovable bushes.
+Green immovable bush
+Immovable green bush
+An immovable green bush.
+The immovable green bush.
+The green immovable bush.
+A green immovable bush.
+Immovable green bush.
+Green immovable bush.
+
+TOTAL RESULTS: 20
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  ---------------
+green_2   True            MRS fragment produced  True               Included in MRS
+idBush_1  True            MRS fragment produced  True               Included in MRS
+yes_2     True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idColor_1      True            MRS composed  True               Included in MRS
+idImmovable_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

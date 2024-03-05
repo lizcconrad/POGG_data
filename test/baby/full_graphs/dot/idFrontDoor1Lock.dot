@@ -1,0 +1,7 @@
+strict digraph  {
+idFrontDoor1Lock [node_type=entity_node];
+locked [node_type=property_node];
+true [node_type=property_node];
+idFrontDoor1Lock -> locked  [edge_type=property, label=idFrontDoor1Lock_prop_idLockedState];
+idFrontDoor1Lock -> true  [edge_type=property, label=idFrontDoor1Lock_prop_idUnknownObject];
+}

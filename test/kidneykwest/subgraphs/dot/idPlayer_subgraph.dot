@@ -1,0 +1,15 @@
+strict digraph  {
+idPlayer [node_type=entity_node, root=root];
+0;
+3;
+1;
+idDramaBuilding1FrontOpening;
+idWorld1;
+idCostumeCloset1;
+idPlayer -> 0  [edge_type=property, label=idPlayer_prop_idBinderTakenTurns];
+idPlayer -> 3  [edge_type=property, label=idPlayer_prop_idTurnsSinceFood];
+idPlayer -> 1  [edge_type=property, label=idPlayer_prop_idMapY];
+idPlayer -> idDramaBuilding1FrontOpening  [edge_type=relationship, label=isSouthOf];
+idPlayer -> idWorld1  [edge_type=relationship, label=isInsideOf];
+idWorld1 -> idCostumeCloset1  [edge_type=relationship, label=isNear];
+}

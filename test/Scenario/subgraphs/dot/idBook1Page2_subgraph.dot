@@ -1,0 +1,11 @@
+strict digraph  {
+idBook1Page2 [node_type=entity_node, root=root];
+2;
+idEntrancecaveBackOpening;
+tall;
+open;
+idBook1Page2 -> 2  [edge_type=property, label=idBook1Page2_prop_idOrdinality];
+idBook1Page2 -> idEntrancecaveBackOpening  [edge_type=relationship, label=isNorthOf];
+idEntrancecaveBackOpening -> tall  [edge_type=property, label=idEntrancecaveBackOpening_prop_idHeight];
+idEntrancecaveBackOpening -> open  [edge_type=property, label=idEntrancecaveBackOpening_prop_idOpenState];
+}

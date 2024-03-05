@@ -1,0 +1,9 @@
+strict digraph  {
+idDriversSideFrontDoorInsideOpening [node_type=entity_node];
+idDriversSideFrontDoor [node_type=entity_node];
+idPassengersSideFrontDoorInsideOpening [node_type=entity_node];
+idPassengersSideFrontDoor [node_type=entity_node];
+idDriversSideFrontDoorInsideOpening -> idDriversSideFrontDoor  [edge_type=relationship, label=isEastOf];
+idDriversSideFrontDoorInsideOpening -> idPassengersSideFrontDoorInsideOpening  [edge_type=relationship, label=isWestOf];
+idDriversSideFrontDoorInsideOpening -> idPassengersSideFrontDoor  [edge_type=relationship, label=isWestOf];
+}

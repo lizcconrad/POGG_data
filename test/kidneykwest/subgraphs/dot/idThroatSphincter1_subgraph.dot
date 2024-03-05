@@ -1,0 +1,13 @@
+strict digraph  {
+idThroatSphincter1 [node_type=entity_node, root=root];
+closed;
+idLargeIntestine1FrontOpening;
+idSmallIntestine1BackOpening;
+idSmallIntestine1;
+idStomach1;
+idThroatSphincter1 -> closed  [edge_type=property, label=idThroatSphincter1_prop_idOpenState];
+idThroatSphincter1 -> idLargeIntestine1FrontOpening  [edge_type=relationship, label=isNorthOf];
+idThroatSphincter1 -> idSmallIntestine1BackOpening  [edge_type=relationship, label=isNorthOf];
+idLargeIntestine1FrontOpening -> idSmallIntestine1  [edge_type=relationship, label=isSouthOf];
+idSmallIntestine1BackOpening -> idStomach1  [edge_type=relationship, label=isSouthOf];
+}

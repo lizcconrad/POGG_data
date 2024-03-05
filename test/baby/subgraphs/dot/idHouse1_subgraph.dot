@@ -1,0 +1,11 @@
+strict digraph  {
+idHouse1 [node_type=entity_node, root=root];
+uncountable;
+idTable1;
+idmetal;
+yes;
+idHouse1 -> uncountable  [edge_type=property, label=idHouse1_prop_idArticleType];
+idHouse1 -> idTable1  [edge_type=relationship, label=isNear];
+idTable1 -> idmetal  [edge_type=property, label=idTable1_prop_idMaterial];
+idTable1 -> yes  [edge_type=property, label=idTable1_prop_idImmovable];
+}

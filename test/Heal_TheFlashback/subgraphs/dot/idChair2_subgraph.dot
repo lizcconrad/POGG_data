@@ -1,0 +1,21 @@
+strict digraph  {
+idChair2 [node_type=entity_node, root=root];
+regular;
+white;
+idCarKey1;
+black;
+true;
+idSink1;
+stained;
+idporcelain;
+idCabinet1;
+idChair2 -> regular  [edge_type=property, label=idChair2_prop_idDescriptor];
+idChair2 -> white  [edge_type=property, label=idChair2_prop_idColor];
+idChair2 -> idCarKey1  [edge_type=relationship, label=isSouthOf];
+idChair2 -> idSink1  [edge_type=relationship, label=isEastOf];
+idCarKey1 -> black  [edge_type=property, label=idCarKey1_prop_idColor];
+idCarKey1 -> true  [edge_type=property, label=idCarKey1_prop_idUnknownObject];
+idSink1 -> stained  [edge_type=property, label=idSink1_prop_idDescriptor_1];
+idSink1 -> idporcelain  [edge_type=property, label=idSink1_prop_idDescriptor];
+idSink1 -> idCabinet1  [edge_type=relationship, label=isWestOf];
+}

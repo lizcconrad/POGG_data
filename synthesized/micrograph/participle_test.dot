@@ -1,0 +1,7 @@
+digraph {
+idDoor1;
+locked
+
+
+idDoor1 -> locked [label=idOpenState];
+}

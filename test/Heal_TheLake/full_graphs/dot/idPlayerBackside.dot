@@ -1,0 +1,33 @@
+strict digraph  {
+idPlayerBackside [node_type=entity_node];
+idPlayer [node_type=entity_node];
+idArea1 [node_type=entity_node];
+idSmoke1 [node_type=entity_node];
+idMarsh1 [node_type=entity_node];
+idBranch1 [node_type=entity_node];
+idFrog1 [node_type=entity_node];
+idLog1 [node_type=entity_node];
+idMoss1 [node_type=entity_node];
+idMeadow1 [node_type=entity_node];
+idDeer1 [node_type=entity_node];
+idGrass1 [node_type=entity_node];
+idLeg1 [node_type=entity_node];
+idLeg2 [node_type=entity_node];
+idLeg3 [node_type=entity_node];
+idLeg4 [node_type=entity_node];
+idPlayerBackside -> idPlayer  [edge_type=relationship, label=isNear];
+idPlayerBackside -> idArea1  [edge_type=relationship, label=isWestOf];
+idPlayerBackside -> idSmoke1  [edge_type=relationship, label=isWestOf];
+idPlayerBackside -> idMarsh1  [edge_type=relationship, label=isEastOf];
+idPlayerBackside -> idBranch1  [edge_type=relationship, label=isEastOf];
+idPlayerBackside -> idFrog1  [edge_type=relationship, label=isEastOf];
+idPlayerBackside -> idLog1  [edge_type=relationship, label=isEastOf];
+idPlayerBackside -> idMoss1  [edge_type=relationship, label=isEastOf];
+idPlayerBackside -> idMeadow1  [edge_type=relationship, label=isWestOf];
+idPlayerBackside -> idDeer1  [edge_type=relationship, label=isWestOf];
+idPlayerBackside -> idGrass1  [edge_type=relationship, label=isWestOf];
+idPlayerBackside -> idLeg1  [edge_type=relationship, label=isWestOf];
+idPlayerBackside -> idLeg2  [edge_type=relationship, label=isWestOf];
+idPlayerBackside -> idLeg3  [edge_type=relationship, label=isWestOf];
+idPlayerBackside -> idLeg4  [edge_type=relationship, label=isWestOf];
+}

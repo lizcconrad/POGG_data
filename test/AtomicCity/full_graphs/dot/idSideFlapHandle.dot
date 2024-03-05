@@ -1,0 +1,5 @@
+strict digraph  {
+idSideFlapHandle [node_type=entity_node];
+idSideFlap [node_type=entity_node];
+idSideFlapHandle -> idSideFlap  [edge_type=relationship, label=isNear];
+}

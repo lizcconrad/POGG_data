@@ -1,0 +1,13 @@
+strict digraph  {
+idComputerRoom1 [node_type=entity_node, root=root];
+blue;
+idWolf2;
+brown;
+tiny;
+idShutoffValveLight1;
+idComputerRoom1 -> blue  [edge_type=property, label=idComputerRoom1_prop_idColor];
+idComputerRoom1 -> idWolf2  [edge_type=relationship, label=isEastOf];
+idWolf2 -> brown  [edge_type=property, label=idWolf2_prop_idColor];
+idWolf2 -> tiny  [edge_type=property, label=idWolf2_prop_idSize];
+idWolf2 -> idShutoffValveLight1  [edge_type=relationship, label=isWestOf];
+}

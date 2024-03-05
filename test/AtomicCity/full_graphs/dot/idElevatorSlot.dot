@@ -1,0 +1,5 @@
+strict digraph  {
+idElevatorSlot [node_type=entity_node];
+idElevatorSlotFacePlate [node_type=entity_node];
+idElevatorSlot -> idElevatorSlotFacePlate  [edge_type=relationship, label=isNear];
+}

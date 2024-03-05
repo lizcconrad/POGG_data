@@ -1,0 +1,9 @@
+strict digraph  {
+idSpider1 [node_type=entity_node, root=root];
+black;
+dead;
+idCavern1FrontOpening;
+idSpider1 -> black  [edge_type=property, label=idSpider1_prop_idColor];
+idSpider1 -> dead  [edge_type=property, label=idSpider1_prop_idDescriptor];
+idSpider1 -> idCavern1FrontOpening  [edge_type=relationship, label=isWestOf];
+}

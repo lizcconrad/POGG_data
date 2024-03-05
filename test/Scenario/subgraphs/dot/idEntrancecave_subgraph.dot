@@ -1,0 +1,15 @@
+strict digraph  {
+idEntrancecave [node_type=entity_node, root=root];
+1;
+open;
+idMachine1;
+off;
+idOnSwitch1;
+idFlashlight2;
+idEntrancecave -> 1  [edge_type=property, label=idEntrancecave_prop_idOrdinality];
+idEntrancecave -> open  [edge_type=property, label=idEntrancecave_prop_idOpenState];
+idEntrancecave -> idMachine1  [edge_type=relationship, label=isNorthOf];
+idMachine1 -> off  [edge_type=property, label=idMachine1_prop_idPowerState];
+idMachine1 -> idOnSwitch1  [edge_type=property, label=idMachine1_prop_idPowerControl];
+idMachine1 -> idFlashlight2  [edge_type=relationship, label=isNear];
+}

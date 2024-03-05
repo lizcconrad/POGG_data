@@ -1,0 +1,9 @@
+strict digraph  {
+idCave1 [node_type=entity_node, root=root];
+dark;
+idClearing1;
+grassy;
+idCave1 -> dark  [edge_type=property, label=idCave1_prop_idTint];
+idCave1 -> idClearing1  [edge_type=relationship, label=isNorthOf];
+idClearing1 -> grassy  [edge_type=property, label=idClearing1_prop_idDescriptor];
+}

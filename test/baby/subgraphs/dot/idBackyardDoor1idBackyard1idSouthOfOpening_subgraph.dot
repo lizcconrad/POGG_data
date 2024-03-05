@@ -1,0 +1,10 @@
+strict digraph  {
+idBackyardDoor1idBackyard1idSouthOfOpening [node_type=entity_node, root=root];
+idWorkshop1;
+true;
+idPlayerBackside;
+idBackyardDoor1idBackyard1idSouthOfOpening -> idPlayerBackside  [edge_type=relationship, label=isNorthOf];
+idBackyardDoor1idBackyard1idSouthOfOpening -> idWorkshop1  [edge_type=relationship, label=isWestOf];
+idWorkshop1 -> true  [edge_type=property, label=idWorkshop1_prop_idUnknownObject];
+idPlayerBackside -> idWorkshop1  [edge_type=relationship, label=isWestOf];
+}

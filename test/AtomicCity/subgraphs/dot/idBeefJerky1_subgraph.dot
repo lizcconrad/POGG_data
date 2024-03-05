@@ -1,0 +1,5 @@
+strict digraph  {
+idBeefJerky1 [node_type=entity_node, root=root];
+true;
+idBeefJerky1 -> true  [edge_type=property, label=idBeefJerky1_prop_idUnknownObject];
+}

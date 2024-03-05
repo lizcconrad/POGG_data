@@ -1,0 +1,5 @@
+strict digraph  {
+idGreenRoomBackOpening [node_type=entity_node, root=root];
+medium;
+idGreenRoomBackOpening -> medium  [edge_type=property, label=idGreenRoomBackOpening_prop_idHeight];
+}

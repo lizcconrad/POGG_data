@@ -1,0 +1,9 @@
+strict digraph  {
+idGlowingFlower1 [node_type=entity_node, root=root];
+glowing;
+green;
+true;
+idGlowingFlower1 -> glowing  [edge_type=property, label=idGlowingFlower1_prop_idDescriptor];
+idGlowingFlower1 -> green  [edge_type=property, label=idGlowingFlower1_prop_idColor];
+idGlowingFlower1 -> true  [edge_type=property, label=idGlowingFlower1_prop_idUnknownObject];
+}

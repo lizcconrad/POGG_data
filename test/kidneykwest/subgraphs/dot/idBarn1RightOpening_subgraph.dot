@@ -1,0 +1,11 @@
+strict digraph  {
+idBarn1RightOpening [node_type=entity_node, root=root];
+idCabin1Door;
+blue;
+open;
+idFairyWorldLobby1LeftOpening;
+idBarn1RightOpening -> idCabin1Door  [edge_type=relationship, label=isWestOf];
+idBarn1RightOpening -> idFairyWorldLobby1LeftOpening  [edge_type=relationship, label=isWestOf];
+idCabin1Door -> blue  [edge_type=property, label=idCabin1Door_prop_idColor];
+idCabin1Door -> open  [edge_type=property, label=idCabin1Door_prop_idOpenState];
+}

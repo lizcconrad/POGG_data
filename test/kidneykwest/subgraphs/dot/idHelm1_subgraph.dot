@@ -1,0 +1,9 @@
+strict digraph  {
+idHelm1 [node_type=entity_node, root=root];
+yes;
+idCabin1;
+idPhosphateCrystal_idChip2;
+idHelm1 -> yes  [edge_type=property, label=idHelm1_prop_idImmovable];
+idHelm1 -> idCabin1  [edge_type=relationship, label=isNear];
+idCabin1 -> idPhosphateCrystal_idChip2  [edge_type=relationship, label=isSouthOf];
+}

@@ -1,0 +1,91 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/current/lit_test.dot
+[ TOP: h26
+  INDEX: e23
+  RELS: < [ unknown LBL: h25 ARG: x19 ARG0: e23 ]
+          [ def_udef_a_q LBL: h22 ARG0: x19 RSTR: h20 BODY: h21 ]
+          [ _un-_a_neg LBL: h18 ARG0: i16 ARG1: e17 ]
+          [ _light_v_cause LBL: h18 ARG0: e17 ARG1: i13 ARG2: x19 ]
+          [ compound LBL: h18 ARG0: e8 ARG1: x19 ARG2: x4 ]
+          [ udef_q LBL: h7 ARG0: x4 RSTR: h5 BODY: h6 ]
+          [ _tail_n_1 LBL: h3 ARG0: x4 ]
+          [ _light_n_1 LBL: h18 ARG0: x19 ] >
+  HCONS: < h5 qeq h3 h20 qeq h18 h26 qeq h25 > ]
+GENERATED RESULTS ... 
+The unlighted tail lights
+Unlighted tail lights
+The unlighted tail lights.
+The tailed unlighted lights
+Unlighted tail lights.
+An unlighted tail light.
+The unlighted tail light.
+An unlighted tail light
+The unlighted tail light
+Unlighted tail light.
+Tailed unlighted lights
+The tails unlighted lights
+Unlighted tail light
+Tails unlighted light
+The unlighted tailed, lights.
+The unlighted tailed, lights
+Tails unlighted lights
+The tailed unlighted lights.
+The unlighted tailed lights
+The unlighted tailed lights.
+Tails unlighted light.
+Tailed unlighted light
+The tailed unlighted light
+Unlighted tailed, lights.
+Unlighted tailed, lights
+Unlighted tailed lights.
+An unlighted tailed, light
+An unlighted tailed, light.
+A tailed unlighted light
+The tails unlighted lights.
+The unlighted tailed, light
+The unlighted tailed, light.
+Tailed unlighted lights.
+An unlighted tailed light.
+The tailed unlighted light.
+The unlighted tailed light.
+Unlighted tailed light
+A tails unlighted light
+An unlighted tailed light
+Unlighted tailed, light
+Unlighted tailed lights
+Unlighted tailed, light.
+The tails unlighted light
+The unlighted tailed light
+A tailed unlighted light.
+A tails unlighted light.
+Unlighted tail light.
+Unlighted tailed light.
+Tails unlighted lights.
+The tails unlighted light.
+Tailed unlighted light.
+Unlighted tail light
+Tails unlighted light
+Tails unlighted light.
+Tailed unlighted light
+Unlighted tailed, light
+Unlighted tailed, light.
+Tailed unlighted light.
+Unlighted tailed light.
+Unlighted tailed light
+
+TOTAL RESULTS: 60
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+idTaillight_1  True            MRS fragment produced  True               Included in MRS
+unlit_2        True            MRS fragment produced  True               Included in MRS
+
+Edge          MRS Composed    Reason        Included in MRS    Reason
+------------  --------------  ------------  -----------------  ---------------
+idLitState_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

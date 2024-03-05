@@ -1,0 +1,13 @@
+digraph {
+idApple1;
+red;
+idTable1;
+wooden;
+idWindow1;
+
+
+idApple1 -> red [label=color];
+idApple1 -> idTable1 [label=isOn];
+idTable1 -> wooden [label=material];
+idTable1 -> idWindow1 [label=isEastOf];
+}

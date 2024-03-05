@@ -1,0 +1,5 @@
+strict digraph  {
+idGreenRoom [node_type=entity_node, root=root];
+green;
+idGreenRoom -> green  [edge_type=property, label=idGreenRoom_prop_idColor];
+}

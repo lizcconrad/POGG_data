@@ -1,0 +1,59 @@
+EVALUATION SUMMARY
+
+  Graphs Generated From    Total Graphs    Graph Coverage
+-----------------------  --------------  ----------------
+                      4               6          0.666667
+
+Graph Name           Results  Reason
+-----------------  ---------  ----------------------
+bad_MRS                    0  ERG did not generate
+fake_node_test            12  Successfully generated
+micrograph_0              40  Successfully generated
+no_MRS                     0  MRS not produced
+participle_test           16  Successfully generated
+recursive_failure          4  Successfully generated
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced            16       20    0.8
+Nodes              Included            13       20    0.65
+Edges              Produced             9       12    0.75
+Edges              Included             8       12    0.666667
+
+Node                          MRS Produced    Reason                 Included in MRS    Reason
+----------------------------  --------------  ---------------------  -----------------  -------------------------
+bad_MRS_blue_2                True            MRS fragment produced  True               Included in MRS
+bad_MRS_red_1                 True            MRS fragment produced  True               Included in MRS
+fake_node_test_idApple_1      True            MRS fragment produced  True               Included in MRS
+fake_node_test_idTable_2      True            MRS fragment produced  True               Included in MRS
+fake_node_test_sweet_2        True            MRS fragment produced  False              Descends from failed edge
+fake_node_test_wooden_3       True            MRS fragment produced  True               Included in MRS
+fake_node_test_yellow_2       False           Node not in lexicon    False              Node not in lexicon
+micrograph_0_idApple_1        True            MRS fragment produced  True               Included in MRS
+micrograph_0_idTable_2        True            MRS fragment produced  True               Included in MRS
+micrograph_0_idWindow_3       True            MRS fragment produced  True               Included in MRS
+micrograph_0_red_2            True            MRS fragment produced  True               Included in MRS
+micrograph_0_wooden_3         True            MRS fragment produced  True               Included in MRS
+no_MRS_empty_2                False           Node not in lexicon    False              Node not in lexicon
+no_MRS_idNothing_1            False           Node not in lexicon    False              Node not in lexicon
+participle_test_idDoor_1      True            MRS fragment produced  True               Included in MRS
+participle_test_locked_2      True            MRS fragment produced  True               Included in MRS
+recursive_failure_idApple_1   True            MRS fragment produced  True               Included in MRS
+recursive_failure_idChair_2   False           Node not in lexicon    False              Node not in lexicon
+recursive_failure_idTable_3   True            MRS fragment produced  False              Descends from failed node
+recursive_failure_idWindow_4  True            MRS fragment produced  False              Descends from failed node
+
+Edge                           MRS Composed    Reason                     Included in MRS    Reason
+-----------------------------  --------------  -------------------------  -----------------  -------------------------
+bad_MRS_color_1                True            MRS composed               True               Included in MRS
+fake_node_test_color_2         False           Inbound to failed node     False              Inbound to failed node
+fake_node_test_flavor_1        False           Edge not in lexicon        False              Edge not in lexicon
+fake_node_test_isOn_3          True            MRS composed               True               Included in MRS
+fake_node_test_material_3      True            MRS composed               True               Included in MRS
+micrograph_0_color_1           True            MRS composed               True               Included in MRS
+micrograph_0_isEastOf_3        True            MRS composed               True               Included in MRS
+micrograph_0_isOn_2            True            MRS composed               True               Included in MRS
+micrograph_0_material_2        True            MRS composed               True               Included in MRS
+no_MRS_void_1                  False           Outbound from failed node  False              Outbound from failed node
+participle_test_idOpenState_1  True            MRS composed               True               Included in MRS
+recursive_failure_isEastOf_1   True            MRS composed               False              Descends from failed node

@@ -1,0 +1,11 @@
+strict digraph  {
+idCabin1 [node_type=entity_node, root=root];
+idChip1;
+idpotato;
+salty;
+idPill1;
+idCabin1 -> idChip1  [edge_type=relationship, label=isSouthOf];
+idChip1 -> idpotato  [edge_type=property, label=idChip1_prop_idMaterial];
+idChip1 -> salty  [edge_type=property, label=idChip1_prop_idSaltiness];
+idChip1 -> idPill1  [edge_type=relationship, label=isNorthOf];
+}

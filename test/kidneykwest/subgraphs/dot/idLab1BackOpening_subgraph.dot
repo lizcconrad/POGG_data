@@ -1,0 +1,5 @@
+strict digraph  {
+idLab1BackOpening [node_type=entity_node, root=root];
+idLabel1;
+idLab1BackOpening -> idLabel1  [edge_type=relationship, label=isNorthOf];
+}

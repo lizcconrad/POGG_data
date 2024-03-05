@@ -1,0 +1,11 @@
+strict digraph  {
+idPlayerLeftHand [node_type=entity_node, root=root];
+idLocalLeft;
+idTutorialRoom1Door;
+closed;
+idTutorialRoom1DoorLock;
+idPlayerLeftHand -> idLocalLeft  [edge_type=property, label=idPlayerLeftHand_prop_idLocation];
+idPlayerLeftHand -> idTutorialRoom1Door  [edge_type=relationship, label=isSouthOf];
+idTutorialRoom1Door -> closed  [edge_type=property, label=idTutorialRoom1Door_prop_idOpenState];
+idTutorialRoom1Door -> idTutorialRoom1DoorLock  [edge_type=property, label=idTutorialRoom1Door_prop_idLockMechanism];
+}

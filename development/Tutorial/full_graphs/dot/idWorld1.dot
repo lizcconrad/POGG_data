@@ -1,0 +1,11 @@
+strict digraph  {
+idWorld1 [node_type=entity_node];
+idGameRoom1 [node_type=entity_node];
+idTutorialRoom1 [node_type=entity_node];
+idPlayer [node_type=entity_node];
+idDesk1 [node_type=entity_node];
+idWorld1 -> idGameRoom1  [edge_type=relationship, label=isNear];
+idWorld1 -> idTutorialRoom1  [edge_type=relationship, label=isNear];
+idWorld1 -> idPlayer  [edge_type=relationship, label=isNear];
+idWorld1 -> idDesk1  [edge_type=relationship, label=isNear];
+}

@@ -1,0 +1,7 @@
+strict digraph  {
+idDuct1Flap [node_type=entity_node, root=root];
+closed;
+idDuct1Opening;
+idDuct1Flap -> closed  [edge_type=property, label=idDuct1Flap_prop_idOpenState];
+idDuct1Flap -> idDuct1Opening  [edge_type=relationship, label=isNear];
+}

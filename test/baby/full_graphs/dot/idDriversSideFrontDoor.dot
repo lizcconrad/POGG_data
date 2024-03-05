@@ -1,0 +1,35 @@
+strict digraph  {
+idDriversSideFrontDoor [node_type=entity_node];
+idLocalFront [node_type=property_node];
+left [node_type=property_node];
+idDriver [node_type=property_node];
+idDriver1 [node_type=property_node];
+closed [node_type=property_node];
+idCardReader1 [node_type=entity_node];
+true [node_type=property_node];
+idDriversSideFrontDoorInsideOpening [node_type=entity_node];
+idDriversSideFrontDoorOutsideOpening [node_type=entity_node];
+idPassengersSideFrontDoorInsideOpening [node_type=entity_node];
+idCar1 [node_type=entity_node];
+idPassengersSideFrontDoor [node_type=entity_node];
+idBabyCarSeat [node_type=entity_node];
+idDriverSeat [node_type=entity_node];
+idPassengerSeat [node_type=entity_node];
+idStartButton [node_type=entity_node];
+idDriversSideFrontDoor -> idLocalFront  [edge_type=property, label=idDriversSideFrontDoor_prop_idLocation];
+idDriversSideFrontDoor -> left  [edge_type=property, label=idDriversSideFrontDoor_prop_idLocation_1];
+idDriversSideFrontDoor -> idDriver  [edge_type=property, label=idDriversSideFrontDoor_prop_idCarSide];
+idDriversSideFrontDoor -> idDriver1  [edge_type=property, label=idDriversSideFrontDoor_prop_idOwnedBy];
+idDriversSideFrontDoor -> closed  [edge_type=property, label=idDriversSideFrontDoor_prop_idOpenState];
+idDriversSideFrontDoor -> idCardReader1  [edge_type=relationship, label=isNear];
+idDriversSideFrontDoor -> true  [edge_type=property, label=idDriversSideFrontDoor_prop_idUnknownObject];
+idDriversSideFrontDoor -> idDriversSideFrontDoorInsideOpening  [edge_type=relationship, label=isWestOf];
+idDriversSideFrontDoor -> idDriversSideFrontDoorOutsideOpening  [edge_type=relationship, label=isNear];
+idDriversSideFrontDoor -> idPassengersSideFrontDoorInsideOpening  [edge_type=relationship, label=isWestOf];
+idDriversSideFrontDoor -> idCar1  [edge_type=relationship, label=isWestOf];
+idDriversSideFrontDoor -> idPassengersSideFrontDoor  [edge_type=relationship, label=isWestOf];
+idDriversSideFrontDoor -> idBabyCarSeat  [edge_type=relationship, label=isWestOf];
+idDriversSideFrontDoor -> idDriverSeat  [edge_type=relationship, label=isWestOf];
+idDriversSideFrontDoor -> idPassengerSeat  [edge_type=relationship, label=isWestOf];
+idDriversSideFrontDoor -> idStartButton  [edge_type=relationship, label=isWestOf];
+}

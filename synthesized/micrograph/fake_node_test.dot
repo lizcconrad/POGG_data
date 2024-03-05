@@ -1,0 +1,13 @@
+digraph {
+idApple1;
+yellow;
+sweet;
+idTable1;
+wooden;
+
+
+idApple1 -> sweet [label=flavor];
+idApple1 -> yellow [label=color];
+idApple1 -> idTable1 [label=isOn];
+idTable1 -> wooden [label=material];
+}

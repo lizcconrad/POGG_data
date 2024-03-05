@@ -1,0 +1,9 @@
+strict digraph  {
+idPhosphateCrystal_idCarrot1 [node_type=entity_node, root=root];
+blue;
+shiny;
+true;
+idPhosphateCrystal_idCarrot1 -> blue  [edge_type=property, label=idPhosphateCrystal_idCarrot1_prop_idColor];
+idPhosphateCrystal_idCarrot1 -> shiny  [edge_type=property, label=idPhosphateCrystal_idCarrot1_prop_idTrait];
+idPhosphateCrystal_idCarrot1 -> true  [edge_type=property, label=idPhosphateCrystal_idCarrot1_prop_idUnknownObject];
+}

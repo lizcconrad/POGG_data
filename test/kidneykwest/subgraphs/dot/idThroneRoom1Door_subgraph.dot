@@ -1,0 +1,15 @@
+strict digraph  {
+idThroneRoom1Door [node_type=entity_node, root=root];
+grey;
+idmetal;
+open;
+idPhosphateCrystal_idChip1;
+blue;
+true;
+idThroneRoom1Door -> grey  [edge_type=property, label=idThroneRoom1Door_prop_idColor];
+idThroneRoom1Door -> idmetal  [edge_type=property, label=idThroneRoom1Door_prop_idMaterial];
+idThroneRoom1Door -> open  [edge_type=property, label=idThroneRoom1Door_prop_idOpenState];
+idThroneRoom1Door -> idPhosphateCrystal_idChip1  [edge_type=relationship, label=isEastOf];
+idPhosphateCrystal_idChip1 -> blue  [edge_type=property, label=idPhosphateCrystal_idChip1_prop_idColor];
+idPhosphateCrystal_idChip1 -> true  [edge_type=property, label=idPhosphateCrystal_idChip1_prop_idUnknownObject];
+}

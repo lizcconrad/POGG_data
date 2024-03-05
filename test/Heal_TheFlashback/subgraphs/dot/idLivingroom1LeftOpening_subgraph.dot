@@ -1,0 +1,13 @@
+strict digraph  {
+idLivingroom1LeftOpening [node_type=entity_node, root=root];
+idBedroomToBathroomDoor1;
+open;
+idKitchCabDrawer1;
+closed;
+idBedroom1;
+idLivingroom1LeftOpening -> idBedroomToBathroomDoor1  [edge_type=relationship, label=isEastOf];
+idLivingroom1LeftOpening -> idKitchCabDrawer1  [edge_type=relationship, label=isNorthOf];
+idBedroomToBathroomDoor1 -> open  [edge_type=property, label=idBedroomToBathroomDoor1_prop_idOpenState];
+idBedroomToBathroomDoor1 -> idBedroom1  [edge_type=relationship, label=isSouthOf];
+idKitchCabDrawer1 -> closed  [edge_type=property, label=idKitchCabDrawer1_prop_idOpenState];
+}

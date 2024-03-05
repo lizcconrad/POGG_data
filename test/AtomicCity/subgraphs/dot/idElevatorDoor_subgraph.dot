@@ -1,0 +1,19 @@
+strict digraph  {
+idElevatorDoor [node_type=entity_node, root=root];
+closed;
+idElevatorSlotFacePlate;
+idWolf3;
+grey;
+tiny;
+idMachineRoom;
+red;
+idComputerRoom1FrontOpening;
+idElevatorDoor -> closed  [edge_type=property, label=idElevatorDoor_prop_idOpenState];
+idElevatorDoor -> idElevatorSlotFacePlate  [edge_type=property, label=idElevatorDoor_prop_idLockMechanism];
+idElevatorDoor -> idWolf3  [edge_type=relationship, label=isEastOf];
+idElevatorDoor -> idMachineRoom  [edge_type=relationship, label=isSouthOf];
+idWolf3 -> grey  [edge_type=property, label=idWolf3_prop_idColor];
+idWolf3 -> tiny  [edge_type=property, label=idWolf3_prop_idSize];
+idWolf3 -> idComputerRoom1FrontOpening  [edge_type=relationship, label=isWestOf];
+idMachineRoom -> red  [edge_type=property, label=idMachineRoom_prop_idColor];
+}

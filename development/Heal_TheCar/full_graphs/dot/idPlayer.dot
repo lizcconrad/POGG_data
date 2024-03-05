@@ -1,0 +1,36 @@
+digraph  {
+idPlayer [node_type=entity_node];
+false [node_type=property_node];
+idTheCarRoom1 [node_type=entity_node];
+idTheCar1 [node_type=entity_node];
+idCar1 [node_type=entity_node];
+idArea1 [node_type=entity_node];
+idBumper1 [node_type=entity_node];
+idCarKey1 [node_type=entity_node];
+idStump1 [node_type=entity_node];
+idDen1 [node_type=entity_node];
+idBear1 [node_type=entity_node];
+idTaillight1 [node_type=entity_node];
+idTire1 [node_type=entity_node];
+idClearing1 [node_type=entity_node];
+idBush1 [node_type=entity_node];
+idSideMirror1 [node_type=entity_node];
+idWhistle1 [node_type=entity_node];
+idPlayer -> false  [edge_type=property, label=idPlayer_prop_idEatenBerry];
+idPlayer -> idTheCarRoom1  [edge_type=relationship, label=isNear];
+idPlayer -> idTheCar1  [edge_type=relationship, label=isInsideOf];
+idPlayer -> idPlayer  [edge_type=relationship, label=isNear];
+idPlayer -> idCar1  [edge_type=relationship, label=isNear];
+idPlayer -> idArea1  [edge_type=relationship, label=isEastOf];
+idPlayer -> idBumper1  [edge_type=relationship, label=isEastOf];
+idPlayer -> idCarKey1  [edge_type=relationship, label=isEastOf];
+idPlayer -> idStump1  [edge_type=relationship, label=isEastOf];
+idPlayer -> idDen1  [edge_type=relationship, label=isEastOf];
+idPlayer -> idBear1  [edge_type=relationship, label=isEastOf];
+idPlayer -> idTaillight1  [edge_type=relationship, label=isEastOf];
+idPlayer -> idTire1  [edge_type=relationship, label=isEastOf];
+idPlayer -> idClearing1  [edge_type=relationship, label=isWestOf];
+idPlayer -> idBush1  [edge_type=relationship, label=isWestOf];
+idPlayer -> idSideMirror1  [edge_type=relationship, label=isWestOf];
+idPlayer -> idWhistle1  [edge_type=relationship, label=isWestOf];
+}

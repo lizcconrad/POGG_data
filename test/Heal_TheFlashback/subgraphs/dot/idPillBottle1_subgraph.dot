@@ -1,0 +1,17 @@
+strict digraph  {
+idPillBottle1 [node_type=entity_node, root=root];
+white;
+true;
+idDesk1;
+idwood;
+yes;
+idBathroom1;
+messy;
+idPillBottle1 -> white  [edge_type=property, label=idPillBottle1_prop_idColor];
+idPillBottle1 -> true  [edge_type=property, label=idPillBottle1_prop_idUnknownObject];
+idPillBottle1 -> idDesk1  [edge_type=relationship, label=isWestOf];
+idPillBottle1 -> idBathroom1  [edge_type=relationship, label=isNear];
+idDesk1 -> idwood  [edge_type=property, label=idDesk1_prop_idMaterial];
+idDesk1 -> yes  [edge_type=property, label=idDesk1_prop_idImmovable];
+idBathroom1 -> messy  [edge_type=property, label=idBathroom1_prop_idDescriptor];
+}

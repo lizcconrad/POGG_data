@@ -1,0 +1,14 @@
+digraph  {
+idBerry3 [node_type=entity_node];
+yes [node_type=property_node];
+yellow [node_type=property_node];
+idTree1 [node_type=entity_node];
+idBerry1 [node_type=entity_node];
+idBerry2 [node_type=entity_node];
+idBerry3 -> yes  [edge_type=property, label=idBerry3_prop_idImmovable];
+idBerry3 -> yellow  [edge_type=property, label=idBerry3_prop_idColor];
+idBerry3 -> idTree1  [edge_type=relationship, label=isNear];
+idBerry3 -> idBerry1  [edge_type=relationship, label=isNear];
+idBerry3 -> idBerry2  [edge_type=relationship, label=isNear];
+idBerry3 -> idBerry3  [edge_type=relationship, label=isNear];
+}

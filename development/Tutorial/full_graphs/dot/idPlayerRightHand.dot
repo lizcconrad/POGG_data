@@ -1,0 +1,15 @@
+strict digraph  {
+idPlayerRightHand [node_type=entity_node];
+right [node_type=property_node];
+idPlayer [node_type=entity_node];
+idGameRoom1 [node_type=entity_node];
+idTutorialRoom1Door [node_type=entity_node];
+idGameRoom1BackOpening [node_type=entity_node];
+idTutorialRoom1FrontOpening [node_type=entity_node];
+idPlayerRightHand -> right  [edge_type=property, label=idPlayerRightHand_prop_idLocation];
+idPlayerRightHand -> idPlayer  [edge_type=relationship, label=isNear];
+idPlayerRightHand -> idGameRoom1  [edge_type=relationship, label=isSouthOf];
+idPlayerRightHand -> idTutorialRoom1Door  [edge_type=relationship, label=isSouthOf];
+idPlayerRightHand -> idGameRoom1BackOpening  [edge_type=relationship, label=isSouthOf];
+idPlayerRightHand -> idTutorialRoom1FrontOpening  [edge_type=relationship, label=isSouthOf];
+}

@@ -1,0 +1,14 @@
+strict digraph  {
+idChip2 [node_type=entity_node, root=root];
+idpotato;
+salty;
+idHamburger1;
+idBagOfChips1;
+idFairyWorldLobby1;
+idChip2 -> idpotato  [edge_type=property, label=idChip2_prop_idMaterial];
+idChip2 -> salty  [edge_type=property, label=idChip2_prop_idSaltiness];
+idChip2 -> idHamburger1  [edge_type=relationship, label=isNorthOf];
+idChip2 -> idBagOfChips1  [edge_type=relationship, label=isNear];
+idHamburger1 -> salty  [edge_type=property, label=idHamburger1_prop_idSaltiness];
+idBagOfChips1 -> idFairyWorldLobby1  [edge_type=relationship, label=isNorthOf];
+}

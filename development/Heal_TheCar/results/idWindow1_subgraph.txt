@@ -1,0 +1,52 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idWindow1_subgraph.dot
+[ TOP: h1039
+  INDEX: e1036
+  RELS: < [ unknown LBL: h1038 ARG: x1017 ARG0: e1036 ]
+          [ def_udef_a_q LBL: h1035 ARG0: x1017 RSTR: h1033 BODY: h1034 ]
+          [ _dark_a_1 LBL: h1018 ARG0: e1029 ARG1: x1017 ]
+          [ _immovable_a_1 LBL: h1018 ARG0: e1023 ARG1: x1017 ]
+          [ _window_n_1 LBL: h1018 ARG0: x1017 ] >
+  HCONS: < h1033 qeq h1018 h1039 qeq h1038 > ]
+GENERATED RESULTS ... 
+The dark immovable windows
+Dark immovable windows
+The dark immovable window
+A dark immovable window
+The immovable dark windows
+An immovable dark window
+The immovable dark window
+The dark immovable windows.
+Dark immovable windows.
+Immovable dark windows
+Immovable dark windows.
+The immovable dark windows.
+Dark immovable window
+The dark immovable window.
+Immovable dark window
+A dark immovable window.
+An immovable dark window.
+The immovable dark window.
+Dark immovable window.
+Immovable dark window.
+
+TOTAL RESULTS: 20
+
+Node        MRS Produced    Reason                                  Included in MRS    Reason
+----------  --------------  --------------------------------------  -----------------  --------------------------------------
+dark_2      True            MRS fragment produced                   True               Included in MRS
+idDriver_2  False           'idDriver' has no value in the lexicon  False              'idDriver' has no value in the lexicon
+idWindow_1  True            MRS fragment produced                   True               Included in MRS
+yes_2       True            MRS fragment produced                   True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idDescriptor_3  True            MRS composed            True               Included in MRS
+idImmovable_2   True            MRS composed            True               Included in MRS
+idOwnedBy_1     False           Inbound to failed node  False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        4    0.75
+Nodes              Included             3        4    0.75
+Edges              Produced             2        3    0.666667
+Edges              Included             2        3    0.666667

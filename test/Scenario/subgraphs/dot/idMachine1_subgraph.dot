@@ -1,0 +1,11 @@
+strict digraph  {
+idMachine1 [node_type=entity_node, root=root];
+off;
+idOnSwitch1;
+idPlage;
+2;
+idMachine1 -> off  [edge_type=property, label=idMachine1_prop_idPowerState];
+idMachine1 -> idOnSwitch1  [edge_type=property, label=idMachine1_prop_idPowerControl];
+idMachine1 -> idPlage  [edge_type=relationship, label=isSouthOf];
+idPlage -> 2  [edge_type=property, label=idPlage_prop_idOrdinality];
+}

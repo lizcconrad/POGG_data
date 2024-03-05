@@ -1,0 +1,48 @@
+{
+  "entityTypes": {
+    "idApple": "_apple_n_1",
+    "idTable": "_table_n_1",
+    "idDoor": "_door_n_1",
+    "idWindow": "_window_n_1",
+    "idTrashCan": {
+      "composition": "compound",
+      "predicates": {
+      "head": "_can_n_1",
+      "modifier": "_trash_n_1"
+      }
+    },
+    "idPainting": {
+      "composition": "synonyms",
+      "predicates": [
+      "_painting_n_of",
+      "_picture_n_of"
+      ]
+    }
+  },
+  "propertyValues": {
+    "red": "_red_a_1",
+    "sweet": "_sweet_a_to",
+    "wooden": "_wooden_a_1",
+    "blue": "_blue_a_1",
+    "locked": "_lock_v_cause"
+  },
+  "properties": {
+    "color": "adjective",
+    "material": "adjective",
+    "idOpenState": "past_participle",
+    "isOn": {
+      "composition": "preposition",
+      "property_predicate": {
+        "predicate_type": "preposition_ssement",
+        "predicate_label": "_on_p_loc"
+      }
+    },
+    "isEastOf": {
+      "composition": "relative_direction",
+      "property_predicate": {
+        "predicate_type": "adjective_ssement",
+        "predicate_label": "_east_a_1"
+      }
+    }
+  }
+}

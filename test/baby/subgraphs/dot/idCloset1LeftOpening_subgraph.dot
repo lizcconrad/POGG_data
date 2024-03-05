@@ -1,0 +1,13 @@
+strict digraph  {
+idCloset1LeftOpening [node_type=entity_node, root=root];
+idCar1;
+idStartButton;
+true;
+idBackyardDoor1idLivingRoom1FrontOpening;
+idBabyCarSeat;
+idCloset1LeftOpening -> idBackyardDoor1idLivingRoom1FrontOpening  [edge_type=relationship, label=isEastOf];
+idCloset1LeftOpening -> idCar1  [edge_type=relationship, label=isEastOf];
+idCar1 -> idStartButton  [edge_type=property, label=idCar1_prop_idPowerControl];
+idCar1 -> true  [edge_type=property, label=idCar1_prop_idUnknownObject];
+idBackyardDoor1idLivingRoom1FrontOpening -> idBabyCarSeat  [edge_type=relationship, label=isWestOf];
+}

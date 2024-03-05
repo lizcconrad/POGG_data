@@ -1,0 +1,38 @@
+digraph  {
+idRockPile1 [node_type=entity_node];
+grey [node_type=property_node];
+bumpy [node_type=property_node];
+yes [node_type=property_node];
+idRockyArea1 [node_type=entity_node];
+idBottle1 [node_type=entity_node];
+idTheTrees1 [node_type=entity_node];
+idPebble1 [node_type=entity_node];
+idGlowingArea1 [node_type=entity_node];
+idGlowingGrass1 [node_type=entity_node];
+idCave1 [node_type=entity_node];
+idClearing1 [node_type=entity_node];
+idBranch1 [node_type=entity_node];
+idGrass1 [node_type=entity_node];
+idPlayer [node_type=entity_node];
+idPlayerBackside [node_type=entity_node];
+idPlayerLeftHand [node_type=entity_node];
+idPlayerRightHand [node_type=entity_node];
+idRockPile1 -> grey  [edge_type=property, label=idRockPile1_prop_idColor];
+idRockPile1 -> bumpy  [edge_type=property, label=idRockPile1_prop_idDescriptor];
+idRockPile1 -> yes  [edge_type=property, label=idRockPile1_prop_idImmovable];
+idRockPile1 -> idRockyArea1  [edge_type=relationship, label=isNear];
+idRockPile1 -> idBottle1  [edge_type=relationship, label=isNear];
+idRockPile1 -> idTheTrees1  [edge_type=relationship, label=isInsideOf];
+idRockPile1 -> idRockPile1  [edge_type=relationship, label=isNear];
+idRockPile1 -> idPebble1  [edge_type=relationship, label=isNear];
+idRockPile1 -> idGlowingArea1  [edge_type=relationship, label=isWestOf];
+idRockPile1 -> idGlowingGrass1  [edge_type=relationship, label=isWestOf];
+idRockPile1 -> idCave1  [edge_type=relationship, label=isWestOf];
+idRockPile1 -> idClearing1  [edge_type=relationship, label=isWestOf];
+idRockPile1 -> idBranch1  [edge_type=relationship, label=isWestOf];
+idRockPile1 -> idGrass1  [edge_type=relationship, label=isWestOf];
+idRockPile1 -> idPlayer  [edge_type=relationship, label=isWestOf];
+idRockPile1 -> idPlayerBackside  [edge_type=relationship, label=isWestOf];
+idRockPile1 -> idPlayerLeftHand  [edge_type=relationship, label=isWestOf];
+idRockPile1 -> idPlayerRightHand  [edge_type=relationship, label=isWestOf];
+}

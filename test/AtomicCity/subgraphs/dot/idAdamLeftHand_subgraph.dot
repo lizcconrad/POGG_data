@@ -1,0 +1,11 @@
+strict digraph  {
+idAdamLeftHand [node_type=entity_node, root=root];
+left;
+idElevator1;
+idButton1;
+idFuseSocket2;
+idAdamLeftHand -> left  [edge_type=property, label=idAdamLeftHand_prop_idSide];
+idAdamLeftHand -> idElevator1  [edge_type=relationship, label=isNorthOf];
+idElevator1 -> idButton1  [edge_type=property, label=idElevator1_prop_idCurrentLevel];
+idElevator1 -> idFuseSocket2  [edge_type=relationship, label=isSouthOf];
+}

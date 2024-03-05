@@ -1,0 +1,5 @@
+strict digraph  {
+idScreen1 [node_type=entity_node, root=root];
+true;
+idScreen1 -> true  [edge_type=property, label=idScreen1_prop_idUnknownObject];
+}

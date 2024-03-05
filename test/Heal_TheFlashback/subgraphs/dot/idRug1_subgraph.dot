@@ -1,0 +1,13 @@
+strict digraph  {
+idRug1 [node_type=entity_node, root=root];
+black;
+stained;
+idLock1;
+locked;
+idPlayerBackside;
+idRug1 -> black  [edge_type=property, label=idRug1_prop_idColor];
+idRug1 -> stained  [edge_type=property, label=idRug1_prop_idDescriptor];
+idRug1 -> idLock1  [edge_type=relationship, label=isWestOf];
+idLock1 -> locked  [edge_type=property, label=idLock1_prop_idLockedState];
+idLock1 -> idPlayerBackside  [edge_type=relationship, label=isEastOf];
+}

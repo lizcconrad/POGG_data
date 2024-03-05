@@ -1,0 +1,15 @@
+strict digraph  {
+idWhistle1 [node_type=entity_node, root=root];
+cracked;
+white;
+idSmoke1;
+yes;
+idTaillight1;
+unlit;
+idWhistle1 -> cracked  [edge_type=property, label=idWhistle1_prop_idDescriptor];
+idWhistle1 -> white  [edge_type=property, label=idWhistle1_prop_idColor];
+idWhistle1 -> idSmoke1  [edge_type=relationship, label=isEastOf];
+idWhistle1 -> idTaillight1  [edge_type=relationship, label=isEastOf];
+idSmoke1 -> yes  [edge_type=property, label=idSmoke1_prop_idImmovable];
+idTaillight1 -> unlit  [edge_type=property, label=idTaillight1_prop_idLitState];
+}

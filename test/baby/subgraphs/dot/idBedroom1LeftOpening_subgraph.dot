@@ -1,0 +1,7 @@
+strict digraph  {
+idBedroom1LeftOpening [node_type=entity_node, root=root];
+idBackyardDoor1idLivingRoom1FrontOpening;
+idFrontDoor1idPorch1idNorthOfOpening;
+idBedroom1LeftOpening -> idBackyardDoor1idLivingRoom1FrontOpening  [edge_type=relationship, label=isEastOf];
+idBackyardDoor1idLivingRoom1FrontOpening -> idFrontDoor1idPorch1idNorthOfOpening  [edge_type=relationship, label=isNorthOf];
+}

@@ -1,0 +1,5 @@
+strict digraph  {
+idDuct1Opening [node_type=entity_node];
+idDuct1Flap [node_type=entity_node];
+idDuct1Opening -> idDuct1Flap  [edge_type=relationship, label=isNear];
+}

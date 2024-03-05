@@ -1,0 +1,19 @@
+strict digraph  {
+idEntrancecaveBackOpening [node_type=entity_node, root=root];
+tall;
+open;
+idRock2;
+red;
+rough;
+idGreenRoomFrontOpening;
+short;
+idEntrancecaveBackOpening -> tall  [edge_type=property, label=idEntrancecaveBackOpening_prop_idHeight];
+idEntrancecaveBackOpening -> open  [edge_type=property, label=idEntrancecaveBackOpening_prop_idOpenState];
+idEntrancecaveBackOpening -> idRock2  [edge_type=relationship, label=isNorthOf];
+idEntrancecaveBackOpening -> idGreenRoomFrontOpening  [edge_type=relationship, label=isNorthOf];
+idRock2 -> red  [edge_type=property, label=idRock2_prop_idColor];
+idRock2 -> rough  [edge_type=property, label=idRock2_prop_idTexture];
+idGreenRoomFrontOpening -> short  [edge_type=property, label=idGreenRoomFrontOpening_prop_idHeight];
+idGreenRoomFrontOpening -> open  [edge_type=property, label=idGreenRoomFrontOpening_prop_idOpenState];
+idGreenRoomFrontOpening -> idRock2  [edge_type=relationship, label=isSouthOf];
+}

@@ -1,0 +1,9 @@
+strict digraph  {
+idFairyWorld1 [node_type=entity_node, root=root];
+idBagOfChips1;
+idCabin1;
+idCaptainsChair1;
+idFairyWorld1 -> idBagOfChips1  [edge_type=relationship, label=isNear];
+idFairyWorld1 -> idCabin1  [edge_type=relationship, label=isNear];
+idCabin1 -> idCaptainsChair1  [edge_type=relationship, label=isNear];
+}

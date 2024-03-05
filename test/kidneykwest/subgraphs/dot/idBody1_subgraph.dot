@@ -1,0 +1,15 @@
+strict digraph  {
+idBody1 [node_type=entity_node, root=root];
+idGastricFold1;
+yes;
+true;
+idThroat1;
+idKidney1;
+idThroat1BackOpening;
+idBody1 -> idThroat1  [edge_type=relationship, label=isNear];
+idBody1 -> idGastricFold1  [edge_type=relationship, label=isNear];
+idGastricFold1 -> yes  [edge_type=property, label=idGastricFold1_prop_idImmovable];
+idGastricFold1 -> true  [edge_type=property, label=idGastricFold1_prop_idInterestingObject];
+idGastricFold1 -> idThroat1BackOpening  [edge_type=relationship, label=isSouthOf];
+idThroat1 -> idKidney1  [edge_type=relationship, label=isNear];
+}

@@ -1,0 +1,16 @@
+strict digraph  {
+idBed1 [node_type=entity_node, root=root];
+brown;
+yes;
+idqueen;
+idMedicineCabinet1;
+white;
+idChair2;
+idBed1 -> brown  [edge_type=property, label=idBed1_prop_idColor];
+idBed1 -> yes  [edge_type=property, label=idBed1_prop_idImmovable];
+idBed1 -> idqueen  [edge_type=property, label=idBed1_prop_idDescriptor_1];
+idBed1 -> idMedicineCabinet1  [edge_type=relationship, label=isNorthOf];
+idMedicineCabinet1 -> white  [edge_type=property, label=idMedicineCabinet1_prop_idColor];
+idMedicineCabinet1 -> yes  [edge_type=property, label=idMedicineCabinet1_prop_idImmovable];
+idMedicineCabinet1 -> idChair2  [edge_type=relationship, label=isWestOf];
+}

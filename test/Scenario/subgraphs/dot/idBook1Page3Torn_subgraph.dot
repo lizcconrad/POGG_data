@@ -1,0 +1,15 @@
+strict digraph  {
+idBook1Page3Torn [node_type=entity_node, root=root];
+3;
+idPlage;
+2;
+idRock2;
+red;
+rough;
+idBook1Page3Torn -> 3  [edge_type=property, label=idBook1Page3Torn_prop_idCardinality];
+idBook1Page3Torn -> idPlage  [edge_type=relationship, label=isNorthOf];
+idBook1Page3Torn -> idRock2  [edge_type=relationship, label=isNorthOf];
+idPlage -> 2  [edge_type=property, label=idPlage_prop_idOrdinality];
+idRock2 -> red  [edge_type=property, label=idRock2_prop_idColor];
+idRock2 -> rough  [edge_type=property, label=idRock2_prop_idTexture];
+}

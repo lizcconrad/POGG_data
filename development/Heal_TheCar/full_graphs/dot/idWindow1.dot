@@ -1,0 +1,21 @@
+strict digraph  {
+idWindow1 [node_type=entity_node];
+dark [node_type=property_node];
+tinted [node_type=property_node];
+intact [node_type=property_node];
+unbroken [node_type=property_node];
+cracked [node_type=property_node];
+visible [node_type=property_node];
+idDriver [node_type=property_node];
+idDriver1 [node_type=property_node];
+yes [node_type=property_node];
+idWindow1 -> dark  [edge_type=property, label=idWindow1_prop_idDescriptor];
+idWindow1 -> tinted  [edge_type=property, label=idWindow1_prop_idDescriptor_1];
+idWindow1 -> intact  [edge_type=property, label=idWindow1_prop_idDescriptor_2];
+idWindow1 -> unbroken  [edge_type=property, label=idWindow1_prop_idDescriptor_3];
+idWindow1 -> cracked  [edge_type=property, label=idWindow1_prop_idDescriptor_4];
+idWindow1 -> visible  [edge_type=property, label=idWindow1_prop_idDescriptor_5];
+idWindow1 -> idDriver  [edge_type=property, label=idWindow1_prop_idCarSide];
+idWindow1 -> idDriver1  [edge_type=property, label=idWindow1_prop_idOwnedBy];
+idWindow1 -> yes  [edge_type=property, label=idWindow1_prop_idImmovable];
+}

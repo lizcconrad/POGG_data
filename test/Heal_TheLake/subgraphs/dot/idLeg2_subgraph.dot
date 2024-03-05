@@ -1,0 +1,13 @@
+strict digraph  {
+idLeg2 [node_type=entity_node, root=root];
+idLocalFront;
+healthy;
+brown;
+idFrog1;
+idPlayerRightHand;
+idLeg2 -> idLocalFront  [edge_type=property, label=idLeg2_prop_idLocation];
+idLeg2 -> healthy  [edge_type=property, label=idLeg2_prop_idDescriptor];
+idLeg2 -> brown  [edge_type=property, label=idLeg2_prop_idColor];
+idLeg2 -> idFrog1  [edge_type=relationship, label=isEastOf];
+idFrog1 -> idPlayerRightHand  [edge_type=relationship, label=isWestOf];
+}

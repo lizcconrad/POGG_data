@@ -1,0 +1,12 @@
+strict digraph  {
+idBackyard1 [node_type=entity_node, root=root];
+true;
+idScrewdriver1;
+pointy;
+idCar1;
+idBackyard1 -> true  [edge_type=property, label=idBackyard1_prop_idUnknownObject];
+idBackyard1 -> idScrewdriver1  [edge_type=relationship, label=isNorthOf];
+idScrewdriver1 -> pointy  [edge_type=property, label=idScrewdriver1_prop_idShape];
+idScrewdriver1 -> true  [edge_type=property, label=idScrewdriver1_prop_idUnknownObject];
+idScrewdriver1 -> idCar1  [edge_type=relationship, label=isWestOf];
+}

@@ -1,0 +1,9 @@
+strict digraph  {
+idCabinet1 [node_type=entity_node, root=root];
+true;
+idmetal;
+yes;
+idCabinet1 -> true  [edge_type=property, label=idCabinet1_prop_idInterestingObject];
+idCabinet1 -> idmetal  [edge_type=property, label=idCabinet1_prop_idMaterial];
+idCabinet1 -> yes  [edge_type=property, label=idCabinet1_prop_idImmovable];
+}

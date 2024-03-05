@@ -1,0 +1,7 @@
+strict digraph  {
+idTutorialRoom1DoorLock [node_type=entity_node];
+locked [node_type=property_node];
+true [node_type=property_node];
+idTutorialRoom1DoorLock -> locked  [edge_type=property, label=idTutorialRoom1DoorLock_prop_idLockedState];
+idTutorialRoom1DoorLock -> true  [edge_type=property, label=idTutorialRoom1DoorLock_prop_idUnknownObject];
+}

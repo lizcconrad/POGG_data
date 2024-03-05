@@ -1,0 +1,7 @@
+strict digraph  {
+idPillow1 [node_type=entity_node, root=root];
+white;
+dirty;
+idPillow1 -> white  [edge_type=property, label=idPillow1_prop_idColor];
+idPillow1 -> dirty  [edge_type=property, label=idPillow1_prop_idDescriptor];
+}

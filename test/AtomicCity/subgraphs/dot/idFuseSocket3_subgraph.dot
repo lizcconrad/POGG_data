@@ -1,0 +1,11 @@
+strict digraph  {
+idFuseSocket3 [node_type=entity_node, root=root];
+3;
+idFuse30A;
+rusty;
+true;
+idFuseSocket3 -> 3  [edge_type=property, label=idFuseSocket3_prop_idOrdinality];
+idFuseSocket3 -> idFuse30A  [edge_type=relationship, label=isSouthOf];
+idFuse30A -> rusty  [edge_type=property, label=idFuse30A_prop_idTexture];
+idFuse30A -> true  [edge_type=property, label=idFuse30A_prop_idUnknownObject];
+}

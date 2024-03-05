@@ -1,0 +1,15 @@
+strict digraph  {
+idBook1 [node_type=entity_node, root=root];
+open;
+idLight1;
+on;
+lit;
+idKeyhole2;
+idFlashlightHandle;
+idBook1 -> open  [edge_type=property, label=idBook1_prop_idOpenState];
+idBook1 -> idKeyhole2  [edge_type=relationship, label=isNorthOf];
+idBook1 -> idLight1  [edge_type=relationship, label=isNorthOf];
+idLight1 -> on  [edge_type=property, label=idLight1_prop_idPowerState];
+idLight1 -> lit  [edge_type=property, label=idLight1_prop_idLitState];
+idKeyhole2 -> idFlashlightHandle  [edge_type=relationship, label=isNorthOf];
+}
