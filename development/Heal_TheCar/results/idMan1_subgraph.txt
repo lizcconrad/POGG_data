@@ -3,12 +3,12 @@
   INDEX: e788
   RELS: < [ unknown LBL: h790 ARG: x784 ARG0: e788 ]
           [ def_udef_a_q LBL: h787 ARG0: x784 RSTR: h785 BODY: h786 ]
-          [ _familiar_a_with LBL: h783 ARG0: e780 ARG1: x784 ARG2: u782 ]
-          [ _immovable_a_1 LBL: h783 ARG0: e774 ARG1: x784 ]
-          [ _un-_a_neg LBL: h783 ARG0: i759 ARG1: e762 ]
-          [ _know_v_1 LBL: h783 ARG0: e762 ARG1: u763 ARG2: x784 ]
-          [ _man_n_1 LBL: h783 ARG0: x784 ] >
-  HCONS: < h785 qeq h783 h791 qeq h790 > ]
+          [ _familiar_a_with LBL: h754 ARG0: e780 ARG1: x784 ARG2: u782 ]
+          [ _immovable_a_1 LBL: h754 ARG0: e774 ARG1: x784 ]
+          [ _un-_a_neg LBL: h754 ARG0: i759 ARG1: e760 ]
+          [ _know_v_1 LBL: h754 ARG0: e760 ARG1: u763 ARG2: x784 ]
+          [ _man_n_1 LBL: h754 ARG0: x784 ] >
+  HCONS: < h785 qeq h754 h791 qeq h790 > ]
 GENERATED RESULTS ... 
 An unknown immovable familiar man
 The unknown immovable familiar man
@@ -87,10 +87,10 @@ TOTAL RESULTS: 72
 
 Node        MRS Produced    Reason                 Included in MRS    Reason
 ----------  --------------  ---------------------  -----------------  ---------------
-familiar_2  True            MRS fragment produced  True               Included in MRS
+familiar_4  True            MRS fragment produced  True               Included in MRS
 idMan_1     True            MRS fragment produced  True               Included in MRS
 true_2      True            MRS fragment produced  True               Included in MRS
-yes_2       True            MRS fragment produced  True               Included in MRS
+yes_3       True            MRS fragment produced  True               Included in MRS
 
 Edge               MRS Composed    Reason        Included in MRS    Reason
 -----------------  --------------  ------------  -----------------  ---------------

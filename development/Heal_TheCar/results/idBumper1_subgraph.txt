@@ -5,21 +5,21 @@
           [ def_udef_a_q LBL: h566 ARG0: x502 RSTR: h564 BODY: h565 ]
           [ _near_p LBL: h558 ARG0: e555 ARG1: x502 ARG2: x525 ]
           [ def_udef_a_q LBL: h562 ARG0: x525 RSTR: h560 BODY: h561 ]
-          [ _un-_a_neg LBL: h526 ARG0: i544 ARG1: e547 ]
-          [ _know_v_1 LBL: h526 ARG0: e547 ARG1: u548 ARG2: x525 ]
-          [ _black_a_1 LBL: h526 ARG0: i537 ARG1: x525 ]
-          [ compound LBL: h526 ARG0: e533 ARG1: x525 ARG2: x527 ]
-          [ udef_q LBL: h532 ARG0: x527 RSTR: h530 BODY: h531 ]
-          [ _car_n_1 LBL: h528 ARG0: x527 ]
-          [ _key_n_1 LBL: h526 ARG0: x525 ]
+          [ _un-_a_neg LBL: h546 ARG0: i544 ARG1: e547 ]
+          [ _know_v_1 LBL: h546 ARG0: e547 ARG1: u548 ARG2: x525 ]
+          [ _black_a_1 LBL: h546 ARG0: i537 ARG1: x525 ]
+          [ compound LBL: h546 ARG0: e533 ARG1: x525 ARG2: x529 ]
+          [ udef_q LBL: h532 ARG0: x529 RSTR: h530 BODY: h531 ]
+          [ _car_n_1 LBL: h528 ARG0: x529 ]
+          [ _key_n_1 LBL: h546 ARG0: x525 ]
           [ _inside+of_p LBL: h558 ARG0: e517 ARG1: x502 ARG2: x521 ]
           [ def_udef_a_q LBL: h524 ARG0: x521 RSTR: h522 BODY: h523 ]
-          [ _near_p LBL: h512 ARG0: e509 ARG1: x521 ARG2: x506 ]
-          [ def_udef_a_q LBL: h516 ARG0: x506 RSTR: h514 BODY: h515 ]
-          [ _player_n_of LBL: h508 ARG0: x506 ARG1: i507 ]
+          [ _near_p LBL: h512 ARG0: e509 ARG1: x521 ARG2: x513 ]
+          [ def_udef_a_q LBL: h516 ARG0: x513 RSTR: h514 BODY: h515 ]
+          [ _player_n_of LBL: h508 ARG0: x513 ARG1: i507 ]
           [ _car_n_1 LBL: h512 ARG0: x521 ]
           [ _bumper_n_1 LBL: h558 ARG0: x502 ] >
-  HCONS: < h530 qeq h528 h560 qeq h526 h514 qeq h508 h522 qeq h512 h564 qeq h558 h570 qeq h569 > ]
+  HCONS: < h530 qeq h528 h560 qeq h546 h514 qeq h508 h522 qeq h512 h564 qeq h558 h570 qeq h569 > ]
 GENERATED RESULTS ... 
 Bumpers near the car black unknown keys inside of a car near the players
 Bumpers near car black unknown keys inside of a car near the players
@@ -1124,20 +1124,20 @@ TOTAL RESULTS: 1098
 
 Node        MRS Produced    Reason                 Included in MRS    Reason
 ----------  --------------  ---------------------  -----------------  ---------------
-black_3     True            MRS fragment produced  True               Included in MRS
+black_5     True            MRS fragment produced  True               Included in MRS
 idBumper_1  True            MRS fragment produced  True               Included in MRS
-idCarKey_2  True            MRS fragment produced  True               Included in MRS
+idCarKey_4  True            MRS fragment produced  True               Included in MRS
 idPlayer_3  True            MRS fragment produced  True               Included in MRS
 idTheCar_2  True            MRS fragment produced  True               Included in MRS
-true_3      True            MRS fragment produced  True               Included in MRS
+true_6      True            MRS fragment produced  True               Included in MRS
 
 Edge               MRS Composed    Reason        Included in MRS    Reason
 -----------------  --------------  ------------  -----------------  ---------------
-idColor_2          True            MRS composed  True               Included in MRS
-idUnknownObject_3  True            MRS composed  True               Included in MRS
-isInsideOf_1       True            MRS composed  True               Included in MRS
+idColor_3          True            MRS composed  True               Included in MRS
+idUnknownObject_4  True            MRS composed  True               Included in MRS
+isInsideOf_2       True            MRS composed  True               Included in MRS
 isNear_1           True            MRS composed  True               Included in MRS
-isNear_2           True            MRS composed  True               Included in MRS
+isNear_5           True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

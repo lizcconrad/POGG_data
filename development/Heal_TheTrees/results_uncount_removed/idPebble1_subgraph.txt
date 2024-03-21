@@ -3,17 +3,17 @@
   INDEX: e341
   RELS: < [ unknown LBL: h343 ARG: x306 ARG0: e341 ]
           [ def_udef_a_q LBL: h340 ARG0: x306 RSTR: h338 BODY: h339 ]
-          [ loc_nonsp LBL: h307 ARG0: i333 ARG1: x306 ARG2: x327 ]
+          [ loc_nonsp LBL: h307 ARG0: i333 ARG1: x306 ARG2: x329 ]
           [ _smooth_a_1 LBL: h307 ARG0: e311 ARG1: x306 ]
           [ _grey_a_1 LBL: h307 ARG0: i308 ARG1: x306 ]
           [ _pebble_n_1 LBL: h307 ARG0: x306 ]
-          [ def_implicit_q LBL: h332 ARG0: x327 RSTR: h330 BODY: h331 ]
-          [ _west_a_1 LBL: h322 ARG0: i319 ARG1: x327 ARG2: x314 ]
+          [ def_implicit_q LBL: h332 ARG0: x329 RSTR: h330 BODY: h331 ]
+          [ _west_a_1 LBL: h322 ARG0: i319 ARG1: x329 ARG2: x314 ]
           [ def_udef_a_q LBL: h326 ARG0: x314 RSTR: h324 BODY: h325 ]
-          [ _glow_v_1 LBL: h318 ARG0: e316 [ e PROG: bool ] ARG1: x314 ]
-          [ _area_n_of LBL: h318 ARG0: x314 ]
-          [ place_n LBL: h322 ARG0: x327 ] >
-  HCONS: < h324 qeq h318 h330 qeq h322 h338 qeq h307 h344 qeq h343 > ]
+          [ _glow_v_1 LBL: h315 ARG0: e316 [ e PROG: bool ] ARG1: x314 ]
+          [ _area_n_of LBL: h315 ARG0: x314 ]
+          [ place_n LBL: h322 ARG0: x329 ] >
+  HCONS: < h324 qeq h315 h330 qeq h322 h338 qeq h307 h344 qeq h343 > ]
 GENERATED RESULTS ... 
 Smooth gray pebbles west of the areas glowing.
 Smooth grey pebbles west of the areas glowing.
@@ -720,18 +720,18 @@ TOTAL RESULTS: 700
 
 Node             MRS Produced    Reason                 Included in MRS    Reason
 ---------------  --------------  ---------------------  -----------------  ---------------
-glowing_3        True            MRS fragment produced  True               Included in MRS
+glowing_5        True            MRS fragment produced  True               Included in MRS
 grey_2           True            MRS fragment produced  True               Included in MRS
-idGlowingArea_2  True            MRS fragment produced  True               Included in MRS
+idGlowingArea_4  True            MRS fragment produced  True               Included in MRS
 idPebble_1       True            MRS fragment produced  True               Included in MRS
-smooth_2         True            MRS fragment produced  True               Included in MRS
+smooth_3         True            MRS fragment produced  True               Included in MRS
 
 Edge            MRS Composed    Reason        Included in MRS    Reason
 --------------  --------------  ------------  -----------------  ---------------
 idColor_1       True            MRS composed  True               Included in MRS
 idDescriptor_2  True            MRS composed  True               Included in MRS
 idDescriptor_3  True            MRS composed  True               Included in MRS
-isWestOf_3      True            MRS composed  True               Included in MRS
+isWestOf_4      True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

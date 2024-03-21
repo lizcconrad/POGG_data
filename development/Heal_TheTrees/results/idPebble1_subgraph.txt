@@ -8,12 +8,12 @@
           [ _grey_a_1 LBL: h348 ARG0: i320 ARG1: x318 ]
           [ _pebble_n_1 LBL: h348 ARG0: x318 ]
           [ def_implicit_q LBL: h344 ARG0: x332 RSTR: h342 BODY: h343 ]
-          [ _west_a_1 LBL: h334 ARG0: i331 ARG1: x332 ARG2: x335 ]
-          [ def_udef_a_q LBL: h338 ARG0: x335 RSTR: h336 BODY: h337 ]
-          [ _glow_v_1 LBL: h330 ARG0: e328 [ e PROG: bool ] ARG1: x335 ]
-          [ _area_n_of LBL: h330 ARG0: x335 ]
-          [ place_n LBL: h334 ARG0: x332 ] >
-  HCONS: < h336 qeq h330 h342 qeq h334 h350 qeq h348 h356 qeq h355 > ]
+          [ _west_a_1 LBL: h340 ARG0: i331 ARG1: x332 ARG2: x326 ]
+          [ def_udef_a_q LBL: h338 ARG0: x326 RSTR: h336 BODY: h337 ]
+          [ _glow_v_1 LBL: h330 ARG0: e328 [ e PROG: bool ] ARG1: x326 ]
+          [ _area_n_of LBL: h330 ARG0: x326 ]
+          [ place_n LBL: h340 ARG0: x332 ] >
+  HCONS: < h336 qeq h330 h342 qeq h340 h350 qeq h348 h356 qeq h355 > ]
 GENERATED RESULTS ... 
 Smooth gray pebbles west of the areas glowing.
 Smooth grey pebbles west of the areas glowing.
@@ -720,18 +720,18 @@ TOTAL RESULTS: 700
 
 Node             MRS Produced    Reason                 Included in MRS    Reason
 ---------------  --------------  ---------------------  -----------------  ---------------
-glowing_3        True            MRS fragment produced  True               Included in MRS
+glowing_5        True            MRS fragment produced  True               Included in MRS
 grey_2           True            MRS fragment produced  True               Included in MRS
-idGlowingArea_2  True            MRS fragment produced  True               Included in MRS
+idGlowingArea_4  True            MRS fragment produced  True               Included in MRS
 idPebble_1       True            MRS fragment produced  True               Included in MRS
-smooth_2         True            MRS fragment produced  True               Included in MRS
+smooth_3         True            MRS fragment produced  True               Included in MRS
 
 Edge            MRS Composed    Reason        Included in MRS    Reason
 --------------  --------------  ------------  -----------------  ---------------
 idColor_1       True            MRS composed  True               Included in MRS
 idDescriptor_2  True            MRS composed  True               Included in MRS
 idDescriptor_3  True            MRS composed  True               Included in MRS
-isWestOf_3      True            MRS composed  True               Included in MRS
+isWestOf_4      True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

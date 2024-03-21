@@ -3,28 +3,28 @@
   INDEX: e437
   RELS: < [ unknown LBL: h439 ARG: x340 ARG0: e437 ]
           [ def_udef_a_q LBL: h436 ARG0: x340 RSTR: h434 BODY: h435 ]
-          [ loc_nonsp LBL: h432 ARG0: i429 ARG1: x340 ARG2: x425 ]
-          [ _un-_a_neg LBL: h432 ARG0: i356 ARG1: e359 ]
-          [ _know_v_1 LBL: h432 ARG0: e359 ARG1: u360 ARG2: x340 ]
-          [ _immovable_a_1 LBL: h432 ARG0: e346 ARG1: x340 ]
-          [ _desk_n_1 LBL: h432 ARG0: x340 ]
-          [ def_implicit_q LBL: h428 ARG0: x425 RSTR: h426 BODY: h427 ]
-          [ _south_a_1 LBL: h418 ARG0: i415 ARG1: x425 ARG2: x367 ]
+          [ loc_nonsp LBL: h358 ARG0: i429 ARG1: x340 ARG2: x423 ]
+          [ _un-_a_neg LBL: h358 ARG0: i356 ARG1: e357 ]
+          [ _know_v_1 LBL: h358 ARG0: e357 ARG1: u360 ARG2: x340 ]
+          [ _immovable_a_1 LBL: h358 ARG0: e346 ARG1: x340 ]
+          [ _desk_n_1 LBL: h358 ARG0: x340 ]
+          [ def_implicit_q LBL: h428 ARG0: x423 RSTR: h426 BODY: h427 ]
+          [ _south_a_1 LBL: h424 ARG0: i415 ARG1: x423 ARG2: x367 ]
           [ def_udef_a_q LBL: h422 ARG0: x367 RSTR: h420 BODY: h421 ]
-          [ loc_nonsp LBL: h385 ARG0: i411 ARG1: x367 ARG2: x398 ]
-          [ _un-_a_neg LBL: h385 ARG0: i383 ARG1: e384 ]
-          [ _know_v_1 LBL: h385 ARG0: e384 ARG1: u387 ARG2: x367 ]
-          [ compound LBL: h385 ARG0: e375 ARG1: x367 ARG2: x371 ]
-          [ udef_q LBL: h374 ARG0: x371 RSTR: h372 BODY: h373 ]
-          [ _game_n_1 LBL: h370 ARG0: x371 ]
-          [ _room_n_unit LBL: h385 ARG0: x367 ]
-          [ def_implicit_q LBL: h410 ARG0: x398 RSTR: h408 BODY: h409 ]
-          [ _north_a_1 LBL: h406 ARG0: i397 ARG1: x398 ARG2: x401 ]
+          [ loc_nonsp LBL: h414 ARG0: i411 ARG1: x367 ARG2: x405 ]
+          [ _un-_a_neg LBL: h414 ARG0: i383 ARG1: e384 ]
+          [ _know_v_1 LBL: h414 ARG0: e384 ARG1: u387 ARG2: x367 ]
+          [ compound LBL: h414 ARG0: e375 ARG1: x367 ARG2: x369 ]
+          [ udef_q LBL: h374 ARG0: x369 RSTR: h372 BODY: h373 ]
+          [ _game_n_1 LBL: h370 ARG0: x369 ]
+          [ _room_n_unit LBL: h414 ARG0: x367 ]
+          [ def_implicit_q LBL: h410 ARG0: x405 RSTR: h408 BODY: h409 ]
+          [ _north_a_1 LBL: h400 ARG0: i397 ARG1: x405 ARG2: x401 ]
           [ def_udef_a_q LBL: h404 ARG0: x401 RSTR: h402 BODY: h403 ]
           [ _player_n_of LBL: h396 ARG0: x401 ARG1: i395 ]
-          [ place_n LBL: h406 ARG0: x398 ]
-          [ place_n LBL: h418 ARG0: x425 ] >
-  HCONS: < h372 qeq h370 h402 qeq h396 h408 qeq h406 h420 qeq h385 h426 qeq h418 h434 qeq h432 h440 qeq h439 > ]
+          [ place_n LBL: h400 ARG0: x405 ]
+          [ place_n LBL: h424 ARG0: x423 ] >
+  HCONS: < h372 qeq h370 h402 qeq h396 h408 qeq h400 h420 qeq h414 h426 qeq h424 h434 qeq h358 h440 qeq h439 > ]
 GENERATED RESULTS ... 
 The immovable unknown desks south of the unknown game room north of the players
 Immovable unknown desks south of the unknown game room north of the players
@@ -1176,10 +1176,10 @@ TOTAL RESULTS: 1144
 Node          MRS Produced    Reason                 Included in MRS    Reason
 ------------  --------------  ---------------------  -----------------  ---------------
 idDesk_1      True            MRS fragment produced  True               Included in MRS
-idGameRoom_2  True            MRS fragment produced  True               Included in MRS
-idPlayer_3    True            MRS fragment produced  True               Included in MRS
-true_2        True            MRS fragment produced  True               Included in MRS
+idGameRoom_4  True            MRS fragment produced  True               Included in MRS
+idPlayer_6    True            MRS fragment produced  True               Included in MRS
 true_3        True            MRS fragment produced  True               Included in MRS
+true_5        True            MRS fragment produced  True               Included in MRS
 yes_2         True            MRS fragment produced  True               Included in MRS
 
 Edge               MRS Composed    Reason        Included in MRS    Reason
@@ -1188,7 +1188,7 @@ idImmovable_1      True            MRS composed  True               Included in 
 idUnknownObject_2  True            MRS composed  True               Included in MRS
 idUnknownObject_3  True            MRS composed  True               Included in MRS
 isNorthOf_4        True            MRS composed  True               Included in MRS
-isSouthOf_3        True            MRS composed  True               Included in MRS
+isSouthOf_5        True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

@@ -3,28 +3,28 @@
   INDEX: e1299
   RELS: < [ unknown LBL: h1301 ARG: x1295 ARG0: e1299 ]
           [ def_udef_a_q LBL: h1298 ARG0: x1295 RSTR: h1296 BODY: h1297 ]
-          [ loc_nonsp LBL: h1257 ARG0: i1291 ARG1: x1295 ARG2: x1287 ]
-          [ loc_nonsp LBL: h1257 ARG0: i1254 ARG1: x1295 ARG2: x1250 ]
-          [ _white_a_1 LBL: h1257 ARG0: i1225 ARG1: x1295 ]
-          [ _crack_v_cause LBL: h1257 ARG0: e1221 ARG1: i1222 ARG2: x1295 ]
-          [ _whistle_n_1 LBL: h1257 ARG0: x1295 ]
-          [ def_implicit_q LBL: h1253 ARG0: x1250 RSTR: h1251 BODY: h1252 ]
-          [ _east_a_1 LBL: h1249 ARG0: i1240 ARG1: x1250 ARG2: x1244 ]
-          [ def_udef_a_q LBL: h1247 ARG0: x1244 RSTR: h1245 BODY: h1246 ]
-          [ _immovable_a_1 LBL: h1229 ARG0: e1234 ARG1: x1244 ]
-          [ _smoke_n_1 LBL: h1229 ARG0: x1244 ]
-          [ place_n LBL: h1249 ARG0: x1250 ]
-          [ def_implicit_q LBL: h1290 ARG0: x1287 RSTR: h1288 BODY: h1289 ]
-          [ _east_a_1 LBL: h1286 ARG0: i1277 ARG1: x1287 ARG2: x1258 ]
+          [ loc_nonsp LBL: h1224 ARG0: i1291 ARG1: x1295 ARG2: x1278 ]
+          [ loc_nonsp LBL: h1224 ARG0: i1254 ARG1: x1295 ARG2: x1248 ]
+          [ _white_a_1 LBL: h1224 ARG0: i1225 ARG1: x1295 ]
+          [ _crack_v_cause LBL: h1224 ARG0: e1221 ARG1: i1222 ARG2: x1295 ]
+          [ _whistle_n_1 LBL: h1224 ARG0: x1295 ]
+          [ def_implicit_q LBL: h1253 ARG0: x1248 RSTR: h1251 BODY: h1252 ]
+          [ _east_a_1 LBL: h1243 ARG0: i1240 ARG1: x1248 ARG2: x1228 ]
+          [ def_udef_a_q LBL: h1247 ARG0: x1228 RSTR: h1245 BODY: h1246 ]
+          [ _immovable_a_1 LBL: h1236 ARG0: e1234 ARG1: x1228 ]
+          [ _smoke_n_1 LBL: h1236 ARG0: x1228 ]
+          [ place_n LBL: h1243 ARG0: x1248 ]
+          [ def_implicit_q LBL: h1290 ARG0: x1278 RSTR: h1288 BODY: h1289 ]
+          [ _east_a_1 LBL: h1286 ARG0: i1277 ARG1: x1278 ARG2: x1258 ]
           [ def_udef_a_q LBL: h1284 ARG0: x1258 RSTR: h1282 BODY: h1283 ]
-          [ _un-_a_neg LBL: h1269 ARG0: i1274 ARG1: e1275 ]
-          [ _light_v_cause LBL: h1269 ARG0: e1275 ARG1: i1271 ARG2: x1258 ]
-          [ compound LBL: h1269 ARG0: e1266 ARG1: x1258 ARG2: x1262 ]
+          [ _un-_a_neg LBL: h1273 ARG0: i1274 ARG1: e1270 ]
+          [ _light_v_cause LBL: h1273 ARG0: e1270 ARG1: i1271 ARG2: x1258 ]
+          [ compound LBL: h1273 ARG0: e1266 ARG1: x1258 ARG2: x1262 ]
           [ udef_q LBL: h1265 ARG0: x1262 RSTR: h1263 BODY: h1264 ]
           [ _tail_n_1 LBL: h1261 ARG0: x1262 ]
-          [ _light_n_1 LBL: h1269 ARG0: x1258 ]
-          [ place_n LBL: h1286 ARG0: x1287 ] >
-  HCONS: < h1245 qeq h1229 h1251 qeq h1249 h1263 qeq h1261 h1282 qeq h1269 h1288 qeq h1286 h1296 qeq h1257 h1302 qeq h1301 > ]
+          [ _light_n_1 LBL: h1273 ARG0: x1258 ]
+          [ place_n LBL: h1286 ARG0: x1278 ] >
+  HCONS: < h1245 qeq h1236 h1251 qeq h1243 h1263 qeq h1261 h1282 qeq h1273 h1288 qeq h1286 h1296 qeq h1224 h1302 qeq h1301 > ]
 GENERATED RESULTS ... 
 Cracked white whistles east of the immovable smokes east of the unlighted tail lights
 Cracked white whistles east of the unlighted tail lights east of the immovable smokes
@@ -2630,21 +2630,21 @@ TOTAL RESULTS: 2598
 Node           MRS Produced    Reason                 Included in MRS    Reason
 -------------  --------------  ---------------------  -----------------  ---------------
 cracked_2      True            MRS fragment produced  True               Included in MRS
-idSmoke_2      True            MRS fragment produced  True               Included in MRS
-idTaillight_2  True            MRS fragment produced  True               Included in MRS
+idSmoke_4      True            MRS fragment produced  True               Included in MRS
+idTaillight_6  True            MRS fragment produced  True               Included in MRS
 idWhistle_1    True            MRS fragment produced  True               Included in MRS
-unlit_3        True            MRS fragment produced  True               Included in MRS
-white_2        True            MRS fragment produced  True               Included in MRS
-yes_3          True            MRS fragment produced  True               Included in MRS
+unlit_7        True            MRS fragment produced  True               Included in MRS
+white_3        True            MRS fragment produced  True               Included in MRS
+yes_5          True            MRS fragment produced  True               Included in MRS
 
 Edge            MRS Composed    Reason        Included in MRS    Reason
 --------------  --------------  ------------  -----------------  ---------------
 idColor_2       True            MRS composed  True               Included in MRS
 idDescriptor_1  True            MRS composed  True               Included in MRS
 idImmovable_3   True            MRS composed  True               Included in MRS
-idLitState_4    True            MRS composed  True               Included in MRS
-isEastOf_3      True            MRS composed  True               Included in MRS
+idLitState_5    True            MRS composed  True               Included in MRS
 isEastOf_4      True            MRS composed  True               Included in MRS
+isEastOf_6      True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

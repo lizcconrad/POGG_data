@@ -3,26 +3,26 @@
   INDEX: e787
   RELS: < [ unknown LBL: h789 ARG: x713 ARG0: e787 ]
           [ def_udef_a_q LBL: h786 ARG0: x713 RSTR: h784 BODY: h785 ]
-          [ loc_nonsp LBL: h715 ARG0: i779 ARG1: x713 ARG2: x773 ]
+          [ loc_nonsp LBL: h715 ARG0: i779 ARG1: x713 ARG2: x766 ]
           [ _brown_a_1 LBL: h715 ARG0: i716 ARG1: x713 ]
           [ _branch_n_of LBL: h715 ARG0: x713 ARG1: i714 ]
-          [ def_implicit_q LBL: h778 ARG0: x773 RSTR: h776 BODY: h777 ]
-          [ _north_a_1 LBL: h774 ARG0: i765 ARG1: x773 ARG2: x719 ]
+          [ def_implicit_q LBL: h778 ARG0: x766 RSTR: h776 BODY: h777 ]
+          [ _north_a_1 LBL: h768 ARG0: i765 ARG1: x766 ARG2: x719 ]
           [ def_udef_a_q LBL: h772 ARG0: x719 RSTR: h770 BODY: h771 ]
-          [ loc_nonsp LBL: h727 ARG0: i761 ARG1: x719 ARG2: x748 ]
-          [ _glow_v_1 LBL: h727 ARG0: e731 [ e PROG: bool ] ARG1: x719 ]
-          [ _immovable_a_1 LBL: h727 ARG0: e725 ARG1: x719 ]
-          [ _grass_n_1 LBL: h727 ARG0: x719 ]
+          [ loc_nonsp LBL: h720 ARG0: i761 ARG1: x719 ARG2: x748 ]
+          [ _glow_v_1 LBL: h720 ARG0: e731 [ e PROG: bool ] ARG1: x719 ]
+          [ _immovable_a_1 LBL: h720 ARG0: e725 ARG1: x719 ]
+          [ _grass_n_1 LBL: h720 ARG0: x719 ]
           [ def_implicit_q LBL: h760 ARG0: x748 RSTR: h758 BODY: h759 ]
-          [ _south_a_1 LBL: h750 ARG0: i747 ARG1: x748 ARG2: x734 ]
+          [ _south_a_1 LBL: h756 ARG0: i747 ARG1: x748 ARG2: x734 ]
           [ def_udef_a_q LBL: h754 ARG0: x734 RSTR: h752 BODY: h753 ]
-          [ poss LBL: h746 ARG0: e743 ARG1: x734 ARG2: x736 ]
-          [ _backside_n_1 LBL: h746 ARG0: x734 ]
+          [ poss LBL: h735 ARG0: e743 ARG1: x734 ARG2: x736 ]
+          [ _backside_n_1 LBL: h735 ARG0: x734 ]
           [ def_udef_a_q LBL: h742 ARG0: x736 RSTR: h740 BODY: h741 ]
           [ _player_n_of LBL: h738 ARG0: x736 ARG1: i737 ]
-          [ place_n LBL: h750 ARG0: x748 ]
-          [ place_n LBL: h774 ARG0: x773 ] >
-  HCONS: < h740 qeq h738 h752 qeq h746 h758 qeq h750 h770 qeq h727 h776 qeq h774 h784 qeq h715 h790 qeq h789 > ]
+          [ place_n LBL: h756 ARG0: x748 ]
+          [ place_n LBL: h768 ARG0: x766 ] >
+  HCONS: < h740 qeq h738 h752 qeq h735 h758 qeq h756 h770 qeq h720 h776 qeq h768 h784 qeq h715 h790 qeq h789 > ]
 GENERATED RESULTS ... 
 A brown branch north of the immovable grasses south of the player's backsides glowing.
 The brown branch north of the immovable grasses south of the player's backsides glowing.
@@ -2133,18 +2133,18 @@ TOTAL RESULTS: 2103
 Node                MRS Produced    Reason                 Included in MRS    Reason
 ------------------  --------------  ---------------------  -----------------  ---------------
 brown_2             True            MRS fragment produced  True               Included in MRS
-glowing_3           True            MRS fragment produced  True               Included in MRS
+glowing_5           True            MRS fragment produced  True               Included in MRS
 idBranch_1          True            MRS fragment produced  True               Included in MRS
-idGlowingGrass_2    True            MRS fragment produced  True               Included in MRS
-idPlayerBackside_3  True            MRS fragment produced  True               Included in MRS
-yes_3               True            MRS fragment produced  True               Included in MRS
+idGlowingGrass_3    True            MRS fragment produced  True               Included in MRS
+idPlayerBackside_6  True            MRS fragment produced  True               Included in MRS
+yes_4               True            MRS fragment produced  True               Included in MRS
 
 Edge            MRS Composed    Reason        Included in MRS    Reason
 --------------  --------------  ------------  -----------------  ---------------
 idColor_1       True            MRS composed  True               Included in MRS
 idDescriptor_3  True            MRS composed  True               Included in MRS
 idImmovable_2   True            MRS composed  True               Included in MRS
-isNorthOf_2     True            MRS composed  True               Included in MRS
+isNorthOf_5     True            MRS composed  True               Included in MRS
 isSouthOf_4     True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage

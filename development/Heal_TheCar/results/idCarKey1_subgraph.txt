@@ -1,24 +1,24 @@
 /Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idCarKey1_subgraph.dot
 [ TOP: h1463
   INDEX: e1460
-  RELS: < [ unknown LBL: h1462 ARG: x1393 ARG0: e1460 ]
-          [ def_udef_a_q LBL: h1459 ARG0: x1393 RSTR: h1457 BODY: h1458 ]
-          [ loc_nonsp LBL: h1455 ARG0: i1452 ARG1: x1393 ARG2: x1448 ]
-          [ _un-_a_neg LBL: h1455 ARG0: i1412 ARG1: e1415 ]
-          [ _know_v_1 LBL: h1455 ARG0: e1415 ARG1: u1416 ARG2: x1393 ]
-          [ _black_a_1 LBL: h1455 ARG0: i1405 ARG1: x1393 ]
-          [ compound LBL: h1455 ARG0: e1401 ARG1: x1393 ARG2: x1395 ]
-          [ udef_q LBL: h1400 ARG0: x1395 RSTR: h1398 BODY: h1399 ]
-          [ _car_n_1 LBL: h1396 ARG0: x1395 ]
-          [ _key_n_1 LBL: h1455 ARG0: x1393 ]
-          [ def_implicit_q LBL: h1451 ARG0: x1448 RSTR: h1449 BODY: h1450 ]
-          [ _west_a_1 LBL: h1447 ARG0: i1438 ARG1: x1448 ARG2: x1423 ]
+  RELS: < [ unknown LBL: h1462 ARG: x1456 ARG0: e1460 ]
+          [ def_udef_a_q LBL: h1459 ARG0: x1456 RSTR: h1457 BODY: h1458 ]
+          [ loc_nonsp LBL: h1414 ARG0: i1452 ARG1: x1456 ARG2: x1439 ]
+          [ _un-_a_neg LBL: h1414 ARG0: i1412 ARG1: e1415 ]
+          [ _know_v_1 LBL: h1414 ARG0: e1415 ARG1: u1416 ARG2: x1456 ]
+          [ _black_a_1 LBL: h1414 ARG0: i1405 ARG1: x1456 ]
+          [ compound LBL: h1414 ARG0: e1401 ARG1: x1456 ARG2: x1397 ]
+          [ udef_q LBL: h1400 ARG0: x1397 RSTR: h1398 BODY: h1399 ]
+          [ _car_n_1 LBL: h1396 ARG0: x1397 ]
+          [ _key_n_1 LBL: h1414 ARG0: x1456 ]
+          [ def_implicit_q LBL: h1451 ARG0: x1439 RSTR: h1449 BODY: h1450 ]
+          [ _west_a_1 LBL: h1447 ARG0: i1438 ARG1: x1439 ARG2: x1423 ]
           [ def_udef_a_q LBL: h1445 ARG0: x1423 RSTR: h1443 BODY: h1444 ]
-          [ _immovable_a_1 LBL: h1434 ARG0: e1432 ARG1: x1423 ]
-          [ _old_a_1 LBL: h1434 ARG0: e1425 ARG1: x1423 ]
-          [ _car_n_1 LBL: h1434 ARG0: x1423 ]
-          [ place_n LBL: h1447 ARG0: x1448 ] >
-  HCONS: < h1398 qeq h1396 h1443 qeq h1434 h1449 qeq h1447 h1457 qeq h1455 h1463 qeq h1462 > ]
+          [ _immovable_a_1 LBL: h1424 ARG0: e1432 ARG1: x1423 ]
+          [ _old_a_1 LBL: h1424 ARG0: e1425 ARG1: x1423 ]
+          [ _car_n_1 LBL: h1424 ARG0: x1423 ]
+          [ place_n LBL: h1447 ARG0: x1439 ] >
+  HCONS: < h1398 qeq h1396 h1443 qeq h1424 h1449 qeq h1447 h1457 qeq h1414 h1463 qeq h1462 > ]
 GENERATED RESULTS ... 
 Unknown black car keys west of an immovable old car
 Black unknown car keys west of an immovable old car
@@ -987,10 +987,10 @@ Node        MRS Produced    Reason                 Included in MRS    Reason
 ----------  --------------  ---------------------  -----------------  ---------------
 black_2     True            MRS fragment produced  True               Included in MRS
 idCarKey_1  True            MRS fragment produced  True               Included in MRS
-idCar_2     True            MRS fragment produced  True               Included in MRS
-old_3       True            MRS fragment produced  True               Included in MRS
-true_2      True            MRS fragment produced  True               Included in MRS
-yes_3       True            MRS fragment produced  True               Included in MRS
+idCar_4     True            MRS fragment produced  True               Included in MRS
+old_5       True            MRS fragment produced  True               Included in MRS
+true_3      True            MRS fragment produced  True               Included in MRS
+yes_6       True            MRS fragment produced  True               Included in MRS
 
 Edge               MRS Composed    Reason        Included in MRS    Reason
 -----------------  --------------  ------------  -----------------  ---------------
@@ -998,7 +998,7 @@ idColor_1          True            MRS composed  True               Included in 
 idDescriptor_3     True            MRS composed  True               Included in MRS
 idImmovable_4      True            MRS composed  True               Included in MRS
 idUnknownObject_2  True            MRS composed  True               Included in MRS
-isWestOf_3         True            MRS composed  True               Included in MRS
+isWestOf_5         True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

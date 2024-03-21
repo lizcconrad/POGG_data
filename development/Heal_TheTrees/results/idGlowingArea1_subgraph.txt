@@ -3,18 +3,18 @@
   INDEX: e600
   RELS: < [ unknown LBL: h602 ARG: x560 ARG0: e600 ]
           [ def_udef_a_q LBL: h599 ARG0: x560 RSTR: h597 BODY: h598 ]
-          [ loc_nonsp LBL: h564 ARG0: i592 ARG1: x560 ARG2: x588 ]
-          [ _glow_v_1 LBL: h564 ARG0: e562 [ e PROG: bool ] ARG1: x560 ]
-          [ _area_n_of LBL: h564 ARG0: x560 ]
+          [ loc_nonsp LBL: h561 ARG0: i592 ARG1: x560 ARG2: x588 ]
+          [ _glow_v_1 LBL: h561 ARG0: e562 [ e PROG: bool ] ARG1: x560 ]
+          [ _area_n_of LBL: h561 ARG0: x560 ]
           [ def_implicit_q LBL: h591 ARG0: x588 RSTR: h589 BODY: h590 ]
-          [ _south_a_1 LBL: h581 ARG0: i578 ARG1: x588 ARG2: x565 ]
+          [ _south_a_1 LBL: h587 ARG0: i578 ARG1: x588 ARG2: x565 ]
           [ def_udef_a_q LBL: h585 ARG0: x565 RSTR: h583 BODY: h584 ]
-          [ poss LBL: h577 ARG0: e574 ARG1: x565 ARG2: x570 ]
-          [ _backside_n_1 LBL: h577 ARG0: x565 ]
-          [ def_udef_a_q LBL: h573 ARG0: x570 RSTR: h571 BODY: h572 ]
-          [ _player_n_of LBL: h569 ARG0: x570 ARG1: i568 ]
-          [ place_n LBL: h581 ARG0: x588 ] >
-  HCONS: < h571 qeq h569 h583 qeq h577 h589 qeq h581 h597 qeq h564 h603 qeq h602 > ]
+          [ poss LBL: h566 ARG0: e574 ARG1: x565 ARG2: x567 ]
+          [ _backside_n_1 LBL: h566 ARG0: x565 ]
+          [ def_udef_a_q LBL: h573 ARG0: x567 RSTR: h571 BODY: h572 ]
+          [ _player_n_of LBL: h569 ARG0: x567 ARG1: i568 ]
+          [ place_n LBL: h587 ARG0: x588 ] >
+  HCONS: < h571 qeq h569 h583 qeq h566 h589 qeq h587 h597 qeq h561 h603 qeq h602 > ]
 GENERATED RESULTS ... 
 Glowing areas south of the player's backsides
 The glowing areas south of the player's backsides
@@ -647,7 +647,7 @@ Node                MRS Produced    Reason                 Included in MRS    Re
 ------------------  --------------  ---------------------  -----------------  ---------------
 glowing_2           True            MRS fragment produced  True               Included in MRS
 idGlowingArea_1     True            MRS fragment produced  True               Included in MRS
-idPlayerBackside_2  True            MRS fragment produced  True               Included in MRS
+idPlayerBackside_3  True            MRS fragment produced  True               Included in MRS
 
 Edge            MRS Composed    Reason        Included in MRS    Reason
 --------------  --------------  ------------  -----------------  ---------------

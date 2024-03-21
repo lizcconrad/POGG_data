@@ -3,12 +3,12 @@
   INDEX: e384
   RELS: < [ unknown LBL: h386 ARG: x380 ARG0: e384 ]
           [ def_udef_a_q LBL: h383 ARG0: x380 RSTR: h381 BODY: h382 ]
-          [ _un-_a_neg LBL: h371 ARG0: i369 ARG1: e372 ]
-          [ _know_v_1 LBL: h371 ARG0: e372 ARG1: u373 ARG2: x380 ]
-          [ _green_a_2 LBL: h371 ARG0: i362 ARG1: x380 ]
-          [ _glow_v_1 LBL: h371 ARG0: e359 [ e PROG: bool ] ARG1: x380 ]
-          [ _flower_n_1 LBL: h371 ARG0: x380 ] >
-  HCONS: < h381 qeq h371 h387 qeq h386 > ]
+          [ _un-_a_neg LBL: h361 ARG0: i369 ARG1: e370 ]
+          [ _know_v_1 LBL: h361 ARG0: e370 ARG1: u373 ARG2: x380 ]
+          [ _green_a_2 LBL: h361 ARG0: i362 ARG1: x380 ]
+          [ _glow_v_1 LBL: h361 ARG0: e359 [ e PROG: bool ] ARG1: x380 ]
+          [ _flower_n_1 LBL: h361 ARG0: x380 ] >
+  HCONS: < h381 qeq h361 h387 qeq h386 > ]
 GENERATED RESULTS ... 
 A green unknown flower glowing.
 The green unknown flowers glowing.
@@ -106,9 +106,9 @@ TOTAL RESULTS: 90
 Node               MRS Produced    Reason                 Included in MRS    Reason
 -----------------  --------------  ---------------------  -----------------  ---------------
 glowing_2          True            MRS fragment produced  True               Included in MRS
-green_2            True            MRS fragment produced  True               Included in MRS
+green_3            True            MRS fragment produced  True               Included in MRS
 idGlowingFlower_1  True            MRS fragment produced  True               Included in MRS
-true_2             True            MRS fragment produced  True               Included in MRS
+true_4             True            MRS fragment produced  True               Included in MRS
 
 Edge               MRS Composed    Reason        Included in MRS    Reason
 -----------------  --------------  ------------  -----------------  ---------------

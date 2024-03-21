@@ -1,26 +1,26 @@
 /Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheTrees/subgraphs/dot/complete/idClearing1_subgraph.dot
 [ TOP: h317
   INDEX: e314
-  RELS: < [ unknown LBL: h316 ARG: x310 ARG0: e314 ]
-          [ def_udef_a_q LBL: h313 ARG0: x310 RSTR: h311 BODY: h312 ]
-          [ loc_nonsp LBL: h249 ARG0: i306 ARG1: x310 ARG2: x293 ]
-          [ _grassy_a_1 LBL: h249 ARG0: e250 ARG1: x310 ]
-          [ _clearing_n_1 LBL: h249 ARG0: x310 ]
+  RELS: < [ unknown LBL: h316 ARG: x248 ARG0: e314 ]
+          [ def_udef_a_q LBL: h313 ARG0: x248 RSTR: h311 BODY: h312 ]
+          [ loc_nonsp LBL: h252 ARG0: i306 ARG1: x248 ARG2: x293 ]
+          [ _grassy_a_1 LBL: h252 ARG0: e250 ARG1: x248 ]
+          [ _clearing_n_1 LBL: h252 ARG0: x248 ]
           [ def_implicit_q LBL: h305 ARG0: x293 RSTR: h303 BODY: h304 ]
           [ _north_a_1 LBL: h295 ARG0: i292 ARG1: x293 ARG2: e269 ]
           [ def_udef_a_q LBL: h299 ARG0: e269 RSTR: h297 BODY: h298 ]
-          [ loc_nonsp LBL: h254 ARG0: i288 ARG1: e269 ARG2: x282 ]
-          [ _un-_a_neg LBL: h254 ARG0: i268 ARG1: e269 ]
-          [ _countable_a_1 LBL: h254 ARG0: e265 ARG1: e269 ]
-          [ _immovable_a_1 LBL: h254 ARG0: e259 ARG1: e269 ]
-          [ _grass_n_1 LBL: h254 ARG0: e269 ]
-          [ def_implicit_q LBL: h287 ARG0: x282 RSTR: h285 BODY: h286 ]
-          [ _south_a_1 LBL: h283 ARG0: i274 ARG1: x282 ARG2: x278 ]
-          [ def_udef_a_q LBL: h281 ARG0: x278 RSTR: h279 BODY: h280 ]
-          [ _player_n_of LBL: h273 ARG0: x278 ARG1: i272 ]
-          [ place_n LBL: h283 ARG0: x282 ]
+          [ loc_nonsp LBL: h267 ARG0: i288 ARG1: e269 ARG2: x284 ]
+          [ _un-_a_neg LBL: h267 ARG0: i268 ARG1: e269 ]
+          [ _countable_a_1 LBL: h267 ARG0: e265 ARG1: e269 ]
+          [ _immovable_a_1 LBL: h267 ARG0: e259 ARG1: e269 ]
+          [ _grass_n_1 LBL: h267 ARG0: e269 ]
+          [ def_implicit_q LBL: h287 ARG0: x284 RSTR: h285 BODY: h286 ]
+          [ _south_a_1 LBL: h277 ARG0: i274 ARG1: x284 ARG2: x271 ]
+          [ def_udef_a_q LBL: h281 ARG0: x271 RSTR: h279 BODY: h280 ]
+          [ _player_n_of LBL: h273 ARG0: x271 ARG1: i272 ]
+          [ place_n LBL: h277 ARG0: x284 ]
           [ place_n LBL: h295 ARG0: x293 ] >
-  HCONS: < h279 qeq h273 h285 qeq h283 h297 qeq h254 h303 qeq h295 h311 qeq h249 h317 qeq h316 > ]
+  HCONS: < h279 qeq h273 h285 qeq h277 h297 qeq h267 h303 qeq h295 h311 qeq h252 h317 qeq h316 > ]
 GENERATED RESULTS ... 
 
 TOTAL RESULTS: 0
@@ -29,17 +29,17 @@ Node              MRS Produced    Reason                 Included in MRS    Reas
 ----------------  --------------  ---------------------  -----------------  ---------------
 grassy_2          True            MRS fragment produced  True               Included in MRS
 idClearing_1      True            MRS fragment produced  True               Included in MRS
-idGlowingGrass_2  True            MRS fragment produced  True               Included in MRS
-idPlayer_3        True            MRS fragment produced  True               Included in MRS
-uncountable_3     True            MRS fragment produced  True               Included in MRS
-yes_3             True            MRS fragment produced  True               Included in MRS
+idGlowingGrass_3  True            MRS fragment produced  True               Included in MRS
+idPlayer_6        True            MRS fragment produced  True               Included in MRS
+uncountable_5     True            MRS fragment produced  True               Included in MRS
+yes_4             True            MRS fragment produced  True               Included in MRS
 
 Edge             MRS Composed    Reason        Included in MRS    Reason
 ---------------  --------------  ------------  -----------------  ---------------
 idArticleType_3  True            MRS composed  True               Included in MRS
 idDescriptor_1   True            MRS composed  True               Included in MRS
 idImmovable_2    True            MRS composed  True               Included in MRS
-isNorthOf_2      True            MRS composed  True               Included in MRS
+isNorthOf_5      True            MRS composed  True               Included in MRS
 isSouthOf_4      True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage

@@ -8,16 +8,16 @@
           [ _tall_a_1 LBL: h639 ARG0: e637 ARG1: x635 ]
           [ _grass_n_1 LBL: h639 ARG0: x635 ]
           [ def_implicit_q LBL: h682 ARG0: x677 RSTR: h680 BODY: h681 ]
-          [ _east_a_1 LBL: h672 ARG0: i669 ARG1: x677 ARG2: x643 ]
-          [ def_udef_a_q LBL: h676 ARG0: x643 RSTR: h674 BODY: h675 ]
-          [ _immovable_a_1 LBL: h665 ARG0: e663 ARG1: x643 ]
-          [ _grey_a_1 LBL: h665 ARG0: i656 ARG1: x643 ]
-          [ compound LBL: h665 ARG0: e652 ARG1: x643 ARG2: x648 ]
-          [ udef_q LBL: h651 ARG0: x648 RSTR: h649 BODY: h650 ]
-          [ _rock_n_1 LBL: h647 ARG0: x648 ]
-          [ _pile_n_of LBL: h665 ARG0: x643 ARG1: i644 ]
+          [ _east_a_1 LBL: h672 ARG0: i669 ARG1: x677 ARG2: x673 ]
+          [ def_udef_a_q LBL: h676 ARG0: x673 RSTR: h674 BODY: h675 ]
+          [ _immovable_a_1 LBL: h658 ARG0: e663 ARG1: x673 ]
+          [ _grey_a_1 LBL: h658 ARG0: i656 ARG1: x673 ]
+          [ compound LBL: h658 ARG0: e652 ARG1: x673 ARG2: x646 ]
+          [ udef_q LBL: h651 ARG0: x646 RSTR: h649 BODY: h650 ]
+          [ _rock_n_1 LBL: h647 ARG0: x646 ]
+          [ _pile_n_of LBL: h658 ARG0: x673 ARG1: i644 ]
           [ place_n LBL: h672 ARG0: x677 ] >
-  HCONS: < h649 qeq h647 h674 qeq h665 h680 qeq h672 h688 qeq h639 h694 qeq h693 > ]
+  HCONS: < h649 qeq h647 h674 qeq h658 h680 qeq h672 h688 qeq h639 h694 qeq h693 > ]
 GENERATED RESULTS ... 
 Tall green grasses east of an immovable gray rock pile
 Tall green grasses east of an immovable grey rock pile
@@ -2328,13 +2328,13 @@ TOTAL RESULTS: 2304
 
 Node           MRS Produced    Reason                                     Included in MRS    Reason
 -------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
-green_2        True            MRS fragment produced                      True               Included in MRS
-grey_3         True            MRS fragment produced                      True               Included in MRS
+green_3        True            MRS fragment produced                      True               Included in MRS
+grey_6         True            MRS fragment produced                      True               Included in MRS
 idGrass_1      True            MRS fragment produced                      True               Included in MRS
-idRockPile_2   True            MRS fragment produced                      True               Included in MRS
+idRockPile_5   True            MRS fragment produced                      True               Included in MRS
 tall_2         True            MRS fragment produced                      True               Included in MRS
-uncountable_2  False           'uncountable' has no value in the lexicon  False              'uncountable' has no value in the lexicon
-yes_3          True            MRS fragment produced                      True               Included in MRS
+uncountable_4  False           'uncountable' has no value in the lexicon  False              'uncountable' has no value in the lexicon
+yes_7          True            MRS fragment produced                      True               Included in MRS
 
 Edge             MRS Composed    Reason                  Included in MRS    Reason
 ---------------  --------------  ----------------------  -----------------  ----------------------
@@ -2343,7 +2343,7 @@ idColor_2        True            MRS composed            True               Incl
 idColor_4        True            MRS composed            True               Included in MRS
 idHeight_1       True            MRS composed            True               Included in MRS
 idImmovable_5    True            MRS composed            True               Included in MRS
-isEastOf_4       True            MRS composed            True               Included in MRS
+isEastOf_6       True            MRS composed            True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

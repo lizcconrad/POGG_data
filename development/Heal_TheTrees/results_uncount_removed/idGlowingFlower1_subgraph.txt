@@ -1,14 +1,14 @@
 /Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheTrees/subgraphs/dot/complete/idGlowingFlower1_subgraph.dot
 [ TOP: h375
   INDEX: e372
-  RELS: < [ unknown LBL: h374 ARG: x368 ARG0: e372 ]
-          [ def_udef_a_q LBL: h371 ARG0: x368 RSTR: h369 BODY: h370 ]
-          [ _un-_a_neg LBL: h352 ARG0: i357 ARG1: e358 ]
-          [ _know_v_1 LBL: h352 ARG0: e358 ARG1: u361 ARG2: x368 ]
-          [ _green_a_2 LBL: h352 ARG0: i350 ARG1: x368 ]
-          [ _glow_v_1 LBL: h352 ARG0: e347 [ e PROG: bool ] ARG1: x368 ]
-          [ _flower_n_1 LBL: h352 ARG0: x368 ] >
-  HCONS: < h369 qeq h352 h375 qeq h374 > ]
+  RELS: < [ unknown LBL: h374 ARG: x345 ARG0: e372 ]
+          [ def_udef_a_q LBL: h371 ARG0: x345 RSTR: h369 BODY: h370 ]
+          [ _un-_a_neg LBL: h359 ARG0: i357 ARG1: e358 ]
+          [ _know_v_1 LBL: h359 ARG0: e358 ARG1: u361 ARG2: x345 ]
+          [ _green_a_2 LBL: h359 ARG0: i350 ARG1: x345 ]
+          [ _glow_v_1 LBL: h359 ARG0: e347 [ e PROG: bool ] ARG1: x345 ]
+          [ _flower_n_1 LBL: h359 ARG0: x345 ] >
+  HCONS: < h369 qeq h359 h375 qeq h374 > ]
 GENERATED RESULTS ... 
 A green unknown flower glowing.
 The green unknown flowers glowing.
@@ -106,9 +106,9 @@ TOTAL RESULTS: 90
 Node               MRS Produced    Reason                 Included in MRS    Reason
 -----------------  --------------  ---------------------  -----------------  ---------------
 glowing_2          True            MRS fragment produced  True               Included in MRS
-green_2            True            MRS fragment produced  True               Included in MRS
+green_3            True            MRS fragment produced  True               Included in MRS
 idGlowingFlower_1  True            MRS fragment produced  True               Included in MRS
-true_2             True            MRS fragment produced  True               Included in MRS
+true_4             True            MRS fragment produced  True               Included in MRS
 
 Edge               MRS Composed    Reason        Included in MRS    Reason
 -----------------  --------------  ------------  -----------------  ---------------

@@ -1,32 +1,32 @@
 /Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Tutorial/subgraphs/dot/complete/idSign1_subgraph.dot
 [ TOP: h172
   INDEX: e169
-  RELS: < [ unknown LBL: h171 ARG: x165 ARG0: e169 ]
-          [ def_udef_a_q LBL: h168 ARG0: x165 RSTR: h166 BODY: h167 ]
-          [ _near_p LBL: h138 ARG0: e157 ARG1: x165 ARG2: x161 ]
+  RELS: < [ unknown LBL: h171 ARG: x71 ARG0: e169 ]
+          [ def_udef_a_q LBL: h168 ARG0: x71 RSTR: h166 BODY: h167 ]
+          [ _near_p LBL: h138 ARG0: e157 ARG1: x71 ARG2: x161 ]
           [ def_udef_a_q LBL: h164 ARG0: x161 RSTR: h162 BODY: h163 ]
-          [ compound LBL: h156 ARG0: e153 ARG1: x161 ARG2: x146 ]
+          [ compound LBL: h145 ARG0: e153 ARG1: x161 ARG2: x146 ]
           [ udef_q LBL: h152 ARG0: x146 RSTR: h150 BODY: h151 ]
           [ _sign_n_of LBL: h148 ARG0: x146 ARG1: i147 ]
-          [ _text_n_of LBL: h156 ARG0: x161 ARG1: i144 ]
-          [ _near_p LBL: h138 ARG0: e135 ARG1: x165 ARG2: x99 ]
+          [ _text_n_of LBL: h145 ARG0: x161 ARG1: i144 ]
+          [ _near_p LBL: h138 ARG0: e135 ARG1: x71 ARG2: x99 ]
           [ def_udef_a_q LBL: h142 ARG0: x99 RSTR: h140 BODY: h141 ]
-          [ loc_nonsp LBL: h134 ARG0: i131 ARG1: x99 ARG2: x118 ]
-          [ _with_p LBL: h134 ARG0: e106 ARG1: x99 ARG2: x104 ]
-          [ def_udef_a_q LBL: h113 ARG0: x104 RSTR: h111 BODY: h112 ]
-          [ _lock_n_1 LBL: h105 ARG0: x104 ]
-          [ _closed_a_1 LBL: h134 ARG0: e101 ARG1: x99 ]
-          [ _door_n_1 LBL: h134 ARG0: x99 ]
-          [ def_implicit_q LBL: h130 ARG0: x118 RSTR: h128 BODY: h129 ]
-          [ _north_a_1 LBL: h120 ARG0: i117 ARG1: x118 ARG2: x121 ]
-          [ def_udef_a_q LBL: h124 ARG0: x121 RSTR: h122 BODY: h123 ]
-          [ _player_n_of LBL: h116 ARG0: x121 ARG1: i115 ]
-          [ place_n LBL: h120 ARG0: x118 ]
+          [ loc_nonsp LBL: h109 ARG0: i131 ARG1: x99 ARG2: x127 ]
+          [ _with_p LBL: h109 ARG0: e106 ARG1: x99 ARG2: x110 ]
+          [ def_udef_a_q LBL: h113 ARG0: x110 RSTR: h111 BODY: h112 ]
+          [ _lock_n_1 LBL: h105 ARG0: x110 ]
+          [ _closed_a_1 LBL: h109 ARG0: e101 ARG1: x99 ]
+          [ _door_n_1 LBL: h109 ARG0: x99 ]
+          [ def_implicit_q LBL: h130 ARG0: x127 RSTR: h128 BODY: h129 ]
+          [ _north_a_1 LBL: h126 ARG0: i117 ARG1: x127 ARG2: x114 ]
+          [ def_udef_a_q LBL: h124 ARG0: x114 RSTR: h122 BODY: h123 ]
+          [ _player_n_of LBL: h116 ARG0: x114 ARG1: i115 ]
+          [ place_n LBL: h126 ARG0: x127 ]
           [ _un-_a_neg LBL: h138 ARG0: i88 ARG1: e89 ]
-          [ _know_v_1 LBL: h138 ARG0: e89 ARG1: u92 ARG2: x165 ]
-          [ _immovable_a_1 LBL: h138 ARG0: e78 ARG1: x165 ]
-          [ _sign_n_of LBL: h138 ARG0: x165 ARG1: i72 ] >
-  HCONS: < h150 qeq h148 h162 qeq h156 h111 qeq h105 h122 qeq h116 h128 qeq h120 h140 qeq h134 h166 qeq h138 h172 qeq h171 > ]
+          [ _know_v_1 LBL: h138 ARG0: e89 ARG1: u92 ARG2: x71 ]
+          [ _immovable_a_1 LBL: h138 ARG0: e78 ARG1: x71 ]
+          [ _sign_n_of LBL: h138 ARG0: x71 ARG1: i72 ] >
+  HCONS: < h150 qeq h148 h162 qeq h145 h111 qeq h105 h122 qeq h116 h128 qeq h126 h140 qeq h109 h166 qeq h138 h172 qeq h171 > ]
 GENERATED RESULTS ... 
 The immovable unknown signs near sign texts near a closed door with the lock north of the players
 The immovable unknown signs near the sign texts near a closed door with the lock north of the players
@@ -675,13 +675,13 @@ TOTAL RESULTS: 642
 
 Node                       MRS Produced    Reason                 Included in MRS    Reason
 -------------------------  --------------  ---------------------  -----------------  ---------------
-closed_3                   True            MRS fragment produced  True               Included in MRS
-idPlayer_3                 True            MRS fragment produced  True               Included in MRS
-idSign1Text_2              True            MRS fragment produced  True               Included in MRS
+closed_5                   True            MRS fragment produced  True               Included in MRS
+idPlayer_7                 True            MRS fragment produced  True               Included in MRS
+idSign1Text_8              True            MRS fragment produced  True               Included in MRS
 idSign_1                   True            MRS fragment produced  True               Included in MRS
-idTutorialRoom1DoorLock_3  True            MRS fragment produced  True               Included in MRS
-idTutorialRoom1Door_2      True            MRS fragment produced  True               Included in MRS
-true_2                     True            MRS fragment produced  True               Included in MRS
+idTutorialRoom1DoorLock_6  True            MRS fragment produced  True               Included in MRS
+idTutorialRoom1Door_4      True            MRS fragment produced  True               Included in MRS
+true_3                     True            MRS fragment produced  True               Included in MRS
 yes_2                      True            MRS fragment produced  True               Included in MRS
 
 Edge               MRS Composed    Reason        Included in MRS    Reason
@@ -690,8 +690,8 @@ idImmovable_1      True            MRS composed  True               Included in 
 idLockMechanism_4  True            MRS composed  True               Included in MRS
 idOpenState_3      True            MRS composed  True               Included in MRS
 idUnknownObject_2  True            MRS composed  True               Included in MRS
-isNear_3           True            MRS composed  True               Included in MRS
-isNear_4           True            MRS composed  True               Included in MRS
+isNear_6           True            MRS composed  True               Included in MRS
+isNear_7           True            MRS composed  True               Included in MRS
 isNorthOf_5        True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage

@@ -1,26 +1,26 @@
 /Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheTrees/subgraphs/dot/complete/idPlayerBackside_subgraph.dot
 [ TOP: h99
   INDEX: e96
-  RELS: < [ unknown LBL: h98 ARG: x36 ARG0: e96 ]
-          [ def_udef_a_q LBL: h95 ARG0: x36 RSTR: h93 BODY: h94 ]
-          [ loc_nonsp LBL: h91 ARG0: i88 ARG1: x36 ARG2: x82 ]
-          [ poss LBL: h91 ARG0: e45 ARG1: x36 ARG2: x41 ]
-          [ _backside_n_1 LBL: h91 ARG0: x36 ]
+  RELS: < [ unknown LBL: h98 ARG: x92 ARG0: e96 ]
+          [ def_udef_a_q LBL: h95 ARG0: x92 RSTR: h93 BODY: h94 ]
+          [ loc_nonsp LBL: h37 ARG0: i88 ARG1: x92 ARG2: x84 ]
+          [ poss LBL: h37 ARG0: e45 ARG1: x92 ARG2: x41 ]
+          [ _backside_n_1 LBL: h37 ARG0: x92 ]
           [ def_udef_a_q LBL: h44 ARG0: x41 RSTR: h42 BODY: h43 ]
           [ _player_n_of LBL: h40 ARG0: x41 ARG1: i39 ]
-          [ def_implicit_q LBL: h87 ARG0: x82 RSTR: h85 BODY: h86 ]
-          [ _south_a_1 LBL: h83 ARG0: i74 ARG1: x82 ARG2: x78 ]
-          [ def_udef_a_q LBL: h81 ARG0: x78 RSTR: h79 BODY: h80 ]
-          [ loc_nonsp LBL: h50 ARG0: i70 ARG1: x78 ARG2: x64 ]
-          [ _dark_a_1 LBL: h50 ARG0: e51 ARG1: x78 ]
-          [ _cave_n_1 LBL: h50 ARG0: x78 ]
-          [ def_implicit_q LBL: h69 ARG0: x64 RSTR: h67 BODY: h68 ]
-          [ _east_a_1 LBL: h59 ARG0: i56 ARG1: x64 ARG2: x60 ]
+          [ def_implicit_q LBL: h87 ARG0: x84 RSTR: h85 BODY: h86 ]
+          [ _south_a_1 LBL: h77 ARG0: i74 ARG1: x84 ARG2: x49 ]
+          [ def_udef_a_q LBL: h81 ARG0: x49 RSTR: h79 BODY: h80 ]
+          [ loc_nonsp LBL: h73 ARG0: i70 ARG1: x49 ARG2: x66 ]
+          [ _dark_a_1 LBL: h73 ARG0: e51 ARG1: x49 ]
+          [ _cave_n_1 LBL: h73 ARG0: x49 ]
+          [ def_implicit_q LBL: h69 ARG0: x66 RSTR: h67 BODY: h68 ]
+          [ _east_a_1 LBL: h65 ARG0: i56 ARG1: x66 ARG2: x60 ]
           [ def_udef_a_q LBL: h63 ARG0: x60 RSTR: h61 BODY: h62 ]
           [ _area_n_of LBL: h55 ARG0: x60 ]
-          [ place_n LBL: h59 ARG0: x64 ]
-          [ place_n LBL: h83 ARG0: x82 ] >
-  HCONS: < h42 qeq h40 h61 qeq h55 h67 qeq h59 h79 qeq h50 h85 qeq h83 h93 qeq h91 h99 qeq h98 > ]
+          [ place_n LBL: h65 ARG0: x66 ]
+          [ place_n LBL: h77 ARG0: x84 ] >
+  HCONS: < h42 qeq h40 h61 qeq h55 h67 qeq h65 h79 qeq h73 h85 qeq h77 h93 qeq h37 h99 qeq h98 > ]
 GENERATED RESULTS ... 
 The player's backsides south of the dark cave east of the areas
 The player's backsides south of a dark cave east of the areas
@@ -830,13 +830,13 @@ Node                MRS Produced    Reason                 Included in MRS    Re
 dark_3              True            MRS fragment produced  True               Included in MRS
 idCave_2            True            MRS fragment produced  True               Included in MRS
 idPlayerBackside_1  True            MRS fragment produced  True               Included in MRS
-idRockyArea_3       True            MRS fragment produced  True               Included in MRS
+idRockyArea_4       True            MRS fragment produced  True               Included in MRS
 
 Edge         MRS Composed    Reason        Included in MRS    Reason
 -----------  --------------  ------------  -----------------  ---------------
 idTint_1     True            MRS composed  True               Included in MRS
 isEastOf_2   True            MRS composed  True               Included in MRS
-isSouthOf_1  True            MRS composed  True               Included in MRS
+isSouthOf_3  True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

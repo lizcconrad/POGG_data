@@ -3,10 +3,10 @@
   INDEX: e62
   RELS: < [ unknown LBL: h64 ARG: x43 ARG0: e62 ]
           [ def_udef_a_q LBL: h61 ARG0: x43 RSTR: h59 BODY: h60 ]
-          [ _immovable_a_1 LBL: h47 ARG0: e52 ARG1: x43 ]
-          [ _green_a_2 LBL: h47 ARG0: i45 ARG1: x43 ]
-          [ _bush_n_1 LBL: h47 ARG0: x43 ] >
-  HCONS: < h59 qeq h47 h65 qeq h64 > ]
+          [ _immovable_a_1 LBL: h54 ARG0: e52 ARG1: x43 ]
+          [ _green_a_2 LBL: h54 ARG0: i45 ARG1: x43 ]
+          [ _bush_n_1 LBL: h54 ARG0: x43 ] >
+  HCONS: < h59 qeq h54 h65 qeq h64 > ]
 GENERATED RESULTS ... 
 The green immovable bush
 A green immovable bush
@@ -35,7 +35,7 @@ Node      MRS Produced    Reason                 Included in MRS    Reason
 --------  --------------  ---------------------  -----------------  ---------------
 green_2   True            MRS fragment produced  True               Included in MRS
 idBush_1  True            MRS fragment produced  True               Included in MRS
-yes_2     True            MRS fragment produced  True               Included in MRS
+yes_3     True            MRS fragment produced  True               Included in MRS
 
 Edge           MRS Composed    Reason        Included in MRS    Reason
 -------------  --------------  ------------  -----------------  ---------------

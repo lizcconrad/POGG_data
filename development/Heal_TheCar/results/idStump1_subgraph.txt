@@ -3,31 +3,31 @@
   INDEX: e266
   RELS: < [ unknown LBL: h268 ARG: x262 ARG0: e266 ]
           [ def_udef_a_q LBL: h265 ARG0: x262 RSTR: h263 BODY: h264 ]
-          [ loc_nonsp LBL: h178 ARG0: i258 ARG1: x262 ARG2: x245 ]
-          [ loc_nonsp LBL: h178 ARG0: i235 ARG1: x262 ARG2: x231 ]
+          [ loc_nonsp LBL: h178 ARG0: i258 ARG1: x262 ARG2: x254 ]
+          [ loc_nonsp LBL: h178 ARG0: i235 ARG1: x262 ARG2: x222 ]
           [ _immovable_a_1 LBL: h178 ARG0: e190 ARG1: x262 ]
           [ _chop_v_1 LBL: h178 ARG0: e182 ARG1: i183 ARG2: x262 ]
           [ _hollow_a_1 LBL: h178 ARG0: e179 ARG1: x262 ]
           [ _stump_n_1 LBL: h178 ARG0: x262 ]
-          [ def_implicit_q LBL: h234 ARG0: x231 RSTR: h232 BODY: h233 ]
-          [ _west_a_1 LBL: h224 ARG0: i221 ARG1: x231 ARG2: x196 ]
-          [ def_udef_a_q LBL: h228 ARG0: x196 RSTR: h226 BODY: h227 ]
-          [ _near_p LBL: h216 ARG0: e213 ARG1: x196 ARG2: x211 ]
+          [ def_implicit_q LBL: h234 ARG0: x222 RSTR: h232 BODY: h233 ]
+          [ _west_a_1 LBL: h224 ARG0: i221 ARG1: x222 ARG2: x225 ]
+          [ def_udef_a_q LBL: h228 ARG0: x225 RSTR: h226 BODY: h227 ]
+          [ _near_p LBL: h197 ARG0: e213 ARG1: x225 ARG2: x211 ]
           [ def_udef_a_q LBL: h220 ARG0: x211 RSTR: h218 BODY: h219 ]
           [ _bush_n_1 LBL: h212 ARG0: x211 ]
-          [ _shiny_a_1 LBL: h216 ARG0: e208 ARG1: x196 ]
-          [ compound LBL: h216 ARG0: e204 ARG1: x196 ARG2: x198 ]
-          [ udef_q LBL: h203 ARG0: x198 RSTR: h201 BODY: h202 ]
-          [ _side_n_1 LBL: h199 ARG0: x198 ]
-          [ _mirror_n_1 LBL: h216 ARG0: x196 ]
-          [ place_n LBL: h224 ARG0: x231 ]
-          [ def_implicit_q LBL: h257 ARG0: x245 RSTR: h255 BODY: h256 ]
-          [ _north_a_1 LBL: h253 ARG0: i244 ARG1: x245 ARG2: x248 ]
-          [ def_udef_a_q LBL: h251 ARG0: x248 RSTR: h249 BODY: h250 ]
-          [ _black_a_1 LBL: h240 ARG0: i241 ARG1: x248 ]
-          [ _tire_n_1 LBL: h240 ARG0: x248 ]
-          [ place_n LBL: h253 ARG0: x245 ] >
-  HCONS: < h218 qeq h212 h201 qeq h199 h226 qeq h216 h232 qeq h224 h249 qeq h240 h255 qeq h253 h263 qeq h178 h269 qeq h268 > ]
+          [ _shiny_a_1 LBL: h197 ARG0: e208 ARG1: x225 ]
+          [ compound LBL: h197 ARG0: e204 ARG1: x225 ARG2: x200 ]
+          [ udef_q LBL: h203 ARG0: x200 RSTR: h201 BODY: h202 ]
+          [ _side_n_1 LBL: h199 ARG0: x200 ]
+          [ _mirror_n_1 LBL: h197 ARG0: x225 ]
+          [ place_n LBL: h224 ARG0: x222 ]
+          [ def_implicit_q LBL: h257 ARG0: x254 RSTR: h255 BODY: h256 ]
+          [ _north_a_1 LBL: h253 ARG0: i244 ARG1: x254 ARG2: x239 ]
+          [ def_udef_a_q LBL: h251 ARG0: x239 RSTR: h249 BODY: h250 ]
+          [ _black_a_1 LBL: h243 ARG0: i241 ARG1: x239 ]
+          [ _tire_n_1 LBL: h243 ARG0: x239 ]
+          [ place_n LBL: h253 ARG0: x254 ] >
+  HCONS: < h218 qeq h212 h201 qeq h199 h226 qeq h197 h232 qeq h224 h249 qeq h243 h255 qeq h253 h263 qeq h178 h269 qeq h268 > ]
 GENERATED RESULTS ... 
 Immovable hollow chopped stumps west of the shiny side mirror near the bushes north of the black tires
 Hollow immovable chopped stumps west of the shiny side mirror near the bushes north of the black tires
@@ -1636,28 +1636,28 @@ TOTAL RESULTS: 1602
 
 Node            MRS Produced    Reason                                Included in MRS    Reason
 --------------  --------------  ------------------------------------  -----------------  ------------------------------------
-black_3         True            MRS fragment produced                 True               Included in MRS
-chopped_2       True            MRS fragment produced                 True               Included in MRS
+black_10        True            MRS fragment produced                 True               Included in MRS
+chopped_3       True            MRS fragment produced                 True               Included in MRS
 hollow_2        True            MRS fragment produced                 True               Included in MRS
-idBush_3        True            MRS fragment produced                 True               Included in MRS
-idFace_3        False           'idFace' has no value in the lexicon  False              'idFace' has no value in the lexicon
-idSideMirror_2  True            MRS fragment produced                 True               Included in MRS
+idBush_8        True            MRS fragment produced                 True               Included in MRS
+idFace_7        False           'idFace' has no value in the lexicon  False              'idFace' has no value in the lexicon
+idSideMirror_5  True            MRS fragment produced                 True               Included in MRS
 idStump_1       True            MRS fragment produced                 True               Included in MRS
-idTire_2        True            MRS fragment produced                 True               Included in MRS
-shiny_3         True            MRS fragment produced                 True               Included in MRS
-yes_2           True            MRS fragment produced                 True               Included in MRS
+idTire_9        True            MRS fragment produced                 True               Included in MRS
+shiny_6         True            MRS fragment produced                 True               Included in MRS
+yes_4           True            MRS fragment produced                 True               Included in MRS
 
 Edge             MRS Composed    Reason                  Included in MRS    Reason
 ---------------  --------------  ----------------------  -----------------  ----------------------
-idColor_5        True            MRS composed            True               Included in MRS
+idColor_8        True            MRS composed            True               Included in MRS
 idDescriptor_2   True            MRS composed            True               Included in MRS
 idDescriptor_4   True            MRS composed            True               Included in MRS
 idDescriptor__1  True            MRS composed            True               Included in MRS
 idDescriptor__5  False           Inbound to failed node  False              Inbound to failed node
 idImmovable_3    True            MRS composed            True               Included in MRS
 isNear_6         True            MRS composed            True               Included in MRS
-isNorthOf_5      True            MRS composed            True               Included in MRS
-isWestOf_4       True            MRS composed            True               Included in MRS
+isNorthOf_9      True            MRS composed            True               Included in MRS
+isWestOf_7       True            MRS composed            True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

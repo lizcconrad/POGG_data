@@ -1,29 +1,29 @@
 /Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idPlayerLeftHand_subgraph.dot
 [ TOP: h1218
   INDEX: e1215
-  RELS: < [ unknown LBL: h1217 ARG: x1163 ARG0: e1215 ]
-          [ def_udef_a_q LBL: h1214 ARG0: x1163 RSTR: h1212 BODY: h1213 ]
-          [ loc_nonsp LBL: h1154 ARG0: i1207 ARG1: x1163 ARG2: x1194 ]
-          [ _on_p_loc LBL: h1154 ARG0: e1169 ARG1: x1163 ARG2: x1173 ]
-          [ def_udef_a_q LBL: h1176 ARG0: x1173 RSTR: h1174 BODY: h1175 ]
-          [ _left_n_of LBL: h1168 ARG0: x1173 ARG1: i1167 ]
-          [ poss LBL: h1154 ARG0: e1162 ARG1: x1163 ARG2: x1155 ]
-          [ compound LBL: h1154 ARG0: e1151 ARG1: x1163 ARG2: x1144 ]
+  RELS: < [ unknown LBL: h1217 ARG: x1142 ARG0: e1215 ]
+          [ def_udef_a_q LBL: h1214 ARG0: x1142 RSTR: h1212 BODY: h1213 ]
+          [ loc_nonsp LBL: h1210 ARG0: i1207 ARG1: x1142 ARG2: x1203 ]
+          [ _on_p_loc LBL: h1210 ARG0: e1169 ARG1: x1142 ARG2: x1166 ]
+          [ def_udef_a_q LBL: h1176 ARG0: x1166 RSTR: h1174 BODY: h1175 ]
+          [ _left_n_of LBL: h1168 ARG0: x1166 ARG1: i1167 ]
+          [ poss LBL: h1210 ARG0: e1162 ARG1: x1142 ARG2: x1158 ]
+          [ compound LBL: h1210 ARG0: e1151 ARG1: x1142 ARG2: x1144 ]
           [ udef_q LBL: h1150 ARG0: x1144 RSTR: h1148 BODY: h1149 ]
           [ _left_n_of LBL: h1146 ARG0: x1144 ARG1: i1145 ]
-          [ _hand_n_1 LBL: h1154 ARG0: x1163 ]
-          [ def_udef_a_q LBL: h1161 ARG0: x1155 RSTR: h1159 BODY: h1160 ]
-          [ _player_n_of LBL: h1157 ARG0: x1155 ARG1: i1156 ]
-          [ def_implicit_q LBL: h1206 ARG0: x1194 RSTR: h1204 BODY: h1205 ]
-          [ _west_a_1 LBL: h1202 ARG0: i1193 ARG1: x1194 ARG2: x1177 ]
+          [ _hand_n_1 LBL: h1210 ARG0: x1142 ]
+          [ def_udef_a_q LBL: h1161 ARG0: x1158 RSTR: h1159 BODY: h1160 ]
+          [ _player_n_of LBL: h1157 ARG0: x1158 ARG1: i1156 ]
+          [ def_implicit_q LBL: h1206 ARG0: x1203 RSTR: h1204 BODY: h1205 ]
+          [ _west_a_1 LBL: h1202 ARG0: i1193 ARG1: x1203 ARG2: x1177 ]
           [ def_udef_a_q LBL: h1200 ARG0: x1177 RSTR: h1198 BODY: h1199 ]
-          [ _break_v_cause LBL: h1178 ARG0: e1189 ARG1: i1190 ARG2: x1177 ]
-          [ compound LBL: h1178 ARG0: e1185 ARG1: x1177 ARG2: x1179 ]
+          [ _break_v_cause LBL: h1188 ARG0: e1189 ARG1: i1190 ARG2: x1177 ]
+          [ compound LBL: h1188 ARG0: e1185 ARG1: x1177 ARG2: x1179 ]
           [ udef_q LBL: h1184 ARG0: x1179 RSTR: h1182 BODY: h1183 ]
           [ _side_n_1 LBL: h1180 ARG0: x1179 ]
-          [ _mirror_n_1 LBL: h1178 ARG0: x1177 ]
-          [ place_n LBL: h1202 ARG0: x1194 ] >
-  HCONS: < h1174 qeq h1168 h1148 qeq h1146 h1159 qeq h1157 h1182 qeq h1180 h1198 qeq h1178 h1204 qeq h1202 h1212 qeq h1154 h1218 qeq h1217 > ]
+          [ _mirror_n_1 LBL: h1188 ARG0: x1177 ]
+          [ place_n LBL: h1202 ARG0: x1203 ] >
+  HCONS: < h1174 qeq h1168 h1148 qeq h1146 h1159 qeq h1157 h1182 qeq h1180 h1198 qeq h1188 h1204 qeq h1202 h1212 qeq h1210 h1218 qeq h1217 > ]
 GENERATED RESULTS ... 
 The player's left hands on the lefts west of a broken side mirror
 The player's left hands west of a broken side mirror on the lefts
@@ -2427,18 +2427,18 @@ TOTAL RESULTS: 2397
 
 Node                MRS Produced    Reason                                Included in MRS    Reason
 ------------------  --------------  ------------------------------------  -----------------  ------------------------------------
-broken_3            True            MRS fragment produced                 True               Included in MRS
-idFace_3            False           'idFace' has no value in the lexicon  False              'idFace' has no value in the lexicon
+broken_5            True            MRS fragment produced                 True               Included in MRS
+idFace_4            False           'idFace' has no value in the lexicon  False              'idFace' has no value in the lexicon
 idLocalLeft_2       True            MRS fragment produced                 True               Included in MRS
 idPlayerLeftHand_1  True            MRS fragment produced                 True               Included in MRS
-idSideMirror_2      True            MRS fragment produced                 True               Included in MRS
+idSideMirror_3      True            MRS fragment produced                 True               Included in MRS
 
 Edge             MRS Composed    Reason                  Included in MRS    Reason
 ---------------  --------------  ----------------------  -----------------  ----------------------
 idDescriptor__2  False           Inbound to failed node  False              Inbound to failed node
 idDescriptor__3  True            MRS composed            True               Included in MRS
 idLocation_1     True            MRS composed            True               Included in MRS
-isWestOf_2       True            MRS composed            True               Included in MRS
+isWestOf_4       True            MRS composed            True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

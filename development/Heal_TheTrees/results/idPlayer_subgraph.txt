@@ -3,23 +3,23 @@
   INDEX: e160
   RELS: < [ unknown LBL: h162 ARG: x100 ARG0: e160 ]
           [ def_udef_a_q LBL: h159 ARG0: x100 RSTR: h157 BODY: h158 ]
-          [ loc_nonsp LBL: h128 ARG0: i152 ARG1: x100 ARG2: x148 ]
-          [ loc_nonsp LBL: h128 ARG0: i125 ARG1: x100 ARG2: x121 ]
-          [ _player_n_of LBL: h128 ARG0: x100 ARG1: i101 ]
-          [ def_implicit_q LBL: h124 ARG0: x121 RSTR: h122 BODY: h123 ]
-          [ _east_a_1 LBL: h114 ARG0: i111 ARG1: x121 ARG2: x115 ]
-          [ def_udef_a_q LBL: h118 ARG0: x115 RSTR: h116 BODY: h117 ]
-          [ _rocky_a_1 LBL: h110 ARG0: e108 ARG1: x115 ]
-          [ _area_n_of LBL: h110 ARG0: x115 ]
-          [ place_n LBL: h114 ARG0: x121 ]
-          [ def_implicit_q LBL: h151 ARG0: x148 RSTR: h149 BODY: h150 ]
-          [ _east_a_1 LBL: h147 ARG0: i138 ARG1: x148 ARG2: x142 ]
+          [ loc_nonsp LBL: h102 ARG0: i152 ARG1: x100 ARG2: x139 ]
+          [ loc_nonsp LBL: h102 ARG0: i125 ARG1: x100 ARG2: x112 ]
+          [ _player_n_of LBL: h102 ARG0: x100 ARG1: i101 ]
+          [ def_implicit_q LBL: h124 ARG0: x112 RSTR: h122 BODY: h123 ]
+          [ _east_a_1 LBL: h114 ARG0: i111 ARG1: x112 ARG2: x106 ]
+          [ def_udef_a_q LBL: h118 ARG0: x106 RSTR: h116 BODY: h117 ]
+          [ _rocky_a_1 LBL: h107 ARG0: e108 ARG1: x106 ]
+          [ _area_n_of LBL: h107 ARG0: x106 ]
+          [ place_n LBL: h114 ARG0: x112 ]
+          [ def_implicit_q LBL: h151 ARG0: x139 RSTR: h149 BODY: h150 ]
+          [ _east_a_1 LBL: h147 ARG0: i138 ARG1: x139 ARG2: x142 ]
           [ def_udef_a_q LBL: h145 ARG0: x142 RSTR: h143 BODY: h144 ]
           [ _brown_a_1 LBL: h131 ARG0: i135 ARG1: x142 ]
           [ _shiny_a_1 LBL: h131 ARG0: e132 ARG1: x142 ]
           [ _bottle_n_of LBL: h131 ARG0: x142 ARG1: i130 ]
-          [ place_n LBL: h147 ARG0: x148 ] >
-  HCONS: < h116 qeq h110 h122 qeq h114 h143 qeq h131 h149 qeq h147 h157 qeq h128 h163 qeq h162 > ]
+          [ place_n LBL: h147 ARG0: x139 ] >
+  HCONS: < h116 qeq h107 h122 qeq h114 h143 qeq h131 h149 qeq h147 h157 qeq h102 h163 qeq h162 > ]
 GENERATED RESULTS ... 
 Players east of a brown shiny bottle east of a rocky area.
 Players east of a brown shiny bottle east of the rocky areas.
@@ -2026,22 +2026,22 @@ TOTAL RESULTS: 2000
 
 Node           MRS Produced    Reason                 Included in MRS    Reason
 -------------  --------------  ---------------------  -----------------  -------------------------
-brown_3        True            MRS fragment produced  True               Included in MRS
+brown_7        True            MRS fragment produced  True               Included in MRS
 false_2        True            MRS fragment produced  False              Descends from failed edge
-idBottle_2     True            MRS fragment produced  True               Included in MRS
+idBottle_5     True            MRS fragment produced  True               Included in MRS
 idPlayer_1     True            MRS fragment produced  True               Included in MRS
-idRockyArea_2  True            MRS fragment produced  True               Included in MRS
-rocky_3        True            MRS fragment produced  True               Included in MRS
-shiny_3        True            MRS fragment produced  True               Included in MRS
+idRockyArea_3  True            MRS fragment produced  True               Included in MRS
+rocky_4        True            MRS fragment produced  True               Included in MRS
+shiny_6        True            MRS fragment produced  True               Included in MRS
 
 Edge             MRS Composed    Reason                                   Included in MRS    Reason
 ---------------  --------------  ---------------------------------------  -----------------  ---------------------------------------
 idBottleFound_1  False           'idBottleFound' has no value in lexicon  False              'idBottleFound' has no value in lexicon
-idColor_4        True            MRS composed                             True               Included in MRS
+idColor_5        True            MRS composed                             True               Included in MRS
 idDescriptor_2   True            MRS composed                             True               Included in MRS
-idDescriptor__3  True            MRS composed                             True               Included in MRS
-isEastOf_2       True            MRS composed                             True               Included in MRS
+idDescriptor__4  True            MRS composed                             True               Included in MRS
 isEastOf_3       True            MRS composed                             True               Included in MRS
+isEastOf_6       True            MRS composed                             True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

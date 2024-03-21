@@ -1,22 +1,22 @@
 /Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Tutorial/subgraphs/dot/complete/idPlayerBackside_subgraph.dot
 [ TOP: h50
   INDEX: e47
-  RELS: < [ unknown LBL: h49 ARG: x0 ARG0: e47 ]
-          [ def_udef_a_q LBL: h46 ARG0: x0 RSTR: h44 BODY: h45 ]
-          [ loc_nonsp LBL: h42 ARG0: i39 ARG1: x0 ARG2: x35 ]
-          [ poss LBL: h42 ARG0: e9 ARG1: x0 ARG2: x5 ]
-          [ _backside_n_1 LBL: h42 ARG0: x0 ]
+  RELS: < [ unknown LBL: h49 ARG: x43 ARG0: e47 ]
+          [ def_udef_a_q LBL: h46 ARG0: x43 RSTR: h44 BODY: h45 ]
+          [ loc_nonsp LBL: h1 ARG0: i39 ARG1: x43 ARG2: x35 ]
+          [ poss LBL: h1 ARG0: e9 ARG1: x43 ARG2: x5 ]
+          [ _backside_n_1 LBL: h1 ARG0: x43 ]
           [ def_udef_a_q LBL: h8 ARG0: x5 RSTR: h6 BODY: h7 ]
           [ _player_n_of LBL: h4 ARG0: x5 ARG1: i3 ]
           [ def_implicit_q LBL: h38 ARG0: x35 RSTR: h36 BODY: h37 ]
-          [ _south_a_1 LBL: h28 ARG0: i25 ARG1: x35 ARG2: x13 ]
-          [ def_udef_a_q LBL: h32 ARG0: x13 RSTR: h30 BODY: h31 ]
-          [ compound LBL: h14 ARG0: e21 ARG1: x13 ARG2: x15 ]
-          [ udef_q LBL: h20 ARG0: x15 RSTR: h18 BODY: h19 ]
-          [ _back_n_1 LBL: h16 ARG0: x15 ]
-          [ _opening_n_1 LBL: h14 ARG0: x13 ]
+          [ _south_a_1 LBL: h28 ARG0: i25 ARG1: x35 ARG2: x29 ]
+          [ def_udef_a_q LBL: h32 ARG0: x29 RSTR: h30 BODY: h31 ]
+          [ compound LBL: h14 ARG0: e21 ARG1: x29 ARG2: x17 ]
+          [ udef_q LBL: h20 ARG0: x17 RSTR: h18 BODY: h19 ]
+          [ _back_n_1 LBL: h16 ARG0: x17 ]
+          [ _opening_n_1 LBL: h14 ARG0: x29 ]
           [ place_n LBL: h28 ARG0: x35 ] >
-  HCONS: < h6 qeq h4 h18 qeq h16 h30 qeq h14 h36 qeq h28 h44 qeq h42 h50 qeq h49 > ]
+  HCONS: < h6 qeq h4 h18 qeq h16 h30 qeq h14 h36 qeq h28 h44 qeq h1 h50 qeq h49 > ]
 GENERATED RESULTS ... 
 The player's backsides south of the back openings
 The player's backsides south of the back opening

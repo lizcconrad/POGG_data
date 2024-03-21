@@ -1,30 +1,30 @@
 /Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idCar1_subgraph.dot
 [ TOP: h1016
   INDEX: e1013
-  RELS: < [ unknown LBL: h1015 ARG: x934 ARG0: e1013 ]
-          [ def_udef_a_q LBL: h1012 ARG0: x934 RSTR: h1010 BODY: h1011 ]
-          [ loc_nonsp LBL: h941 ARG0: i1005 ARG1: x934 ARG2: x992 ]
-          [ _immovable_a_1 LBL: h941 ARG0: e946 ARG1: x934 ]
-          [ _old_a_1 LBL: h941 ARG0: e939 ARG1: x934 ]
-          [ _black_a_1 LBL: h941 ARG0: i936 ARG1: x934 ]
-          [ _car_n_1 LBL: h941 ARG0: x934 ]
-          [ def_implicit_q LBL: h1004 ARG0: x992 RSTR: h1002 BODY: h1003 ]
-          [ _east_a_1 LBL: h1000 ARG0: i991 ARG1: x992 ARG2: x952 ]
+  RELS: < [ unknown LBL: h1015 ARG: x1009 ARG0: e1013 ]
+          [ def_udef_a_q LBL: h1012 ARG0: x1009 RSTR: h1010 BODY: h1011 ]
+          [ loc_nonsp LBL: h1008 ARG0: i1005 ARG1: x1009 ARG2: x1001 ]
+          [ _immovable_a_1 LBL: h1008 ARG0: e946 ARG1: x1009 ]
+          [ _old_a_1 LBL: h1008 ARG0: e939 ARG1: x1009 ]
+          [ _black_a_1 LBL: h1008 ARG0: i936 ARG1: x1009 ]
+          [ _car_n_1 LBL: h1008 ARG0: x1009 ]
+          [ def_implicit_q LBL: h1004 ARG0: x1001 RSTR: h1002 BODY: h1003 ]
+          [ _east_a_1 LBL: h1000 ARG0: i991 ARG1: x1001 ARG2: x952 ]
           [ def_udef_a_q LBL: h998 ARG0: x952 RSTR: h996 BODY: h997 ]
-          [ loc_nonsp LBL: h970 ARG0: i987 ARG1: x952 ARG2: x981 ]
-          [ _un-_a_neg LBL: h970 ARG0: i968 ARG1: e964 ]
-          [ _light_v_cause LBL: h970 ARG0: e964 ARG1: i965 ARG2: x952 ]
-          [ compound LBL: h970 ARG0: e960 ARG1: x952 ARG2: x954 ]
+          [ loc_nonsp LBL: h967 ARG0: i987 ARG1: x952 ARG2: x974 ]
+          [ _un-_a_neg LBL: h967 ARG0: i968 ARG1: e964 ]
+          [ _light_v_cause LBL: h967 ARG0: e964 ARG1: i965 ARG2: x952 ]
+          [ compound LBL: h967 ARG0: e960 ARG1: x952 ARG2: x954 ]
           [ udef_q LBL: h959 ARG0: x954 RSTR: h957 BODY: h958 ]
           [ _tail_n_1 LBL: h955 ARG0: x954 ]
-          [ _light_n_1 LBL: h970 ARG0: x952 ]
-          [ def_implicit_q LBL: h986 ARG0: x981 RSTR: h984 BODY: h985 ]
-          [ _west_a_1 LBL: h982 ARG0: i973 ARG1: x981 ARG2: x977 ]
+          [ _light_n_1 LBL: h967 ARG0: x952 ]
+          [ def_implicit_q LBL: h986 ARG0: x974 RSTR: h984 BODY: h985 ]
+          [ _west_a_1 LBL: h976 ARG0: i973 ARG1: x974 ARG2: x977 ]
           [ def_udef_a_q LBL: h980 ARG0: x977 RSTR: h978 BODY: h979 ]
           [ _spill_n_1 LBL: h972 ARG0: x977 ]
-          [ place_n LBL: h982 ARG0: x981 ]
-          [ place_n LBL: h1000 ARG0: x992 ] >
-  HCONS: < h957 qeq h955 h978 qeq h972 h984 qeq h982 h996 qeq h970 h1002 qeq h1000 h1010 qeq h941 h1016 qeq h1015 > ]
+          [ place_n LBL: h976 ARG0: x974 ]
+          [ place_n LBL: h1000 ARG0: x1001 ] >
+  HCONS: < h957 qeq h955 h978 qeq h972 h984 qeq h976 h996 qeq h967 h1002 qeq h1000 h1010 qeq h1008 h1016 qeq h1015 > ]
 GENERATED RESULTS ... 
 Immovable old black cars east of the unlighted tail lights west of the spills
 Old immovable black cars east of the unlighted tail lights west of the spills
@@ -1732,11 +1732,11 @@ Node           MRS Produced    Reason                 Included in MRS    Reason
 -------------  --------------  ---------------------  -----------------  ---------------
 black_2        True            MRS fragment produced  True               Included in MRS
 idCar_1        True            MRS fragment produced  True               Included in MRS
-idSpill_3      True            MRS fragment produced  True               Included in MRS
-idTaillight_2  True            MRS fragment produced  True               Included in MRS
-old_2          True            MRS fragment produced  True               Included in MRS
-unlit_3        True            MRS fragment produced  True               Included in MRS
-yes_2          True            MRS fragment produced  True               Included in MRS
+idSpill_7      True            MRS fragment produced  True               Included in MRS
+idTaillight_5  True            MRS fragment produced  True               Included in MRS
+old_3          True            MRS fragment produced  True               Included in MRS
+unlit_6        True            MRS fragment produced  True               Included in MRS
+yes_4          True            MRS fragment produced  True               Included in MRS
 
 Edge            MRS Composed    Reason        Included in MRS    Reason
 --------------  --------------  ------------  -----------------  ---------------
@@ -1744,7 +1744,7 @@ idColor_1       True            MRS composed  True               Included in MRS
 idDescriptor_2  True            MRS composed  True               Included in MRS
 idImmovable_3   True            MRS composed  True               Included in MRS
 idLitState_4    True            MRS composed  True               Included in MRS
-isEastOf_4      True            MRS composed  True               Included in MRS
+isEastOf_6      True            MRS composed  True               Included in MRS
 isWestOf_5      True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage

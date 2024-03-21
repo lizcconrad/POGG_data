@@ -3,31 +3,31 @@
   INDEX: e465
   RELS: < [ unknown LBL: h467 ARG: x461 ARG0: e465 ]
           [ def_udef_a_q LBL: h464 ARG0: x461 RSTR: h462 BODY: h463 ]
-          [ loc_nonsp LBL: h394 ARG0: i457 ARG1: x461 ARG2: x451 ]
-          [ _near_p LBL: h394 ARG0: e430 ARG1: x461 ARG2: x434 ]
+          [ loc_nonsp LBL: h460 ARG0: i457 ARG1: x461 ARG2: x444 ]
+          [ _near_p LBL: h460 ARG0: e430 ARG1: x461 ARG2: x434 ]
           [ def_udef_a_q LBL: h437 ARG0: x434 RSTR: h435 BODY: h436 ]
-          [ loc_nonsp LBL: h409 ARG0: i426 ARG1: x434 ARG2: x422 ]
-          [ _rocky_a_1 LBL: h409 ARG0: e407 ARG1: x434 ]
-          [ _area_n_of LBL: h409 ARG0: x434 ]
+          [ loc_nonsp LBL: h429 ARG0: i426 ARG1: x434 ARG2: x422 ]
+          [ _rocky_a_1 LBL: h429 ARG0: e407 ARG1: x434 ]
+          [ _area_n_of LBL: h429 ARG0: x434 ]
           [ def_implicit_q LBL: h425 ARG0: x422 RSTR: h423 BODY: h424 ]
-          [ _west_a_1 LBL: h415 ARG0: i412 ARG1: x422 ARG2: x410 ]
+          [ _west_a_1 LBL: h421 ARG0: i412 ARG1: x422 ARG2: x410 ]
           [ def_udef_a_q LBL: h419 ARG0: x410 RSTR: h417 BODY: h418 ]
           [ _cave_n_1 LBL: h411 ARG0: x410 ]
-          [ place_n LBL: h415 ARG0: x422 ]
-          [ _immovable_a_1 LBL: h394 ARG0: e399 ARG1: x461 ]
-          [ _bumpy_a_1 LBL: h394 ARG0: e392 ARG1: x461 ]
-          [ _grey_a_1 LBL: h394 ARG0: i389 ARG1: x461 ]
-          [ compound LBL: h394 ARG0: e385 ARG1: x461 ARG2: x381 ]
+          [ place_n LBL: h421 ARG0: x422 ]
+          [ _immovable_a_1 LBL: h460 ARG0: e399 ARG1: x461 ]
+          [ _bumpy_a_1 LBL: h460 ARG0: e392 ARG1: x461 ]
+          [ _grey_a_1 LBL: h460 ARG0: i389 ARG1: x461 ]
+          [ compound LBL: h460 ARG0: e385 ARG1: x461 ARG2: x381 ]
           [ udef_q LBL: h384 ARG0: x381 RSTR: h382 BODY: h383 ]
           [ _rock_n_1 LBL: h380 ARG0: x381 ]
-          [ _pile_n_of LBL: h394 ARG0: x461 ARG1: i377 ]
-          [ def_implicit_q LBL: h456 ARG0: x451 RSTR: h454 BODY: h455 ]
-          [ _west_a_1 LBL: h452 ARG0: i443 ARG1: x451 ARG2: x447 ]
+          [ _pile_n_of LBL: h460 ARG0: x461 ARG1: i377 ]
+          [ def_implicit_q LBL: h456 ARG0: x444 RSTR: h454 BODY: h455 ]
+          [ _west_a_1 LBL: h452 ARG0: i443 ARG1: x444 ARG2: x447 ]
           [ def_udef_a_q LBL: h450 ARG0: x447 RSTR: h448 BODY: h449 ]
           [ _grassy_a_1 LBL: h442 ARG0: e440 ARG1: x447 ]
           [ _clearing_n_1 LBL: h442 ARG0: x447 ]
-          [ place_n LBL: h452 ARG0: x451 ] >
-  HCONS: < h417 qeq h411 h423 qeq h415 h435 qeq h409 h382 qeq h380 h448 qeq h442 h454 qeq h452 h462 qeq h394 h468 qeq h467 > ]
+          [ place_n LBL: h452 ARG0: x444 ] >
+  HCONS: < h417 qeq h411 h423 qeq h421 h435 qeq h429 h382 qeq h380 h448 qeq h442 h454 qeq h452 h462 qeq h460 h468 qeq h467 > ]
 GENERATED RESULTS ... 
 Grey bumpy immovable rock piles near the rocky areas west of the caves west of the grassy clearings
 Gray bumpy immovable rock piles near the rocky areas west of the caves west of the grassy clearings
@@ -1186,29 +1186,30 @@ TOTAL RESULTS: 1152
 
 Node           MRS Produced    Reason                 Included in MRS    Reason
 -------------  --------------  ---------------------  -----------------  ---------------
-bumpy_2        True            MRS fragment produced  True               Included in MRS
-grassy_3       True            MRS fragment produced  True               Included in MRS
+bumpy_3        True            MRS fragment produced  True               Included in MRS
+grassy_9       True            MRS fragment produced  True               Included in MRS
 grey_2         True            MRS fragment produced  True               Included in MRS
-idCave_3       True            MRS fragment produced  True               Included in MRS
-idClearing_2   True            MRS fragment produced  True               Included in MRS
+idCave_7       True            MRS fragment produced  True               Included in MRS
+idClearing_8   True            MRS fragment produced  True               Included in MRS
 idRockPile_1   True            MRS fragment produced  True               Included in MRS
-idRockyArea_2  True            MRS fragment produced  True               Included in MRS
-rocky_3        True            MRS fragment produced  True               Included in MRS
-yes_2          True            MRS fragment produced  True               Included in MRS
+idRockyArea_5  True            MRS fragment produced  True               Included in MRS
+rocky_6        True            MRS fragment produced  True               Included in MRS
+yes_4          True            MRS fragment produced  True               Included in MRS
 
 Edge            MRS Composed    Reason        Included in MRS    Reason
 --------------  --------------  ------------  -----------------  ---------------
 idColor_1       True            MRS composed  True               Included in MRS
 idDescriptor_2  True            MRS composed  True               Included in MRS
 idDescriptor_4  True            MRS composed  True               Included in MRS
-idDescriptor_5  True            MRS composed  True               Included in MRS
+idDescriptor_7  True            MRS composed  True               Included in MRS
 idImmovable_3   True            MRS composed  True               Included in MRS
-isNear_4        True            MRS composed  True               Included in MRS
+isNear_6        True            MRS composed  True               Included in MRS
 isWestOf_5      True            MRS composed  True               Included in MRS
+isWestOf_8      True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------
 Nodes              Produced             9        9           1
 Nodes              Included             9        9           1
-Edges              Produced             7        7           1
-Edges              Included             7        7           1
+Edges              Produced             8        8           1
+Edges              Included             8        8           1

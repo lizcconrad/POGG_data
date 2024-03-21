@@ -1,28 +1,28 @@
 /Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idTheCarRoom1_subgraph.dot
 [ TOP: h369
   INDEX: e366
-  RELS: < [ unknown LBL: h368 ARG: x362 ARG0: e366 ]
-          [ def_udef_a_q LBL: h365 ARG0: x362 RSTR: h363 BODY: h364 ]
-          [ loc_nonsp LBL: h295 ARG0: i358 ARG1: x362 ARG2: x352 ]
-          [ _smoky_a_1 LBL: h295 ARG0: e306 ARG1: x362 ]
-          [ compound LBL: h295 ARG0: e302 ARG1: x362 ARG2: x298 ]
-          [ udef_q LBL: h301 ARG0: x298 RSTR: h299 BODY: h300 ]
-          [ _car_n_1 LBL: h297 ARG0: x298 ]
-          [ _room_n_unit LBL: h295 ARG0: x362 ]
-          [ def_implicit_q LBL: h357 ARG0: x352 RSTR: h355 BODY: h356 ]
-          [ _west_a_1 LBL: h353 ARG0: i344 ARG1: x352 ARG2: x348 ]
-          [ def_udef_a_q LBL: h351 ARG0: x348 RSTR: h349 BODY: h350 ]
-          [ loc_nonsp LBL: h320 ARG0: i340 ARG1: x348 ARG2: x327 ]
-          [ _immovable_a_1 LBL: h320 ARG0: e318 ARG1: x348 ]
-          [ _green_a_2 LBL: h320 ARG0: i311 ARG1: x348 ]
-          [ _bush_n_1 LBL: h320 ARG0: x348 ]
+  RELS: < [ unknown LBL: h368 ARG: x294 ARG0: e366 ]
+          [ def_udef_a_q LBL: h365 ARG0: x294 RSTR: h363 BODY: h364 ]
+          [ loc_nonsp LBL: h305 ARG0: i358 ARG1: x294 ARG2: x354 ]
+          [ _smoky_a_1 LBL: h305 ARG0: e306 ARG1: x294 ]
+          [ compound LBL: h305 ARG0: e302 ARG1: x294 ARG2: x296 ]
+          [ udef_q LBL: h301 ARG0: x296 RSTR: h299 BODY: h300 ]
+          [ _car_n_1 LBL: h297 ARG0: x296 ]
+          [ _room_n_unit LBL: h305 ARG0: x294 ]
+          [ def_implicit_q LBL: h357 ARG0: x354 RSTR: h355 BODY: h356 ]
+          [ _west_a_1 LBL: h353 ARG0: i344 ARG1: x354 ARG2: x309 ]
+          [ def_udef_a_q LBL: h351 ARG0: x309 RSTR: h349 BODY: h350 ]
+          [ loc_nonsp LBL: h320 ARG0: i340 ARG1: x309 ARG2: x327 ]
+          [ _immovable_a_1 LBL: h320 ARG0: e318 ARG1: x309 ]
+          [ _green_a_2 LBL: h320 ARG0: i311 ARG1: x309 ]
+          [ _bush_n_1 LBL: h320 ARG0: x309 ]
           [ def_implicit_q LBL: h339 ARG0: x327 RSTR: h337 BODY: h338 ]
           [ _east_a_1 LBL: h335 ARG0: i326 ARG1: x327 ARG2: x324 ]
           [ def_udef_a_q LBL: h333 ARG0: x324 RSTR: h331 BODY: h332 ]
           [ _crowbar_n_1 LBL: h325 ARG0: x324 ]
           [ place_n LBL: h335 ARG0: x327 ]
-          [ place_n LBL: h353 ARG0: x352 ] >
-  HCONS: < h299 qeq h297 h331 qeq h325 h337 qeq h335 h349 qeq h320 h355 qeq h353 h363 qeq h295 h369 qeq h368 > ]
+          [ place_n LBL: h353 ARG0: x354 ] >
+  HCONS: < h299 qeq h297 h331 qeq h325 h337 qeq h335 h349 qeq h320 h355 qeq h353 h363 qeq h305 h369 qeq h368 > ]
 GENERATED RESULTS ... 
 A smoky car room west of the green immovable bush east of the crowbars
 The smoky car room west of the green immovable bush east of the crowbars
@@ -1629,12 +1629,12 @@ TOTAL RESULTS: 1600
 
 Node            MRS Produced    Reason                 Included in MRS    Reason
 --------------  --------------  ---------------------  -----------------  ---------------
-green_3         True            MRS fragment produced  True               Included in MRS
-idBush_2        True            MRS fragment produced  True               Included in MRS
-idCrowbar_3     True            MRS fragment produced  True               Included in MRS
+green_4         True            MRS fragment produced  True               Included in MRS
+idBush_3        True            MRS fragment produced  True               Included in MRS
+idCrowbar_6     True            MRS fragment produced  True               Included in MRS
 idTheCarRoom_1  True            MRS fragment produced  True               Included in MRS
 smoky_2         True            MRS fragment produced  True               Included in MRS
-yes_3           True            MRS fragment produced  True               Included in MRS
+yes_5           True            MRS fragment produced  True               Included in MRS
 
 Edge            MRS Composed    Reason        Included in MRS    Reason
 --------------  --------------  ------------  -----------------  ---------------
@@ -1642,7 +1642,7 @@ idColor_2       True            MRS composed  True               Included in MRS
 idDescriptor_1  True            MRS composed  True               Included in MRS
 idImmovable_3   True            MRS composed  True               Included in MRS
 isEastOf_4      True            MRS composed  True               Included in MRS
-isWestOf_2      True            MRS composed  True               Included in MRS
+isWestOf_5      True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

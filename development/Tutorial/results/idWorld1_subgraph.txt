@@ -1,24 +1,24 @@
 /Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Tutorial/subgraphs/dot/complete/idWorld1_subgraph.dot
 [ TOP: h834
   INDEX: e831
-  RELS: < [ unknown LBL: h833 ARG: x827 ARG0: e831 ]
-          [ def_udef_a_q LBL: h830 ARG0: x827 RSTR: h828 BODY: h829 ]
-          [ _near_p LBL: h822 ARG0: e819 ARG1: x827 ARG2: x823 ]
-          [ def_udef_a_q LBL: h826 ARG0: x823 RSTR: h824 BODY: h825 ]
-          [ _near_p LBL: h808 ARG0: e811 ARG1: x823 ARG2: x815 ]
-          [ def_udef_a_q LBL: h818 ARG0: x815 RSTR: h816 BODY: h817 ]
-          [ _desk_n_1 LBL: h810 ARG0: x815 ]
-          [ _player_n_of LBL: h808 ARG0: x823 ARG1: i807 ]
-          [ _near_p LBL: h822 ARG0: e798 ARG1: x827 ARG2: x802 ]
-          [ def_udef_a_q LBL: h805 ARG0: x802 RSTR: h803 BODY: h804 ]
-          [ _un-_a_neg LBL: h782 ARG0: i787 ARG1: e790 ]
-          [ _know_v_1 LBL: h782 ARG0: e790 ARG1: u791 ARG2: x802 ]
-          [ compound LBL: h782 ARG0: e779 ARG1: x802 ARG2: x775 ]
+  RELS: < [ unknown LBL: h833 ARG: x768 ARG0: e831 ]
+          [ def_udef_a_q LBL: h830 ARG0: x768 RSTR: h828 BODY: h829 ]
+          [ _near_p LBL: h822 ARG0: e819 ARG1: x768 ARG2: x806 ]
+          [ def_udef_a_q LBL: h826 ARG0: x806 RSTR: h824 BODY: h825 ]
+          [ _near_p LBL: h808 ARG0: e811 ARG1: x806 ARG2: x809 ]
+          [ def_udef_a_q LBL: h818 ARG0: x809 RSTR: h816 BODY: h817 ]
+          [ _desk_n_1 LBL: h810 ARG0: x809 ]
+          [ _player_n_of LBL: h808 ARG0: x806 ARG1: i807 ]
+          [ _near_p LBL: h822 ARG0: e798 ARG1: x768 ARG2: x771 ]
+          [ def_udef_a_q LBL: h805 ARG0: x771 RSTR: h803 BODY: h804 ]
+          [ _un-_a_neg LBL: h793 ARG0: i787 ARG1: e790 ]
+          [ _know_v_1 LBL: h793 ARG0: e790 ARG1: u791 ARG2: x771 ]
+          [ compound LBL: h793 ARG0: e779 ARG1: x771 ARG2: x775 ]
           [ udef_q LBL: h778 ARG0: x775 RSTR: h776 BODY: h777 ]
           [ _game_n_1 LBL: h774 ARG0: x775 ]
-          [ _room_n_unit LBL: h782 ARG0: x802 ]
-          [ _world_n_of LBL: h822 ARG0: x827 ARG1: i769 ] >
-  HCONS: < h816 qeq h810 h824 qeq h808 h776 qeq h774 h803 qeq h782 h828 qeq h822 h834 qeq h833 > ]
+          [ _room_n_unit LBL: h793 ARG0: x771 ]
+          [ _world_n_of LBL: h822 ARG0: x768 ARG1: i769 ] >
+  HCONS: < h816 qeq h810 h824 qeq h808 h776 qeq h774 h803 qeq h793 h828 qeq h822 h834 qeq h833 > ]
 GENERATED RESULTS ... 
 The worlds near unknown game rooms near the players near the desks
 The worlds near unknown game rooms near a player near the desks
@@ -1533,21 +1533,22 @@ TOTAL RESULTS: 1508
 
 Node          MRS Produced    Reason                 Included in MRS    Reason
 ------------  --------------  ---------------------  -----------------  ---------------
-idDesk_3      True            MRS fragment produced  True               Included in MRS
+idDesk_5      True            MRS fragment produced  True               Included in MRS
 idGameRoom_2  True            MRS fragment produced  True               Included in MRS
-idPlayer_2    True            MRS fragment produced  True               Included in MRS
+idPlayer_4    True            MRS fragment produced  True               Included in MRS
 idWorld_1     True            MRS fragment produced  True               Included in MRS
 true_3        True            MRS fragment produced  True               Included in MRS
 
 Edge               MRS Composed    Reason        Included in MRS    Reason
 -----------------  --------------  ------------  -----------------  ---------------
 idUnknownObject_1  True            MRS composed  True               Included in MRS
-isNear_1           True            MRS composed  True               Included in MRS
 isNear_2           True            MRS composed  True               Included in MRS
+isNear_3           True            MRS composed  True               Included in MRS
+isNear_4           True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------
 Nodes              Produced             5        5           1
 Nodes              Included             5        5           1
-Edges              Produced             3        3           1
-Edges              Included             3        3           1
+Edges              Produced             4        4           1
+Edges              Included             4        4           1

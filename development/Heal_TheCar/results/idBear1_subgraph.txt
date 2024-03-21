@@ -3,39 +3,39 @@
   INDEX: e917
   RELS: < [ unknown LBL: h919 ARG: x792 ARG0: e917 ]
           [ def_udef_a_q LBL: h916 ARG0: x792 RSTR: h914 BODY: h915 ]
-          [ loc_nonsp LBL: h810 ARG0: i909 ARG1: x792 ARG2: x905 ]
-          [ loc_nonsp LBL: h810 ARG0: i865 ARG1: x792 ARG2: x861 ]
+          [ loc_nonsp LBL: h810 ARG0: i909 ARG1: x792 ARG2: x896 ]
+          [ loc_nonsp LBL: h810 ARG0: i865 ARG1: x792 ARG2: x852 ]
           [ _angry_a_at LBL: h810 ARG0: e807 ARG1: x792 ARG2: u809 ]
           [ _large_a_1 LBL: h810 ARG0: e804 ARG1: x792 ]
           [ _immovable_a_1 LBL: h810 ARG0: e798 ARG1: x792 ]
           [ _bear_n_1 LBL: h810 ARG0: x792 ]
-          [ def_implicit_q LBL: h864 ARG0: x861 RSTR: h862 BODY: h863 ]
-          [ _south_a_1 LBL: h860 ARG0: i851 ARG1: x861 ARG2: x811 ]
+          [ def_implicit_q LBL: h864 ARG0: x852 RSTR: h862 BODY: h863 ]
+          [ _south_a_1 LBL: h854 ARG0: i851 ARG1: x852 ARG2: x811 ]
           [ def_udef_a_q LBL: h858 ARG0: x811 RSTR: h856 BODY: h857 ]
-          [ _inside+of_p LBL: h822 ARG0: e843 ARG1: x811 ARG2: x847 ]
-          [ def_udef_a_q LBL: h850 ARG0: x847 RSTR: h848 BODY: h849 ]
-          [ _car_n_1 LBL: h842 ARG0: x847 ]
-          [ _un-_a_neg LBL: h822 ARG0: i830 ARG1: e831 ]
-          [ _know_v_1 LBL: h822 ARG0: e831 ARG1: u834 ARG2: x811 ]
-          [ _black_a_1 LBL: h822 ARG0: i823 ARG1: x811 ]
-          [ compound LBL: h822 ARG0: e819 ARG1: x811 ARG2: x815 ]
-          [ udef_q LBL: h818 ARG0: x815 RSTR: h816 BODY: h817 ]
-          [ _car_n_1 LBL: h814 ARG0: x815 ]
-          [ _key_n_1 LBL: h822 ARG0: x811 ]
-          [ place_n LBL: h860 ARG0: x861 ]
-          [ def_implicit_q LBL: h908 ARG0: x905 RSTR: h906 BODY: h907 ]
-          [ _west_a_1 LBL: h898 ARG0: i895 ARG1: x905 ARG2: x869 ]
-          [ def_udef_a_q LBL: h902 ARG0: x869 RSTR: h900 BODY: h901 ]
-          [ _near_p LBL: h880 ARG0: e887 ARG1: x869 ARG2: x891 ]
-          [ def_udef_a_q LBL: h894 ARG0: x891 RSTR: h892 BODY: h893 ]
-          [ _clearing_n_1 LBL: h886 ARG0: x891 ]
-          [ _break_v_cause LBL: h880 ARG0: e881 ARG1: i882 ARG2: x869 ]
-          [ compound LBL: h880 ARG0: e877 ARG1: x869 ARG2: x873 ]
-          [ udef_q LBL: h876 ARG0: x873 RSTR: h874 BODY: h875 ]
-          [ _side_n_1 LBL: h872 ARG0: x873 ]
-          [ _mirror_n_1 LBL: h880 ARG0: x869 ]
-          [ place_n LBL: h898 ARG0: x905 ] >
-  HCONS: < h848 qeq h842 h816 qeq h814 h856 qeq h822 h862 qeq h860 h892 qeq h886 h874 qeq h872 h900 qeq h880 h906 qeq h898 h914 qeq h810 h920 qeq h919 > ]
+          [ _inside+of_p LBL: h832 ARG0: e843 ARG1: x811 ARG2: x841 ]
+          [ def_udef_a_q LBL: h850 ARG0: x841 RSTR: h848 BODY: h849 ]
+          [ _car_n_1 LBL: h842 ARG0: x841 ]
+          [ _un-_a_neg LBL: h832 ARG0: i830 ARG1: e833 ]
+          [ _know_v_1 LBL: h832 ARG0: e833 ARG1: u834 ARG2: x811 ]
+          [ _black_a_1 LBL: h832 ARG0: i823 ARG1: x811 ]
+          [ compound LBL: h832 ARG0: e819 ARG1: x811 ARG2: x813 ]
+          [ udef_q LBL: h818 ARG0: x813 RSTR: h816 BODY: h817 ]
+          [ _car_n_1 LBL: h814 ARG0: x813 ]
+          [ _key_n_1 LBL: h832 ARG0: x811 ]
+          [ place_n LBL: h854 ARG0: x852 ]
+          [ def_implicit_q LBL: h908 ARG0: x896 RSTR: h906 BODY: h907 ]
+          [ _west_a_1 LBL: h898 ARG0: i895 ARG1: x896 ARG2: x899 ]
+          [ def_udef_a_q LBL: h902 ARG0: x899 RSTR: h900 BODY: h901 ]
+          [ _near_p LBL: h880 ARG0: e887 ARG1: x899 ARG2: x885 ]
+          [ def_udef_a_q LBL: h894 ARG0: x885 RSTR: h892 BODY: h893 ]
+          [ _clearing_n_1 LBL: h886 ARG0: x885 ]
+          [ _break_v_cause LBL: h880 ARG0: e881 ARG1: i882 ARG2: x899 ]
+          [ compound LBL: h880 ARG0: e877 ARG1: x899 ARG2: x871 ]
+          [ udef_q LBL: h876 ARG0: x871 RSTR: h874 BODY: h875 ]
+          [ _side_n_1 LBL: h872 ARG0: x871 ]
+          [ _mirror_n_1 LBL: h880 ARG0: x899 ]
+          [ place_n LBL: h898 ARG0: x896 ] >
+  HCONS: < h848 qeq h842 h816 qeq h814 h856 qeq h832 h862 qeq h854 h892 qeq h886 h874 qeq h872 h900 qeq h880 h906 qeq h898 h914 qeq h810 h920 qeq h919 > ]
 GENERATED RESULTS ... 
 Large angry immovable bear south of the unknown black car keys inside of the cars west of the broken side mirror near the clearings
 Large angry immovable bear west of the broken side mirror near the clearings south of the unknown black car keys inside of the cars
@@ -1394,32 +1394,32 @@ TOTAL RESULTS: 1352
 
 Node            MRS Produced    Reason                                Included in MRS    Reason
 --------------  --------------  ------------------------------------  -----------------  ------------------------------------
-angry_2         True            MRS fragment produced                 True               Included in MRS
-black_3         True            MRS fragment produced                 True               Included in MRS
-broken_3        True            MRS fragment produced                 True               Included in MRS
+angry_4         True            MRS fragment produced                 True               Included in MRS
+black_6         True            MRS fragment produced                 True               Included in MRS
+broken_10       True            MRS fragment produced                 True               Included in MRS
 idBear_1        True            MRS fragment produced                 True               Included in MRS
-idCarKey_2      True            MRS fragment produced                 True               Included in MRS
-idClearing_3    True            MRS fragment produced                 True               Included in MRS
-idFace_3        False           'idFace' has no value in the lexicon  False              'idFace' has no value in the lexicon
-idSideMirror_2  True            MRS fragment produced                 True               Included in MRS
-idTheCar_3      True            MRS fragment produced                 True               Included in MRS
-large_2         True            MRS fragment produced                 True               Included in MRS
-true_3          True            MRS fragment produced                 True               Included in MRS
+idCarKey_5      True            MRS fragment produced                 True               Included in MRS
+idClearing_12   True            MRS fragment produced                 True               Included in MRS
+idFace_11       False           'idFace' has no value in the lexicon  False              'idFace' has no value in the lexicon
+idSideMirror_9  True            MRS fragment produced                 True               Included in MRS
+idTheCar_8      True            MRS fragment produced                 True               Included in MRS
+large_3         True            MRS fragment produced                 True               Included in MRS
+true_7          True            MRS fragment produced                 True               Included in MRS
 yes_2           True            MRS fragment produced                 True               Included in MRS
 
 Edge               MRS Composed    Reason                  Included in MRS    Reason
 -----------------  --------------  ----------------------  -----------------  ----------------------
 idColor_4          True            MRS composed            True               Included in MRS
 idDescriptor_3     True            MRS composed            True               Included in MRS
-idDescriptor__5    True            MRS composed            True               Included in MRS
-idDescriptor__6    False           Inbound to failed node  False              Inbound to failed node
+idDescriptor__8    True            MRS composed            True               Included in MRS
+idDescriptor__9    False           Inbound to failed node  False              Inbound to failed node
 idImmovable_1      True            MRS composed            True               Included in MRS
 idSize_2           True            MRS composed            True               Included in MRS
 idUnknownObject_5  True            MRS composed            True               Included in MRS
 isInsideOf_6       True            MRS composed            True               Included in MRS
-isNear_7           True            MRS composed            True               Included in MRS
-isSouthOf_4        True            MRS composed            True               Included in MRS
-isWestOf_5         True            MRS composed            True               Included in MRS
+isNear_10          True            MRS composed            True               Included in MRS
+isSouthOf_7        True            MRS composed            True               Included in MRS
+isWestOf_11        True            MRS composed            True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

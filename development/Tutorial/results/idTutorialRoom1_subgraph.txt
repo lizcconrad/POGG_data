@@ -1,22 +1,22 @@
 /Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Tutorial/subgraphs/dot/complete/idTutorialRoom1_subgraph.dot
 [ TOP: h319
   INDEX: e316
-  RELS: < [ unknown LBL: h318 ARG: x312 ARG0: e316 ]
-          [ def_udef_a_q LBL: h315 ARG0: x312 RSTR: h313 BODY: h314 ]
-          [ _near_p LBL: h271 ARG0: e304 ARG1: x312 ARG2: x290 ]
-          [ def_udef_a_q LBL: h311 ARG0: x290 RSTR: h309 BODY: h310 ]
-          [ _inside+of_p LBL: h299 ARG0: e296 ARG1: x290 ARG2: x300 ]
+  RELS: < [ unknown LBL: h318 ARG: x260 ARG0: e316 ]
+          [ def_udef_a_q LBL: h315 ARG0: x260 RSTR: h313 BODY: h314 ]
+          [ _near_p LBL: h281 ARG0: e304 ARG1: x260 ARG2: x308 ]
+          [ def_udef_a_q LBL: h311 ARG0: x308 RSTR: h309 BODY: h310 ]
+          [ _inside+of_p LBL: h292 ARG0: e296 ARG1: x308 ARG2: x300 ]
           [ def_udef_a_q LBL: h303 ARG0: x300 RSTR: h301 BODY: h302 ]
           [ _world_n_of LBL: h295 ARG0: x300 ARG1: i294 ]
-          [ _player_n_of LBL: h299 ARG0: x290 ARG1: i291 ]
-          [ _un-_a_neg LBL: h271 ARG0: i279 ARG1: e280 ]
-          [ _know_v_1 LBL: h271 ARG0: e280 ARG1: u283 ARG2: x312 ]
-          [ _white_a_1 LBL: h271 ARG0: i272 ARG1: x312 ]
-          [ compound LBL: h271 ARG0: e268 ARG1: x312 ARG2: x262 ]
+          [ _player_n_of LBL: h292 ARG0: x308 ARG1: i291 ]
+          [ _un-_a_neg LBL: h281 ARG0: i279 ARG1: e280 ]
+          [ _know_v_1 LBL: h281 ARG0: e280 ARG1: u283 ARG2: x260 ]
+          [ _white_a_1 LBL: h281 ARG0: i272 ARG1: x260 ]
+          [ compound LBL: h281 ARG0: e268 ARG1: x260 ARG2: x262 ]
           [ udef_q LBL: h267 ARG0: x262 RSTR: h265 BODY: h266 ]
           [ _tutorial_n_1 LBL: h263 ARG0: x262 ]
-          [ _room_n_unit LBL: h271 ARG0: x312 ] >
-  HCONS: < h301 qeq h295 h309 qeq h299 h265 qeq h263 h313 qeq h271 h319 qeq h318 > ]
+          [ _room_n_unit LBL: h281 ARG0: x260 ] >
+  HCONS: < h301 qeq h295 h309 qeq h292 h265 qeq h263 h313 qeq h281 h319 qeq h318 > ]
 GENERATED RESULTS ... 
 Tutorial white unknown rooms near a player inside of the worlds
 Tutorial white unknown rooms near the players inside of the worlds
@@ -1594,10 +1594,10 @@ TOTAL RESULTS: 1571
 
 Node              MRS Produced    Reason                 Included in MRS    Reason
 ----------------  --------------  ---------------------  -----------------  ---------------
-idPlayer_2        True            MRS fragment produced  True               Included in MRS
+idPlayer_4        True            MRS fragment produced  True               Included in MRS
 idTutorialRoom_1  True            MRS fragment produced  True               Included in MRS
-idWorld_3         True            MRS fragment produced  True               Included in MRS
-true_2            True            MRS fragment produced  True               Included in MRS
+idWorld_5         True            MRS fragment produced  True               Included in MRS
+true_3            True            MRS fragment produced  True               Included in MRS
 white_2           True            MRS fragment produced  True               Included in MRS
 
 Edge               MRS Composed    Reason        Included in MRS    Reason
@@ -1605,7 +1605,7 @@ Edge               MRS Composed    Reason        Included in MRS    Reason
 idColor_1          True            MRS composed  True               Included in MRS
 idUnknownObject_2  True            MRS composed  True               Included in MRS
 isInsideOf_3       True            MRS composed  True               Included in MRS
-isNear_3           True            MRS composed  True               Included in MRS
+isNear_4           True            MRS composed  True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

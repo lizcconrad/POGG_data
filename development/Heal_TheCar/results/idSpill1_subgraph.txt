@@ -1,18 +1,18 @@
 /Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idSpill1_subgraph.dot
 [ TOP: h42
   INDEX: e39
-  RELS: < [ unknown LBL: h41 ARG: x35 ARG0: e39 ]
-          [ def_udef_a_q LBL: h38 ARG0: x35 RSTR: h36 BODY: h37 ]
-          [ loc_nonsp LBL: h34 ARG0: i31 ARG1: x35 ARG2: x27 ]
-          [ _immovable_a_1 LBL: h34 ARG0: e9 ARG1: x35 ]
-          [ _black_a_1 LBL: h34 ARG0: i2 ARG1: x35 ]
-          [ _spill_n_1 LBL: h34 ARG0: x35 ]
-          [ def_implicit_q LBL: h30 ARG0: x27 RSTR: h28 BODY: h29 ]
-          [ _east_a_1 LBL: h20 ARG0: i17 ARG1: x27 ARG2: x15 ]
-          [ def_udef_a_q LBL: h24 ARG0: x15 RSTR: h22 BODY: h23 ]
-          [ _den_n_1 LBL: h16 ARG0: x15 ]
-          [ place_n LBL: h20 ARG0: x27 ] >
-  HCONS: < h22 qeq h16 h28 qeq h20 h36 qeq h34 h42 qeq h41 > ]
+  RELS: < [ unknown LBL: h41 ARG: x0 ARG0: e39 ]
+          [ def_udef_a_q LBL: h38 ARG0: x0 RSTR: h36 BODY: h37 ]
+          [ loc_nonsp LBL: h4 ARG0: i31 ARG1: x0 ARG2: x18 ]
+          [ _immovable_a_1 LBL: h4 ARG0: e9 ARG1: x0 ]
+          [ _black_a_1 LBL: h4 ARG0: i2 ARG1: x0 ]
+          [ _spill_n_1 LBL: h4 ARG0: x0 ]
+          [ def_implicit_q LBL: h30 ARG0: x18 RSTR: h28 BODY: h29 ]
+          [ _east_a_1 LBL: h26 ARG0: i17 ARG1: x18 ARG2: x21 ]
+          [ def_udef_a_q LBL: h24 ARG0: x21 RSTR: h22 BODY: h23 ]
+          [ _den_n_1 LBL: h16 ARG0: x21 ]
+          [ place_n LBL: h26 ARG0: x18 ] >
+  HCONS: < h22 qeq h16 h28 qeq h26 h36 qeq h4 h42 qeq h41 > ]
 GENERATED RESULTS ... 
 A black immovable spill east of the dens
 The black immovable spill east of the dens
@@ -140,9 +140,9 @@ TOTAL RESULTS: 120
 Node       MRS Produced    Reason                 Included in MRS    Reason
 ---------  --------------  ---------------------  -----------------  ---------------
 black_2    True            MRS fragment produced  True               Included in MRS
-idDen_2    True            MRS fragment produced  True               Included in MRS
+idDen_4    True            MRS fragment produced  True               Included in MRS
 idSpill_1  True            MRS fragment produced  True               Included in MRS
-yes_2      True            MRS fragment produced  True               Included in MRS
+yes_3      True            MRS fragment produced  True               Included in MRS
 
 Edge           MRS Composed    Reason        Included in MRS    Reason
 -------------  --------------  ------------  -----------------  ---------------

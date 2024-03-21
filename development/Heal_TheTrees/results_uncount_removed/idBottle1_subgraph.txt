@@ -3,25 +3,25 @@
   INDEX: e544
   RELS: < [ unknown LBL: h546 ARG: x540 ARG0: e544 ]
           [ def_udef_a_q LBL: h543 ARG0: x540 RSTR: h541 BODY: h542 ]
-          [ _near_p LBL: h478 ARG0: e532 ARG1: x540 ARG2: x506 ]
-          [ def_udef_a_q LBL: h539 ARG0: x506 RSTR: h537 BODY: h538 ]
-          [ _bumpy_a_1 LBL: h531 ARG0: e529 ARG1: x506 ]
-          [ _immovable_a_1 LBL: h531 ARG0: e523 ARG1: x506 ]
-          [ compound LBL: h531 ARG0: e515 ARG1: x506 ARG2: x509 ]
-          [ udef_q LBL: h514 ARG0: x509 RSTR: h512 BODY: h513 ]
-          [ _rock_n_1 LBL: h510 ARG0: x509 ]
-          [ _pile_n_of LBL: h531 ARG0: x506 ARG1: i507 ]
-          [ loc_nonsp LBL: h478 ARG0: i502 ARG1: x540 ARG2: x496 ]
-          [ _brown_a_1 LBL: h478 ARG0: i479 ARG1: x540 ]
-          [ _sharp_a_1 LBL: h478 ARG0: e476 ARG1: x540 ]
-          [ _break_v_cause LBL: h478 ARG0: e472 ARG1: i473 ARG2: x540 ]
-          [ _bottle_n_of LBL: h478 ARG0: x540 ARG1: i470 ]
-          [ def_implicit_q LBL: h501 ARG0: x496 RSTR: h499 BODY: h500 ]
-          [ _west_a_1 LBL: h491 ARG0: i488 ARG1: x496 ARG2: x492 ]
-          [ def_udef_a_q LBL: h495 ARG0: x492 RSTR: h493 BODY: h494 ]
-          [ _player_n_of LBL: h484 ARG0: x492 ARG1: i483 ]
-          [ place_n LBL: h491 ARG0: x496 ] >
-  HCONS: < h512 qeq h510 h537 qeq h531 h493 qeq h484 h499 qeq h491 h541 qeq h478 h547 qeq h546 > ]
+          [ _near_p LBL: h481 ARG0: e532 ARG1: x540 ARG2: x536 ]
+          [ def_udef_a_q LBL: h539 ARG0: x536 RSTR: h537 BODY: h538 ]
+          [ _bumpy_a_1 LBL: h525 ARG0: e529 ARG1: x536 ]
+          [ _immovable_a_1 LBL: h525 ARG0: e523 ARG1: x536 ]
+          [ compound LBL: h525 ARG0: e515 ARG1: x536 ARG2: x511 ]
+          [ udef_q LBL: h514 ARG0: x511 RSTR: h512 BODY: h513 ]
+          [ _rock_n_1 LBL: h510 ARG0: x511 ]
+          [ _pile_n_of LBL: h525 ARG0: x536 ARG1: i507 ]
+          [ loc_nonsp LBL: h481 ARG0: i502 ARG1: x540 ARG2: x498 ]
+          [ _brown_a_1 LBL: h481 ARG0: i479 ARG1: x540 ]
+          [ _sharp_a_1 LBL: h481 ARG0: e476 ARG1: x540 ]
+          [ _break_v_cause LBL: h481 ARG0: e472 ARG1: i473 ARG2: x540 ]
+          [ _bottle_n_of LBL: h481 ARG0: x540 ARG1: i470 ]
+          [ def_implicit_q LBL: h501 ARG0: x498 RSTR: h499 BODY: h500 ]
+          [ _west_a_1 LBL: h491 ARG0: i488 ARG1: x498 ARG2: x482 ]
+          [ def_udef_a_q LBL: h495 ARG0: x482 RSTR: h493 BODY: h494 ]
+          [ _player_n_of LBL: h484 ARG0: x482 ARG1: i483 ]
+          [ place_n LBL: h491 ARG0: x498 ] >
+  HCONS: < h512 qeq h510 h537 qeq h525 h493 qeq h484 h499 qeq h491 h541 qeq h481 h547 qeq h546 > ]
 GENERATED RESULTS ... 
 Broken sharp brown bottles near an immovable bumpy rock pile west of the players
 Broken brown sharp bottles near an immovable bumpy rock pile west of the players
@@ -1659,25 +1659,25 @@ TOTAL RESULTS: 1630
 Node          MRS Produced    Reason                 Included in MRS    Reason
 ------------  --------------  ---------------------  -----------------  -------------------------
 broken_2      True            MRS fragment produced  True               Included in MRS
-brown_2       True            MRS fragment produced  True               Included in MRS
-bumpy_3       True            MRS fragment produced  True               Included in MRS
-false_3       True            MRS fragment produced  False              Descends from failed edge
+brown_4       True            MRS fragment produced  True               Included in MRS
+bumpy_9       True            MRS fragment produced  True               Included in MRS
+false_6       True            MRS fragment produced  False              Descends from failed edge
 idBottle_1    True            MRS fragment produced  True               Included in MRS
-idPlayer_2    True            MRS fragment produced  True               Included in MRS
-idRockPile_2  True            MRS fragment produced  True               Included in MRS
-sharp_2       True            MRS fragment produced  True               Included in MRS
-yes_3         True            MRS fragment produced  True               Included in MRS
+idPlayer_5    True            MRS fragment produced  True               Included in MRS
+idRockPile_7  True            MRS fragment produced  True               Included in MRS
+sharp_3       True            MRS fragment produced  True               Included in MRS
+yes_8         True            MRS fragment produced  True               Included in MRS
 
 Edge             MRS Composed    Reason                                   Included in MRS    Reason
 ---------------  --------------  ---------------------------------------  -----------------  ---------------------------------------
 idBottleFound_4  False           'idBottleFound' has no value in lexicon  False              'idBottleFound' has no value in lexicon
 idColor_3        True            MRS composed                             True               Included in MRS
 idDescriptor_2   True            MRS composed                             True               Included in MRS
-idDescriptor_6   True            MRS composed                             True               Included in MRS
-idImmovable_5    True            MRS composed                             True               Included in MRS
+idDescriptor_7   True            MRS composed                             True               Included in MRS
+idImmovable_6    True            MRS composed                             True               Included in MRS
 idIntegrity_1    True            MRS composed                             True               Included in MRS
-isNear_5         True            MRS composed                             True               Included in MRS
-isWestOf_4       True            MRS composed                             True               Included in MRS
+isNear_8         True            MRS composed                             True               Included in MRS
+isWestOf_5       True            MRS composed                             True               Included in MRS
 
 Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------

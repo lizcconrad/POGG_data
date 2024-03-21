@@ -26,64 +26,64 @@ Graph Component    Metric      Successful    Total    Coverage
 -----------------  --------  ------------  -------  ----------
 Nodes              Produced            55       55           1
 Nodes              Included            55       55           1
-Edges              Produced            39       39           1
-Edges              Included            39       39           1
+Edges              Produced            42       42           1
+Edges              Included            42       42           1
 
 Node                                                                MRS Produced    Reason                 Included in MRS    Reason
 ------------------------------------------------------------------  --------------  ---------------------  -----------------  ---------------
 idDesk1_subgraph_idDesk_1                                           True            MRS fragment produced  True               Included in MRS
-idDesk1_subgraph_idGameRoom_2                                       True            MRS fragment produced  True               Included in MRS
-idDesk1_subgraph_idPlayer_3                                         True            MRS fragment produced  True               Included in MRS
-idDesk1_subgraph_true_2                                             True            MRS fragment produced  True               Included in MRS
+idDesk1_subgraph_idGameRoom_4                                       True            MRS fragment produced  True               Included in MRS
+idDesk1_subgraph_idPlayer_6                                         True            MRS fragment produced  True               Included in MRS
 idDesk1_subgraph_true_3                                             True            MRS fragment produced  True               Included in MRS
+idDesk1_subgraph_true_5                                             True            MRS fragment produced  True               Included in MRS
 idDesk1_subgraph_yes_2                                              True            MRS fragment produced  True               Included in MRS
-idDrawer1_subgraph_blue_3                                           True            MRS fragment produced  True               Included in MRS
+idDrawer1_subgraph_blue_4                                           True            MRS fragment produced  True               Included in MRS
 idDrawer1_subgraph_closed_2                                         True            MRS fragment produced  True               Included in MRS
 idDrawer1_subgraph_idDrawer_1                                       True            MRS fragment produced  True               Included in MRS
-idDrawer1_subgraph_idKeyBlue_2                                      True            MRS fragment produced  True               Included in MRS
-idDrawer1_subgraph_idTutorialRoom1Door_3                            True            MRS fragment produced  True               Included in MRS
-idDrawer1_subgraph_idTutorialRoom1FrontOpening_2                    True            MRS fragment produced  True               Included in MRS
-idDrawer1_subgraph_idTutorialRoom_3                                 True            MRS fragment produced  True               Included in MRS
-idDrawer1_subgraph_true_3                                           True            MRS fragment produced  True               Included in MRS
+idDrawer1_subgraph_idKeyBlue_3                                      True            MRS fragment produced  True               Included in MRS
+idDrawer1_subgraph_idTutorialRoom1Door_8                            True            MRS fragment produced  True               Included in MRS
+idDrawer1_subgraph_idTutorialRoom1FrontOpening_7                    True            MRS fragment produced  True               Included in MRS
+idDrawer1_subgraph_idTutorialRoom_6                                 True            MRS fragment produced  True               Included in MRS
+idDrawer1_subgraph_true_5                                           True            MRS fragment produced  True               Included in MRS
 idGameRoom1BackOpening_subgraph_idGameRoom1BackOpening_1            True            MRS fragment produced  True               Included in MRS
 idGameRoom1_subgraph_idGameRoom_1                                   True            MRS fragment produced  True               Included in MRS
-idGameRoom1_subgraph_idTutorialRoom1FrontOpening_2                  True            MRS fragment produced  True               Included in MRS
+idGameRoom1_subgraph_idTutorialRoom1FrontOpening_3                  True            MRS fragment produced  True               Included in MRS
 idGameRoom1_subgraph_true_2                                         True            MRS fragment produced  True               Included in MRS
 idKeyBlue_subgraph_blue_2                                           True            MRS fragment produced  True               Included in MRS
 idKeyBlue_subgraph_idKeyBlue_1                                      True            MRS fragment produced  True               Included in MRS
-idKeyBlue_subgraph_true_2                                           True            MRS fragment produced  True               Included in MRS
+idKeyBlue_subgraph_true_3                                           True            MRS fragment produced  True               Included in MRS
 idPlayerBackside_subgraph_idGameRoom1BackOpening_2                  True            MRS fragment produced  True               Included in MRS
 idPlayerBackside_subgraph_idPlayerBackside_1                        True            MRS fragment produced  True               Included in MRS
-idPlayerLeftHand_subgraph_closed_3                                  True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_subgraph_closed_4                                  True            MRS fragment produced  True               Included in MRS
 idPlayerLeftHand_subgraph_idLocalLeft_2                             True            MRS fragment produced  True               Included in MRS
 idPlayerLeftHand_subgraph_idPlayerLeftHand_1                        True            MRS fragment produced  True               Included in MRS
-idPlayerLeftHand_subgraph_idTutorialRoom1DoorLock_3                 True            MRS fragment produced  True               Included in MRS
-idPlayerLeftHand_subgraph_idTutorialRoom1Door_2                     True            MRS fragment produced  True               Included in MRS
-idPlayerRightHand_subgraph_idDesk_3                                 True            MRS fragment produced  True               Included in MRS
-idPlayerRightHand_subgraph_idGameRoom_2                             True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_subgraph_idTutorialRoom1DoorLock_5                 True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_subgraph_idTutorialRoom1Door_3                     True            MRS fragment produced  True               Included in MRS
+idPlayerRightHand_subgraph_idDesk_5                                 True            MRS fragment produced  True               Included in MRS
+idPlayerRightHand_subgraph_idGameRoom_3                             True            MRS fragment produced  True               Included in MRS
 idPlayerRightHand_subgraph_idPlayerRightHand_1                      True            MRS fragment produced  True               Included in MRS
-idPlayerRightHand_subgraph_idPlayer_2                               True            MRS fragment produced  True               Included in MRS
-idPlayerRightHand_subgraph_idTutorialRoom_3                         True            MRS fragment produced  True               Included in MRS
+idPlayerRightHand_subgraph_idPlayer_6                               True            MRS fragment produced  True               Included in MRS
+idPlayerRightHand_subgraph_idTutorialRoom_7                         True            MRS fragment produced  True               Included in MRS
 idPlayerRightHand_subgraph_right_2                                  True            MRS fragment produced  True               Included in MRS
-idPlayerRightHand_subgraph_true_3                                   True            MRS fragment produced  True               Included in MRS
+idPlayerRightHand_subgraph_true_4                                   True            MRS fragment produced  True               Included in MRS
 idSign1Text_subgraph_idSign1Text_1                                  True            MRS fragment produced  True               Included in MRS
-idSign1_subgraph_closed_3                                           True            MRS fragment produced  True               Included in MRS
-idSign1_subgraph_idPlayer_3                                         True            MRS fragment produced  True               Included in MRS
-idSign1_subgraph_idSign1Text_2                                      True            MRS fragment produced  True               Included in MRS
+idSign1_subgraph_closed_5                                           True            MRS fragment produced  True               Included in MRS
+idSign1_subgraph_idPlayer_7                                         True            MRS fragment produced  True               Included in MRS
+idSign1_subgraph_idSign1Text_8                                      True            MRS fragment produced  True               Included in MRS
 idSign1_subgraph_idSign_1                                           True            MRS fragment produced  True               Included in MRS
-idSign1_subgraph_idTutorialRoom1DoorLock_3                          True            MRS fragment produced  True               Included in MRS
-idSign1_subgraph_idTutorialRoom1Door_2                              True            MRS fragment produced  True               Included in MRS
-idSign1_subgraph_true_2                                             True            MRS fragment produced  True               Included in MRS
+idSign1_subgraph_idTutorialRoom1DoorLock_6                          True            MRS fragment produced  True               Included in MRS
+idSign1_subgraph_idTutorialRoom1Door_4                              True            MRS fragment produced  True               Included in MRS
+idSign1_subgraph_true_3                                             True            MRS fragment produced  True               Included in MRS
 idSign1_subgraph_yes_2                                              True            MRS fragment produced  True               Included in MRS
 idTutorialRoom1FrontOpening_subgraph_idTutorialRoom1FrontOpening_1  True            MRS fragment produced  True               Included in MRS
-idTutorialRoom1_subgraph_idPlayer_2                                 True            MRS fragment produced  True               Included in MRS
+idTutorialRoom1_subgraph_idPlayer_4                                 True            MRS fragment produced  True               Included in MRS
 idTutorialRoom1_subgraph_idTutorialRoom_1                           True            MRS fragment produced  True               Included in MRS
-idTutorialRoom1_subgraph_idWorld_3                                  True            MRS fragment produced  True               Included in MRS
-idTutorialRoom1_subgraph_true_2                                     True            MRS fragment produced  True               Included in MRS
+idTutorialRoom1_subgraph_idWorld_5                                  True            MRS fragment produced  True               Included in MRS
+idTutorialRoom1_subgraph_true_3                                     True            MRS fragment produced  True               Included in MRS
 idTutorialRoom1_subgraph_white_2                                    True            MRS fragment produced  True               Included in MRS
-idWorld1_subgraph_idDesk_3                                          True            MRS fragment produced  True               Included in MRS
+idWorld1_subgraph_idDesk_5                                          True            MRS fragment produced  True               Included in MRS
 idWorld1_subgraph_idGameRoom_2                                      True            MRS fragment produced  True               Included in MRS
-idWorld1_subgraph_idPlayer_2                                        True            MRS fragment produced  True               Included in MRS
+idWorld1_subgraph_idPlayer_4                                        True            MRS fragment produced  True               Included in MRS
 idWorld1_subgraph_idWorld_1                                         True            MRS fragment produced  True               Included in MRS
 idWorld1_subgraph_true_3                                            True            MRS fragment produced  True               Included in MRS
 
@@ -93,13 +93,14 @@ idDesk1_subgraph_idImmovable_1                True            MRS composed  True
 idDesk1_subgraph_idUnknownObject_2            True            MRS composed  True               Included in MRS
 idDesk1_subgraph_idUnknownObject_3            True            MRS composed  True               Included in MRS
 idDesk1_subgraph_isNorthOf_4                  True            MRS composed  True               Included in MRS
-idDesk1_subgraph_isSouthOf_3                  True            MRS composed  True               Included in MRS
+idDesk1_subgraph_isSouthOf_5                  True            MRS composed  True               Included in MRS
 idDrawer1_subgraph_idColor_2                  True            MRS composed  True               Included in MRS
 idDrawer1_subgraph_idOpenState_1              True            MRS composed  True               Included in MRS
 idDrawer1_subgraph_idUnknownObject_3          True            MRS composed  True               Included in MRS
-idDrawer1_subgraph_isBeneath_2                True            MRS composed  True               Included in MRS
+idDrawer1_subgraph_isBeneath_5                True            MRS composed  True               Included in MRS
 idDrawer1_subgraph_isNear_4                   True            MRS composed  True               Included in MRS
-idDrawer1_subgraph_isSouthOf_3                True            MRS composed  True               Included in MRS
+idDrawer1_subgraph_isSouthOf_6                True            MRS composed  True               Included in MRS
+idDrawer1_subgraph_isSouthOf_7                True            MRS composed  True               Included in MRS
 idGameRoom1_subgraph_idUnknownObject_1        True            MRS composed  True               Included in MRS
 idGameRoom1_subgraph_isNorthOf_2              True            MRS composed  True               Included in MRS
 idKeyBlue_subgraph_idColor_1                  True            MRS composed  True               Included in MRS
@@ -108,23 +109,25 @@ idPlayerBackside_subgraph_isSouthOf_1         True            MRS composed  True
 idPlayerLeftHand_subgraph_idLocation_1        True            MRS composed  True               Included in MRS
 idPlayerLeftHand_subgraph_idLockMechanism_3   True            MRS composed  True               Included in MRS
 idPlayerLeftHand_subgraph_idOpenState_2       True            MRS composed  True               Included in MRS
-idPlayerLeftHand_subgraph_isSouthOf_2         True            MRS composed  True               Included in MRS
+idPlayerLeftHand_subgraph_isSouthOf_4         True            MRS composed  True               Included in MRS
 idPlayerRightHand_subgraph_idLocation_1       True            MRS composed  True               Included in MRS
 idPlayerRightHand_subgraph_idUnknownObject_2  True            MRS composed  True               Included in MRS
-idPlayerRightHand_subgraph_isNear_3           True            MRS composed  True               Included in MRS
+idPlayerRightHand_subgraph_isNear_5           True            MRS composed  True               Included in MRS
+idPlayerRightHand_subgraph_isNear_6           True            MRS composed  True               Included in MRS
 idPlayerRightHand_subgraph_isNorthOf_3        True            MRS composed  True               Included in MRS
-idPlayerRightHand_subgraph_isSouthOf_2        True            MRS composed  True               Included in MRS
+idPlayerRightHand_subgraph_isSouthOf_4        True            MRS composed  True               Included in MRS
 idSign1_subgraph_idImmovable_1                True            MRS composed  True               Included in MRS
 idSign1_subgraph_idLockMechanism_4            True            MRS composed  True               Included in MRS
 idSign1_subgraph_idOpenState_3                True            MRS composed  True               Included in MRS
 idSign1_subgraph_idUnknownObject_2            True            MRS composed  True               Included in MRS
-idSign1_subgraph_isNear_3                     True            MRS composed  True               Included in MRS
-idSign1_subgraph_isNear_4                     True            MRS composed  True               Included in MRS
+idSign1_subgraph_isNear_6                     True            MRS composed  True               Included in MRS
+idSign1_subgraph_isNear_7                     True            MRS composed  True               Included in MRS
 idSign1_subgraph_isNorthOf_5                  True            MRS composed  True               Included in MRS
 idTutorialRoom1_subgraph_idColor_1            True            MRS composed  True               Included in MRS
 idTutorialRoom1_subgraph_idUnknownObject_2    True            MRS composed  True               Included in MRS
 idTutorialRoom1_subgraph_isInsideOf_3         True            MRS composed  True               Included in MRS
-idTutorialRoom1_subgraph_isNear_3             True            MRS composed  True               Included in MRS
+idTutorialRoom1_subgraph_isNear_4             True            MRS composed  True               Included in MRS
 idWorld1_subgraph_idUnknownObject_1           True            MRS composed  True               Included in MRS
-idWorld1_subgraph_isNear_1                    True            MRS composed  True               Included in MRS
 idWorld1_subgraph_isNear_2                    True            MRS composed  True               Included in MRS
+idWorld1_subgraph_isNear_3                    True            MRS composed  True               Included in MRS
+idWorld1_subgraph_isNear_4                    True            MRS composed  True               Included in MRS
