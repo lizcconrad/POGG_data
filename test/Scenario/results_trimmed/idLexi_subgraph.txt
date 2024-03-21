@@ -1,0 +1,26 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idLexi_subgraph.dot
+
+
+TOTAL RESULTS: 0
+
+Node          MRS Produced    Reason                                    Included in MRS    Reason
+------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+idDiamond_5   True            MRS fragment produced                     False              Descends from failed node
+idLexi_1      False           'idLexi' has no value in the lexicon      False              'idLexi' has no value in the lexicon
+idMachine_2   True            MRS fragment produced                     False              Descends from failed node
+idOnSwitch_4  False           'idOnSwitch' has no value in the lexicon  False              'idOnSwitch' has no value in the lexicon
+off_3         True            MRS fragment produced                     False              Descends from failed node
+
+Edge              MRS Composed    Reason                     Included in MRS    Reason
+----------------  --------------  -------------------------  -----------------  -------------------------
+idPowerControl_2  False           Inbound to failed node     False              Inbound to failed node
+idPowerState_1    True            MRS composed               False              Descends from failed node
+isNear_4          False           Outbound from failed node  False              Outbound from failed node
+isNorthOf_3       False           Outbound from failed node  False              Outbound from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        5        0.6
+Nodes              Included             0        5        0
+Edges              Produced             1        4        0.25
+Edges              Included             0        4        0

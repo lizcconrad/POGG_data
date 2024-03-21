@@ -1,0 +1,34 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idTable1_subgraph.dot
+[ TOP: h1509
+  INDEX: e1506
+  RELS: < [ unknown LBL: h1508 ARG: x1500 ARG0: e1506 ]
+          [ def_udef_a_q LBL: h1505 ARG0: x1500 RSTR: h1503 BODY: h1504 ]
+          [ _table_n_1 LBL: h1501 ARG0: x1500 ] >
+  HCONS: < h1503 qeq h1501 h1509 qeq h1508 > ]
+GENERATED RESULTS ... 
+Tables
+Table
+The table
+A table
+The tables
+The tables.
+Table.
+Tables.
+A table.
+The table.
+
+TOTAL RESULTS: 10
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  ---------------
+idTable_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

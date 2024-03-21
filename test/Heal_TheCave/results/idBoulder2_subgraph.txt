@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idBoulder2_subgraph.dot
+[ TOP: h1752
+  INDEX: e1749
+  RELS: < [ unknown LBL: h1751 ARG: x1745 ARG0: e1749 ]
+          [ def_udef_a_q LBL: h1748 ARG0: x1745 RSTR: h1746 BODY: h1747 ]
+          [ _small_a_1 LBL: h1741 ARG0: e1742 ARG1: x1745 ]
+          [ _boulder_n_1 LBL: h1741 ARG0: x1745 ] >
+  HCONS: < h1746 qeq h1741 h1752 qeq h1751 > ]
+GENERATED RESULTS ... 
+The small boulder
+A small boulder
+Small boulders
+The small boulders
+The small boulders.
+Small boulder
+Small boulders.
+The small boulder.
+A small boulder.
+Small boulder.
+
+TOTAL RESULTS: 10
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  ---------------
+idBoulder_1  True            MRS fragment produced  True               Included in MRS
+small_2      True            MRS fragment produced  True               Included in MRS
+
+Edge      MRS Composed    Reason        Included in MRS    Reason
+--------  --------------  ------------  -----------------  ---------------
+idSize_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Tutorial/subgraphs/dot/complete/idKeyBlue_subgraph.dot
+[ TOP: h751
+  INDEX: e748
+  RELS: < [ unknown LBL: h750 ARG: x735 ARG0: e748 ]
+          [ def_udef_a_q LBL: h747 ARG0: x735 RSTR: h745 BODY: h746 ]
+          [ _blue_a_1 LBL: h736 ARG0: i737 ARG1: x735 ]
+          [ _key_n_1 LBL: h736 ARG0: x735 ] >
+  HCONS: < h745 qeq h736 h751 qeq h750 > ]
+GENERATED RESULTS ... 
+The blue keys
+The blue keys.
+The blue key
+Blue keys
+Blue keys.
+A blue key
+The blue key.
+A blue key.
+Blue key
+Blue key.
+
+TOTAL RESULTS: 10
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  -------------------------
+blue_2       True            MRS fragment produced  True               Included in MRS
+idKeyBlue_1  True            MRS fragment produced  True               Included in MRS
+true_3       True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idColor_1          True            MRS composed                               True               Included in MRS
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

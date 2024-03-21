@@ -1,0 +1,52 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idPhosphateCrystal_idChip1_subgraph.dot
+[ TOP: h4267
+  INDEX: e4264
+  RELS: < [ unknown LBL: h4266 ARG: x4260 ARG0: e4264 ]
+          [ def_udef_a_q LBL: h4263 ARG0: x4260 RSTR: h4261 BODY: h4262 ]
+          [ _shiny_a_1 LBL: h4252 ARG0: e4253 ARG1: x4260 ]
+          [ _blue_a_1 LBL: h4252 ARG0: i4250 ARG1: x4260 ]
+          [ _chip_n_1 LBL: h4252 ARG0: x4260 ] >
+  HCONS: < h4261 qeq h4252 h4267 qeq h4266 > ]
+GENERATED RESULTS ... 
+The shiny blue chips
+Shiny blue chips
+The shiny blue chip
+The blue shiny chip
+A shiny blue chip
+A blue shiny chip
+The blue shiny chips
+Blue shiny chips
+The shiny blue chips.
+Shiny blue chips.
+The blue shiny chips.
+Blue shiny chip
+Blue shiny chips.
+The shiny blue chip.
+A shiny blue chip.
+Shiny blue chip
+The blue shiny chip.
+A blue shiny chip.
+Shiny blue chip.
+Blue shiny chip.
+
+TOTAL RESULTS: 20
+
+Node                         MRS Produced    Reason                 Included in MRS    Reason
+---------------------------  --------------  ---------------------  -----------------  -------------------------
+blue_2                       True            MRS fragment produced  True               Included in MRS
+idPhosphateCrystal_idChip_1  True            MRS fragment produced  True               Included in MRS
+shiny_3                      True            MRS fragment produced  True               Included in MRS
+true_4                       True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idColor_1          True            MRS composed                               True               Included in MRS
+idTrait_2          True            MRS composed                               True               Included in MRS
+idUnknownObject_3  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4    1
+Nodes              Included             3        4    0.75
+Edges              Produced             2        3    0.666667
+Edges              Included             2        3    0.666667

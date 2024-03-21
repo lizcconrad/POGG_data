@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idBathroom1FrontOpening_subgraph.dot
+[ TOP: h1473
+  INDEX: e1470
+  RELS: < [ unknown LBL: h1472 ARG: x1454 ARG0: e1470 ]
+          [ def_udef_a_q LBL: h1469 ARG0: x1454 RSTR: h1467 BODY: h1468 ]
+          [ compound LBL: h1465 ARG0: e1462 ARG1: x1454 ARG2: x1456 ]
+          [ udef_q LBL: h1461 ARG0: x1456 RSTR: h1459 BODY: h1460 ]
+          [ _front_n_1 LBL: h1457 ARG0: x1456 ]
+          [ _opening_n_1 LBL: h1465 ARG0: x1454 ] >
+  HCONS: < h1459 qeq h1457 h1467 qeq h1465 h1473 qeq h1472 > ]
+GENERATED RESULTS ... 
+The front openings
+The front opening
+A front opening
+The front openings.
+Front openings.
+Front openings
+Front opening
+The front opening.
+A front opening.
+The fronted, openings.
+Fronted, opening
+The fronted, openings
+Fronted, openings.
+The fronted, opening
+A fronted, opening
+Fronted, openings
+The fronted opening
+Front opening.
+Fronted openings
+Fronted, opening.
+The fronted, opening.
+A fronted opening
+A fronted, opening.
+The fronted openings
+The fronted openings.
+Fronted openings.
+Fronted opening
+The fronted opening.
+A fronted opening.
+Fronted opening.
+
+TOTAL RESULTS: 30
+
+Node                       MRS Produced    Reason                 Included in MRS    Reason
+-------------------------  --------------  ---------------------  -----------------  ---------------
+idBathroom1FrontOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

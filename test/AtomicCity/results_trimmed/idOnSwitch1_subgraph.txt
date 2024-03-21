@@ -1,0 +1,20 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idOnSwitch1_subgraph.dot
+
+
+TOTAL RESULTS: 0
+
+Node          MRS Produced    Reason                                    Included in MRS    Reason
+------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+idOnSwitch_1  False           'idOnSwitch' has no value in the lexicon  False              'idOnSwitch' has no value in the lexicon
+off_2         True            MRS fragment produced                     False              Descends from failed node
+
+Edge            MRS Composed    Reason                     Included in MRS    Reason
+--------------  --------------  -------------------------  -----------------  -------------------------
+idPowerState_1  False           Outbound from failed node  False              Outbound from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        2         0.5
+Nodes              Included             0        2         0
+Edges              Produced             0        1         0
+Edges              Included             0        1         0

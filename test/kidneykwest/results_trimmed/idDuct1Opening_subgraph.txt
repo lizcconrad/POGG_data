@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idDuct1Opening_subgraph.dot
+[ TOP: h3847
+  INDEX: e3844
+  RELS: < [ unknown LBL: h3846 ARG: x3828 ARG0: e3844 ]
+          [ def_udef_a_q LBL: h3843 ARG0: x3828 RSTR: h3841 BODY: h3842 ]
+          [ compound LBL: h3839 ARG0: e3836 ARG1: x3828 ARG2: x3830 ]
+          [ udef_q LBL: h3835 ARG0: x3830 RSTR: h3833 BODY: h3834 ]
+          [ _duct_n_1 LBL: h3831 ARG0: x3830 ]
+          [ _opening_n_1 LBL: h3839 ARG0: x3828 ] >
+  HCONS: < h3833 qeq h3831 h3841 qeq h3839 h3847 qeq h3846 > ]
+GENERATED RESULTS ... 
+Duct openings
+The duct opening
+The duct openings
+A duct opening
+The duct openings.
+Duct opening
+Duct openings.
+The duct opening.
+A duct opening.
+Duct opening.
+
+TOTAL RESULTS: 10
+
+Node              MRS Produced    Reason                 Included in MRS    Reason
+----------------  --------------  ---------------------  -----------------  ---------------
+idDuct1Opening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

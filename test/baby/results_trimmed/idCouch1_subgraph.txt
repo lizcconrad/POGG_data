@@ -1,0 +1,1121 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idCouch1_subgraph.dot
+[ TOP: h3200
+  INDEX: e3197
+  RELS: < [ unknown LBL: h3199 ARG: x3115 ARG0: e3197 ]
+          [ def_udef_a_q LBL: h3196 ARG0: x3115 RSTR: h3194 BODY: h3195 ]
+          [ loc_nonsp LBL: h3192 ARG0: i3189 ARG1: x3115 ARG2: x3183 ]
+          [ loc_nonsp LBL: h3192 ARG0: i3169 ARG1: x3115 ARG2: x3163 ]
+          [ _couch_n_1 LBL: h3192 ARG0: x3115 ]
+          [ def_implicit_q LBL: h3168 ARG0: x3163 RSTR: h3166 BODY: h3167 ]
+          [ _east_a_1 LBL: h3158 ARG0: i3155 ARG1: x3163 ARG2: x3159 ]
+          [ def_udef_a_q LBL: h3162 ARG0: x3159 RSTR: h3160 BODY: h3161 ]
+          [ loc_nonsp LBL: h3154 ARG0: i3151 ARG1: x3159 ARG2: x3138 ]
+          [ _open_a_to LBL: h3154 ARG0: e3127 ARG1: x3159 ARG2: u3129 ]
+          [ _door_n_1 LBL: h3154 ARG0: x3159 ]
+          [ def_implicit_q LBL: h3150 ARG0: x3138 RSTR: h3148 BODY: h3149 ]
+          [ _west_a_1 LBL: h3140 ARG0: i3137 ARG1: x3138 ARG2: x3135 ]
+          [ def_udef_a_q LBL: h3144 ARG0: x3135 RSTR: h3142 BODY: h3143 ]
+          [ _closet_n_1 LBL: h3136 ARG0: x3135 ]
+          [ place_n LBL: h3140 ARG0: x3138 ]
+          [ place_n LBL: h3158 ARG0: x3163 ]
+          [ def_implicit_q LBL: h3188 ARG0: x3183 RSTR: h3186 BODY: h3187 ]
+          [ _north_a_1 LBL: h3184 ARG0: i3175 ARG1: x3183 ARG2: x3173 ]
+          [ def_udef_a_q LBL: h3182 ARG0: x3173 RSTR: h3180 BODY: h3181 ]
+          [ _sidewalk_n_1 LBL: h3174 ARG0: x3173 ]
+          [ place_n LBL: h3184 ARG0: x3183 ] >
+  HCONS: < h3142 qeq h3136 h3148 qeq h3140 h3160 qeq h3154 h3166 qeq h3158 h3180 qeq h3174 h3186 qeq h3184 h3194 qeq h3192 h3200 qeq h3199 > ]
+GENERATED RESULTS ... 
+Couches east of the open door west of the closets north of the sidewalks
+Couches north of the sidewalks east of the open door west of the closets
+Couches north of the sidewalks east of the open doors west of the closets
+Couches east of the open doors west of the closets north of the sidewalks
+Couches east of the open door west of the closet north of the sidewalks
+Couches east of the open door west of the closets north of the sidewalk
+Couches north of the sidewalk east of the open door west of the closets
+Couches north of the sidewalks east of the open door west of the closet
+Couches east of the open doors west of the closets north of the sidewalk
+Couches north of the sidewalk east of the open doors west of the closets
+Couches east of the open doors west of the closet north of the sidewalks
+Couches north of the sidewalks east of the open doors west of the closet
+Couches east of the open door west of the closet north of the sidewalk
+Couches north of the sidewalk east of the open door west of the closet
+Couches east of an open door west of the closets north of the sidewalks
+Couches north of the sidewalks east of an open door west of the closets
+Couches east of the open doors west of the closet north of the sidewalk
+Couches north of the sidewalk east of the open doors west of the closet
+Couches east of the open door west of the closets north of the sidewalks.
+Couches north of the sidewalks east of the open door west of the closets.
+Couches east of the open door west of the closets north of a sidewalk
+Couches north of the sidewalks east of the open door west of a closet
+Couches east of the open door west of a closet north of the sidewalks
+Couches north of a sidewalk east of the open door west of the closets
+Couches east of the open doors west of the closets north of the sidewalks.
+Couches north of the sidewalks east of the open doors west of the closets.
+Couches east of an open door west of the closets north of the sidewalk
+Couches north of the sidewalks east of an open door west of the closet
+Couches east of an open door west of the closet north of the sidewalks
+Couches north of the sidewalk east of an open door west of the closets
+Couches east of the open doors west of a closet north of the sidewalks
+Couches north of the sidewalks east of the open doors west of a closet
+Couches east of the open doors west of the closets north of a sidewalk
+Couches north of a sidewalk east of the open doors west of the closets
+Couches east of the open door west of the closet north of the sidewalks.
+Couches north of the sidewalk east of the open door west of the closets.
+Couches east of the open door west of a closet north of the sidewalk
+Couches north of the sidewalk east of the open door west of a closet
+Couches east of the open door west of the closet north of a sidewalk
+Couches north of a sidewalk east of the open door west of the closet
+Couches east of the open doors west of the closet north of the sidewalks.
+Couches north of the sidewalk east of the open doors west of the closets.
+Couches east of an open door west of the closet north of the sidewalk
+Couches north of the sidewalk east of an open door west of the closet
+Couches east of the open doors west of the closet north of a sidewalk
+Couches north of a sidewalk east of the open doors west of the closet
+Couches east of the open doors west of a closet north of the sidewalk
+Couches north of the sidewalk east of the open doors west of a closet
+A couch east of the open door west of the closets north of the sidewalks
+A couch north of the sidewalks east of the open door west of the closets
+The couch east of the open door west of the closets north of the sidewalks
+The couch north of the sidewalks east of the open door west of the closets
+Couches east of an open door west of the closets north of the sidewalks.
+Couches north of the sidewalks east of an open door west of the closets.
+Couches east of the open door west of the closets north of a sidewalk.
+Couches north of the sidewalks east of the open door west of a closet.
+Couches east of an open door west of a closet north of the sidewalks
+Couches east of an open door west of the closets north of a sidewalk
+Couches north of the sidewalks east of an open door west of a closet
+Couches north of a sidewalk east of an open door west of the closets
+The couches east of the open door west of the closets north of the sidewalks
+The couches north of the sidewalks east of the open door west of the closets
+A couch east of the open doors west of the closets north of the sidewalks
+A couch north of the sidewalks east of the open doors west of the closets
+The couch east of the open doors west of the closets north of the sidewalks
+The couch north of the sidewalks east of the open doors west of the closets
+Couches east of the open door west of a closet north of the sidewalks.
+Couches north of a sidewalk east of the open door west of the closets.
+Couches east of the open door west of the closets north of the sidewalk.
+Couches north of the sidewalks east of the open door west of the closet.
+Couches east of the open doors west of the closets north of a sidewalk.
+Couches north of the sidewalks east of the open doors west of a closet.
+Couches east of the open door west of a closet north of a sidewalk
+Couches north of a sidewalk east of the open door west of a closet
+Couches east of open doors west of the closets north of the sidewalks
+Couches north of the sidewalks east of open doors west of the closets
+A couch east of the open door west of the closets north of the sidewalk
+A couch north of the sidewalks east of the open door west of the closet
+A couch east of the open door west of the closet north of the sidewalks
+A couch north of the sidewalk east of the open door west of the closets
+The couch east of the open door west of the closets north of the sidewalk
+The couch north of the sidewalks east of the open door west of the closet
+The couch east of the open door west of the closet north of the sidewalks
+The couch north of the sidewalk east of the open door west of the closets
+The couches east of the open doors west of the closets north of the sidewalks
+The couches north of the sidewalks east of the open doors west of the closets
+Couches east of an open door west of the closet north of the sidewalks.
+Couches north of the sidewalk east of an open door west of the closets.
+Couches east of the open door west of the closet north of a sidewalk.
+Couches north of the sidewalk east of the open door west of a closet.
+Couches east of the open doors west of a closet north of the sidewalks.
+Couches north of a sidewalk east of the open doors west of the closets.
+Couches east of the open doors west of the closets north of the sidewalk.
+Couches north of the sidewalks east of the open doors west of the closet.
+Couches east of an open door west of the closet north of a sidewalk
+Couches north of the sidewalk east of an open door west of a closet
+Couches east of an open door west of a closet north of the sidewalk
+Couches north of a sidewalk east of an open door west of the closet
+Couches east of the open doors west of a closet north of a sidewalk
+Couches north of a sidewalk east of the open doors west of a closet
+The couches east of the open door west of the closet north of the sidewalks
+The couches north of the sidewalks east of the open door west of the closet
+The couches east of the open door west of the closets north of the sidewalk
+The couches north of the sidewalk east of the open door west of the closets
+A couch east of the open doors west of the closets north of the sidewalk
+A couch north of the sidewalks east of the open doors west of the closet
+A couch east of the open doors west of the closet north of the sidewalks
+A couch north of the sidewalk east of the open doors west of the closets
+The couch east of the open doors west of the closets north of the sidewalk
+The couch north of the sidewalks east of the open doors west of the closet
+The couch east of the open doors west of the closet north of the sidewalks
+The couch north of the sidewalk east of the open doors west of the closets
+Couches east of the open door west of the closet north of the sidewalk.
+Couches north of the sidewalk east of the open door west of the closet.
+Couches east of the open doors west of the closet north of a sidewalk.
+Couches north of the sidewalk east of the open doors west of a closet.
+Couches east of open doors west of the closet north of the sidewalks
+Couches north of the sidewalks east of open doors west of the closet
+Couches east of open doors west of the closets north of the sidewalk
+Couches north of the sidewalk east of open doors west of the closets
+A couch east of the open door west of the closet north of the sidewalk
+A couch north of the sidewalk east of the open door west of the closet
+The couch east of the open door west of the closet north of the sidewalk
+The couch north of the sidewalk east of the open door west of the closet
+The couches east of the open doors west of the closet north of the sidewalks
+The couches north of the sidewalks east of the open doors west of the closet
+The couches east of the open doors west of the closets north of the sidewalk
+The couches north of the sidewalk east of the open doors west of the closets
+Couches east of the open doors west of the closet north of the sidewalk.
+Couches north of the sidewalk east of the open doors west of the closet.
+A couch east of an open door west of the closets north of the sidewalks
+A couch north of the sidewalks east of an open door west of the closets
+The couch east of an open door west of the closets north of the sidewalks
+The couch north of the sidewalks east of an open door west of the closets
+The couches east of the open door west of the closet north of the sidewalk
+The couches north of the sidewalk east of the open door west of the closet
+A couch east of the open doors west of the closet north of the sidewalk
+A couch north of the sidewalk east of the open doors west of the closet
+The couch east of the open doors west of the closet north of the sidewalk
+The couch north of the sidewalk east of the open doors west of the closet
+Couches east of the open door west of closets north of the sidewalks
+Couches north of the sidewalks east of the open door west of closets
+Couches east of the open door west of the closets north of sidewalks
+Couches north of sidewalks east of the open door west of the closets
+Couches east of an open door west of the closets north of a sidewalk.
+Couches north of the sidewalks east of an open door west of a closet.
+A couch east of the open door west of the closets north of the sidewalks.
+A couch north of the sidewalks east of the open door west of the closets.
+The couch east of the open door west of the closets north of the sidewalks.
+The couch north of the sidewalks east of the open door west of the closets.
+Couches east of open doors west of the closet north of the sidewalk
+Couches north of the sidewalk east of open doors west of the closet
+A couch east of the open door west of a closet north of the sidewalks
+A couch north of the sidewalks east of the open door west of a closet
+A couch east of the open door west of the closets north of a sidewalk
+A couch north of a sidewalk east of the open door west of the closets
+The couch east of the open door west of a closet north of the sidewalks
+The couch north of the sidewalks east of the open door west of a closet
+The couch east of the open door west of the closets north of a sidewalk
+The couch north of a sidewalk east of the open door west of the closets
+The couches east of an open door west of the closets north of the sidewalks
+The couches north of the sidewalks east of an open door west of the closets
+The couches east of the open doors west of the closet north of the sidewalk
+The couches north of the sidewalk east of the open doors west of the closet
+Couches east of an open door west of a closet north of the sidewalks.
+Couches north of a sidewalk east of an open door west of the closets.
+Couches east of the open door west of a closet north of a sidewalk.
+Couches north of a sidewalk east of the open door west of a closet.
+Couches east of an open door west of the closets north of the sidewalk.
+Couches north of the sidewalks east of an open door west of the closet.
+Couches east of the open doors west of the closets north of sidewalks
+Couches north of the sidewalks east of the open doors west of closets
+Couches east of the open doors west of closets north of the sidewalks
+Couches north of sidewalks east of the open doors west of the closets
+Couches east of an open door west of a closet north of a sidewalk
+Couches north of a sidewalk east of an open door west of a closet
+The couches north of the sidewalks east of the open door west of the closets.
+The couches east of the open door west of the closets north of the sidewalks.
+A couch north of the sidewalks east of the open doors west of the closets.
+A couch east of the open doors west of the closets north of the sidewalks.
+The couch north of the sidewalks east of the open doors west of the closets.
+The couch east of the open doors west of the closets north of the sidewalks.
+A couch east of an open door west of the closet north of the sidewalks
+A couch north of the sidewalks east of an open door west of the closet
+A couch east of an open door west of the closets north of the sidewalk
+A couch north of the sidewalk east of an open door west of the closets
+The couch east of an open door west of the closet north of the sidewalks
+The couch north of the sidewalks east of an open door west of the closet
+The couch east of an open door west of the closets north of the sidewalk
+The couch north of the sidewalk east of an open door west of the closets
+The couches east of the open door west of the closets north of a sidewalk
+The couches north of the sidewalks east of the open door west of a closet
+The couches east of the open door west of a closet north of the sidewalks
+The couches north of a sidewalk east of the open door west of the closets
+A couch east of the open doors west of a closet north of the sidewalks
+A couch north of a sidewalk east of the open doors west of the closets
+A couch east of the open doors west of the closets north of a sidewalk
+A couch north of the sidewalks east of the open doors west of a closet
+The couch east of the open doors west of a closet north of the sidewalks
+The couch north of a sidewalk east of the open doors west of the closets
+The couch east of the open doors west of the closets north of a sidewalk
+The couch north of the sidewalks east of the open doors west of a closet
+Couches east of open doors west of the closets north of the sidewalks.
+Couches north of the sidewalks east of open doors west of the closets.
+Couches east of the open door west of closets north of the sidewalk
+Couches north of sidewalks east of the open door west of the closet
+Couches east of the open door west of the closet north of sidewalks
+Couches north of the sidewalk east of the open door west of closets
+Couches east of the open door west of a closet north of the sidewalk.
+Couches north of a sidewalk east of the open door west of the closet.
+Couches east of an open door west of the closet north of a sidewalk.
+Couches north of the sidewalk east of an open door west of a closet.
+Couches east of the open doors west of a closet north of a sidewalk.
+Couches north of a sidewalk east of the open doors west of a closet.
+A couch north of the sidewalk east of the open door west of the closets.
+A couch east of the open door west of the closet north of the sidewalks.
+The couch north of the sidewalk east of the open door west of the closets.
+The couch east of the open door west of the closet north of the sidewalks.
+Couches east of open doors west of a closet north of the sidewalks
+Couches north of the sidewalks east of open doors west of a closet
+Couches east of open doors west of the closets north of a sidewalk
+Couches north of a sidewalk east of open doors west of the closets
+A couch east of the open door west of the closet north of a sidewalk
+A couch north of the sidewalk east of the open door west of a closet
+A couch east of the open door west of a closet north of the sidewalk
+A couch north of a sidewalk east of the open door west of the closet
+The couches north of the sidewalks east of the open doors west of the closets.
+The couches east of the open doors west of the closets north of the sidewalks.
+The couch east of the open door west of the closet north of a sidewalk
+The couch north of the sidewalk east of the open door west of a closet
+The couch east of the open door west of a closet north of the sidewalk
+The couch north of a sidewalk east of the open door west of the closet
+The couches east of an open door west of the closet north of the sidewalks
+The couches north of the sidewalk east of an open door west of the closets
+The couches east of an open door west of the closets north of the sidewalk
+The couches north of the sidewalks east of an open door west of the closet
+Couches east of the open door west of the closets north of sidewalks.
+Couches north of the sidewalks east of the open door west of closets.
+The couches east of the open doors west of the closets north of a sidewalk
+The couches north of the sidewalks east of the open doors west of a closet
+The couches east of the open doors west of a closet north of the sidewalks
+The couches north of a sidewalk east of the open doors west of the closets
+Couches east of an open door west of the closet north of the sidewalk.
+Couches north of the sidewalk east of an open door west of the closet.
+Couches east of the open doors west of closets north of the sidewalk
+Couches north of sidewalks east of the open doors west of the closet
+Couches east of the open doors west of the closet north of sidewalks
+Couches north of the sidewalk east of the open doors west of closets
+Couches east of the open doors west of a closet north of the sidewalk.
+Couches north of a sidewalk east of the open doors west of the closet.
+The couches east of the open door west of the closet north of the sidewalks.
+The couches north of the sidewalk east of the open door west of the closets.
+A couch east of the open doors west of the closet north of the sidewalks.
+A couch north of the sidewalk east of the open doors west of the closets.
+The couch east of the open doors west of the closet north of the sidewalks.
+The couch north of the sidewalk east of the open doors west of the closets.
+A couch east of an open door west of the closet north of the sidewalk
+A couch north of the sidewalk east of an open door west of the closet
+The couch east of an open door west of the closet north of the sidewalk
+The couch north of the sidewalk east of an open door west of the closet
+The couches east of the open door west of the closet north of a sidewalk
+The couches north of the sidewalk east of the open door west of a closet
+The couches east of the open door west of a closet north of the sidewalk
+The couches north of a sidewalk east of the open door west of the closet
+A couch east of the open doors west of the closet north of a sidewalk
+A couch north of the sidewalk east of the open doors west of a closet
+A couch east of the open doors west of a closet north of the sidewalk
+A couch north of a sidewalk east of the open doors west of the closet
+The couch east of the open doors west of the closet north of a sidewalk
+The couch north of the sidewalk east of the open doors west of a closet
+The couch east of the open doors west of a closet north of the sidewalk
+The couch north of a sidewalk east of the open doors west of the closet
+Couches east of the open doors west of the closets north of sidewalks.
+Couches north of the sidewalks east of the open doors west of closets.
+Couches east of open doors west of the closet north of the sidewalks.
+Couches north of the sidewalk east of open doors west of the closets.
+Couches east of open doors west of a closet north of the sidewalk
+Couches north of the sidewalk east of open doors west of a closet
+Couches east of open doors west of the closet north of a sidewalk
+Couches north of a sidewalk east of open doors west of the closet
+The couches east of the open doors west of the closet north of the sidewalks.
+The couches north of the sidewalk east of the open doors west of the closets.
+The couches east of an open door west of the closet north of the sidewalk
+The couches north of the sidewalk east of an open door west of the closet
+Couches east of the open door west of the closet north of sidewalks.
+Couches north of the sidewalk east of the open door west of closets.
+The couches east of the open doors west of the closet north of a sidewalk
+The couches north of the sidewalk east of the open doors west of a closet
+The couches east of the open doors west of a closet north of the sidewalk
+The couches north of a sidewalk east of the open doors west of the closet
+Couches east of an open door west of the closets north of sidewalks
+Couches east of an open door west of closets north of the sidewalks
+Couches north of sidewalks east of an open door west of the closets
+Couches north of the sidewalks east of an open door west of closets
+A couch east of an open door west of the closets north of the sidewalks.
+A couch north of the sidewalks east of an open door west of the closets.
+A couch east of the open door west of the closets north of a sidewalk.
+A couch north of the sidewalks east of the open door west of a closet.
+The couch east of an open door west of the closets north of the sidewalks.
+The couch north of the sidewalks east of an open door west of the closets.
+The couch east of the open door west of the closets north of a sidewalk.
+The couch north of the sidewalks east of the open door west of a closet.
+A couch east of an open door west of the closets north of a sidewalk
+A couch north of the sidewalks east of an open door west of a closet
+A couch east of an open door west of a closet north of the sidewalks
+A couch north of a sidewalk east of an open door west of the closets
+The couch east of an open door west of the closets north of a sidewalk
+The couch north of the sidewalks east of an open door west of a closet
+The couch east of an open door west of a closet north of the sidewalks
+The couch north of a sidewalk east of an open door west of the closets
+Couches east of the open door west of closets north of the sidewalks.
+Couches north of sidewalks east of the open door west of the closets.
+Couches east of the open door west of a closet north of sidewalks
+Couches north of sidewalks east of the open door west of a closet
+Couches east of the open door west of closets north of a sidewalk
+Couches north of a sidewalk east of the open door west of closets
+Couches east of the open doors west of the closet north of sidewalks.
+Couches north of the sidewalk east of the open doors west of closets.
+Couches east of an open door west of a closet north of a sidewalk.
+Couches north of a sidewalk east of an open door west of a closet.
+A couch east of the open door west of a closet north of the sidewalks.
+A couch north of a sidewalk east of the open door west of the closets.
+The couch east of the open door west of a closet north of the sidewalks.
+The couch north of a sidewalk east of the open door west of the closets.
+A couch east of the open door west of the closets north of the sidewalk.
+A couch north of the sidewalks east of the open door west of the closet.
+The couch east of the open door west of the closets north of the sidewalk.
+The couch north of the sidewalks east of the open door west of the closet.
+The couches east of an open door west of the closets north of the sidewalks.
+The couches north of the sidewalks east of an open door west of the closets.
+The couches east of the open door west of the closets north of a sidewalk.
+The couches north of the sidewalks east of the open door west of a closet.
+A couch east of the open doors west of the closets north of a sidewalk.
+A couch north of the sidewalks east of the open doors west of a closet.
+The couch east of the open doors west of the closets north of a sidewalk.
+The couch north of the sidewalks east of the open doors west of a closet.
+A couch east of the open door west of a closet north of a sidewalk
+A couch north of a sidewalk east of the open door west of a closet
+A couch east of open doors west of the closets north of the sidewalks
+A couch north of the sidewalks east of open doors west of the closets
+The couch east of the open door west of a closet north of a sidewalk
+The couch north of a sidewalk east of the open door west of a closet
+The couch east of open doors west of the closets north of the sidewalks
+The couch north of the sidewalks east of open doors west of the closets
+The couches east of an open door west of the closets north of a sidewalk
+The couches north of the sidewalks east of an open door west of a closet
+The couches east of an open door west of a closet north of the sidewalks
+The couches north of a sidewalk east of an open door west of the closets
+Couches east of the open doors west of closets north of the sidewalks.
+Couches north of sidewalks east of the open doors west of the closets.
+Couches east of open doors west of the closets north of a sidewalk.
+Couches north of the sidewalks east of open doors west of a closet.
+Couches east of an open door west of the closet north of sidewalks
+Couches north of sidewalks east of an open door west of the closet
+Couches east of an open door west of closets north of the sidewalk
+Couches north of the sidewalk east of an open door west of closets
+Couches east of an open door west of a closet north of the sidewalk.
+Couches north of a sidewalk east of an open door west of the closet.
+Couches east of the open doors west of a closet north of sidewalks
+Couches north of sidewalks east of the open doors west of a closet
+Couches east of the open doors west of closets north of a sidewalk
+Couches north of a sidewalk east of the open doors west of closets
+A couch east of an open door west of the closet north of the sidewalks.
+A couch north of the sidewalk east of an open door west of the closets.
+A couch east of the open door west of the closet north of a sidewalk.
+A couch north of the sidewalk east of the open door west of a closet.
+The couch east of an open door west of the closet north of the sidewalks.
+The couch north of the sidewalk east of an open door west of the closets.
+The couch east of the open door west of the closet north of a sidewalk.
+The couch north of the sidewalk east of the open door west of a closet.
+The couches east of the open door west of a closet north of the sidewalks.
+The couches north of a sidewalk east of the open door west of the closets.
+A couch east of the open doors west of a closet north of the sidewalks.
+A couch north of a sidewalk east of the open doors west of the closets.
+The couches east of the open door west of the closets north of the sidewalk.
+The couches north of the sidewalks east of the open door west of the closet.
+The couch east of the open doors west of a closet north of the sidewalks.
+The couch north of a sidewalk east of the open doors west of the closets.
+A couch east of the open doors west of the closets north of the sidewalk.
+A couch north of the sidewalks east of the open doors west of the closet.
+The couch east of the open doors west of the closets north of the sidewalk.
+The couch north of the sidewalks east of the open doors west of the closet.
+A couch east of an open door west of the closet north of a sidewalk
+A couch north of a sidewalk east of an open door west of the closet
+A couch east of an open door west of a closet north of the sidewalk
+A couch north of the sidewalk east of an open door west of a closet
+The couches east of the open doors west of the closets north of a sidewalk.
+The couches north of the sidewalks east of the open doors west of a closet.
+The couch east of an open door west of the closet north of a sidewalk
+The couch north of a sidewalk east of an open door west of the closet
+The couch east of an open door west of a closet north of the sidewalk
+The couch north of the sidewalk east of an open door west of a closet
+The couches east of the open door west of a closet north of a sidewalk
+The couches north of a sidewalk east of the open door west of a closet
+The couches east of open doors west of the closets north of the sidewalks
+The couches north of the sidewalks east of open doors west of the closets
+A couch east of the open doors west of a closet north of a sidewalk
+A couch north of a sidewalk east of the open doors west of a closet
+Couch east of the open door west of the closets north of the sidewalks
+Couch north of the sidewalks east of the open door west of the closets
+The couch east of the open doors west of a closet north of a sidewalk
+The couch north of a sidewalk east of the open doors west of a closet
+Couches east of an open door west of the closets north of sidewalks.
+Couches north of the sidewalks east of an open door west of closets.
+Couches, east of the open door west of the closets north of the sidewalks
+Couches, north of the sidewalks east of the open door west of the closets
+Couches east of open doors west of a closet north of the sidewalks.
+Couches north of a sidewalk east of open doors west of the closets.
+Couches east of open doors west of the closets north of the sidewalk.
+Couches north of the sidewalks east of open doors west of the closet.
+Couches east of open doors west of a closet north of a sidewalk
+Couches north of a sidewalk east of open doors west of a closet
+A couch east of the open door west of the closet north of the sidewalk.
+A couch north of the sidewalk east of the open door west of the closet.
+The couch east of the open door west of the closet north of the sidewalk.
+The couch north of the sidewalk east of the open door west of the closet.
+The couches east of an open door west of the closet north of the sidewalks.
+The couches north of the sidewalk east of an open door west of the closets.
+The couches east of the open door west of the closet north of a sidewalk.
+The couches north of the sidewalk east of the open door west of a closet.
+A couch east of the open doors west of the closet north of a sidewalk.
+A couch north of the sidewalk east of the open doors west of a closet.
+The couch east of the open doors west of the closet north of a sidewalk.
+The couch north of the sidewalk east of the open doors west of a closet.
+A couch east of open doors west of the closets north of the sidewalk
+A couch north of the sidewalks east of open doors west of the closet
+A couch east of open doors west of the closet north of the sidewalks
+A couch north of the sidewalk east of open doors west of the closets
+The couches east of the open doors west of a closet north of the sidewalks.
+The couches north of a sidewalk east of the open doors west of the closets.
+The couch east of open doors west of the closets north of the sidewalk
+The couch north of the sidewalks east of open doors west of the closet
+The couch east of open doors west of the closet north of the sidewalks
+The couch north of the sidewalk east of open doors west of the closets
+The couches east of the open doors west of the closets north of the sidewalk.
+The couches north of the sidewalks east of the open doors west of the closet.
+The couches east of an open door west of the closet north of a sidewalk
+The couches north of a sidewalk east of an open door west of the closet
+The couches east of an open door west of a closet north of the sidewalk
+The couches north of the sidewalk east of an open door west of a closet
+Couches east of the open door west of a closet north of sidewalks.
+Couches north of a sidewalk east of the open door west of closets.
+The couches east of the open doors west of a closet north of a sidewalk
+The couches north of a sidewalk east of the open doors west of a closet
+Couch north of the sidewalks east of the open doors west of the closets
+Couch east of the open doors west of the closets north of the sidewalks
+Couches east of open doors west of the closet north of a sidewalk.
+Couches north of the sidewalk east of open doors west of a closet.
+Couches, east of the open doors west of the closets north of the sidewalks
+Couches, north of the sidewalks east of the open doors west of the closets
+The couches east of the open door west of the closet north of the sidewalk.
+The couches north of the sidewalk east of the open door west of the closet.
+A couch east of the open doors west of the closet north of the sidewalk.
+A couch north of the sidewalk east of the open doors west of the closet.
+The couch east of the open doors west of the closet north of the sidewalk.
+The couch north of the sidewalk east of the open doors west of the closet.
+The couches east of the open doors west of the closet north of a sidewalk.
+The couches north of the sidewalk east of the open doors west of a closet.
+The couches east of open doors west of the closet north of the sidewalks
+The couches north of the sidewalk east of open doors west of the closets
+The couches east of open doors west of the closets north of the sidewalk
+The couches north of the sidewalks east of open doors west of the closet
+Couch east of the open door west of the closet north of the sidewalks
+Couch north of the sidewalks east of the open door west of the closet
+Couch east of the open door west of the closets north of the sidewalk
+Couch north of the sidewalk east of the open door west of the closets
+Couches east of an open door west of the closet north of sidewalks.
+Couches north of the sidewalk east of an open door west of closets.
+Couches, east of the open door west of the closets north of the sidewalk
+Couches, north of the sidewalk east of the open door west of the closets
+Couches, east of the open door west of the closet north of the sidewalks
+Couches, north of the sidewalks east of the open door west of the closet
+Couches east of the open doors west of a closet north of sidewalks.
+Couches north of a sidewalk east of the open doors west of closets.
+Couches east of open doors west of the closet north of the sidewalk.
+Couches north of the sidewalk east of open doors west of the closet.
+A couch north of sidewalks east of the open door west of the closets
+A couch east of the open door west of the closets north of sidewalks
+A couch north of the sidewalks east of the open door west of closets
+A couch east of the open door west of closets north of the sidewalks
+The couch north of sidewalks east of the open door west of the closets
+The couch east of the open door west of the closets north of sidewalks
+The couch north of the sidewalks east of the open door west of closets
+The couch east of the open door west of closets north of the sidewalks
+A couch east of an open door west of the closets north of a sidewalk.
+A couch north of the sidewalks east of an open door west of a closet.
+The couch east of an open door west of the closets north of a sidewalk.
+The couch north of the sidewalks east of an open door west of a closet.
+A couch north of the sidewalk east of open doors west of the closet
+A couch east of open doors west of the closet north of the sidewalk
+The couch north of the sidewalk east of open doors west of the closet
+The couch east of open doors west of the closet north of the sidewalk
+The couches, north of the sidewalks east of the open door west of the closets
+The couches, east of the open door west of the closets north of the sidewalks
+The couches east of the open doors west of the closet north of the sidewalk.
+The couches north of the sidewalk east of the open doors west of the closet.
+Couches east of an open door west of closets north of the sidewalks.
+Couches north of sidewalks east of an open door west of the closets.
+Couches east of the open door west of closets north of a sidewalk.
+Couches north of sidewalks east of the open door west of a closet.
+A couch, north of the sidewalks east of the open door west of the closets
+A couch, east of the open door west of the closets north of the sidewalks
+The couch, north of the sidewalks east of the open door west of the closets
+The couch, east of the open door west of the closets north of the sidewalks
+Couch north of the sidewalks east of the open doors west of the closet
+Couch east of the open doors west of the closets north of the sidewalk
+Couch north of the sidewalk east of the open doors west of the closets
+Couch east of the open doors west of the closet north of the sidewalks
+Couches east of an open door west of a closet north of sidewalks
+Couches east of an open door west of closets north of a sidewalk
+Couches north of sidewalks east of an open door west of a closet
+Couches north of a sidewalk east of an open door west of closets
+Couches, east of the open doors west of the closets north of the sidewalk
+Couches, north of the sidewalks east of the open doors west of the closet
+Couches, east of the open doors west of the closet north of the sidewalks
+Couches, north of the sidewalk east of the open doors west of the closets
+A couch east of an open door west of a closet north of the sidewalks.
+A couch north of a sidewalk east of an open door west of the closets.
+A couch east of the open door west of a closet north of a sidewalk.
+A couch north of a sidewalk east of the open door west of a closet.
+The couch east of an open door west of a closet north of the sidewalks.
+The couch north of a sidewalk east of an open door west of the closets.
+The couch east of the open door west of a closet north of a sidewalk.
+The couch north of a sidewalk east of the open door west of a closet.
+A couch east of an open door west of the closets north of the sidewalk.
+A couch north of the sidewalks east of an open door west of the closet.
+The couches east of the open door west of the closets north of sidewalks
+The couches north of sidewalks east of the open door west of the closets
+The couches east of the open door west of closets north of the sidewalks
+The couches north of the sidewalks east of the open door west of closets
+The couch east of an open door west of the closets north of the sidewalk.
+The couch north of the sidewalks east of an open door west of the closet.
+A couch north of sidewalks east of the open doors west of the closets
+A couch east of the open doors west of the closets north of sidewalks
+A couch north of the sidewalks east of the open doors west of closets
+A couch east of the open doors west of closets north of the sidewalks
+The couches east of an open door west of the closets north of a sidewalk.
+The couches north of the sidewalks east of an open door west of a closet.
+The couch north of sidewalks east of the open doors west of the closets
+The couch east of the open doors west of the closets north of sidewalks
+The couch north of the sidewalks east of the open doors west of closets
+The couch east of the open doors west of closets north of the sidewalks
+A couch east of an open door west of a closet north of a sidewalk
+A couch north of a sidewalk east of an open door west of a closet
+The couch east of an open door west of a closet north of a sidewalk
+The couch north of a sidewalk east of an open door west of a closet
+The couches north of the sidewalk east of open doors west of the closet
+The couches east of open doors west of the closet north of the sidewalk
+Couch north of the sidewalk east of the open door west of the closet
+Couch east of the open door west of the closet north of the sidewalk
+Couches east of the open door west of closets north of the sidewalk.
+Couches north of sidewalks east of the open door west of the closet.
+The couches, north of the sidewalks east of the open doors west of the closets
+The couches, east of the open doors west of the closets north of the sidewalks
+Couches east of the open doors west of closets north of a sidewalk.
+Couches north of sidewalks east of the open doors west of a closet.
+Couches east of open doors west of closets north of the sidewalks
+Couches north of the sidewalks east of open doors west of closets
+Couches east of open doors west of the closets north of sidewalks
+Couches north of sidewalks east of open doors west of the closets
+Couches, east of the open door west of the closet north of the sidewalk
+Couches, north of the sidewalk east of the open door west of the closet
+A couch, north of the sidewalks east of the open doors west of the closets
+A couch, east of the open doors west of the closets north of the sidewalks
+The couch, north of the sidewalks east of the open doors west of the closets
+The couch, east of the open doors west of the closets north of the sidewalks
+A couch east of open doors west of the closets north of the sidewalks.
+A couch north of the sidewalks east of open doors west of the closets.
+A couch east of the open door west of the closet north of sidewalks
+A couch north of sidewalks east of the open door west of the closet
+A couch east of the open door west of closets north of the sidewalk
+A couch north of the sidewalk east of the open door west of closets
+The couch east of open doors west of the closets north of the sidewalks.
+The couch north of the sidewalks east of open doors west of the closets.
+The couch east of the open door west of the closet north of sidewalks
+The couch north of sidewalks east of the open door west of the closet
+The couch east of the open door west of closets north of the sidewalk
+The couch north of the sidewalk east of the open door west of closets
+A couch east of the open door west of a closet north of the sidewalk.
+A couch north of a sidewalk east of the open door west of the closet.
+A couch east of an open door west of the closet north of a sidewalk.
+A couch north of the sidewalk east of an open door west of a closet.
+The couch east of the open door west of a closet north of the sidewalk.
+The couch north of a sidewalk east of the open door west of the closet.
+The couch east of an open door west of the closet north of a sidewalk.
+The couch north of the sidewalk east of an open door west of a closet.
+The couches east of an open door west of a closet north of the sidewalks.
+The couches north of a sidewalk east of an open door west of the closets.
+The couches east of the open door west of a closet north of a sidewalk.
+The couches north of a sidewalk east of the open door west of a closet.
+A couch east of the open doors west of a closet north of a sidewalk.
+A couch north of a sidewalk east of the open doors west of a closet.
+The couches east of an open door west of the closets north of the sidewalk.
+The couches north of the sidewalks east of an open door west of the closet.
+The couch east of the open doors west of a closet north of a sidewalk.
+The couch north of a sidewalk east of the open doors west of a closet.
+A couch east of open doors west of the closets north of a sidewalk
+A couch north of the sidewalks east of open doors west of a closet
+A couch east of open doors west of a closet north of the sidewalks
+A couch north of a sidewalk east of open doors west of the closets
+The couches east of the open doors west of the closets north of sidewalks
+The couches north of sidewalks east of the open doors west of the closets
+The couches east of the open doors west of closets north of the sidewalks
+The couches north of the sidewalks east of the open doors west of closets
+The couch east of open doors west of the closets north of a sidewalk
+The couch north of the sidewalks east of open doors west of a closet
+The couch east of open doors west of a closet north of the sidewalks
+The couch north of a sidewalk east of open doors west of the closets
+The couches east of an open door west of a closet north of a sidewalk
+The couches north of a sidewalk east of an open door west of a closet
+Couch north of the sidewalks east of an open door west of the closets
+Couch east of an open door west of the closets north of the sidewalks
+The couches, north of the sidewalk east of the open door west of the closets
+The couches, north of the sidewalks east of the open door west of the closet
+The couches, east of the open door west of the closet north of the sidewalks
+The couches, east of the open door west of the closets north of the sidewalk
+A couch, north of the sidewalk east of the open door west of the closets
+A couch, north of the sidewalks east of the open door west of the closet
+A couch, east of the open door west of the closet north of the sidewalks
+A couch, east of the open door west of the closets north of the sidewalk
+Couches, east of an open door west of the closets north of the sidewalks
+Couches, north of the sidewalks east of an open door west of the closets
+The couch, north of the sidewalk east of the open door west of the closets
+The couch, north of the sidewalks east of the open door west of the closet
+The couch, east of the open door west of the closet north of the sidewalks
+The couch, east of the open door west of the closets north of the sidewalk
+Couch east of the open doors west of the closet north of the sidewalk
+Couch north of the sidewalk east of the open doors west of the closet
+A couch east of the open door west of the closets north of sidewalks.
+A couch north of the sidewalks east of the open door west of closets.
+Couches east of the open doors west of closets north of the sidewalk.
+Couches north of sidewalks east of the open doors west of the closet.
+The couch east of the open door west of the closets north of sidewalks.
+The couch north of the sidewalks east of the open door west of closets.
+Couches east of open doors west of a closet north of a sidewalk.
+Couches north of a sidewalk east of open doors west of a closet.
+Couches, east of the open doors west of the closet north of the sidewalk
+Couches, north of the sidewalk east of the open doors west of the closet
+The couches east of open doors west of the closets north of the sidewalks.
+The couches north of the sidewalks east of open doors west of the closets.
+A couch east of an open door west of the closet north of the sidewalk.
+A couch north of the sidewalk east of an open door west of the closet.
+The couches north of sidewalks east of the open door west of the closet
+The couches east of the open door west of the closet north of sidewalks
+The couches north of the sidewalk east of the open door west of closets
+The couches east of the open door west of closets north of the sidewalk
+Couch north of the sidewalks east of the open door west of the closets.
+Couch east of the open door west of the closets north of the sidewalks.
+The couch east of an open door west of the closet north of the sidewalk.
+The couch north of the sidewalk east of an open door west of the closet.
+A couch east of the open doors west of the closet north of sidewalks
+A couch north of sidewalks east of the open doors west of the closet
+A couch east of the open doors west of closets north of the sidewalk
+A couch north of the sidewalk east of the open doors west of closets
+The couches east of the open door west of a closet north of the sidewalk.
+The couches north of a sidewalk east of the open door west of the closet.
+The couches east of an open door west of the closet north of a sidewalk.
+The couches north of the sidewalk east of an open door west of a closet.
+The couch east of the open doors west of the closet north of sidewalks
+The couch north of sidewalks east of the open doors west of the closet
+The couch east of the open doors west of closets north of the sidewalk
+The couch north of the sidewalk east of the open doors west of closets
+A couch east of the open doors west of a closet north of the sidewalk.
+A couch north of a sidewalk east of the open doors west of the closet.
+The couch east of the open doors west of a closet north of the sidewalk.
+The couch north of a sidewalk east of the open doors west of the closet.
+The couches east of the open doors west of a closet north of a sidewalk.
+The couches north of a sidewalk east of the open doors west of a closet.
+Couches, east of the open door west of the closets north of the sidewalks.
+Couches, north of the sidewalks east of the open door west of the closets.
+The couches north of the sidewalks east of open doors west of a closet
+The couches east of open doors west of a closet north of the sidewalks
+The couches east of open doors west of the closets north of a sidewalk
+The couches north of a sidewalk east of open doors west of the closets
+Couch north of the sidewalks east of the open door west of a closet
+Couch east of the open door west of a closet north of the sidewalks
+Couch north of a sidewalk east of the open door west of the closets
+Couch east of the open door west of the closets north of a sidewalk
+Couches east of an open door west of a closet north of sidewalks.
+Couches north of a sidewalk east of an open door west of closets.
+Couches, east of the open door west of a closet north of the sidewalks
+Couches, north of the sidewalks east of the open door west of a closet
+Couches, east of the open door west of the closets north of a sidewalk
+Couches, north of a sidewalk east of the open door west of the closets
+The couches, north of the sidewalk east of the open doors west of the closets
+The couches, north of the sidewalks east of the open doors west of the closet
+The couches, east of the open doors west of the closets north of the sidewalk
+The couches, east of the open doors west of the closet north of the sidewalks
+Couches east of open doors west of the closet north of sidewalks
+Couches north of the sidewalk east of open doors west of closets
+Couches east of open doors west of closets north of the sidewalk
+Couches north of sidewalks east of open doors west of the closet
+Couches east of open doors west of a closet north of the sidewalk.
+Couches north of a sidewalk east of open doors west of the closet.
+A couch, north of the sidewalk east of the open doors west of the closets
+A couch, north of the sidewalks east of the open doors west of the closet
+A couch, east of the open doors west of the closet north of the sidewalks
+A couch, east of the open doors west of the closets north of the sidewalk
+The couches east of the open door west of the closets north of sidewalks.
+The couches north of the sidewalks east of the open door west of closets.
+The couch, north of the sidewalk east of the open doors west of the closets
+The couch, north of the sidewalks east of the open doors west of the closet
+The couch, east of the open doors west of the closet north of the sidewalks
+The couch, east of the open doors west of the closets north of the sidewalk
+A couch east of the open doors west of the closets north of sidewalks.
+A couch north of the sidewalks east of the open doors west of closets.
+The couch east of the open doors west of the closets north of sidewalks.
+The couch north of the sidewalks east of the open doors west of closets.
+A couch east of open doors west of the closet north of the sidewalks.
+A couch north of the sidewalk east of open doors west of the closets.
+The couch east of open doors west of the closet north of the sidewalks.
+The couch north of the sidewalk east of open doors west of the closets.
+The couches east of an open door west of the closet north of the sidewalk.
+The couches north of the sidewalk east of an open door west of the closet.
+A couch north of the sidewalk east of open doors west of a closet
+A couch east of open doors west of a closet north of the sidewalk
+A couch east of open doors west of the closet north of a sidewalk
+A couch north of a sidewalk east of open doors west of the closet
+The couches north of sidewalks east of the open doors west of the closet
+The couches east of the open doors west of the closet north of sidewalks
+The couches north of the sidewalk east of the open doors west of closets
+The couches east of the open doors west of closets north of the sidewalk
+The couch north of the sidewalk east of open doors west of a closet
+The couch east of open doors west of a closet north of the sidewalk
+The couch east of open doors west of the closet north of a sidewalk
+The couch north of a sidewalk east of open doors west of the closet
+Couch north of the sidewalks east of the open doors west of the closets.
+Couch east of the open doors west of the closets north of the sidewalks.
+The couches east of the open doors west of a closet north of the sidewalk.
+The couches north of a sidewalk east of the open doors west of the closet.
+Couch east of an open door west of the closet north of the sidewalks
+Couch north of the sidewalks east of an open door west of the closet
+Couch east of an open door west of the closets north of the sidewalk
+Couch north of the sidewalk east of an open door west of the closets
+The couches, north of the sidewalk east of the open door west of the closet
+The couches, east of the open door west of the closet north of the sidewalk
+Couches east of open doors west of the closets north of sidewalks.
+Couches north of the sidewalks east of open doors west of closets.
+Couches, east of the open doors west of the closets north of the sidewalks.
+Couches, north of the sidewalks east of the open doors west of the closets.
+Couch north of the sidewalks east of the open doors west of a closet
+Couch east of the open doors west of a closet north of the sidewalks
+Couch north of a sidewalk east of the open doors west of the closets
+Couch east of the open doors west of the closets north of a sidewalk
+A couch, north of the sidewalk east of the open door west of the closet
+A couch, east of the open door west of the closet north of the sidewalk
+Couches, east of an open door west of the closets north of the sidewalk
+Couches, east of an open door west of the closet north of the sidewalks
+Couches, north of the sidewalk east of an open door west of the closets
+Couches, north of the sidewalks east of an open door west of the closet
+The couch, north of the sidewalk east of the open door west of the closet
+The couch, east of the open door west of the closet north of the sidewalk
+A couch east of the open door west of the closet north of sidewalks.
+A couch north of the sidewalk east of the open door west of closets.
+The couch east of the open door west of the closet north of sidewalks.
+The couch north of the sidewalk east of the open door west of closets.
+Couches, east of the open doors west of the closets north of a sidewalk
+Couches, north of the sidewalks east of the open doors west of a closet
+Couches, east of the open doors west of a closet north of the sidewalks
+Couches, north of a sidewalk east of the open doors west of the closets
+A couch east of an open door west of the closets north of sidewalks
+A couch north of sidewalks east of an open door west of the closets
+A couch east of an open door west of closets north of the sidewalks
+A couch north of the sidewalks east of an open door west of closets
+The couch east of an open door west of the closets north of sidewalks
+The couch north of sidewalks east of an open door west of the closets
+The couch east of an open door west of closets north of the sidewalks
+The couch north of the sidewalks east of an open door west of closets
+The couches north of the sidewalks east of the open doors west of closets.
+The couches east of the open doors west of the closets north of sidewalks.
+The couches north of the sidewalk east of open doors west of the closets.
+The couches east of open doors west of the closet north of the sidewalks.
+Couch north of the sidewalk east of the open door west of the closets.
+Couch east of the open door west of the closet north of the sidewalks.
+Couches, east of the open door west of the closet north of the sidewalks.
+Couches, north of the sidewalk east of the open door west of the closets.
+The couches north of the sidewalk east of open doors west of a closet
+The couches east of open doors west of a closet north of the sidewalk
+The couches east of open doors west of the closet north of a sidewalk
+The couches north of a sidewalk east of open doors west of the closet
+Couches east of the open door west of closets north of sidewalks
+Couches north of sidewalks east of the open door west of closets
+The couches, north of the sidewalks east of an open door west of the closets
+The couches, east of an open door west of the closets north of the sidewalks
+The couch east of the open door west of the closets, north of the sidewalks
+The couch north of the sidewalks, east of the open door west of the closets
+Couch east of the open door west of a closet north of the sidewalk
+Couch north of a sidewalk east of the open door west of the closet
+Couch north of the sidewalk east of the open door west of a closet
+Couch east of the open door west of the closet north of a sidewalk
+Couches east of an open door west of closets north of a sidewalk.
+Couches north of sidewalks east of an open door west of a closet.
+A couch, north of the sidewalks east of an open door west of the closets
+A couch, east of an open door west of the closets north of the sidewalks
+A couch north of sidewalks east of the open door west of the closets.
+A couch east of the open door west of closets north of the sidewalks.
+The couch, north of the sidewalks east of an open door west of the closets
+The couch, east of an open door west of the closets north of the sidewalks
+The couch north of sidewalks east of the open door west of the closets.
+The couch east of the open door west of closets north of the sidewalks.
+Couches, east of the open door west of a closet north of the sidewalk
+Couches, north of a sidewalk east of the open door west of the closet
+Couches, east of the open door west of the closet north of a sidewalk
+Couches, north of the sidewalk east of the open door west of a closet
+The couches, north of the sidewalk east of the open doors west of the closet
+The couches, east of the open doors west of the closet north of the sidewalk
+The couch east of the open door west of a closet, north of the sidewalks
+The couch east of the open door west of the closet, north of the sidewalks
+The couch north of a sidewalk, east of the open door west of the closets
+The couch north of the sidewalk, east of the open door west of the closets
+A couch, north of the sidewalk east of the open doors west of the closet
+A couch, east of the open doors west of the closet north of the sidewalk
+The couches east of the open door west of the closet north of sidewalks.
+The couches north of the sidewalk east of the open door west of closets.
+A couch east of the open door west of a closet north of sidewalks
+A couch north of sidewalks east of the open door west of a closet
+A couch east of the open door west of closets north of a sidewalk
+A couch north of a sidewalk east of the open door west of closets
+The couch, north of the sidewalk east of the open doors west of the closet
+The couch, east of the open doors west of the closet north of the sidewalk
+A couch east of the open doors west of the closet north of sidewalks.
+A couch north of the sidewalk east of the open doors west of closets.
+The couch east of the open door west of a closet north of sidewalks
+The couch north of sidewalks east of the open door west of a closet
+The couch east of the open door west of closets north of a sidewalk
+The couch north of a sidewalk east of the open door west of closets
+The couch east of the open doors west of the closet north of sidewalks.
+The couch north of the sidewalk east of the open doors west of closets.
+A couch east of an open door west of a closet north of a sidewalk.
+A couch north of a sidewalk east of an open door west of a closet.
+The couch east of an open door west of a closet north of a sidewalk.
+The couch north of a sidewalk east of an open door west of a closet.
+The couches east of an open door west of the closets north of sidewalks
+The couches north of sidewalks east of an open door west of the closets
+The couches east of an open door west of closets north of the sidewalks
+The couches north of the sidewalks east of an open door west of closets
+The couches, east of the open door west of the closets north of the sidewalks.
+The couches, north of the sidewalks east of the open door west of the closets.
+A couch, north of the sidewalks east of the open door west of the closets.
+A couch, east of the open door west of the closets north of the sidewalks.
+The couch, north of the sidewalks east of the open door west of the closets.
+The couch, east of the open door west of the closets north of the sidewalks.
+Couch east of the open doors west of the closet north of the sidewalks.
+Couch north of the sidewalk east of the open doors west of the closets.
+The couches, north of the sidewalks east of the open door west of a closet
+The couches, east of the open door west of the closets north of a sidewalk
+The couches, north of a sidewalk east of the open door west of the closets
+The couches, east of the open door west of a closet north of the sidewalks
+Couch north of the sidewalk east of an open door west of the closet
+Couch east of an open door west of the closet north of the sidewalk
+Couches north of the sidewalk east of open doors west of closets.
+Couches east of open doors west of the closet north of sidewalks.
+Couches east of an open door west of closets north of the sidewalk.
+Couches north of sidewalks east of an open door west of the closet.
+A couch, north of a sidewalk east of the open door west of the closets
+A couch, north of the sidewalks east of the open door west of a closet
+A couch, east of the open door west of the closets north of a sidewalk
+A couch, east of the open door west of a closet north of the sidewalks
+Couches, east of the open doors west of the closet north of the sidewalks.
+Couches, north of the sidewalk east of the open doors west of the closets.
+Couches east of the open doors west of closets north of sidewalks
+Couches north of sidewalks east of the open doors west of closets
+The couch, north of a sidewalk east of the open door west of the closets
+The couch, north of the sidewalks east of the open door west of a closet
+The couch, east of the open door west of the closets north of a sidewalk
+The couch, east of the open door west of a closet north of the sidewalks
+The couch east of the open doors west of the closets, north of the sidewalks
+The couch north of the sidewalks, east of the open doors west of the closets
+Couch east of the open doors west of a closet north of the sidewalk
+Couch north of a sidewalk east of the open doors west of the closet
+Couch north of the sidewalk east of the open doors west of a closet
+Couch east of the open doors west of the closet north of a sidewalk
+Couches, east of an open door west of the closet north of the sidewalk
+Couches, north of the sidewalk east of an open door west of the closet
+The couches north of sidewalks east of the open door west of the closets.
+The couches east of the open door west of closets north of the sidewalks.
+The couches east of the open door west of the closets, north of the sidewalks
+The couches north of the sidewalks, east of the open door west of the closets
+A couch east of the open doors west of closets north of the sidewalks.
+A couch north of sidewalks east of the open doors west of the closets.
+The couch east of the open doors west of closets north of the sidewalks.
+The couch north of sidewalks east of the open doors west of the closets.
+Couches, east of the open doors west of a closet north of the sidewalk
+Couches, north of a sidewalk east of the open doors west of the closet
+Couches, east of the open doors west of the closet north of a sidewalk
+Couches, north of the sidewalk east of the open doors west of a closet
+The couch east of the open doors west of a closet, north of the sidewalks
+The couch east of the open doors west of the closet, north of the sidewalks
+The couch north of a sidewalk, east of the open doors west of the closets
+The couch north of the sidewalk, east of the open doors west of the closets
+A couch north of the sidewalks east of open doors west of a closet.
+A couch east of open doors west of the closets north of a sidewalk.
+A couch north of sidewalks east of an open door west of the closet
+A couch east of an open door west of the closet north of sidewalks
+A couch north of the sidewalk east of an open door west of closets
+A couch east of an open door west of closets north of the sidewalk
+The couch north of the sidewalks east of open doors west of a closet.
+The couch east of open doors west of the closets north of a sidewalk.
+The couch north of sidewalks east of an open door west of the closet
+The couch east of an open door west of the closet north of sidewalks
+The couch north of the sidewalk east of an open door west of closets
+The couch east of an open door west of closets north of the sidewalk
+A couch east of an open door west of a closet north of the sidewalk.
+A couch north of a sidewalk east of an open door west of the closet.
+The couches north of sidewalks east of the open door west of a closet
+The couches east of the open door west of closets north of a sidewalk
+The couches east of the open door west of a closet north of sidewalks
+The couches north of a sidewalk east of the open door west of closets
+The couches east of the open door west of a closet, north of the sidewalks
+The couches east of the open door west of the closet, north of the sidewalks
+The couches north of a sidewalk, east of the open door west of the closets
+The couches north of the sidewalk, east of the open door west of the closets
+The couches east of the open doors west of the closet north of sidewalks.
+The couches north of the sidewalk east of the open doors west of closets.
+The couch east of an open door west of a closet north of the sidewalk.
+The couch north of a sidewalk east of an open door west of the closet.
+A couch east of the open doors west of a closet north of sidewalks
+A couch north of sidewalks east of the open doors west of a closet
+A couch east of the open doors west of closets north of a sidewalk
+A couch north of a sidewalk east of the open doors west of closets
+The couches east of an open door west of a closet north of a sidewalk.
+The couches north of a sidewalk east of an open door west of a closet.
+The couch east of the open doors west of a closet north of sidewalks
+The couch north of sidewalks east of the open doors west of a closet
+The couch east of the open doors west of closets north of a sidewalk
+The couch north of a sidewalk east of the open doors west of closets
+The couches, east of the open doors west of the closets north of the sidewalks.
+The couches, north of the sidewalks east of the open doors west of the closets.
+Couches north of sidewalks east of open doors west of the closets.
+Couches east of open doors west of closets north of the sidewalks.
+The couches, north of the sidewalk east of an open door west of the closets
+The couches, east of an open door west of the closet north of the sidewalks
+The couches, north of the sidewalks east of an open door west of the closet
+The couches, east of an open door west of the closets north of the sidewalk
+The couch east of the open door west of the closets, north of the sidewalk
+The couch north of the sidewalks, east of the open door west of the closet
+A couch, north of the sidewalks east of the open doors west of the closets.
+A couch, east of the open doors west of the closets north of the sidewalks.
+The couch, north of the sidewalks east of the open doors west of the closets.
+The couch, east of the open doors west of the closets north of the sidewalks.
+The couches, north of the sidewalks east of the open doors west of a closet
+The couches, east of the open doors west of the closets north of a sidewalk
+The couches, north of a sidewalk east of the open doors west of the closets
+The couches, east of the open doors west of a closet north of the sidewalks
+Couch north of the sidewalks, east of the open door west of the closets
+Couch east of the open door west of the closets, north of the sidewalks
+A couch, north of the sidewalks east of an open door west of the closet
+A couch, north of the sidewalk east of an open door west of the closets
+A couch, east of an open door west of the closet north of the sidewalks
+A couch, east of an open door west of the closets north of the sidewalk
+The couch, north of the sidewalks east of an open door west of the closet
+The couch, north of the sidewalk east of an open door west of the closets
+The couch, east of an open door west of the closet north of the sidewalks
+The couch, east of an open door west of the closets north of the sidewalk
+Couches east of open doors west of a closet north of sidewalks
+Couches north of sidewalks east of open doors west of a closet
+Couches east of open doors west of closets north of a sidewalk
+Couches north of a sidewalk east of open doors west of closets
+A couch north of the sidewalks east of an open door west of closets.
+A couch east of an open door west of the closets north of sidewalks.
+The couch east of the open door west of a closet, north of the sidewalk
+The couch east of the open door west of the closet, north of the sidewalk
+The couch north of a sidewalk, east of the open door west of the closet
+The couch north of the sidewalk, east of the open door west of the closet
+The couch north of the sidewalks east of an open door west of closets.
+The couch east of an open door west of the closets north of sidewalks.
+A couch, north of a sidewalk east of the open doors west of the closets
+A couch, north of the sidewalks east of the open doors west of a closet
+A couch, east of the open doors west of the closets north of a sidewalk
+A couch, east of the open doors west of a closet north of the sidewalks
+The couch, north of a sidewalk east of the open doors west of the closets
+The couch, north of the sidewalks east of the open doors west of a closet
+The couch, east of the open doors west of the closets north of a sidewalk
+The couch, east of the open doors west of a closet north of the sidewalks
+Couch east of the open door west of a closet, north of the sidewalks
+Couch east of the open door west of the closet, north of the sidewalks
+Couch north of a sidewalk, east of the open door west of the closets
+Couch north of the sidewalk, east of the open door west of the closets
+A couch east of open doors west of a closet north of the sidewalks.
+A couch north of a sidewalk east of open doors west of the closets.
+The couches east of the open doors west of closets north of the sidewalks.
+The couches north of sidewalks east of the open doors west of the closets.
+The couch east of open doors west of a closet north of the sidewalks.
+The couch north of a sidewalk east of open doors west of the closets.
+The couches east of the open doors west of the closets, north of the sidewalks
+The couches north of the sidewalks, east of the open doors west of the closets
+A couch east of open doors west of the closets north of the sidewalk.
+A couch north of the sidewalks east of open doors west of the closet.
+The couch east of open doors west of the closets north of the sidewalk.
+The couch north of the sidewalks east of open doors west of the closet.
+The couches east of open doors west of the closets north of a sidewalk.
+The couches north of the sidewalks east of open doors west of a closet.
+The couches east of an open door west of the closet north of sidewalks
+The couches north of sidewalks east of an open door west of the closet
+The couches east of an open door west of closets north of the sidewalk
+The couches north of the sidewalk east of an open door west of closets
+Couch east of an open door west of the closets north of the sidewalks.
+Couch north of the sidewalks east of an open door west of the closets.
+The couches, north of the sidewalk east of the open door west of the closets.
+The couches, east of the open door west of the closet north of the sidewalks.
+Couch east of the open door west of the closets north of a sidewalk.
+Couch north of the sidewalks east of the open door west of a closet.
+Couches east of the open door west of closets north of sidewalks.
+Couches north of sidewalks east of the open door west of closets.
+The couches east of an open door west of a closet north of the sidewalk.
+The couches north of a sidewalk east of an open door west of the closet.
+A couch east of open doors west of a closet north of a sidewalk
+A couch north of a sidewalk east of open doors west of a closet
+Couches north of the sidewalks, east of the open door west of the closets
+Couches east of the open door west of the closets, north of the sidewalks
+The couches north of sidewalks east of the open doors west of a closet
+The couches east of the open doors west of closets north of a sidewalk
+The couches east of the open doors west of a closet north of sidewalks
+The couches north of a sidewalk east of the open doors west of closets
+The couch east of open doors west of a closet north of a sidewalk
+The couch north of a sidewalk east of open doors west of a closet
+The couches east of the open doors west of a closet, north of the sidewalks
+The couches east of the open doors west of the closet, north of the sidewalks
+The couches north of a sidewalk, east of the open doors west of the closets
+The couches north of the sidewalk, east of the open doors west of the closets
+A couch, north of the sidewalk east of the open door west of the closets.
+A couch, east of the open door west of the closet north of the sidewalks.
+Couches, east of an open door west of the closets north of the sidewalks.
+Couches, north of the sidewalks east of an open door west of the closets.
+Couches, east of the open door west of the closets north of a sidewalk.
+Couches, north of the sidewalks east of the open door west of a closet.
+The couch, north of the sidewalk east of the open door west of the closets.
+The couch, east of the open door west of the closet north of the sidewalks.
+Couch north of a sidewalk east of an open door west of the closets
+Couch east of an open door west of a closet north of the sidewalks
+Couch north of the sidewalks east of an open door west of a closet
+Couch east of an open door west of the closets north of a sidewalk
+The couches, north of the sidewalk east of the open door west of a closet
+The couches, east of the open door west of a closet north of the sidewalk
+The couches, north of a sidewalk east of the open door west of the closet
+The couches, east of the open door west of the closet north of a sidewalk
+Couches east of the open door west of a closet, north of the sidewalks
+Couches north of a sidewalk, east of the open door west of the closets
+Couches east of the open door west of the closet, north of the sidewalks
+Couches north of the sidewalk, east of the open door west of the closets
+A couch, north of the sidewalk east of the open door west of a closet
+A couch, north of a sidewalk east of the open door west of the closet
+A couch, east of the open door west of the closet north of a sidewalk
+A couch, east of the open door west of a closet north of the sidewalk
+Couches, east of an open door west of the closets north of a sidewalk
+Couches, north of a sidewalk east of an open door west of the closets
+Couches, east of an open door west of a closet north of the sidewalks
+Couches, north of the sidewalks east of an open door west of a closet
+The couch, north of the sidewalk east of the open door west of a closet
+The couch, north of a sidewalk east of the open door west of the closet
+The couch, east of the open door west of the closet north of a sidewalk
+The couch, east of the open door west of a closet north of the sidewalk
+The couch east of the open doors west of the closets, north of the sidewalk
+The couch north of the sidewalks, east of the open doors west of the closet
+A couch east of the open door west of a closet north of sidewalks.
+A couch north of a sidewalk east of the open door west of closets.
+The couch east of the open door west of a closet north of sidewalks.
+The couch north of a sidewalk east of the open door west of closets.
+Couch east of the open doors west of the closets, north of the sidewalks
+Couch north of the sidewalks, east of the open doors west of the closets
+The couches east of the open door west of the closets, north of the sidewalk
+The couches north of the sidewalks, east of the open door west of the closet
+The couches north of the sidewalks east of an open door west of closets.
+The couches east of an open door west of the closets north of sidewalks.
+
+TOTAL RESULTS: 1064
+
+Node                         MRS Produced    Reason                 Included in MRS    Reason
+---------------------------  --------------  ---------------------  -----------------  -------------------------
+idCloset_7                   True            MRS fragment produced  True               Included in MRS
+idCouch_1                    True            MRS fragment produced  True               Included in MRS
+idLivingRoomToKitchenDoor_4  True            MRS fragment produced  True               Included in MRS
+idSidewalk_8                 True            MRS fragment produced  True               Included in MRS
+open_5                       True            MRS fragment produced  True               Included in MRS
+true_3                       True            MRS fragment produced  False              Descends from failed edge
+true_6                       True            MRS fragment produced  False              Descends from failed edge
+yes_2                        True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idImmovable_1      False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idOpenState_3      True            MRS composed                               True               Included in MRS
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+idUnknownObject_4  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isEastOf_6         True            MRS composed                               True               Included in MRS
+isNorthOf_7        True            MRS composed                               True               Included in MRS
+isWestOf_5         True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             8        8    1
+Nodes              Included             5        8    0.625
+Edges              Produced             4        7    0.571429
+Edges              Included             4        7    0.571429

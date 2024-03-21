@@ -1,0 +1,38 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idBed1_subgraph.dot
+[ TOP: h3083
+  INDEX: e3080
+  RELS: < [ unknown LBL: h3082 ARG: x3059 ARG0: e3080 ]
+          [ def_udef_a_q LBL: h3079 ARG0: x3059 RSTR: h3077 BODY: h3078 ]
+          [ _un-_a_neg LBL: h3060 ARG0: i3065 ARG1: e3066 ]
+          [ _know_v_1 LBL: h3060 ARG0: e3066 ARG1: u3069 ARG2: x3059 ]
+          [ _bed_n_1 LBL: h3060 ARG0: x3059 ] >
+  HCONS: < h3077 qeq h3060 h3083 qeq h3082 > ]
+GENERATED RESULTS ... 
+The unknown beds
+Unknown beds
+The unknown bed
+An unknown bed
+The unknown beds.
+Unknown beds.
+The unknown bed.
+Unknown bed
+An unknown bed.
+Unknown bed.
+
+TOTAL RESULTS: 10
+
+Node     MRS Produced    Reason                 Included in MRS    Reason
+-------  --------------  ---------------------  -----------------  ---------------
+idBed_1  True            MRS fragment produced  True               Included in MRS
+true_2   True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idUnknownObject_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

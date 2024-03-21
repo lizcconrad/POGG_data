@@ -1,0 +1,237 @@
+{
+    "entityTypes": {
+        "idArea": "_area_n_of",
+        "idBear": "_bear_n_1",
+        "idBumper": "_bumper_n_1",
+        "idBush": "_bush_n_1",
+        "idCar": "_car_n_1",
+        "idCarDoor": {
+            "composition": "compound",
+            "predicates": {
+            "head": "_door_n_1",
+            "modifier": "_car_n_1"
+            }
+        },
+        "idCarKey": {
+            "composition": "compound",
+            "predicates": {
+            "head": "_key_n_1",
+            "modifier": "_car_n_1"
+            }
+        },
+        "idClearing": "_clearing_n_1",
+        "idCrowbar": "_crowbar_n_1",
+        "idDen": "_den_n_1",
+        "idHorse": "_horse_n_1",
+        "idLock": "_lock_n_1",
+        "idMan": "_man_n_1",
+        "idPassenger": "_passenger_n_1",
+        "idPlayer": "_player_n_of",
+        "idPlayerBackside": {
+            "composition": "possessive",
+            "predicates": {
+                "head": "_backside_n_1",
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerLeftHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_left_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerRightHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_right_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idSideMirror": {
+            "composition": "compound",
+            "predicates": {
+            "head": "_mirror_n_1",
+            "modifier": "_side_n_1"
+            }
+        },
+        "idSmoke": "_smoke_n_1",
+        "idSpill": "_spill_n_1",
+        "idStump": "_stump_n_1",
+        "idTaillight": {
+            "composition": "compound",
+            "predicates": {
+            "head": "_light_n_1",
+            "modifier": "_tail_n_1"
+            }
+        },
+        "idTheCar": "_car_n_1",
+        "idTheCarRoom": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_room_n_unit",
+                "modifier": "_car_n_1"
+            }
+        },
+        "idTire": "_tire_n_1",
+        "idTrunk": "_trunk_n_1",
+        "idWhistle": "_whistle_n_1",
+        "idWindow": "_window_n_1"
+    },
+    "propertyValues": {
+        "angry": "_angry_a_at",
+        "black": "_black_a_1",
+        "broken": "_break_v_cause",
+        "brown": "_brown_a_1",
+        "bushy": "_bushy_a_1",
+        "chopped": "_chop_v_1",
+        "closed": "_closed_a_1",
+        "cool": "_cool_a_1",
+        "cracked": "_crack_v_cause",
+        "crumpled": "_crumple_v_cause",
+        "dark": "_dark_a_1",
+        "false": "_false_a_of",
+        "familiar": "_familiar_a_with",
+        "green": "_green_a_2",
+        "hollow": "_hollow_a_1",
+        "idCarDoorLock": "_lock_n_1",
+        "idDriver": "",
+        "idFace": "",
+        "idLocalFront": "_front_n_1",
+        "idLocalLeft": "_left_n_of",
+        "intact": "",
+        "large": "_large_a_1",
+        "left": "_left_n_of",
+        "locked": "_lock_v_cause",
+        "logged": "_log_v_1",
+        "old": "_old_a_1",
+        "right": "_right_n_of",
+        "shiny": "_shiny_a_1",
+        "silver": "_silver_a_1",
+        "smoky": "_smoky_a_1",
+        "stumpy": "",
+        "tinted": "_tint_v_cause",
+        "true": "_true_a_of",
+        "unbroken": {
+            "composition": "prefix",
+            "predicates": {
+                "head": "_break_v_cause",
+                "modifier": "_un-_a_neg"
+            }
+        },
+        "unconscious": "",
+        "unlit": {
+            "composition": "prefix",
+            "predicates": {
+                "head": "_light_v_cause",
+                "modifier": "_un-_a_neg"
+            }
+        },
+        "untouched": {
+            "composition": "prefix",
+            "predicates": {
+                "head": "_touch_v_1",
+                "modifier": "_un-_a_neg"
+            }
+        },
+        "visible": "_visible_a_1",
+        "white": "_white_a_1",
+        "yes": "_true_a_of"
+    },
+    "properties": {
+        "idDescriptor": "descriptor",
+        "idDescriptor_": "descriptor",
+        "idEatenBerry": "",
+        "idColor": "adjective",
+        "idImmovable": "",
+        "idSize": "adjective",
+        "idLitState": "descriptor",
+        "idUnknownObject": "",
+        "idLockedState": "descriptor",
+        "idLocation": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_on_p_loc"
+            }
+        },
+        "idCarSide": "",
+        "idOwnedBy": "",
+        "idOpenState": "adjective",
+        "idLocation_": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_on_p_loc"
+            }
+        },
+        "idLockMechanism": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_with_p"
+            }
+        },
+        "isBeneath": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_beneath_p"
+            }
+        },
+        "isEastOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_east_a_1"
+            }
+        },
+        "isInsideOf": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_inside+of_p"
+            }
+        },
+        "isNear": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_near_p"
+            }
+        },
+        "isNorthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_north_a_1"
+            }
+        },
+        "isSouthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_south_a_1"
+            }
+        },
+        "isWestOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_west_a_1"
+            }
+        }
+    }
+}

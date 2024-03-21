@@ -1,0 +1,53 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idScrewdriver1_subgraph.dot
+[ TOP: h1277
+  INDEX: e1274
+  RELS: < [ unknown LBL: h1276 ARG: x1270 ARG0: e1274 ]
+          [ def_udef_a_q LBL: h1273 ARG0: x1270 RSTR: h1271 BODY: h1272 ]
+          [ _un-_a_neg LBL: h1244 ARG0: i1259 ARG1: e1262 ]
+          [ _know_v_1 LBL: h1244 ARG0: e1262 ARG1: u1263 ARG2: x1270 ]
+          [ compound LBL: h1244 ARG0: e1251 ARG1: x1270 ARG2: x1245 ]
+          [ udef_q LBL: h1250 ARG0: x1245 RSTR: h1248 BODY: h1249 ]
+          [ _screw_n_1 LBL: h1246 ARG0: x1245 ]
+          [ _driver_n_of LBL: h1244 ARG0: x1270 ARG1: i1243 ] >
+  HCONS: < h1248 qeq h1246 h1271 qeq h1244 h1277 qeq h1276 > ]
+GENERATED RESULTS ... 
+An unknown screw driver
+The unknown screw driver
+The unknown screw drivers
+The unknown screw drivers.
+An unknown screw driver.
+The unknown screw driver.
+Unknown screw drivers
+Unknown screw drivers.
+Unknown screw driver
+Unknown screw driver.
+Screws unknown driver
+Screws unknown driver.
+A screws unknown driver
+The screws unknown driver
+The screws unknown drivers.
+The screws unknown drivers
+A screws unknown driver.
+The screws unknown driver.
+Screws unknown drivers.
+Screws unknown drivers
+
+TOTAL RESULTS: 20
+
+Node             MRS Produced    Reason                                Included in MRS    Reason
+---------------  --------------  ------------------------------------  -----------------  ------------------------------------
+idScrewdriver_1  True            MRS fragment produced                 True               Included in MRS
+pointy_2         False           'pointy' has no value in the lexicon  False              'pointy' has no value in the lexicon
+true_3           True            MRS fragment produced                 True               Included in MRS
+
+Edge               MRS Composed    Reason                  Included in MRS    Reason
+-----------------  --------------  ----------------------  -----------------  ----------------------
+idShape_1          False           Inbound to failed node  False              Inbound to failed node
+idUnknownObject_2  True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        3    0.666667
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

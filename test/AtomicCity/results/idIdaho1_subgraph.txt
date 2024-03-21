@@ -1,0 +1,22 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idIdaho1_subgraph.dot
+
+
+TOTAL RESULTS: 0
+
+Node       MRS Produced    Reason                                 Included in MRS    Reason
+---------  --------------  -------------------------------------  -----------------  -------------------------------------
+idDesk_3   True            MRS fragment produced                  False              Descends from failed node
+idIdaho_1  False           'idIdaho' has no value in the lexicon  False              'idIdaho' has no value in the lexicon
+idWorld_2  True            MRS fragment produced                  False              Descends from failed node
+
+Edge          MRS Composed    Reason                     Included in MRS    Reason
+------------  --------------  -------------------------  -----------------  -------------------------
+isInsideOf_2  False           Outbound from failed node  False              Outbound from failed node
+isNear_1      True            MRS composed               False              Descends from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        3    0.666667
+Nodes              Included             0        3    0
+Edges              Produced             1        2    0.5
+Edges              Included             0        2    0

@@ -1,0 +1,80 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idSideFlap_subgraph.dot
+[ TOP: h1989
+  INDEX: e1986
+  RELS: < [ unknown LBL: h1988 ARG: x1982 ARG0: e1986 ]
+          [ def_udef_a_q LBL: h1985 ARG0: x1982 RSTR: h1983 BODY: h1984 ]
+          [ _closed_a_1 LBL: h1981 ARG0: e1979 ARG1: x1982 ]
+          [ compound LBL: h1981 ARG0: e1975 ARG1: x1982 ARG2: x1971 ]
+          [ udef_q LBL: h1974 ARG0: x1971 RSTR: h1972 BODY: h1973 ]
+          [ _side_n_1 LBL: h1970 ARG0: x1971 ]
+          [ _flap_n_1 LBL: h1981 ARG0: x1982 ] >
+  HCONS: < h1972 qeq h1970 h1983 qeq h1981 h1989 qeq h1988 > ]
+GENERATED RESULTS ... 
+The closed side flap
+A closed side flap
+The closed side flaps
+Closed side flaps
+The closed side flaps.
+Closed side flaps.
+Closed side flap
+Sides closed flap
+The closed side flap.
+The sided closed flap
+The closed sided flap
+A closed side flap.
+A sided closed flap
+A closed sided flap
+Closed sided flaps
+Closed sided flaps.
+Sided closed flaps
+A sides closed flap
+The sides closed flap
+The sided closed flaps
+The closed sided, flaps.
+The closed sided, flaps
+Closed sided, flaps.
+The closed sided, flap
+The closed sided flaps
+Closed sided, flaps
+The closed sided flaps.
+A closed sided, flap
+Closed sided flap
+The sides closed flaps
+The sides closed flaps.
+Sides closed flap.
+The closed sided, flap.
+A closed sided, flap.
+Sides closed flaps
+Sided closed flap
+The sided closed flaps.
+The closed sided flap.
+Sides closed flaps.
+Closed side flap.
+A closed sided flap.
+Sided closed flaps.
+A sides closed flap.
+The sides closed flap.
+Closed sided, flap
+The sided closed flap.
+A sided closed flap.
+Closed sided flap.
+Closed sided, flap.
+Sided closed flap.
+
+TOTAL RESULTS: 50
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  ---------------
+closed_2      True            MRS fragment produced  True               Included in MRS
+idSideFlap_1  True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idOpenState_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

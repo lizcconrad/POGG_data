@@ -1,0 +1,263 @@
+EVALUATION SUMMARY
+
+  Graphs Generated From    Total Graphs    Graph Coverage
+-----------------------  --------------  ----------------
+                     19              23          0.826087
+
+Graph Name                    Results  Reason
+--------------------------  ---------  ----------------------
+idArea1_subgraph                  480  Successfully generated
+idBerry1_subgraph                  10  Successfully generated
+idBerry2_subgraph                 500  Successfully generated
+idBerry3_subgraph                 550  Successfully generated
+idBlood1_subgraph                   0  ERG did not generate
+idBranch1_subgraph                850  Successfully generated
+idBush1_subgraph                   20  Successfully generated
+idBush2_subgraph                  240  Successfully generated
+idDeer1_subgraph                   90  Successfully generated
+idFrog1_subgraph                 1452  Successfully generated
+idGrass1_subgraph                   0  ERG did not generate
+idLeg1_subgraph                  1600  Successfully generated
+idLeg2_subgraph                  1223  Successfully generated
+idLeg3_subgraph                   800  Successfully generated
+idLeg4_subgraph                  1108  Successfully generated
+idLog1_subgraph                   720  Successfully generated
+idMarsh1_subgraph                 500  Successfully generated
+idMeadow1_subgraph               1412  Successfully generated
+idMoss1_subgraph                    0  ERG did not generate
+idPlayerBackside_subgraph        1280  Successfully generated
+idPlayerLeftHand_subgraph         835  Successfully generated
+idPlayerRightHand_subgraph          0  ERG did not generate
+idPlayer_subgraph                 839  Successfully generated
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced           121      121    1
+Nodes              Included           120      121    0.991736
+Edges              Produced            97       98    0.989796
+Edges              Included            97       98    0.989796
+
+Node                                            MRS Produced    Reason                 Included in MRS    Reason
+----------------------------------------------  --------------  ---------------------  -----------------  -------------------------
+idArea1_subgraph_green_4                        True            MRS fragment produced  True               Included in MRS
+idArea1_subgraph_idArea_1                       True            MRS fragment produced  True               Included in MRS
+idArea1_subgraph_idBerry_3                      True            MRS fragment produced  True               Included in MRS
+idArea1_subgraph_idLeg_5                        True            MRS fragment produced  True               Included in MRS
+idArea1_subgraph_smoky_2                        True            MRS fragment produced  True               Included in MRS
+idBerry1_subgraph_idBerry_1                     True            MRS fragment produced  True               Included in MRS
+idBerry1_subgraph_red_2                         True            MRS fragment produced  True               Included in MRS
+idBerry2_subgraph_green_2                       True            MRS fragment produced  True               Included in MRS
+idBerry2_subgraph_idBerry_1                     True            MRS fragment produced  True               Included in MRS
+idBerry2_subgraph_idMarsh_5                     True            MRS fragment produced  True               Included in MRS
+idBerry2_subgraph_idSmoke_3                     True            MRS fragment produced  True               Included in MRS
+idBerry2_subgraph_yes_4                         True            MRS fragment produced  True               Included in MRS
+idBerry3_subgraph_brown_5                       True            MRS fragment produced  True               Included in MRS
+idBerry3_subgraph_idBerry_1                     True            MRS fragment produced  True               Included in MRS
+idBerry3_subgraph_idLeg_3                       True            MRS fragment produced  True               Included in MRS
+idBerry3_subgraph_idLocalBack_4                 True            MRS fragment produced  True               Included in MRS
+idBerry3_subgraph_idMarsh_6                     True            MRS fragment produced  True               Included in MRS
+idBerry3_subgraph_idTheCliff_7                  True            MRS fragment produced  True               Included in MRS
+idBerry3_subgraph_yellow_2                      True            MRS fragment produced  True               Included in MRS
+idBlood1_subgraph_idBlood_1                     True            MRS fragment produced  True               Included in MRS
+idBlood1_subgraph_uncountable_2                 True            MRS fragment produced  True               Included in MRS
+idBranch1_subgraph_healthy_4                    True            MRS fragment produced  True               Included in MRS
+idBranch1_subgraph_idBranch_1                   True            MRS fragment produced  True               Included in MRS
+idBranch1_subgraph_idLeg_3                      True            MRS fragment produced  True               Included in MRS
+idBranch1_subgraph_idLocalFront_5               True            MRS fragment produced  True               Included in MRS
+idBranch1_subgraph_idMoss_6                     True            MRS fragment produced  True               Included in MRS
+idBranch1_subgraph_long_2                       True            MRS fragment produced  True               Included in MRS
+idBush1_subgraph_green_2                        True            MRS fragment produced  True               Included in MRS
+idBush1_subgraph_idBush_1                       True            MRS fragment produced  True               Included in MRS
+idBush1_subgraph_yes_3                          True            MRS fragment produced  True               Included in MRS
+idBush2_subgraph_green_5                        True            MRS fragment produced  True               Included in MRS
+idBush2_subgraph_idBush_1                       True            MRS fragment produced  True               Included in MRS
+idBush2_subgraph_idTree_4                       True            MRS fragment produced  True               Included in MRS
+idBush2_subgraph_yellow_2                       True            MRS fragment produced  True               Included in MRS
+idBush2_subgraph_yes_3                          True            MRS fragment produced  True               Included in MRS
+idBush2_subgraph_yes_6                          True            MRS fragment produced  True               Included in MRS
+idDeer1_subgraph_bleeding_4                     True            MRS fragment produced  True               Included in MRS
+idDeer1_subgraph_bloody_3                       True            MRS fragment produced  True               Included in MRS
+idDeer1_subgraph_brown_2                        True            MRS fragment produced  True               Included in MRS
+idDeer1_subgraph_idDeer_1                       True            MRS fragment produced  True               Included in MRS
+idFrog1_subgraph_bleeding_5                     True            MRS fragment produced  True               Included in MRS
+idFrog1_subgraph_brown_6                        True            MRS fragment produced  True               Included in MRS
+idFrog1_subgraph_idBerry_2                      True            MRS fragment produced  True               Included in MRS
+idFrog1_subgraph_idDeer_4                       True            MRS fragment produced  True               Included in MRS
+idFrog1_subgraph_idFrog_1                       True            MRS fragment produced  True               Included in MRS
+idFrog1_subgraph_idTree_7                       True            MRS fragment produced  True               Included in MRS
+idFrog1_subgraph_red_3                          True            MRS fragment produced  True               Included in MRS
+idGrass1_subgraph_bleeding_9                    True            MRS fragment produced  True               Included in MRS
+idGrass1_subgraph_bloody_8                      True            MRS fragment produced  True               Included in MRS
+idGrass1_subgraph_flattened_4                   True            MRS fragment produced  True               Included in MRS
+idGrass1_subgraph_green_2                       True            MRS fragment produced  True               Included in MRS
+idGrass1_subgraph_idBerry_5                     True            MRS fragment produced  True               Included in MRS
+idGrass1_subgraph_idDeer_7                      True            MRS fragment produced  True               Included in MRS
+idGrass1_subgraph_idGrass_1                     True            MRS fragment produced  True               Included in MRS
+idGrass1_subgraph_idPlayer_10                   True            MRS fragment produced  True               Included in MRS
+idGrass1_subgraph_red_6                         True            MRS fragment produced  True               Included in MRS
+idGrass1_subgraph_uncountable_3                 True            MRS fragment produced  True               Included in MRS
+idLeg1_subgraph_brown_2                         True            MRS fragment produced  True               Included in MRS
+idLeg1_subgraph_healthy_4                       True            MRS fragment produced  True               Included in MRS
+idLeg1_subgraph_idBerry_5                       True            MRS fragment produced  True               Included in MRS
+idLeg1_subgraph_idLeg_1                         True            MRS fragment produced  True               Included in MRS
+idLeg1_subgraph_red_6                           True            MRS fragment produced  True               Included in MRS
+idLeg1_subgraph_right_3                         True            MRS fragment produced  True               Included in MRS
+idLeg2_subgraph_brown_4                         True            MRS fragment produced  True               Included in MRS
+idLeg2_subgraph_healthy_3                       True            MRS fragment produced  True               Included in MRS
+idLeg2_subgraph_idFrog_5                        True            MRS fragment produced  True               Included in MRS
+idLeg2_subgraph_idLeg_1                         True            MRS fragment produced  True               Included in MRS
+idLeg2_subgraph_idLocalFront_2                  True            MRS fragment produced  True               Included in MRS
+idLeg2_subgraph_idPlayerRightHand_6             True            MRS fragment produced  True               Included in MRS
+idLeg3_subgraph_brown_3                         True            MRS fragment produced  True               Included in MRS
+idLeg3_subgraph_idLeg_1                         True            MRS fragment produced  True               Included in MRS
+idLeg3_subgraph_idLocalBack_2                   True            MRS fragment produced  True               Included in MRS
+idLeg3_subgraph_right_4                         True            MRS fragment produced  True               Included in MRS
+idLeg4_subgraph_brown_3                         True            MRS fragment produced  True               Included in MRS
+idLeg4_subgraph_healthy_2                       True            MRS fragment produced  True               Included in MRS
+idLeg4_subgraph_idLeg_1                         True            MRS fragment produced  True               Included in MRS
+idLeg4_subgraph_idLocalLeft_4                   True            MRS fragment produced  True               Included in MRS
+idLeg4_subgraph_idLocalLeft_6                   True            MRS fragment produced  True               Included in MRS
+idLeg4_subgraph_idPlayerLeftHand_5              True            MRS fragment produced  True               Included in MRS
+idLog1_subgraph_brown_3                         True            MRS fragment produced  True               Included in MRS
+idLog1_subgraph_hollow_2                        True            MRS fragment produced  True               Included in MRS
+idLog1_subgraph_idLog_1                         True            MRS fragment produced  True               Included in MRS
+idLog1_subgraph_idPlayerBackside_5              True            MRS fragment produced  True               Included in MRS
+idLog1_subgraph_mossy_4                         True            MRS fragment produced  True               Included in MRS
+idMarsh1_subgraph_idArea_4                      True            MRS fragment produced  True               Included in MRS
+idMarsh1_subgraph_idMarsh_1                     True            MRS fragment produced  True               Included in MRS
+idMarsh1_subgraph_idTheCliff_3                  True            MRS fragment produced  True               Included in MRS
+idMarsh1_subgraph_mossy_2                       True            MRS fragment produced  True               Included in MRS
+idMeadow1_subgraph_bushy_4                      True            MRS fragment produced  True               Included in MRS
+idMeadow1_subgraph_grassy_2                     True            MRS fragment produced  True               Included in MRS
+idMeadow1_subgraph_hollow_8                     True            MRS fragment produced  True               Included in MRS
+idMeadow1_subgraph_idBranch_9                   True            MRS fragment produced  True               Included in MRS
+idMeadow1_subgraph_idLog_6                      True            MRS fragment produced  True               Included in MRS
+idMeadow1_subgraph_idMeadow_1                   True            MRS fragment produced  True               Included in MRS
+idMeadow1_subgraph_idTheBushes_3                True            MRS fragment produced  True               Included in MRS
+idMeadow1_subgraph_mossy_7                      True            MRS fragment produced  True               Included in MRS
+idMeadow1_subgraph_overgrown_5                  True            MRS fragment produced  True               Included in MRS
+idMoss1_subgraph_idMoss_1                       True            MRS fragment produced  True               Included in MRS
+idMoss1_subgraph_uncountable_2                  True            MRS fragment produced  True               Included in MRS
+idPlayerBackside_subgraph_grassy_3              True            MRS fragment produced  True               Included in MRS
+idPlayerBackside_subgraph_idFrog_4              True            MRS fragment produced  True               Included in MRS
+idPlayerBackside_subgraph_idMeadow_2            True            MRS fragment produced  True               Included in MRS
+idPlayerBackside_subgraph_idPlayerBackside_1    True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_subgraph_idArea_3              True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_subgraph_idBranch_6            True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_subgraph_idGrass_5             True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_subgraph_idLocalLeft_2         True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_subgraph_idPlayerLeftHand_1    True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_subgraph_long_7                True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_subgraph_smoky_4               True            MRS fragment produced  True               Included in MRS
+idPlayerRightHand_subgraph_idMoss_3             True            MRS fragment produced  True               Included in MRS
+idPlayerRightHand_subgraph_idPlayerRightHand_1  True            MRS fragment produced  True               Included in MRS
+idPlayerRightHand_subgraph_right_2              True            MRS fragment produced  True               Included in MRS
+idPlayerRightHand_subgraph_uncountable_4        True            MRS fragment produced  True               Included in MRS
+idPlayer_subgraph_false_2                       True            MRS fragment produced  False              Descends from failed edge
+idPlayer_subgraph_idLeg_5                       True            MRS fragment produced  True               Included in MRS
+idPlayer_subgraph_idLocalFront_6                True            MRS fragment produced  True               Included in MRS
+idPlayer_subgraph_idPlayer_1                    True            MRS fragment produced  True               Included in MRS
+idPlayer_subgraph_idSmoke_3                     True            MRS fragment produced  True               Included in MRS
+idPlayer_subgraph_right_7                       True            MRS fragment produced  True               Included in MRS
+idPlayer_subgraph_yes_4                         True            MRS fragment produced  True               Included in MRS
+
+Edge                                        MRS Composed    Reason                                  Included in MRS    Reason
+------------------------------------------  --------------  --------------------------------------  -----------------  --------------------------------------
+idArea1_subgraph_idColor_2                  True            MRS composed                            True               Included in MRS
+idArea1_subgraph_idDescriptor_1             True            MRS composed                            True               Included in MRS
+idArea1_subgraph_isEastOf_4                 True            MRS composed                            True               Included in MRS
+idArea1_subgraph_isWestOf_3                 True            MRS composed                            True               Included in MRS
+idBerry1_subgraph_idColor_1                 True            MRS composed                            True               Included in MRS
+idBerry2_subgraph_idColor_1                 True            MRS composed                            True               Included in MRS
+idBerry2_subgraph_idImmovable_2             True            MRS composed                            True               Included in MRS
+idBerry2_subgraph_isEastOf_3                True            MRS composed                            True               Included in MRS
+idBerry2_subgraph_isWestOf_4                True            MRS composed                            True               Included in MRS
+idBerry3_subgraph_idColor_1                 True            MRS composed                            True               Included in MRS
+idBerry3_subgraph_idColor_3                 True            MRS composed                            True               Included in MRS
+idBerry3_subgraph_idLocation_2              True            MRS composed                            True               Included in MRS
+idBerry3_subgraph_isEastOf_4                True            MRS composed                            True               Included in MRS
+idBerry3_subgraph_isInsideOf_6              True            MRS composed                            True               Included in MRS
+idBerry3_subgraph_isWestOf_5                True            MRS composed                            True               Included in MRS
+idBlood1_subgraph_idArticleType_1           True            MRS composed                            True               Included in MRS
+idBranch1_subgraph_idDescriptor_1           True            MRS composed                            True               Included in MRS
+idBranch1_subgraph_idDescriptor_2           True            MRS composed                            True               Included in MRS
+idBranch1_subgraph_idLocation_3             True            MRS composed                            True               Included in MRS
+idBranch1_subgraph_isEastOf_4               True            MRS composed                            True               Included in MRS
+idBranch1_subgraph_isWestOf_5               True            MRS composed                            True               Included in MRS
+idBush1_subgraph_idColor_1                  True            MRS composed                            True               Included in MRS
+idBush1_subgraph_idImmovable_2              True            MRS composed                            True               Included in MRS
+idBush2_subgraph_idColor_1                  True            MRS composed                            True               Included in MRS
+idBush2_subgraph_idColor_3                  True            MRS composed                            True               Included in MRS
+idBush2_subgraph_idImmovable_2              True            MRS composed                            True               Included in MRS
+idBush2_subgraph_idImmovable_4              True            MRS composed                            True               Included in MRS
+idBush2_subgraph_isNear_5                   True            MRS composed                            True               Included in MRS
+idDeer1_subgraph_idColor_1                  True            MRS composed                            True               Included in MRS
+idDeer1_subgraph_idDescriptor_2             True            MRS composed                            True               Included in MRS
+idDeer1_subgraph_idDescriptor__3            True            MRS composed                            True               Included in MRS
+idFrog1_subgraph_idColor_1                  True            MRS composed                            True               Included in MRS
+idFrog1_subgraph_idColor_4                  True            MRS composed                            True               Included in MRS
+idFrog1_subgraph_idDescriptor__3            True            MRS composed                            True               Included in MRS
+idFrog1_subgraph_isEastOf_5                 True            MRS composed                            True               Included in MRS
+idFrog1_subgraph_isWestOf_2                 True            MRS composed                            True               Included in MRS
+idFrog1_subgraph_isWestOf_6                 True            MRS composed                            True               Included in MRS
+idGrass1_subgraph_idArticleType_2           True            MRS composed                            True               Included in MRS
+idGrass1_subgraph_idColor_1                 True            MRS composed                            True               Included in MRS
+idGrass1_subgraph_idColor_4                 True            MRS composed                            True               Included in MRS
+idGrass1_subgraph_idDescriptor_3            True            MRS composed                            True               Included in MRS
+idGrass1_subgraph_idDescriptor_6            True            MRS composed                            True               Included in MRS
+idGrass1_subgraph_idDescriptor__7           True            MRS composed                            True               Included in MRS
+idGrass1_subgraph_isEastOf_5                True            MRS composed                            True               Included in MRS
+idGrass1_subgraph_isEastOf_8                True            MRS composed                            True               Included in MRS
+idGrass1_subgraph_isNear_9                  True            MRS composed                            True               Included in MRS
+idLeg1_subgraph_idColor_1                   True            MRS composed                            True               Included in MRS
+idLeg1_subgraph_idColor_4                   True            MRS composed                            True               Included in MRS
+idLeg1_subgraph_idDescriptor_3              True            MRS composed                            True               Included in MRS
+idLeg1_subgraph_idLocation__2               True            MRS composed                            True               Included in MRS
+idLeg1_subgraph_isEastOf_5                  True            MRS composed                            True               Included in MRS
+idLeg2_subgraph_idColor_3                   True            MRS composed                            True               Included in MRS
+idLeg2_subgraph_idDescriptor_2              True            MRS composed                            True               Included in MRS
+idLeg2_subgraph_idLocation_1                True            MRS composed                            True               Included in MRS
+idLeg2_subgraph_isEastOf_5                  True            MRS composed                            True               Included in MRS
+idLeg2_subgraph_isWestOf_4                  True            MRS composed                            True               Included in MRS
+idLeg3_subgraph_idColor_2                   True            MRS composed                            True               Included in MRS
+idLeg3_subgraph_idLocation_1                True            MRS composed                            True               Included in MRS
+idLeg3_subgraph_idLocation__3               True            MRS composed                            True               Included in MRS
+idLeg4_subgraph_idColor_2                   True            MRS composed                            True               Included in MRS
+idLeg4_subgraph_idDescriptor_1              True            MRS composed                            True               Included in MRS
+idLeg4_subgraph_idLocation_4                True            MRS composed                            True               Included in MRS
+idLeg4_subgraph_idLocation__3               True            MRS composed                            True               Included in MRS
+idLeg4_subgraph_isEastOf_5                  True            MRS composed                            True               Included in MRS
+idLog1_subgraph_idColor_2                   True            MRS composed                            True               Included in MRS
+idLog1_subgraph_idDescriptor_1              True            MRS composed                            True               Included in MRS
+idLog1_subgraph_idDescriptor__3             True            MRS composed                            True               Included in MRS
+idLog1_subgraph_isWestOf_4                  True            MRS composed                            True               Included in MRS
+idMarsh1_subgraph_idDescriptor_1            True            MRS composed                            True               Included in MRS
+idMarsh1_subgraph_isInsideOf_3              True            MRS composed                            True               Included in MRS
+idMarsh1_subgraph_isNear_2                  True            MRS composed                            True               Included in MRS
+idMeadow1_subgraph_idDescriptor_1           True            MRS composed                            True               Included in MRS
+idMeadow1_subgraph_idDescriptor_2           True            MRS composed                            True               Included in MRS
+idMeadow1_subgraph_idDescriptor_6           True            MRS composed                            True               Included in MRS
+idMeadow1_subgraph_idDescriptor__3          True            MRS composed                            True               Included in MRS
+idMeadow1_subgraph_idDescriptor__5          True            MRS composed                            True               Included in MRS
+idMeadow1_subgraph_isEastOf_4               True            MRS composed                            True               Included in MRS
+idMeadow1_subgraph_isEastOf_8               True            MRS composed                            True               Included in MRS
+idMeadow1_subgraph_isNear_7                 True            MRS composed                            True               Included in MRS
+idMoss1_subgraph_idArticleType_1            True            MRS composed                            True               Included in MRS
+idPlayerBackside_subgraph_idDescriptor_1    True            MRS composed                            True               Included in MRS
+idPlayerBackside_subgraph_isEastOf_3        True            MRS composed                            True               Included in MRS
+idPlayerBackside_subgraph_isWestOf_2        True            MRS composed                            True               Included in MRS
+idPlayerLeftHand_subgraph_idDescriptor_2    True            MRS composed                            True               Included in MRS
+idPlayerLeftHand_subgraph_idDescriptor_5    True            MRS composed                            True               Included in MRS
+idPlayerLeftHand_subgraph_idLocation_1      True            MRS composed                            True               Included in MRS
+idPlayerLeftHand_subgraph_isEastOf_6        True            MRS composed                            True               Included in MRS
+idPlayerLeftHand_subgraph_isNorthOf_3       True            MRS composed                            True               Included in MRS
+idPlayerLeftHand_subgraph_isWestOf_4        True            MRS composed                            True               Included in MRS
+idPlayerRightHand_subgraph_idArticleType_2  True            MRS composed                            True               Included in MRS
+idPlayerRightHand_subgraph_idLocation_1     True            MRS composed                            True               Included in MRS
+idPlayerRightHand_subgraph_isEastOf_3       True            MRS composed                            True               Included in MRS
+idPlayer_subgraph_idEatenBerry_1            False           'idEatenBerry' has no value in lexicon  False              'idEatenBerry' has no value in lexicon
+idPlayer_subgraph_idImmovable_2             True            MRS composed                            True               Included in MRS
+idPlayer_subgraph_idLocation_4              True            MRS composed                            True               Included in MRS
+idPlayer_subgraph_idLocation__5             True            MRS composed                            True               Included in MRS
+idPlayer_subgraph_isWestOf_3                True            MRS composed                            True               Included in MRS
+idPlayer_subgraph_isWestOf_6                True            MRS composed                            True               Included in MRS

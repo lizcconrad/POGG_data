@@ -1,0 +1,535 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idLongHallwayLeftOpening_subgraph.dot
+[ TOP: h1192
+  INDEX: e1189
+  RELS: < [ unknown LBL: h1191 ARG: x1079 ARG0: e1189 ]
+          [ def_udef_a_q LBL: h1188 ARG0: x1079 RSTR: h1186 BODY: h1187 ]
+          [ loc_nonsp LBL: h1164 ARG0: i1181 ARG1: x1079 ARG2: x1177 ]
+          [ loc_nonsp LBL: h1164 ARG0: i1161 ARG1: x1079 ARG2: x1155 ]
+          [ compound LBL: h1164 ARG0: e1088 ARG1: x1079 ARG2: x1084 ]
+          [ udef_q LBL: h1087 ARG0: x1084 RSTR: h1085 BODY: h1086 ]
+          [ _left_n_of LBL: h1083 ARG0: x1084 ARG1: i1082 ]
+          [ _opening_n_1 LBL: h1164 ARG0: x1079 ]
+          [ def_implicit_q LBL: h1160 ARG0: x1155 RSTR: h1158 BODY: h1159 ]
+          [ _south_a_1 LBL: h1150 ARG0: i1147 ARG1: x1155 ARG2: x1151 ]
+          [ def_udef_a_q LBL: h1154 ARG0: x1151 RSTR: h1152 BODY: h1153 ]
+          [ loc_nonsp LBL: h1103 ARG0: i1143 ARG1: x1151 ARG2: x1139 ]
+          [ _closed_a_1 LBL: h1103 ARG0: e1114 ARG1: x1151 ]
+          [ _with_p LBL: h1103 ARG0: e1106 ARG1: x1151 ARG2: x1110 ]
+          [ def_udef_a_q LBL: h1113 ARG0: x1110 RSTR: h1111 BODY: h1112 ]
+          [ _lock_n_1 LBL: h1105 ARG0: x1110 ]
+          [ compound LBL: h1103 ARG0: e1100 ARG1: x1151 ARG2: x1094 ]
+          [ udef_q LBL: h1099 ARG0: x1094 RSTR: h1097 BODY: h1098 ]
+          [ _front_n_1 LBL: h1095 ARG0: x1094 ]
+          [ _door_n_1 LBL: h1103 ARG0: x1151 ]
+          [ def_implicit_q LBL: h1142 ARG0: x1139 RSTR: h1140 BODY: h1141 ]
+          [ _north_a_1 LBL: h1138 ARG0: i1129 ARG1: x1139 ARG2: x1133 ]
+          [ def_udef_a_q LBL: h1136 ARG0: x1133 RSTR: h1134 BODY: h1135 ]
+          [ compound LBL: h1118 ARG0: e1125 ARG1: x1133 ARG2: x1121 ]
+          [ udef_q LBL: h1124 ARG0: x1121 RSTR: h1122 BODY: h1123 ]
+          [ _front_n_1 LBL: h1120 ARG0: x1121 ]
+          [ _opening_n_1 LBL: h1118 ARG0: x1133 ]
+          [ place_n LBL: h1138 ARG0: x1139 ]
+          [ place_n LBL: h1150 ARG0: x1155 ]
+          [ def_implicit_q LBL: h1180 ARG0: x1177 RSTR: h1178 BODY: h1179 ]
+          [ _north_a_1 LBL: h1170 ARG0: i1167 ARG1: x1177 ARG2: x1165 ]
+          [ def_udef_a_q LBL: h1174 ARG0: x1165 RSTR: h1172 BODY: h1173 ]
+          [ _pipe_n_1 LBL: h1166 ARG0: x1165 ]
+          [ place_n LBL: h1170 ARG0: x1177 ] >
+  HCONS: < h1085 qeq h1083 h1111 qeq h1105 h1097 qeq h1095 h1122 qeq h1120 h1134 qeq h1118 h1140 qeq h1138 h1152 qeq h1103 h1158 qeq h1150 h1172 qeq h1166 h1178 qeq h1170 h1186 qeq h1164 h1192 qeq h1191 > ]
+GENERATED RESULTS ... 
+Left openings north of the pipes south of the closed front door with the lock north of the front openings
+Left openings south of the closed front door with the lock north of the front openings north of the pipes
+Left openings south of the closed front door with the lock north of the front opening north of the pipes
+Left openings north of the pipes south of the closed front door with the lock north of the front opening
+Left openings north of the pipes south of a closed front door with the lock north of the front openings
+Left openings south of a closed front door with the lock north of the front openings north of the pipes
+Left openings north of the pipes south of a closed front door with the lock north of the front opening
+Left openings south of a closed front door with the lock north of the front opening north of the pipes
+Left openings south of the closed front door with the lock north of the front openings north of the pipes.
+Left openings south of the closed front door with the lock north of the front opening north of the pipes.
+Left openings south of a closed front door with the lock north of the front openings north of the pipes.
+Left openings north of the pipes south of the closed front doors with the lock north of the front openings
+Left openings south of the closed front doors with the lock north of the front openings north of the pipes
+Left openings north of the pipe south of the closed front door with the lock north of the front openings
+Left openings south of the closed front door with the lock north of the front openings north of the pipe
+Left openings south of a closed front door with the lock north of the front opening north of the pipes.
+Left openings south of the closed front door north of the front openings with the locks north of the pipes
+Left openings north of the pipes south of the closed front door north of the front openings with the locks
+Left openings south of the closed front doors with the lock north of the front opening north of the pipes
+Left openings north of the pipes south of the closed front doors with the lock north of the front opening
+Left openings south of the closed front door with the lock north of the front opening north of the pipe
+Left openings north of the pipe south of the closed front door with the lock north of the front opening
+Left openings north of the pipe south of a closed front door with the lock north of the front openings
+Left openings south of a closed front door with the lock north of the front openings north of the pipe
+Left openings south of the closed front door north of the front opening with the locks north of the pipes
+Left openings north of the pipes south of the closed front door north of the front opening with the locks
+Left openings south of the closed front door with the lock north of the front openings north of a pipe.
+Left openings north of the pipes south of a closed front door north of the front openings with the locks
+Left openings south of a closed front door north of the front openings with the locks north of the pipes
+Left openings south of the closed front door north of the front openings with the lock north of the pipes
+Left openings north of the pipes south of the closed front door north of the front openings with the lock
+Left openings south of the closed front door with a lock north of the front openings north of the pipes
+Left openings north of the pipes south of the closed front door with a lock north of the front openings
+Left openings north of the pipe south of a closed front door with the lock north of the front opening
+Left openings south of a closed front door with the lock north of the front opening north of the pipe
+Left openings north of the pipes south of the closed front door with the lock north of a front opening
+Left openings south of the closed front door with the lock north of a front opening north of the pipes
+Left openings south of the closed front door with the lock north of the front opening north of a pipe.
+Left openings south of a closed front door north of the front opening with the locks north of the pipes
+Left openings north of the pipes south of a closed front door north of the front opening with the locks
+Left openings south of the closed front door north of the front opening with the lock north of the pipes
+Left openings north of the pipes south of the closed front door north of the front opening with the lock
+Left openings south of the closed front door with a lock north of the front opening north of the pipes
+Left openings north of the pipes south of the closed front door with a lock north of the front opening
+Left openings south of a closed front door with the lock north of the front openings north of a pipe.
+Left openings south of a closed front door north of the front openings with the lock north of the pipes
+Left openings north of the pipes south of a closed front door north of the front openings with the lock
+Left openings south of a closed front door with a lock north of the front openings north of the pipes
+Left openings north of the pipes south of a closed front door with a lock north of the front openings
+Left openings south of the closed front door with the lock north of the front openings north of the pipe.
+Left openings south of the closed front doors with the lock north of the front openings north of the pipes.
+Left openings north of the pipes south of a closed front door with the lock north of a front opening
+Left openings south of a closed front door with the lock north of a front opening north of the pipes
+Left openings north of the pipes south of the closed front door with the lock north of the front openings.
+Left openings south of a closed front door with the lock north of the front opening north of a pipe.
+Left openings south of a closed front door north of the front opening with the lock north of the pipes
+Left openings north of the pipes south of a closed front door north of the front opening with the lock
+Left openings north of the pipes south of a closed front door with a lock north of the front opening
+Left openings south of a closed front door with a lock north of the front opening north of the pipes
+Left openings south of the closed front door north of the front openings with the locks north of the pipes.
+Left openings south of the closed front door with the lock north of the front opening north of the pipe.
+Left openings south of the closed front doors with the lock north of the front opening north of the pipes.
+Left openings south of a closed front door with the lock north of the front openings north of the pipe.
+Left openings north of the pipes south of the closed front door with locks north of the front openings
+Left openings south of the closed front door with locks north of the front openings north of the pipes
+Left openings north of the pipes south of a closed front door with the lock north of the front openings.
+Left openings south of the closed front door north of the front opening with the locks north of the pipes.
+Left openings south of the closed front doors with the lock north of the front openings north of the pipe
+Left openings north of the pipe south of the closed front doors with the lock north of the front openings
+Left openings south of a closed front door north of the front openings with the locks north of the pipes.
+Left openings south of the closed front door north of the front openings with the lock north of the pipes.
+Left openings south of the closed front door with a lock north of the front openings north of the pipes.
+Left openings south of a closed front door with the lock north of the front opening north of the pipe.
+Left openings north of the pipes south of the closed front door with locks north of the front opening
+Left openings south of the closed front door with locks north of the front opening north of the pipes
+Left openings south of the closed front door with the lock north of a front opening north of the pipes.
+Left openings south of the closed front door north of the front openings with a lock north of the pipes
+Left openings north of the pipes south of the closed front door north of the front openings with a lock
+Left openings south of the closed front doors north of the front openings with the locks north of the pipes
+Left openings north of the pipes south of the closed front doors north of the front openings with the locks
+Left openings south of the closed front door north of the front openings with the locks north of the pipe
+Left openings north of the pipe south of the closed front door north of the front openings with the locks
+Left openings south of a closed front door with locks north of the front openings north of the pipes
+Left openings north of the pipes south of a closed front door with locks north of the front openings
+Left openings south of the closed front doors with the lock north of the front opening north of the pipe
+Left openings north of the pipe south of the closed front doors with the lock north of the front opening
+Left openings south of the closed front door with the locks north of the front openings north of the pipes
+Left openings north of the pipes south of the closed front door with the locks north of the front openings
+Left openings south of a closed front door north of the front opening with the locks north of the pipes.
+Left openings south of the closed front door north of the front opening with the lock north of the pipes.
+Left openings south of the closed front door with a lock north of the front opening north of the pipes.
+Left openings south of a closed front door north of the front openings with the lock north of the pipes.
+Left openings south of a closed front door with a lock north of the front openings north of the pipes.
+Left openings south of the closed front door north of the front opening with a lock north of the pipes
+Left openings north of the pipes south of the closed front door north of the front opening with a lock
+Left openings south of the closed front doors north of the front opening with the locks north of the pipes
+Left openings north of the pipes south of the closed front doors north of the front opening with the locks
+Left openings south of the closed front door north of the front opening with the locks north of the pipe
+Left openings north of the pipe south of the closed front door north of the front opening with the locks
+Left openings south of a closed front door with locks north of the front opening north of the pipes
+Left openings north of the pipes south of a closed front door with locks north of the front opening
+Left openings south of the closed fronted door with the lock north of the front openings north of the pipes
+Left openings north of the pipes south of the closed fronted door with the lock north of the front openings
+Left openings south of the closed front doors with the lock north of the front openings north of a pipe.
+Left openings south of a closed front door with the lock north of a front opening north of the pipes.
+Left openings south of a closed front door north of the front openings with a lock north of the pipes
+Left openings north of the pipes south of a closed front door north of the front openings with a lock
+Left openings north of the pipe south of a closed front door north of the front openings with the locks
+Left openings south of a closed front door north of the front openings with the locks north of the pipe
+Left openings south of the closed front door with the locks north of the front opening north of the pipes
+Left openings north of the pipes south of the closed front door with the locks north of the front opening
+Left openings south of the closed front doors north of the front openings with the lock north of the pipes
+Left openings north of the pipes south of the closed front doors north of the front openings with the lock
+Left openings south of the closed front door north of the front openings with the lock north of the pipe
+Left openings north of the pipe south of the closed front door north of the front openings with the lock
+Left openings south of the closed front doors with a lock north of the front openings north of the pipes
+Left openings north of the pipes south of the closed front doors with a lock north of the front openings
+Left openings south of the closed front door with a lock north of the front openings north of the pipe
+Left openings north of the pipe south of the closed front door with a lock north of the front openings
+Left openings north of the pipes south of a closed front door with the locks north of the front openings
+Left openings south of a closed front door with the locks north of the front openings north of the pipes
+Left openings south of a closed front door north of the front opening with the lock north of the pipes.
+Left openings south of a closed front door with a lock north of the front opening north of the pipes.
+Left openings north of the pipes south of the closed front doors with the lock north of a front opening
+Left openings south of the closed front doors with the lock north of a front opening north of the pipes
+Left openings north of the pipe south of the closed front door with the lock north of a front opening
+Left openings south of the closed front door with the lock north of a front opening north of the pipe
+Left openings south of the closed front door north of the front openings with the locks north of a pipe.
+Left openings south of the closed fronted door with the lock north of the front opening north of the pipes
+Left openings north of the pipes south of the closed fronted door with the lock north of the front opening
+Left openings north of a pipe south of the closed front door with the lock north of the front openings
+Left openings south of the closed front door with the lock north of the front openings north of a pipe
+Left openings south of the closed front doors with the lock north of the front opening north of a pipe.
+Left openings south of a closed front door north of the front opening with a lock north of the pipes
+Left openings north of the pipes south of a closed front door north of the front opening with a lock
+Left openings south of a closed front door north of the front opening with the locks north of the pipe
+Left openings north of the pipe south of a closed front door north of the front opening with the locks
+A left opening south of the closed front door with the lock north of the front openings north of the pipes
+A left opening north of the pipes south of the closed front door with the lock north of the front openings
+Left openings south of the closed front doors north of the front opening with the lock north of the pipes
+Left openings north of the pipes south of the closed front doors north of the front opening with the lock
+Left openings south of the closed front door north of the front opening with the lock north of the pipe
+Left openings north of the pipe south of the closed front door north of the front opening with the lock
+Left openings south of a closed fronted door with the lock north of the front openings north of the pipes
+Left openings north of the pipes south of a closed fronted door with the lock north of the front openings
+The left opening south of the closed front door with the lock north of the front openings north of the pipes
+The left opening north of the pipes south of the closed front door with the lock north of the front openings
+Left openings south of the closed front doors with a lock north of the front opening north of the pipes
+Left openings north of the pipes south of the closed front doors with a lock north of the front opening
+Left openings south of the closed front door with a lock north of the front opening north of the pipe
+Left openings north of the pipe south of the closed front door with a lock north of the front opening
+Left openings south of the closed front door with locks north of the front openings north of the pipes.
+Left openings south of a closed front door with the locks north of the front opening north of the pipes
+Left openings north of the pipes south of a closed front door with the locks north of the front opening
+Left openings south of a closed front door north of the front openings with the lock north of the pipe
+Left openings north of the pipe south of a closed front door north of the front openings with the lock
+Left openings south of the closed front door north of a front opening with the locks north of the pipes
+Left openings north of the pipes south of the closed front door north of a front opening with the locks
+Left openings north of the pipe south of a closed front door with a lock north of the front openings
+Left openings south of a closed front door with a lock north of the front openings north of the pipe
+Left openings south of the closed front doors with the lock north of the front openings north of the pipe.
+Left openings south of the closed front door north of the front opening with the locks north of a pipe.
+Left openings north of the pipe south of a closed front door with the lock north of a front opening
+Left openings south of a closed front door with the lock north of a front opening north of the pipe
+Left openings north of a pipe south of the closed front door with the lock north of the front opening
+Left openings south of the closed front door with the lock north of the front opening north of a pipe
+Left openings south of a closed front door north of the front openings with the locks north of a pipe.
+Left openings south of the closed front door north of the front openings with the lock north of a pipe.
+A left opening south of the closed front door with the lock north of the front opening north of the pipes
+A left opening north of the pipes south of the closed front door with the lock north of the front opening
+Left openings south of a closed fronted door with the lock north of the front opening north of the pipes
+Left openings north of the pipes south of a closed fronted door with the lock north of the front opening
+The left opening south of the closed front door with the lock north of the front opening north of the pipes
+The left opening north of the pipes south of the closed front door with the lock north of the front opening
+Left openings south of the closed front door with a lock north of the front openings north of a pipe.
+Left openings north of the pipes south of the closed front doors with the lock north of the front openings.
+Left openings north of the pipe south of the closed front door with the lock north of the front openings.
+Left openings south of a closed front door with the lock north of the front openings north of a pipe
+Left openings north of a pipe south of a closed front door with the lock north of the front openings
+Left openings south of the closed front door with locks north of the front opening north of the pipes.
+Left openings north of the pipes south of the closed front door north of the front openings with the locks.
+A left opening south of a closed front door with the lock north of the front openings north of the pipes
+A left opening north of the pipes south of a closed front door with the lock north of the front openings
+Left openings south of a closed front door north of the front opening with the lock north of the pipe
+Left openings north of the pipe south of a closed front door north of the front opening with the lock
+Left openings south of the closed front door north of the front openings with a lock north of the pipes.
+The left opening south of a closed front door with the lock north of the front openings north of the pipes
+The left opening north of the pipes south of a closed front door with the lock north of the front openings
+Left openings south of the closed front door north of the front openings with the locks north of the pipe.
+Left openings north of the pipe south of a closed front door with a lock north of the front opening
+Left openings south of a closed front door with a lock north of the front opening north of the pipe
+Left openings south of the closed front doors north of the front openings with the locks north of the pipes.
+Left openings south of a closed front door with locks north of the front openings north of the pipes.
+Left openings south of the closed front door with the lock north of a front opening north of a pipe.
+Left openings south of the closed front doors with the lock north of the front opening north of the pipe.
+Left openings south of a closed front door north of a front opening with the locks north of the pipes
+Left openings north of the pipes south of a closed front door north of a front opening with the locks
+Left openings south of the closed front door north of a front opening with the lock north of the pipes
+Left openings north of the pipes south of the closed front door north of a front opening with the lock
+Left openings south of the closed front door with the locks north of the front openings north of the pipes.
+Left openings south of the closed front door with a lock north of a front opening north of the pipes
+Left openings north of the pipes south of the closed front door with a lock north of a front opening
+Left openings south of a closed front door north of the front opening with the locks north of a pipe.
+Left openings south of the closed front door north of the front opening with the lock north of a pipe.
+Left openings south of the closed front door with a lock north of the front opening north of a pipe.
+Left openings south of the closed front doors with locks north of the front openings north of the pipes
+Left openings north of the pipes south of the closed front doors with locks north of the front openings
+Left openings south of the closed front door with locks north of the front openings north of the pipe
+Left openings north of the pipe south of the closed front door with locks north of the front openings
+Left openings south of a closed front door with the lock north of the front opening north of a pipe
+Left openings north of a pipe south of a closed front door with the lock north of the front opening
+Left openings north of the pipes south of the closed front door north of the front opening with the locks.
+Left openings south of a closed front door north of the front openings with the lock north of a pipe.
+A left opening south of a closed front door with the lock north of the front opening north of the pipes
+A left opening north of the pipes south of a closed front door with the lock north of the front opening
+Left openings south of the closed front door north of the front opening with a lock north of the pipes.
+The left opening south of a closed front door with the lock north of the front opening north of the pipes
+The left opening north of the pipes south of a closed front door with the lock north of the front opening
+Left openings south of a closed front door with a lock north of the front openings north of a pipe.
+Left openings south of the closed front door north of the front opening with the locks north of the pipe.
+Left openings north of the pipe south of a closed front door with the lock north of the front openings.
+Left openings south of the closed front doors north of the front opening with the locks north of the pipes.
+Left openings south of a closed front door with locks north of the front opening north of the pipes.
+Left openings south of the closed fronted door with the lock north of the front openings north of the pipes.
+Left openings north of the pipes south of a closed front door north of the front openings with the locks.
+Left openings south of a closed front door north of the front openings with a lock north of the pipes.
+Left openings south of a closed front door north of the front openings with the locks north of the pipe.
+Left openings south of the closed front door north of the front openings with the lock north of the pipe.
+Left openings south of the closed front door with the locks north of the front opening north of the pipes.
+Left openings south of the closed front doors north of the front openings with the lock north of the pipes.
+Left openings south of a closed front door with the lock north of a front opening north of a pipe.
+Left openings south of the closed front door with a lock north of the front openings north of the pipe.
+Left openings south of the closed front doors with a lock north of the front openings north of the pipes.
+Left openings south of a closed front door north of a front opening with the lock north of the pipes
+Left openings north of the pipes south of a closed front door north of a front opening with the lock
+Left openings south of a closed front door with the locks north of the front openings north of the pipes.
+Left openings south of a closed front door with a lock north of a front opening north of the pipes
+Left openings north of the pipes south of a closed front door with a lock north of a front opening
+Left openings north of the pipes south of the closed front door with the lock north of the fronted, openings.
+Left openings south of the closed front doors with locks north of the front opening north of the pipes
+Left openings north of the pipes south of the closed front doors with locks north of the front opening
+Left openings south of the closed front door with locks north of the front opening north of the pipe
+Left openings north of the pipe south of the closed front door with locks north of the front opening
+Left openings south of the closed front door with the lock north of a front opening north of the pipe.
+Left openings south of the closed front doors with the lock north of a front opening north of the pipes.
+Left openings south of the closed front doors north of the front openings with a lock north of the pipes
+Left openings north of the pipes south of the closed front doors north of the front openings with a lock
+Left openings south of the closed front door north of the front openings with a lock north of the pipe
+Left openings north of the pipe south of the closed front door north of the front openings with a lock
+Left openings south of a closed front door north of the front opening with the lock north of a pipe.
+Left openings north of the pipes south of the closed front door with a lock north of the front openings.
+Left openings north of the pipe south of the closed front doors north of the front openings with the locks
+Left openings south of the closed front doors north of the front openings with the locks north of the pipe
+Left openings south of a closed front door with a lock north of the front opening north of a pipe.
+Left openings north of the pipe south of a closed front door with locks north of the front openings
+Left openings south of a closed front door with locks north of the front openings north of the pipe
+Left openings south of the closed fronted door with the lock north of the front opening north of the pipes.
+Left openings north of the pipes south of a closed front door north of the front opening with the locks.
+Left openings south of a closed front door north of the front opening with a lock north of the pipes.
+Left openings south of a closed front door north of the front opening with the locks north of the pipe.
+Left openings south of the closed front doors with the locks north of the front openings north of the pipes
+Left openings north of the pipes south of the closed front doors with the locks north of the front openings
+Left openings south of the closed front door with the locks north of the front openings north of the pipe
+Left openings north of the pipe south of the closed front door with the locks north of the front openings
+Left openings south of the closed front door north of the front opening with the lock north of the pipe.
+A left opening south of the closed front door with the lock north of the front openings north of the pipes.
+Left openings south of the closed front doors north of the front opening with the lock north of the pipes.
+Left openings south of a closed fronted door with the lock north of the front openings north of the pipes.
+The left opening south of the closed front door with the lock north of the front openings north of the pipes.
+Left openings south of the closed front door with a lock north of the front opening north of the pipe.
+Left openings north of the pipes south of the closed front door north of the front openings with locks
+Left openings south of the closed front door north of the front openings with locks north of the pipes
+Left openings south of the closed front doors with a lock north of the front opening north of the pipes.
+Left openings south of a closed front door north of the front openings with the lock north of the pipe.
+Left openings south of a closed front door with the locks north of the front opening north of the pipes.
+Left openings south of the closed front door north of a front opening with the locks north of the pipes.
+Left openings south of a closed front door with a lock north of the front openings north of the pipe.
+Left openings south of the closed front door with locks north of the front openings north of a pipe.
+Left openings north of the pipes south of the closed front door with the lock north of the fronted, openings
+Left openings south of the closed front door with the lock north of the fronted, openings north of the pipes
+Left openings south of the closed front doors north of the front opening with a lock north of the pipes
+Left openings north of the pipes south of the closed front doors north of the front opening with a lock
+Left openings south of the closed front door north of the front opening with a lock north of the pipe
+Left openings north of the pipe south of the closed front door north of the front opening with a lock
+Left openings north of the pipes south of the closed front door with the lock north of the front opening.
+Left openings south of the closed front doors north of the front opening with the locks north of the pipe
+Left openings north of the pipe south of the closed front doors north of the front opening with the locks
+Left openings north of the pipes south of a closed front door with the lock north of the fronted, openings.
+Left openings south of a closed front door with locks north of the front opening north of the pipe
+Left openings north of the pipe south of a closed front door with locks north of the front opening
+Left openings south of the closed fronted door with the lock north of the front openings north of the pipe
+Left openings north of the pipe south of the closed fronted door with the lock north of the front openings
+Left openings south of a closed front door with the lock north of a front opening north of the pipe.
+Left openings north of the pipes south of the closed front door with the lock north of the fronted, opening
+Left openings south of the closed front door with the lock north of the fronted, opening north of the pipes
+Left openings north of the pipe south of a closed front door north of the front openings with a lock
+Left openings south of a closed front door north of the front openings with a lock north of the pipe
+Left openings north of the pipes south of a closed front door with a lock north of the front openings.
+Left openings south of the closed front doors with the locks north of the front opening north of the pipes
+Left openings north of the pipes south of the closed front doors with the locks north of the front opening
+Left openings south of the closed front door with the locks north of the front opening north of the pipe
+Left openings north of the pipe south of the closed front door with the locks north of the front opening
+Left openings south of the closed front doors north of the front openings with the lock north of the pipe
+Left openings north of the pipe south of the closed front doors north of the front openings with the lock
+A left opening south of the closed front door with the lock north of the front opening north of the pipes.
+Left openings south of the closed front door with locks north of a front opening north of the pipes
+Left openings north of the pipes south of the closed front door with locks north of a front opening
+Left openings south of a closed fronted door with the lock north of the front opening north of the pipes.
+Left openings south of the closed front doors with a lock north of the front openings north of the pipe
+Left openings north of the pipe south of the closed front doors with a lock north of the front openings
+The left opening south of the closed front door with the lock north of the front opening north of the pipes.
+Left openings south of the closed front door north of the front opening with locks north of the pipes
+Left openings north of the pipes south of the closed front door north of the front opening with locks
+Left openings south of a closed front door with the locks north of the front openings north of the pipe
+Left openings north of the pipe south of a closed front door with the locks north of the front openings
+Left openings south of a closed front door north of the front opening with the lock north of the pipe.
+A left opening south of a closed front door with the lock north of the front openings north of the pipes.
+Left openings south of the fronted closed door with the lock north of the front openings north of the pipes
+Left openings north of the pipes south of the fronted closed door with the lock north of the front openings
+The left opening south of a closed front door with the lock north of the front openings north of the pipes.
+Left openings south of a closed front door with a lock north of the front opening north of the pipe.
+Left openings south of the closed front door with locks north of the front opening north of a pipe.
+Left openings north of the pipes south of a closed front door north of the front openings with locks
+Left openings south of a closed front door north of the front openings with locks north of the pipes
+Left openings south of the closed front doors with the lock north of a front opening north of the pipe
+Left openings north of the pipe south of the closed front doors with the lock north of a front opening
+Left openings south of the closed fronted door north of the front openings with the locks north of the pipes
+Left openings north of the pipes south of the closed fronted door north of the front openings with the locks
+Left openings south of the closed front door north of the front openings with a lock north of a pipe.
+Left openings south of the closed front doors north of the front openings with the locks north of a pipe.
+Left openings south of a closed front door north of a front opening with the locks north of the pipes.
+Left openings south of a closed front door with locks north of the front openings north of a pipe.
+Left openings south of the closed front door north of a front opening with the lock north of the pipes.
+Left openings south of the closed fronted door with the lock north of the front opening north of the pipe
+Left openings north of the pipe south of the closed fronted door with the lock north of the front opening
+Left openings south of a closed front door with the lock north of the fronted, openings north of the pipes
+Left openings north of the pipes south of a closed front door with the lock north of the fronted, openings
+Left openings south of the closed front door with a lock north of a front opening north of the pipes.
+Left openings south of the closed front doors with the lock north of the front openings north of a pipe
+Left openings north of a pipe south of the closed front doors with the lock north of the front openings
+Left openings south of a closed front door north of the front opening with a lock north of the pipe
+Left openings north of the pipe south of a closed front door north of the front opening with a lock
+Left openings north of the pipes south of a closed front door with the lock north of the front opening.
+Left openings south of the closed front door with the locks north of the front openings north of a pipe.
+A left opening south of the closed front doors with the lock north of the front openings north of the pipes
+A left opening north of the pipes south of the closed front doors with the lock north of the front openings
+A left opening south of the closed front door with the lock north of the front openings north of the pipe
+A left opening north of the pipe south of the closed front door with the lock north of the front openings
+Left openings south of the closed front doors north of the front opening with the lock north of the pipe
+Left openings north of the pipe south of the closed front doors north of the front opening with the lock
+Left openings south of a closed fronted door with the lock north of the front openings north of the pipe
+Left openings north of the pipe south of a closed fronted door with the lock north of the front openings
+The left opening south of the closed front doors with the lock north of the front openings north of the pipes
+The left opening north of the pipes south of the closed front doors with the lock north of the front openings
+The left opening south of the closed front door with the lock north of the front openings north of the pipe
+The left opening north of the pipe south of the closed front door with the lock north of the front openings
+Left openings south of the closed front doors with a lock north of the front opening north of the pipe
+Left openings north of the pipe south of the closed front doors with a lock north of the front opening
+Left openings south of the closed front door with locks north of the front openings north of the pipe.
+Left openings north of the pipes south of a closed front door with the lock north of the fronted, opening
+Left openings south of a closed front door with the lock north of the fronted, opening north of the pipes
+Left openings south of the closed front doors with locks north of the front openings north of the pipes.
+Left openings south of the closed front door north of a front opening with a lock north of the pipes
+Left openings north of the pipes south of the closed front door north of a front opening with a lock
+Left openings south of a closed front door with the locks north of the front opening north of the pipe
+Left openings north of the pipe south of a closed front door with the locks north of the front opening
+Left openings south of the closed front doors north of a front opening with the locks north of the pipes
+Left openings north of the pipes south of the closed front doors north of a front opening with the locks
+Left openings south of the closed front door north of a front opening with the locks north of the pipe
+Left openings north of the pipe south of the closed front door north of a front opening with the locks
+A left opening south of a closed front door with the lock north of the front opening north of the pipes.
+Left openings south of a closed front door with locks north of a front opening north of the pipes
+Left openings north of the pipes south of a closed front door with locks north of a front opening
+Left openings south of the fronted closed door with the lock north of the front opening north of the pipes
+Left openings north of the pipes south of the fronted closed door with the lock north of the front opening
+The left opening south of a closed front door with the lock north of the front opening north of the pipes.
+Left openings south of a closed front door north of the front opening with locks north of the pipes
+Left openings north of the pipes south of a closed front door north of the front opening with locks
+Left openings south of the closed fronted door north of the front opening with the locks north of the pipes
+Left openings north of the pipes south of the closed fronted door north of the front opening with the locks
+Left openings south of the closed front door north of the front opening with a lock north of a pipe.
+Left openings south of the closed front door north of the front openings with the locks north of a pipe
+Left openings north of a pipe south of the closed front door north of the front openings with the locks
+Left openings south of the closed front door with the locks north of a front opening north of the pipes
+Left openings north of the pipes south of the closed front door with the locks north of a front opening
+Left openings south of a fronted closed door with the lock north of the front openings north of the pipes
+Left openings north of the pipes south of a fronted closed door with the lock north of the front openings
+Left openings north of the pipes south of the closed front door with locks north of the front openings.
+Left openings south of the closed front doors north of the front opening with the locks north of a pipe.
+Left openings south of a closed front door with locks north of the front opening north of a pipe.
+Left openings south of the closed fronted door with the lock north of the front openings north of a pipe.
+Left openings south of the closed front door with the lock north of a fronted, opening north of the pipes
+Left openings north of the pipes south of the closed front door with the lock north of a fronted, opening
+A left opening south of the closed front door north of the front openings with the locks north of the pipes
+A left opening north of the pipes south of the closed front door north of the front openings with the locks
+Left openings north of a pipe south of the closed front doors with the lock north of the front opening
+Left openings south of the closed front doors with the lock north of the front opening north of a pipe
+Left openings north of the pipes south of a closed fronted door north of the front openings with the locks
+Left openings south of a closed fronted door north of the front openings with the locks north of the pipes
+Left openings south of a closed front door north of the front openings with a lock north of a pipe.
+The left opening south of the closed front door north of the front openings with the locks north of the pipes
+The left opening north of the pipes south of the closed front door north of the front openings with the locks
+Left openings north of the pipes south of the closed fronted door north of the front openings with the lock
+Left openings south of the closed fronted door north of the front openings with the lock north of the pipes
+Left openings north of the pipes south of the closed fronted door with a lock north of the front openings
+Left openings south of the closed fronted door with a lock north of the front openings north of the pipes
+Left openings south of the closed front door with the locks north of the front opening north of a pipe.
+Left openings south of the closed front doors north of the front openings with the lock north of a pipe.
+A left opening south of the closed front doors with the lock north of the front opening north of the pipes
+A left opening north of the pipes south of the closed front doors with the lock north of the front opening
+Left openings south of a closed front door north of a front opening with the lock north of the pipes.
+A left opening south of the closed front door with the lock north of the front opening north of the pipe
+A left opening north of the pipe south of the closed front door with the lock north of the front opening
+Left openings north of the pipe south of a closed fronted door with the lock north of the front opening
+Left openings south of a closed fronted door with the lock north of the front opening north of the pipe
+The left opening south of the closed front doors with the lock north of the front opening north of the pipes
+The left opening north of the pipes south of the closed front doors with the lock north of the front opening
+The left opening south of the closed front door with the lock north of the front opening north of the pipe
+The left opening north of the pipe south of the closed front door with the lock north of the front opening
+Left openings south of the closed front doors with a lock north of the front openings north of a pipe.
+Left openings south of a closed front door with a lock north of a front opening north of the pipes.
+Left openings north of the pipe south of the closed front doors with the lock north of the front openings.
+Left openings south of the closed front door with locks north of the front opening north of the pipe.
+Left openings south of the closed front doors with locks north of the front opening north of the pipes.
+Left openings north of the pipes south of the closed front doors north of the front openings with the locks.
+Left openings north of the pipe south of the closed front door north of the front openings with the locks.
+Left openings south of a closed front door with the locks north of the front openings north of a pipe.
+Left openings south of the closed front door north of the front openings with a lock north of the pipe.
+A left opening south of a closed front door with the lock north of the front openings north of the pipe
+A left opening north of the pipe south of a closed front door with the lock north of the front openings
+Left openings south of the closed front doors north of the front openings with a lock north of the pipes.
+The left opening south of a closed front door with the lock north of the front openings north of the pipe
+The left opening north of the pipe south of a closed front door with the lock north of the front openings
+Left openings south of the closed front doors north of the front openings with the locks north of the pipe.
+Left openings south of the closed fronted door with the lock north of a front opening north of the pipes
+Left openings north of the pipes south of the closed fronted door with the lock north of a front opening
+Left openings south of a closed front door with locks north of the front openings north of the pipe.
+Left openings south of the closed front doors with the lock north of a front opening north of a pipe.
+Left openings north of the pipes south of a closed front door north of a front opening with a lock
+Left openings south of a closed front door north of a front opening with a lock north of the pipes
+Left openings south of a closed front door north of a front opening with the locks north of the pipe
+Left openings north of the pipe south of a closed front door north of a front opening with the locks
+Left openings south of the closed front door north of the front opening with the locks north of a pipe
+Left openings north of a pipe south of the closed front door north of the front opening with the locks
+Left openings south of the closed front doors north of a front opening with the lock north of the pipes
+Left openings north of the pipes south of the closed front doors north of a front opening with the lock
+Left openings south of the closed front door north of a front opening with the lock north of the pipe
+Left openings north of the pipe south of the closed front door north of a front opening with the lock
+Left openings south of a fronted closed door with the lock north of the front opening north of the pipes
+Left openings north of the pipes south of a fronted closed door with the lock north of the front opening
+Left openings south of the closed front door with the locks north of the front openings north of the pipe.
+Left openings south of the closed fronted door with the lock north of the front opening north of a pipe.
+Left openings south of the closed front doors with the locks north of the front openings north of the pipes.
+Left openings north of the pipes south of the closed front doors with a lock north of a front opening
+Left openings south of the closed front doors with a lock north of a front opening north of the pipes
+Left openings north of the pipe south of the closed front door with a lock north of a front opening
+Left openings south of the closed front door with a lock north of a front opening north of the pipe
+A left opening south of the closed front door north of the front opening with the locks north of the pipes
+A left opening north of the pipes south of the closed front door north of the front opening with the locks
+Left openings south of a closed fronted door north of the front opening with the locks north of the pipes
+Left openings north of the pipes south of a closed fronted door north of the front opening with the locks
+Left openings south of a closed front door north of the front opening with a lock north of a pipe.
+The left opening south of the closed front door north of the front opening with the locks north of the pipes
+The left opening north of the pipes south of the closed front door north of the front opening with the locks
+Left openings north of the pipes south of the closed fronted door north of the front opening with the lock
+Left openings south of the closed fronted door north of the front opening with the lock north of the pipes
+Left openings south of the closed front door north of the front openings with locks north of the pipes.
+Left openings north of a pipe south of a closed front door north of the front openings with the locks
+Left openings south of a closed front door north of the front openings with the locks north of a pipe
+Left openings north of the pipes south of a closed front door with the locks north of a front opening
+
+TOTAL RESULTS: 470
+
+Node                                 MRS Produced    Reason                 Included in MRS    Reason
+-----------------------------------  --------------  ---------------------  -----------------  ---------------
+closed_4                             True            MRS fragment produced  True               Included in MRS
+idLongHallwayFrontOpeningDoorLock_3  True            MRS fragment produced  True               Included in MRS
+idLongHallwayFrontOpeningDoor_2      True            MRS fragment produced  True               Included in MRS
+idLongHallwayFrontOpening_5          True            MRS fragment produced  True               Included in MRS
+idLongHallwayLeftOpening_1           True            MRS fragment produced  True               Included in MRS
+idPipe_6                             True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idLockMechanism_1  True            MRS composed  True               Included in MRS
+idOpenState_2      True            MRS composed  True               Included in MRS
+isNorthOf_3        True            MRS composed  True               Included in MRS
+isNorthOf_5        True            MRS composed  True               Included in MRS
+isSouthOf_4        True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        6           1
+Nodes              Included             6        6           1
+Edges              Produced             5        5           1
+Edges              Included             5        5           1

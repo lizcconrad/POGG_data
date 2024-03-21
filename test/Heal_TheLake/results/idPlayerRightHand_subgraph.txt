@@ -1,0 +1,47 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/complete/idPlayerRightHand_subgraph.dot
+[ TOP: h1133
+  INDEX: e1130
+  RELS: < [ unknown LBL: h1132 ARG: x1086 ARG0: e1130 ]
+          [ def_udef_a_q LBL: h1129 ARG0: x1086 RSTR: h1127 BODY: h1128 ]
+          [ loc_nonsp LBL: h1125 ARG0: i1122 ARG1: x1086 ARG2: x1118 ]
+          [ _on_p_loc LBL: h1125 ARG0: e1092 ARG1: x1086 ARG2: x1096 ]
+          [ def_udef_a_q LBL: h1099 ARG0: x1096 RSTR: h1097 BODY: h1098 ]
+          [ _right_n_of LBL: h1091 ARG0: x1096 ARG1: i1090 ]
+          [ poss LBL: h1125 ARG0: e1085 ARG1: x1086 ARG2: x1078 ]
+          [ compound LBL: h1125 ARG0: e1074 ARG1: x1086 ARG2: x1067 ]
+          [ udef_q LBL: h1073 ARG0: x1067 RSTR: h1071 BODY: h1072 ]
+          [ _right_n_of LBL: h1069 ARG0: x1067 ARG1: i1068 ]
+          [ _hand_n_1 LBL: h1125 ARG0: x1086 ]
+          [ def_udef_a_q LBL: h1084 ARG0: x1078 RSTR: h1082 BODY: h1083 ]
+          [ _player_n_of LBL: h1080 ARG0: x1078 ARG1: i1079 ]
+          [ def_implicit_q LBL: h1121 ARG0: x1118 RSTR: h1119 BODY: h1120 ]
+          [ _east_a_1 LBL: h1111 ARG0: i1108 ARG1: x1118 ARG2: x1100 ]
+          [ def_udef_a_q LBL: h1115 ARG0: x1100 RSTR: h1113 BODY: h1114 ]
+          [ _un-_a_neg LBL: h1101 ARG0: i1105 ARG1: x1100 ]
+          [ _countable_a_1 LBL: h1101 ARG0: e1102 ARG1: x1100 ]
+          [ _moss_n_1 LBL: h1101 ARG0: x1100 ]
+          [ place_n LBL: h1111 ARG0: x1118 ] >
+  HCONS: < h1097 qeq h1091 h1071 qeq h1069 h1082 qeq h1080 h1113 qeq h1101 h1119 qeq h1111 h1127 qeq h1125 h1133 qeq h1132 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                 MRS Produced    Reason                 Included in MRS    Reason
+-------------------  --------------  ---------------------  -----------------  ---------------
+idMoss_3             True            MRS fragment produced  True               Included in MRS
+idPlayerRightHand_1  True            MRS fragment produced  True               Included in MRS
+right_2              True            MRS fragment produced  True               Included in MRS
+uncountable_4        True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idArticleType_2  True            MRS composed  True               Included in MRS
+idLocation_1     True            MRS composed  True               Included in MRS
+isEastOf_3       True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4           1
+Nodes              Included             4        4           1
+Edges              Produced             3        3           1
+Edges              Included             3        3           1

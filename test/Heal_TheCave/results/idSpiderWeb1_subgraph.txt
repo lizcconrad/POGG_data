@@ -1,0 +1,34 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idSpiderWeb1_subgraph.dot
+[ TOP: h792
+  INDEX: e789
+  RELS: < [ unknown LBL: h791 ARG: e779 ARG0: e789 ]
+          [ def_udef_a_q LBL: h788 ARG0: e779 RSTR: h786 BODY: h787 ]
+          [ _un-_a_neg LBL: h770 ARG0: i778 [ i PROG: bool ] ARG1: e779 ]
+          [ _touch_v_1 LBL: h770 ARG0: e779 ARG1: x755 ARG2: i783 ]
+          [ _white_a_1 LBL: h770 ARG0: i768 ARG1: x755 ]
+          [ compound LBL: h770 ARG0: e764 ARG1: x755 ARG2: x760 ]
+          [ udef_q LBL: h763 ARG0: x760 RSTR: h761 BODY: h762 ]
+          [ _spider_n_1 LBL: h759 ARG0: x760 ]
+          [ _web_n_of LBL: h770 ARG0: x755 ARG1: i756 ] >
+  HCONS: < h761 qeq h759 h786 qeq h770 h792 qeq h791 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+false_3        True            MRS fragment produced  True               Included in MRS
+idSpiderWeb_1  True            MRS fragment produced  True               Included in MRS
+white_2        True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason        Included in MRS    Reason
+--------------  --------------  ------------  -----------------  ---------------
+idColor_1       True            MRS composed  True               Included in MRS
+idWebTouched_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

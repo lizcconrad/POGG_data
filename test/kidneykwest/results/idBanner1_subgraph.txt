@@ -1,0 +1,97 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idBanner1_subgraph.dot
+[ TOP: h3447
+  INDEX: e3444
+  RELS: < [ unknown LBL: h3446 ARG: x3420 ARG0: e3444 ]
+          [ def_udef_a_q LBL: h3443 ARG0: x3420 RSTR: h3441 BODY: h3442 ]
+          [ _near_p LBL: h3421 ARG0: e3432 ARG1: x3420 ARG2: x3436 ]
+          [ def_udef_a_q LBL: h3439 ARG0: x3436 RSTR: h3437 BODY: h3438 ]
+          [ _white_a_1 LBL: h3429 ARG0: i3427 ARG1: x3436 ]
+          [ _lobby_n_1 LBL: h3429 ARG0: x3436 ]
+          [ _red_a_1 LBL: h3421 ARG0: i3422 ARG1: x3420 ]
+          [ _banner_n_1 LBL: h3421 ARG0: x3420 ] >
+  HCONS: < h3437 qeq h3429 h3441 qeq h3421 h3447 qeq h3446 > ]
+GENERATED RESULTS ... 
+A red banner near the white lobbies
+The red banner near the white lobbies
+A red banner near a white lobby
+The red banner near a white lobby
+The red banners near the white lobbies
+The red banners near a white lobby
+A red banner near the white lobby
+The red banner near the white lobby
+Red banners near a white lobby
+Red banners near the white lobbies
+The red banners near the white lobby
+A red banner near the white lobbies.
+The red banner near the white lobbies.
+A red banner near white lobbies.
+The red banner near white lobbies.
+The red banners near the white lobbies.
+A red banner near white lobbies
+The red banners near white lobbies.
+The red banner near white lobbies
+The red banners near white lobbies
+Red banners near the white lobby
+A red banner near a white lobby.
+The red banner near a white lobby.
+Red banners near the white lobbies.
+The red banners near a white lobby.
+Red banner near the white lobbies
+Red banner near a white lobby
+A red banner near the white lobby.
+The red banner near the white lobby.
+Red banners near white lobbies.
+Red banners near a white lobby.
+The red banners near the white lobby.
+Red banners near white lobbies
+Red banner near the white lobby
+Red banner near the white lobbies.
+Red banners near the white lobby.
+Red banner near a white lobby.
+The red banners, near the white lobbies
+The red banner, near the white lobbies
+Red banner near white lobbies.
+Red banners, near the white lobbies
+Red banner near white lobbies
+Red banner near the white lobby.
+Red banner, near the white lobbies
+The red banners, near the white lobby
+The red banner, near the white lobby
+The red banners, near a white lobby
+The red banner, near a white lobby
+Red banners, near a white lobby
+Red banners, near the white lobby
+A red banner, near the white lobbies
+Red banner, near a white lobby
+Red banner, near the white lobby
+A red banner, near the white lobby
+A red banner, near a white lobby
+The red banners, near white lobbies
+The red banner, near white lobbies
+Red banners, near white lobbies
+Red banner, near white lobbies
+A red banner, near white lobbies
+
+TOTAL RESULTS: 60
+
+Node                 MRS Produced    Reason                 Included in MRS    Reason
+-------------------  --------------  ---------------------  -----------------  -------------------------
+idBanner_1           True            MRS fragment produced  True               Included in MRS
+idFairyWorldLobby_3  True            MRS fragment produced  True               Included in MRS
+idmarble_5           True            MRS fragment produced  False              Descends from failed edge
+red_2                True            MRS fragment produced  True               Included in MRS
+white_4              True            MRS fragment produced  True               Included in MRS
+
+Edge          MRS Composed    Reason                             Included in MRS    Reason
+------------  --------------  ---------------------------------  -----------------  ---------------------------------
+idColor_1     True            MRS composed                       True               Included in MRS
+idColor_2     True            MRS composed                       True               Included in MRS
+idMaterial_3  False           Semantic functor has no ARG1 hole  False              Semantic functor has no ARG1 hole
+isNear_4      True            MRS composed                       True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             5        5        1
+Nodes              Included             4        5        0.8
+Edges              Produced             3        4        0.75
+Edges              Included             3        4        0.75

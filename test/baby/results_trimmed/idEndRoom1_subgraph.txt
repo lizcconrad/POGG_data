@@ -1,0 +1,45 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idEndRoom1_subgraph.dot
+[ TOP: h2438
+  INDEX: e2435
+  RELS: < [ unknown LBL: h2437 ARG: x2431 ARG0: e2435 ]
+          [ def_udef_a_q LBL: h2434 ARG0: x2431 RSTR: h2432 BODY: h2433 ]
+          [ _near_p LBL: h2384 ARG0: e2423 ARG1: x2431 ARG2: x2417 ]
+          [ def_udef_a_q LBL: h2430 ARG0: x2417 RSTR: h2428 BODY: h2429 ]
+          [ _backyard_n_1 LBL: h2418 ARG0: x2417 ]
+          [ _near_p LBL: h2384 ARG0: e2409 ARG1: x2431 ARG2: x2400 ]
+          [ def_udef_a_q LBL: h2416 ARG0: x2400 RSTR: h2414 BODY: h2415 ]
+          [ _baby_n_1 LBL: h2401 ARG0: x2400 ]
+          [ compound LBL: h2384 ARG0: e2392 ARG1: x2431 ARG2: x2388 ]
+          [ udef_q LBL: h2391 ARG0: x2388 RSTR: h2389 BODY: h2390 ]
+          [ _end_n_of LBL: h2387 ARG0: x2388 ARG1: i2386 ]
+          [ _room_n_unit LBL: h2384 ARG0: x2431 ] >
+  HCONS: < h2428 qeq h2418 h2414 qeq h2401 h2389 qeq h2387 h2432 qeq h2384 h2438 qeq h2437 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  -------------------------
+false_4       True            MRS fragment produced  False              Descends from failed edge
+idBaby_3      True            MRS fragment produced  True               Included in MRS
+idBackyard_6  True            MRS fragment produced  True               Included in MRS
+idEndRoom_1   True            MRS fragment produced  True               Included in MRS
+true_2        True            MRS fragment produced  False              Descends from failed edge
+true_5        True            MRS fragment produced  False              Descends from failed edge
+true_7        True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idSeen_2           False           'idSeen' has no value in lexicon           False              'idSeen' has no value in lexicon
+idUnknownObject_1  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+idUnknownObject_3  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+idUnknownObject_5  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isNear_4           True            MRS composed                               True               Included in MRS
+isNear_6           True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7        7    1
+Nodes              Included             3        7    0.428571
+Edges              Produced             2        6    0.333333
+Edges              Included             2        6    0.333333

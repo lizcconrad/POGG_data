@@ -1,0 +1,65 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idScubaDiverCostume1_subgraph.dot
+[ TOP: h516
+  INDEX: e513
+  RELS: < [ unknown LBL: h515 ARG: x509 ARG0: e513 ]
+          [ def_udef_a_q LBL: h512 ARG0: x509 RSTR: h510 BODY: h511 ]
+          [ _gold_a_1 LBL: h481 ARG0: i502 ARG1: x509 ]
+          [ compound LBL: h481 ARG0: e498 ARG1: x509 ARG2: x494 ]
+          [ udef_q LBL: h497 ARG0: x494 RSTR: h495 BODY: h496 ]
+          [ compound LBL: h493 ARG0: e490 ARG1: x494 ARG2: x484 ]
+          [ udef_q LBL: h489 ARG0: x484 RSTR: h487 BODY: h488 ]
+          [ _scuba_n_1 LBL: h485 ARG0: x484 ]
+          [ _diver_n_1 LBL: h493 ARG0: x494 ]
+          [ _costume_n_1 LBL: h481 ARG0: x509 ] >
+  HCONS: < h487 qeq h485 h495 qeq h493 h510 qeq h481 h516 qeq h515 > ]
+GENERATED RESULTS ... 
+The gold scuba diver costume
+The gold scuba diver costumes
+A gold scuba diver costume
+Gold scuba diver costumes
+Scuba divers gold costume
+The gold scuba diver costumes.
+Gold scuba diver costumes.
+The scuba diver gold costume
+Scuba diver gold costumes.
+A scuba diver gold costume
+A scuba divers gold costume
+The gold scuba diver costume.
+The scuba divers gold costume
+The scuba divers gold costumes.
+Scuba divers gold costume.
+Scuba diver gold costume
+A gold scuba diver costume.
+The scuba diver gold costumes.
+Scuba divers gold costumes.
+Scuba diver gold costumes
+Gold scuba diver costume
+The scuba diver gold costumes
+The scuba divers gold costumes
+A scuba divers gold costume.
+Scuba divers gold costumes
+The scuba divers gold costume.
+The scuba diver gold costume.
+A scuba diver gold costume.
+Scuba diver gold costume.
+Gold scuba diver costume.
+
+TOTAL RESULTS: 30
+
+Node                   MRS Produced    Reason                 Included in MRS    Reason
+---------------------  --------------  ---------------------  -----------------  -------------------------
+gold_2                 True            MRS fragment produced  True               Included in MRS
+idScubaDiverCostume_1  True            MRS fragment produced  True               Included in MRS
+true_3                 True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idColor_1          True            MRS composed                               True               Included in MRS
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

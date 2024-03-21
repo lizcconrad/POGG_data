@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idCalendar1_subgraph.dot
+[ TOP: h1555
+  INDEX: e1552
+  RELS: < [ unknown LBL: h1554 ARG: x1548 ARG0: e1552 ]
+          [ def_udef_a_q LBL: h1551 ARG0: x1548 RSTR: h1549 BODY: h1550 ]
+          [ loc_nonsp LBL: h1488 ARG0: i1544 ARG1: x1548 ARG2: x1538 ]
+          [ _near_p LBL: h1488 ARG0: e1485 ARG1: x1548 ARG2: x1479 ]
+          [ def_udef_a_q LBL: h1492 ARG0: x1479 RSTR: h1490 BODY: h1491 ]
+          [ _bare_a_of LBL: h1484 ARG0: e1481 ARG1: x1479 ARG2: u1483 ]
+          [ _kitchen_n_1 LBL: h1484 ARG0: x1479 ]
+          [ _small_a_1 LBL: h1488 ARG0: e1476 ARG1: x1548 ]
+          [ _calendar_n_1 LBL: h1488 ARG0: x1548 ]
+          [ def_implicit_q LBL: h1543 ARG0: x1538 RSTR: h1541 BODY: h1542 ]
+          [ _south_a_1 LBL: h1539 ARG0: i1530 ARG1: x1538 ARG2: x1534 ]
+          [ def_udef_a_q LBL: h1537 ARG0: x1534 RSTR: h1535 BODY: h1536 ]
+          [ loc_nonsp LBL: h1506 ARG0: i1526 ARG1: x1534 ARG2: x1522 ]
+          [ _immovable_a_1 LBL: h1506 ARG0: e1504 ARG1: x1534 ]
+          [ _use_v_1 LBL: h1506 ARG0: e1495 ARG1: i1496 ARG2: x1534 ARG3: h1498 ]
+          [ _desk_n_1 LBL: h1506 ARG0: x1534 ]
+          [ def_implicit_q LBL: h1525 ARG0: x1522 RSTR: h1523 BODY: h1524 ]
+          [ _east_a_1 LBL: h1515 ARG0: i1512 ARG1: x1522 ARG2: x1516 ]
+          [ def_udef_a_q LBL: h1519 ARG0: x1516 RSTR: h1517 BODY: h1518 ]
+          [ _sock_n_1 LBL: h1511 ARG0: x1516 ]
+          [ place_n LBL: h1515 ARG0: x1522 ]
+          [ place_n LBL: h1539 ARG0: x1538 ] >
+  HCONS: < h1490 qeq h1484 h1517 qeq h1511 h1523 qeq h1515 h1535 qeq h1506 h1541 qeq h1539 h1549 qeq h1488 h1555 qeq h1554 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  ---------------
+bare_4        True            MRS fragment produced  True               Included in MRS
+idCalendar_1  True            MRS fragment produced  True               Included in MRS
+idDesk_5      True            MRS fragment produced  True               Included in MRS
+idKitchen_3   True            MRS fragment produced  True               Included in MRS
+idSock_8      True            MRS fragment produced  True               Included in MRS
+small_2       True            MRS fragment produced  True               Included in MRS
+used_6        True            MRS fragment produced  True               Included in MRS
+yes_7         True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason        Included in MRS    Reason
+--------------  --------------  ------------  -----------------  ---------------
+idDescriptor_2  True            MRS composed  True               Included in MRS
+idDescriptor_4  True            MRS composed  True               Included in MRS
+idImmovable_5   True            MRS composed  True               Included in MRS
+idSize_1        True            MRS composed  True               Included in MRS
+isEastOf_6      True            MRS composed  True               Included in MRS
+isNear_3        True            MRS composed  True               Included in MRS
+isSouthOf_7     True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             8        8           1
+Nodes              Included             8        8           1
+Edges              Produced             7        7           1
+Edges              Included             7        7           1

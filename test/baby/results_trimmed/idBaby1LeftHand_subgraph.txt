@@ -1,0 +1,131 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idBaby1LeftHand_subgraph.dot
+[ TOP: h2522
+  INDEX: e2519
+  RELS: < [ unknown LBL: h2521 ARG: x2501 ARG0: e2519 ]
+          [ def_udef_a_q LBL: h2518 ARG0: x2501 RSTR: h2516 BODY: h2517 ]
+          [ _on_p_loc LBL: h2493 ARG0: e2507 ARG1: x2501 ARG2: x2511 ]
+          [ def_udef_a_q LBL: h2514 ARG0: x2511 RSTR: h2512 BODY: h2513 ]
+          [ _left_n_of LBL: h2506 ARG0: x2511 ARG1: i2505 ]
+          [ poss LBL: h2493 ARG0: e2500 ARG1: x2501 ARG2: x2494 ]
+          [ compound LBL: h2493 ARG0: e2490 ARG1: x2501 ARG2: x2483 ]
+          [ udef_q LBL: h2489 ARG0: x2483 RSTR: h2487 BODY: h2488 ]
+          [ _left_n_of LBL: h2485 ARG0: x2483 ARG1: i2484 ]
+          [ _hand_n_1 LBL: h2493 ARG0: x2501 ]
+          [ def_udef_a_q LBL: h2499 ARG0: x2494 RSTR: h2497 BODY: h2498 ]
+          [ _baby_n_1 LBL: h2495 ARG0: x2494 ] >
+  HCONS: < h2512 qeq h2506 h2487 qeq h2485 h2497 qeq h2495 h2516 qeq h2493 h2522 qeq h2521 > ]
+GENERATED RESULTS ... 
+The baby's left hands on the lefts
+The babies' left hands on the lefts
+The baby's left hand on the lefts
+The babies' left hand on the lefts
+A baby's left hands on the lefts
+A baby's left hand on the lefts
+The baby's left hands on the left
+The babies' left hands on the left
+The baby's left hand on the left
+The babies' left hand on the left
+A baby's left hands on the left
+The baby's left hands on the lefts.
+The babies' left hands on the lefts.
+A baby's left hand on the left
+The baby's left hand on the lefts.
+The babies' left hand on the lefts.
+A baby's left hands on the lefts.
+A baby's left hand on the lefts.
+Babies' left hands on the lefts
+Babies' left hand on the lefts
+The baby's left hands on the left.
+The babies' left hands on the left.
+The baby's left hand on the left.
+The babies' left hand on the left.
+The baby's left hands on a left
+A baby's left hands on the left.
+The babies' left hands on a left
+The baby's left hand on a left
+A baby's left hand on the left.
+The babies' left hand on a left
+A baby's left hands on a left
+Babies' left hands on the left
+A baby's left hand on a left
+Babies' left hand on the left
+Babies' left hands on the lefts.
+Babies' left hand on the lefts.
+The baby's left hands on lefts.
+The babies' left hands on lefts.
+The baby's left hand on lefts.
+The babies' left hand on lefts.
+A baby's left hands on lefts.
+The baby's left hands on a left.
+A baby's left hand on lefts.
+The babies' left hands on a left.
+The baby's left hands, on the lefts
+The baby's left hand on a left.
+The babies' left hands, on the lefts
+The babies' left hand on a left.
+A baby's left hands on a left.
+A baby's left hands, on the lefts
+Babies' left hands on the left.
+A baby's left hand on a left.
+Babies' left hand on the left.
+The baby's left hands on lefts
+Babies' left hands on a left
+The babies' left hands on lefts
+The baby's left hand on lefts
+Babies' left hand on a left
+The babies' left hand on lefts
+A baby's left hands on lefts
+The baby's left hand, on the lefts
+A baby's left hand on lefts
+The babies' left hand, on the lefts
+A baby's left hand, on the lefts
+Babies' left hands on lefts.
+Babies' left hand on lefts.
+Babies' left hands on a left.
+Babies' left hands, on the lefts
+Babies' left hand on a left.
+Babies' left hands on lefts
+Babies' left hand on lefts
+The baby's left hands, on the left
+The babies' left hands, on the left
+Babies' left hand, on the lefts
+A baby's left hands, on the left
+The baby's left hands, on a left
+The babies' left hands, on a left
+The baby's left hand, on the left
+A baby's left hands, on a left
+The babies' left hand, on the left
+The baby's left hands, on lefts
+The babies' left hands, on lefts
+A baby's left hand, on the left
+A baby's left hands, on lefts
+The baby's left hand, on a left
+The babies' left hand, on a left
+A baby's left hand, on a left
+The baby's left hand, on lefts
+The babies' left hand, on lefts
+Babies' left hands, on the left
+A baby's left hand, on lefts
+Babies' left hands, on a left
+Babies' left hand, on the left
+Babies' left hands, on lefts
+Babies' left hand, on a left
+Babies' left hand, on lefts
+
+TOTAL RESULTS: 96
+
+Node               MRS Produced    Reason                 Included in MRS    Reason
+-----------------  --------------  ---------------------  -----------------  ---------------
+idBaby1LeftHand_1  True            MRS fragment produced  True               Included in MRS
+idLocalLeft_2      True            MRS fragment produced  True               Included in MRS
+
+Edge          MRS Composed    Reason        Included in MRS    Reason
+------------  --------------  ------------  -----------------  ---------------
+idLocation_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

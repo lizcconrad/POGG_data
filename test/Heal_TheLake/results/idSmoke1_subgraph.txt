@@ -1,0 +1,53 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/current/idSmoke1_subgraph.dot
+[ TOP: h287
+  INDEX: e284
+  RELS: < [ unknown LBL: h286 ARG: x216 ARG0: e284 ]
+          [ def_udef_a_q LBL: h283 ARG0: x216 RSTR: h281 BODY: h282 ]
+          [ loc_nonsp LBL: h224 ARG0: i276 ARG1: x216 ARG2: x270 ]
+          [ loc_nonsp LBL: h224 ARG0: i253 ARG1: x216 ARG2: x249 ]
+          [ _immovable_a_1 LBL: h224 ARG0: e222 ARG1: x216 ]
+          [ _smoke_n_1 LBL: h224 ARG0: x216 ]
+          [ def_implicit_q LBL: h252 ARG0: x249 RSTR: h250 BODY: h251 ]
+          [ _north_a_1 LBL: h248 ARG0: i239 ARG1: x249 ARG2: x243 ]
+          [ def_udef_a_q LBL: h246 ARG0: x243 RSTR: h244 BODY: h245 ]
+          [ _un-_a_neg LBL: h235 ARG0: i236 ARG1: x243 ]
+          [ _countable_a_1 LBL: h235 ARG0: e233 ARG1: x243 ]
+          [ _green_a_2 LBL: h235 ARG0: i230 ARG1: x243 ]
+          [ _grass_n_1 LBL: h235 ARG0: x243 ]
+          [ place_n LBL: h248 ARG0: x249 ]
+          [ def_implicit_q LBL: h275 ARG0: x270 RSTR: h273 BODY: h274 ]
+          [ _east_a_1 LBL: h265 ARG0: i262 ARG1: x270 ARG2: x257 ]
+          [ def_udef_a_q LBL: h269 ARG0: x257 RSTR: h267 BODY: h268 ]
+          [ _green_a_2 LBL: h261 ARG0: i259 ARG1: x257 ]
+          [ _berry_n_1 LBL: h261 ARG0: x257 ]
+          [ place_n LBL: h265 ARG0: x270 ] >
+  HCONS: < h244 qeq h235 h250 qeq h248 h267 qeq h261 h273 qeq h265 h281 qeq h224 h287 qeq h286 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+green_4        True            MRS fragment produced  True               Included in MRS
+green_7        True            MRS fragment produced  True               Included in MRS
+idBerry_6      True            MRS fragment produced  True               Included in MRS
+idGrass_3      True            MRS fragment produced  True               Included in MRS
+idSmoke_1      True            MRS fragment produced  True               Included in MRS
+uncountable_5  True            MRS fragment produced  True               Included in MRS
+yes_2          True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idArticleType_3  True            MRS composed  True               Included in MRS
+idColor_2        True            MRS composed  True               Included in MRS
+idColor_5        True            MRS composed  True               Included in MRS
+idImmovable_1    True            MRS composed  True               Included in MRS
+isEastOf_6       True            MRS composed  True               Included in MRS
+isNorthOf_4      True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7        7           1
+Nodes              Included             7        7           1
+Edges              Produced             6        6           1
+Edges              Included             6        6           1

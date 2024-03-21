@@ -1,0 +1,56 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idCouch1_subgraph.dot
+[ TOP: h2304
+  INDEX: e2301
+  RELS: < [ unknown LBL: h2303 ARG: x2230 ARG0: e2301 ]
+          [ def_udef_a_q LBL: h2300 ARG0: x2230 RSTR: h2298 BODY: h2299 ]
+          [ loc_nonsp LBL: h2296 ARG0: i2293 ARG1: x2230 ARG2: x2287 ]
+          [ _use_v_1 LBL: h2296 ARG0: e2235 ARG1: i2236 ARG2: x2230 ARG3: h2238 ]
+          [ _green_a_2 LBL: h2296 ARG0: i2232 ARG1: x2230 ]
+          [ _couch_n_1 LBL: h2296 ARG0: x2230 ]
+          [ def_implicit_q LBL: h2292 ARG0: x2287 RSTR: h2290 BODY: h2291 ]
+          [ _east_a_1 LBL: h2282 ARG0: i2279 ARG1: x2287 ARG2: x2244 ]
+          [ def_udef_a_q LBL: h2286 ARG0: x2244 RSTR: h2284 BODY: h2285 ]
+          [ loc_nonsp LBL: h2278 ARG0: i2275 ARG1: x2244 ARG2: x2262 ]
+          [ _white_a_1 LBL: h2278 ARG0: i2246 ARG1: x2244 ]
+          [ _sink_n_1 LBL: h2278 ARG0: x2244 ]
+          [ def_implicit_q LBL: h2274 ARG0: x2262 RSTR: h2272 BODY: h2273 ]
+          [ _west_a_1 LBL: h2270 ARG0: i2261 ARG1: x2262 ARG2: x2265 ]
+          [ def_udef_a_q LBL: h2268 ARG0: x2265 RSTR: h2266 BODY: h2267 ]
+          [ compound LBL: h2260 ARG0: e2257 ARG1: x2265 ARG2: x2251 ]
+          [ udef_q LBL: h2256 ARG0: x2251 RSTR: h2254 BODY: h2255 ]
+          [ _living_n_1 LBL: h2252 ARG0: x2251 ]
+          [ _room_n_unit LBL: h2260 ARG0: x2265 ]
+          [ place_n LBL: h2270 ARG0: x2262 ]
+          [ place_n LBL: h2282 ARG0: x2287 ] >
+  HCONS: < h2254 qeq h2252 h2266 qeq h2260 h2272 qeq h2270 h2284 qeq h2278 h2290 qeq h2282 h2298 qeq h2296 h2304 qeq h2303 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node            MRS Produced    Reason                                     Included in MRS    Reason
+--------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+green_2         True            MRS fragment produced                      True               Included in MRS
+idCouch_1       True            MRS fragment produced                      True               Included in MRS
+idLivingroom_8  True            MRS fragment produced                      True               Included in MRS
+idSink_5        True            MRS fragment produced                      True               Included in MRS
+idporcelain_6   False           'idporcelain' has no value in the lexicon  False              'idporcelain' has no value in the lexicon
+used_3          True            MRS fragment produced                      True               Included in MRS
+white_7         True            MRS fragment produced                      True               Included in MRS
+yes_4           True            MRS fragment produced                      False              Descends from failed edge
+
+Edge            MRS Composed    Reason                                 Included in MRS    Reason
+--------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idColor_1       True            MRS composed                           True               Included in MRS
+idColor_5       True            MRS composed                           True               Included in MRS
+idDescriptor_2  True            MRS composed                           True               Included in MRS
+idDescriptor_4  False           Inbound to failed node                 False              Inbound to failed node
+idImmovable_3   False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+isEastOf_7      True            MRS composed                           True               Included in MRS
+isWestOf_6      True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7        8    0.875
+Nodes              Included             6        8    0.75
+Edges              Produced             5        7    0.714286
+Edges              Included             5        7    0.714286

@@ -1,0 +1,46 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idMachineNote1_subgraph.dot
+[ TOP: h2973
+  INDEX: e2970
+  RELS: < [ unknown LBL: h2972 ARG: x2966 ARG0: e2970 ]
+          [ def_udef_a_q LBL: h2969 ARG0: x2966 RSTR: h2967 BODY: h2968 ]
+          [ loc_nonsp LBL: h2924 ARG0: i2962 ARG1: x2966 ARG2: x2958 ]
+          [ compound LBL: h2924 ARG0: e2921 ARG1: x2966 ARG2: x2917 ]
+          [ udef_q LBL: h2920 ARG0: x2917 RSTR: h2918 BODY: h2919 ]
+          [ _machine_n_1 LBL: h2916 ARG0: x2917 ]
+          [ _note_n_1 LBL: h2924 ARG0: x2966 ARG1: h2913 ]
+          [ def_implicit_q LBL: h2961 ARG0: x2958 RSTR: h2959 BODY: h2960 ]
+          [ _south_a_1 LBL: h2951 ARG0: i2948 ARG1: x2958 ARG2: x2952 ]
+          [ def_udef_a_q LBL: h2955 ARG0: x2952 RSTR: h2953 BODY: h2954 ]
+          [ _open_a_to LBL: h2940 ARG0: e2944 ARG1: x2952 ARG2: u2946 ]
+          [ _blue_a_1 LBL: h2940 ARG0: i2941 ARG1: x2952 ]
+          [ compound LBL: h2940 ARG0: e2937 ARG1: x2952 ARG2: x2933 ]
+          [ udef_q LBL: h2936 ARG0: x2933 RSTR: h2934 BODY: h2935 ]
+          [ _cabin_n_1 LBL: h2932 ARG0: x2933 ]
+          [ _door_n_1 LBL: h2940 ARG0: x2952 ]
+          [ place_n LBL: h2951 ARG0: x2958 ] >
+  HCONS: < h2918 qeq h2916 h2934 qeq h2932 h2953 qeq h2940 h2959 qeq h2951 h2967 qeq h2924 h2973 qeq h2972 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node             MRS Produced    Reason                 Included in MRS    Reason
+---------------  --------------  ---------------------  -----------------  -------------------------
+blue_4           True            MRS fragment produced  True               Included in MRS
+idCabin1Door_3   True            MRS fragment produced  True               Included in MRS
+idMachineNote_1  True            MRS fragment produced  True               Included in MRS
+open_5           True            MRS fragment produced  True               Included in MRS
+true_2           True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idColor_2          True            MRS composed                               True               Included in MRS
+idOpenState_3      True            MRS composed                               True               Included in MRS
+idUnknownObject_1  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isSouthOf_4        True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             5        5        1
+Nodes              Included             4        5        0.8
+Edges              Produced             3        4        0.75
+Edges              Included             3        4        0.75

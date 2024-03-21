@@ -1,0 +1,58 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idDrawer3_subgraph.dot
+[ TOP: h2174
+  INDEX: e2171
+  RELS: < [ unknown LBL: h2173 ARG: x2167 ARG0: e2171 ]
+          [ def_udef_a_q LBL: h2170 ARG0: x2167 RSTR: h2168 BODY: h2169 ]
+          [ _low_a_on LBL: h2151 ARG0: e2155 ARG1: x2167 ARG2: u2157 ]
+          [ _closed_a_1 LBL: h2151 ARG0: e2152 ARG1: x2167 ]
+          [ _drawer_n_of LBL: h2151 ARG0: x2167 ARG1: i2150 ] >
+  HCONS: < h2168 qeq h2151 h2174 qeq h2173 > ]
+GENERATED RESULTS ... 
+Low closed drawers
+The closed low drawer
+The closed low drawers
+A closed low drawer
+Closed low drawers
+The low closed drawer
+The closed low drawers.
+The low closed drawers
+A low closed drawer
+Low closed drawers.
+The closed low drawer.
+The low closed drawers.
+Closed low drawers.
+A closed low drawer.
+The low closed drawer.
+A low closed drawer.
+Closed low drawer
+Closed low drawer.
+Low closed drawer
+Low closed drawer.
+
+TOTAL RESULTS: 20
+
+Node         MRS Produced    Reason                                                Included in MRS    Reason
+-----------  --------------  ----------------------------------------------------  -----------------  ----------------------------------------------------
+3_4          False           '3' has no value in the lexicon                       False              '3' has no value in the lexicon
+closed_2     True            MRS fragment produced                                 True               Included in MRS
+closed_6     True            MRS fragment produced                                 False              Descends from failed node
+idDrawer_1   True            MRS fragment produced                                 True               Included in MRS
+idGiftBox_5  False           "Can't find '_gift_n_of-to' as a key in the lexicon"  False              "Can't find '_gift_n_of-to' as a key in the lexicon"
+idStick_7    True            MRS fragment produced                                 False              Descends from failed node
+low_3        True            MRS fragment produced                                 True               Included in MRS
+
+Edge                     MRS Composed    Reason                     Included in MRS    Reason
+-----------------------  --------------  -------------------------  -----------------  -------------------------
+idOpenState_1            True            MRS composed               True               Included in MRS
+idOpenState_4            False           Outbound from failed node  False              Outbound from failed node
+idOrdinality_3           False           Inbound to failed node     False              Inbound to failed node
+idVerticalArrangement_2  True            MRS composed               True               Included in MRS
+isEastOf_5               False           Outbound from failed node  False              Outbound from failed node
+isSouthOf_6              False           Inbound to failed node     False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             5        7    0.714286
+Nodes              Included             3        7    0.428571
+Edges              Produced             2        6    0.333333
+Edges              Included             2        6    0.333333

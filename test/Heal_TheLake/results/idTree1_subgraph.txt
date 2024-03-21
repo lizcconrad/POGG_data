@@ -1,0 +1,64 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/current/idTree1_subgraph.dot
+[ TOP: h205
+  INDEX: e202
+  RELS: < [ unknown LBL: h204 ARG: x198 ARG0: e202 ]
+          [ def_udef_a_q LBL: h201 ARG0: x198 RSTR: h199 BODY: h200 ]
+          [ loc_nonsp LBL: h122 ARG0: i194 ARG1: x198 ARG2: x190 ]
+          [ loc_nonsp LBL: h122 ARG0: i148 ARG1: x198 ARG2: x135 ]
+          [ _immovable_a_1 LBL: h122 ARG0: e120 ARG1: x198 ]
+          [ _green_a_2 LBL: h122 ARG0: i113 ARG1: x198 ]
+          [ _tree_n_of LBL: h122 ARG0: x198 ARG1: i111 ]
+          [ def_implicit_q LBL: h147 ARG0: x135 RSTR: h145 BODY: h146 ]
+          [ _east_a_1 LBL: h137 ARG0: i134 ARG1: x135 ARG2: x138 ]
+          [ def_udef_a_q LBL: h141 ARG0: x138 RSTR: h139 BODY: h140 ]
+          [ _un-_a_neg LBL: h130 ARG0: i131 ARG1: x138 ]
+          [ _countable_a_1 LBL: h130 ARG0: e128 ARG1: x138 ]
+          [ _moss_n_1 LBL: h130 ARG0: x138 ]
+          [ place_n LBL: h137 ARG0: x135 ]
+          [ def_implicit_q LBL: h193 ARG0: x190 RSTR: h191 BODY: h192 ]
+          [ _west_a_1 LBL: h189 ARG0: i180 ARG1: x190 ARG2: x152 ]
+          [ def_udef_a_q LBL: h187 ARG0: x152 RSTR: h185 BODY: h186 ]
+          [ loc_nonsp LBL: h156 ARG0: i176 ARG1: x152 ARG2: x172 ]
+          [ _bleed_v_1 LBL: h156 ARG0: e157 [ e PROG: bool ] ARG1: x152 ]
+          [ _brown_a_1 LBL: h156 ARG0: i154 ARG1: x152 ]
+          [ _deer_n_1 LBL: h156 ARG0: x152 ]
+          [ def_implicit_q LBL: h175 ARG0: x172 RSTR: h173 BODY: h174 ]
+          [ _east_a_1 LBL: h171 ARG0: i162 ARG1: x172 ARG2: x160 ]
+          [ def_udef_a_q LBL: h169 ARG0: x160 RSTR: h167 BODY: h168 ]
+          [ _bush_n_1 LBL: h161 ARG0: x160 ]
+          [ place_n LBL: h171 ARG0: x172 ]
+          [ place_n LBL: h189 ARG0: x190 ] >
+  HCONS: < h139 qeq h130 h145 qeq h137 h167 qeq h161 h173 qeq h171 h185 qeq h156 h191 qeq h189 h199 qeq h122 h205 qeq h204 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+bleeding_8     True            MRS fragment produced  True               Included in MRS
+brown_7        True            MRS fragment produced  True               Included in MRS
+green_2        True            MRS fragment produced  True               Included in MRS
+idBush_9       True            MRS fragment produced  True               Included in MRS
+idDeer_6       True            MRS fragment produced  True               Included in MRS
+idMoss_4       True            MRS fragment produced  True               Included in MRS
+idTree_1       True            MRS fragment produced  True               Included in MRS
+uncountable_5  True            MRS fragment produced  True               Included in MRS
+yes_3          True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idArticleType_3  True            MRS composed  True               Included in MRS
+idColor_1        True            MRS composed  True               Included in MRS
+idColor_5        True            MRS composed  True               Included in MRS
+idDescriptor__6  True            MRS composed  True               Included in MRS
+idImmovable_2    True            MRS composed  True               Included in MRS
+isEastOf_4       True            MRS composed  True               Included in MRS
+isEastOf_7       True            MRS composed  True               Included in MRS
+isWestOf_8       True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             9        9           1
+Nodes              Included             9        9           1
+Edges              Produced             8        8           1
+Edges              Included             8        8           1

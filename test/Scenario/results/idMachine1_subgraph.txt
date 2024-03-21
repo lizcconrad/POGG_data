@@ -1,0 +1,43 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idMachine1_subgraph.dot
+[ TOP: h1592
+  INDEX: e1589
+  RELS: < [ unknown LBL: h1591 ARG: x1580 ARG0: e1589 ]
+          [ def_udef_a_q LBL: h1588 ARG0: x1580 RSTR: h1586 BODY: h1587 ]
+          [ _off_a_1 LBL: h1584 ARG0: e1582 ARG1: x1580 ]
+          [ _machine_n_1 LBL: h1584 ARG0: x1580 ] >
+  HCONS: < h1586 qeq h1584 h1592 qeq h1591 > ]
+GENERATED RESULTS ... 
+The off machines
+The off machine
+Off machines
+An off machine
+The off machines.
+Off machines.
+The off machine.
+Off machine
+An off machine.
+Off machine.
+
+TOTAL RESULTS: 10
+
+Node          MRS Produced    Reason                                    Included in MRS    Reason
+------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+2_5           False           '2' has no value in the lexicon           False              '2' has no value in the lexicon
+idMachine_1   True            MRS fragment produced                     True               Included in MRS
+idOnSwitch_3  False           'idOnSwitch' has no value in the lexicon  False              'idOnSwitch' has no value in the lexicon
+idPlage_4     False           'idPlage' has no value in the lexicon     False              'idPlage' has no value in the lexicon
+off_2         True            MRS fragment produced                     True               Included in MRS
+
+Edge              MRS Composed    Reason                     Included in MRS    Reason
+----------------  --------------  -------------------------  -----------------  -------------------------
+idOrdinality_3    False           Outbound from failed node  False              Outbound from failed node
+idPowerControl_2  False           Inbound to failed node     False              Inbound to failed node
+idPowerState_1    True            MRS composed               True               Included in MRS
+isSouthOf_4       False           Inbound to failed node     False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        5        0.4
+Nodes              Included             2        5        0.4
+Edges              Produced             1        4        0.25
+Edges              Included             1        4        0.25

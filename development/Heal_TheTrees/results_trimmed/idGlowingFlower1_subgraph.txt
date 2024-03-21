@@ -1,0 +1,67 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheTrees/subgraphs/dot/complete/idGlowingFlower1_subgraph.dot
+[ TOP: h352
+  INDEX: e349
+  RELS: < [ unknown LBL: h351 ARG: x345 ARG0: e349 ]
+          [ def_udef_a_q LBL: h348 ARG0: x345 RSTR: h346 BODY: h347 ]
+          [ _green_a_2 LBL: h337 ARG0: i338 ARG1: x345 ]
+          [ _glow_v_1 LBL: h337 ARG0: e335 [ e PROG: bool ] ARG1: x345 ]
+          [ _flower_n_1 LBL: h337 ARG0: x345 ] >
+  HCONS: < h346 qeq h337 h352 qeq h351 > ]
+GENERATED RESULTS ... 
+A green flower glowing.
+The green flower glowing.
+The glowing green flowers
+Green glowing flowers
+The green glowing flowers
+The green flowers glowing.
+The glowing green flowers.
+The glowing green flower
+The green glowing flower
+Green glowing flowers.
+A glowing green flower
+A green flower glowing
+A green glowing flower
+Glowing green flowers
+The green glowing flowers.
+A green flower, glowing.
+Green flower glowing.
+The green flower glowing
+Glowing green flowers.
+The green flowers glowing
+Green glowing flower
+The green flowers, glowing.
+The glowing green flower.
+Green flowers, glowing.
+Green flowers glowing.
+A glowing green flower.
+The green flower, glowing.
+The green glowing flower.
+A green glowing flower.
+Glowing green flower
+Green flower glowing
+Green flower, glowing.
+Green glowing flower.
+Green flowers glowing
+Glowing green flower.
+
+TOTAL RESULTS: 35
+
+Node               MRS Produced    Reason                 Included in MRS    Reason
+-----------------  --------------  ---------------------  -----------------  -------------------------
+glowing_2          True            MRS fragment produced  True               Included in MRS
+green_3            True            MRS fragment produced  True               Included in MRS
+idGlowingFlower_1  True            MRS fragment produced  True               Included in MRS
+true_4             True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idColor_2          True            MRS composed                               True               Included in MRS
+idDescriptor_1     True            MRS composed                               True               Included in MRS
+idUnknownObject_3  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4    1
+Nodes              Included             3        4    0.75
+Edges              Produced             2        3    0.666667
+Edges              Included             2        3    0.666667

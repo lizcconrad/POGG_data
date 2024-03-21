@@ -1,0 +1,53 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idBook1Page3_subgraph.dot
+[ TOP: h876
+  INDEX: e873
+  RELS: < [ unknown LBL: h875 ARG: x840 ARG0: e873 ]
+          [ def_udef_a_q LBL: h872 ARG0: x840 RSTR: h870 BODY: h871 ]
+          [ _un-_a_neg LBL: h860 ARG0: i858 ARG1: e859 ]
+          [ _know_v_1 LBL: h860 ARG0: e859 ARG1: u862 ARG2: x840 ]
+          [ compound LBL: h860 ARG0: e850 ARG1: x840 ARG2: x843 ]
+          [ udef_q LBL: h849 ARG0: x843 RSTR: h847 BODY: h848 ]
+          [ _book_n_of LBL: h845 ARG0: x843 ARG1: i844 ]
+          [ _page_n_1 LBL: h860 ARG0: x840 ARG1: u841 ] >
+  HCONS: < h847 qeq h845 h870 qeq h860 h876 qeq h875 > ]
+GENERATED RESULTS ... 
+The unknown book pages.
+The unknown book pages
+Unknown book pages.
+An unknown book page
+The unknown book page
+Unknown book pages
+An unknown book page.
+The unknown book page.
+The books unknown pages
+Books unknown page
+Unknown book page
+The books unknown pages.
+Books unknown pages
+Books unknown pages.
+A books unknown page
+The books unknown page
+Unknown book page.
+Books unknown page.
+A books unknown page.
+The books unknown page.
+
+TOTAL RESULTS: 20
+
+Node            MRS Produced    Reason                           Included in MRS    Reason
+--------------  --------------  -------------------------------  -----------------  -------------------------------
+3_2             False           '3' has no value in the lexicon  False              '3' has no value in the lexicon
+idBook1Page3_1  True            MRS fragment produced            True               Included in MRS
+true_3          True            MRS fragment produced            True               Included in MRS
+
+Edge               MRS Composed    Reason                  Included in MRS    Reason
+-----------------  --------------  ----------------------  -----------------  ----------------------
+idCardinality_1    False           Inbound to failed node  False              Inbound to failed node
+idUnknownObject_2  True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        3    0.666667
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

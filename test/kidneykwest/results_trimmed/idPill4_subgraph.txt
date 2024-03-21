@@ -1,0 +1,34 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idPill4_subgraph.dot
+[ TOP: h3087
+  INDEX: e3084
+  RELS: < [ unknown LBL: h3086 ARG: x3080 ARG0: e3084 ]
+          [ def_udef_a_q LBL: h3083 ARG0: x3080 RSTR: h3081 BODY: h3082 ]
+          [ _pill_n_1 LBL: h3079 ARG0: x3080 ] >
+  HCONS: < h3081 qeq h3079 h3087 qeq h3086 > ]
+GENERATED RESULTS ... 
+Pills
+Pill
+The pill
+A pill
+The pills
+The pills.
+Pill.
+Pills.
+A pill.
+The pill.
+
+TOTAL RESULTS: 10
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  ---------------
+idPill_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

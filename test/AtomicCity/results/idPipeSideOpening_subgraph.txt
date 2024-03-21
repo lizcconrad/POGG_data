@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idPipeSideOpening_subgraph.dot
+[ TOP: h3229
+  INDEX: e3226
+  RELS: < [ unknown LBL: h3228 ARG: x3222 ARG0: e3226 ]
+          [ def_udef_a_q LBL: h3225 ARG0: x3222 RSTR: h3223 BODY: h3224 ]
+          [ compound LBL: h3221 ARG0: e3218 ARG1: x3222 ARG2: x3214 ]
+          [ udef_q LBL: h3217 ARG0: x3214 RSTR: h3215 BODY: h3216 ]
+          [ _side_n_1 LBL: h3213 ARG0: x3214 ]
+          [ _opening_n_1 LBL: h3221 ARG0: x3222 ] >
+  HCONS: < h3215 qeq h3213 h3223 qeq h3221 h3229 qeq h3228 > ]
+GENERATED RESULTS ... 
+The side openings
+The side opening
+A side opening
+The side openings.
+Side openings.
+Side openings
+Side opening
+The side opening.
+A side opening.
+The sided, openings.
+Sided, opening
+The sided, openings
+Sided, openings.
+The sided, opening
+A sided, opening
+Sided, openings
+The sided opening
+Side opening.
+Sided openings
+Sided, opening.
+The sided, opening.
+A sided opening
+A sided, opening.
+The sided openings
+The sided openings.
+Sided openings.
+Sided opening
+The sided opening.
+A sided opening.
+Sided opening.
+
+TOTAL RESULTS: 30
+
+Node                 MRS Produced    Reason                 Included in MRS    Reason
+-------------------  --------------  ---------------------  -----------------  ---------------
+idPipeSideOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

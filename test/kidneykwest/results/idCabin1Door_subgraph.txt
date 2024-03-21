@@ -1,0 +1,113 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idCabin1Door_subgraph.dot
+[ TOP: h1577
+  INDEX: e1574
+  RELS: < [ unknown LBL: h1576 ARG: x1551 ARG0: e1574 ]
+          [ def_udef_a_q LBL: h1573 ARG0: x1551 RSTR: h1571 BODY: h1572 ]
+          [ _open_a_to LBL: h1562 ARG0: e1566 ARG1: x1551 ARG2: u1568 ]
+          [ _blue_a_1 LBL: h1562 ARG0: i1563 ARG1: x1551 ]
+          [ compound LBL: h1562 ARG0: e1559 ARG1: x1551 ARG2: x1553 ]
+          [ udef_q LBL: h1558 ARG0: x1553 RSTR: h1556 BODY: h1557 ]
+          [ _cabin_n_1 LBL: h1554 ARG0: x1553 ]
+          [ _door_n_1 LBL: h1562 ARG0: x1551 ] >
+  HCONS: < h1556 qeq h1554 h1571 qeq h1562 h1577 qeq h1576 > ]
+GENERATED RESULTS ... 
+The open blue cabin doors
+An open blue cabin door
+The open blue cabin door
+The blue open cabin doors
+The open blue cabin doors.
+Open blue cabin doors
+The blue open cabin door
+The blue open cabin doors.
+An open cabin blue door
+The open cabin blue door
+A blue open cabin door
+The open cabin blue doors
+Open blue cabin doors.
+Blue open cabin doors
+Open cabin blue doors
+An open blue cabin door.
+The open blue cabin door.
+The open cabin blue doors.
+Cabins blue open door
+The cabin blue open door
+Open cabin blue doors.
+The cabin blue open doors
+The blue open cabin door.
+Blue open cabin doors.
+A cabin blue open door
+Cabins open blue door
+Cabin blue open doors
+A blue open cabin door.
+Cabin blue open door
+The cabin blue open doors.
+Open blue cabin door
+The cabins open blue doors
+The open cabins blue doors
+An open cabin blue door.
+A cabins blue open door
+An open cabins blue door
+The open cabin blue door.
+The open cabins blue door
+Cabin blue open doors.
+The cabins blue open door
+The open cabins blue doors.
+The cabins blue open doors
+Blue open cabin door
+A cabins open blue door
+Open cabins blue doors
+The cabins open blue door
+Cabins open blue doors
+Open cabin blue door
+Open cabins blue doors.
+The blue cabins open door
+The blue cabins open doors
+The blue cabins open doors.
+Cabins blue open doors
+Cabins blue open door.
+The cabins blue open doors.
+The cabin blue open door.
+Blue cabins open doors
+Blue cabins open doors.
+A blue cabins open door
+A cabin blue open door.
+Open blue cabin door.
+An open cabins blue door.
+The open cabins blue door.
+Cabins open blue door.
+The cabins open blue doors.
+Cabins blue open doors.
+Cabin blue open door.
+Blue open cabin door.
+A cabins blue open door.
+The blue cabins open door.
+The cabins blue open door.
+Cabins open blue doors.
+A blue cabins open door.
+Open cabin blue door.
+A cabins open blue door.
+Open cabins blue door
+The cabins open blue door.
+Blue cabins open door
+Open cabins blue door.
+Blue cabins open door.
+
+TOTAL RESULTS: 80
+
+Node            MRS Produced    Reason                 Included in MRS    Reason
+--------------  --------------  ---------------------  -----------------  ---------------
+blue_2          True            MRS fragment produced  True               Included in MRS
+idCabin1Door_1  True            MRS fragment produced  True               Included in MRS
+open_3          True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idColor_1      True            MRS composed  True               Included in MRS
+idOpenState_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

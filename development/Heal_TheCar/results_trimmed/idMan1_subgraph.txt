@@ -1,0 +1,43 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idMan1_subgraph.dot
+[ TOP: h699
+  INDEX: e696
+  RELS: < [ unknown LBL: h698 ARG: x692 ARG0: e696 ]
+          [ def_udef_a_q LBL: h695 ARG0: x692 RSTR: h693 BODY: h694 ]
+          [ _familiar_a_with LBL: h679 ARG0: e688 ARG1: x692 ARG2: u690 ]
+          [ _man_n_1 LBL: h679 ARG0: x692 ] >
+  HCONS: < h693 qeq h679 h699 qeq h698 > ]
+GENERATED RESULTS ... 
+The familiar men
+The familiar man
+A familiar man
+The familiar men.
+The familiar man.
+A familiar man.
+Familiar men.
+Familiar man
+Familiar men
+Familiar man.
+Familiar man
+Familiar man.
+
+TOTAL RESULTS: 12
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  -------------------------
+familiar_4  True            MRS fragment produced  True               Included in MRS
+idMan_1     True            MRS fragment produced  True               Included in MRS
+true_2      True            MRS fragment produced  False              Descends from failed edge
+yes_3       True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idDescriptor__3    True            MRS composed                               True               Included in MRS
+idImmovable_2      False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idUnknownObject_1  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4    1
+Nodes              Included             2        4    0.5
+Edges              Produced             1        3    0.333333
+Edges              Included             1        3    0.333333

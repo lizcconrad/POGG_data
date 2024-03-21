@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idTable1_subgraph.dot
+[ TOP: h2337
+  INDEX: e2334
+  RELS: < [ unknown LBL: h2336 ARG: x2321 ARG0: e2334 ]
+          [ def_udef_a_q LBL: h2333 ARG0: x2321 RSTR: h2331 BODY: h2332 ]
+          [ _white_a_1 LBL: h2322 ARG0: i2327 ARG1: x2321 ]
+          [ _table_n_1 LBL: h2322 ARG0: x2321 ] >
+  HCONS: < h2331 qeq h2322 h2337 qeq h2336 > ]
+GENERATED RESULTS ... 
+The white tables
+White tables
+The white table
+A white table
+The white tables.
+White tables.
+The white table.
+White table
+A white table.
+White table.
+
+TOTAL RESULTS: 10
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  -------------------------
+idTable_1  True            MRS fragment produced  True               Included in MRS
+white_3    True            MRS fragment produced  True               Included in MRS
+yes_2      True            MRS fragment produced  False              Descends from failed edge
+
+Edge           MRS Composed    Reason                                 Included in MRS    Reason
+-------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idColor_2      True            MRS composed                           True               Included in MRS
+idImmovable_1  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

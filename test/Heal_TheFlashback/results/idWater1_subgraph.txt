@@ -1,0 +1,86 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/current/idWater1_subgraph.dot
+[ TOP: h231
+  INDEX: e228
+  RELS: < [ unknown LBL: h230 ARG: x224 ARG0: e228 ]
+          [ def_udef_a_q LBL: h227 ARG0: x224 RSTR: h225 BODY: h226 ]
+          [ loc_nonsp LBL: h139 ARG0: i220 ARG1: x224 ARG2: x216 ]
+          [ loc_nonsp LBL: h139 ARG0: i136 ARG1: x224 ARG2: x130 ]
+          [ _dirty_a_1 LBL: h139 ARG0: e91 ARG1: x224 ]
+          [ _immovable_a_1 LBL: h139 ARG0: e85 ARG1: x224 ]
+          [ _un-_a_neg LBL: h139 ARG0: i78 ARG1: x224 ]
+          [ _countable_a_1 LBL: h139 ARG0: e75 ARG1: x224 ]
+          [ _water_n_1 LBL: h139 ARG0: x224 ]
+          [ def_implicit_q LBL: h135 ARG0: x130 RSTR: h133 BODY: h134 ]
+          [ _west_a_1 LBL: h131 ARG0: i122 ARG1: x130 ARG2: x94 ]
+          [ def_udef_a_q LBL: h129 ARG0: x94 RSTR: h127 BODY: h128 ]
+          [ loc_nonsp LBL: h98 ARG0: i118 ARG1: x94 ARG2: x114 ]
+          [ _brown_a_1 LBL: h98 ARG0: i99 ARG1: x94 ]
+          [ _wobbly_a_1 LBL: h98 ARG0: e96 ARG1: x94 ]
+          [ _chair_n_1 LBL: h98 ARG0: x94 ]
+          [ def_implicit_q LBL: h117 ARG0: x114 RSTR: h115 BODY: h116 ]
+          [ _north_a_1 LBL: h113 ARG0: i104 ARG1: x114 ARG2: x108 ]
+          [ def_udef_a_q LBL: h111 ARG0: x108 RSTR: h109 BODY: h110 ]
+          [ _cabinet_n_1 LBL: h103 ARG0: x108 ]
+          [ place_n LBL: h113 ARG0: x114 ]
+          [ place_n LBL: h131 ARG0: x130 ]
+          [ def_implicit_q LBL: h219 ARG0: x216 RSTR: h217 BODY: h218 ]
+          [ _south_a_1 LBL: h215 ARG0: i206 ARG1: x216 ARG2: x140 ]
+          [ def_udef_a_q LBL: h213 ARG0: x140 RSTR: h211 BODY: h212 ]
+          [ loc_nonsp LBL: h152 ARG0: i202 ARG1: x140 ARG2: x196 ]
+          [ _on_p_loc LBL: h152 ARG0: e167 ARG1: x140 ARG2: x164 ]
+          [ def_udef_a_q LBL: h174 ARG0: x164 RSTR: h172 BODY: h173 ]
+          [ _left_n_of LBL: h166 ARG0: x164 ARG1: i165 ]
+          [ poss LBL: h152 ARG0: e160 ARG1: x140 ARG2: x153 ]
+          [ compound LBL: h152 ARG0: e149 ARG1: x140 ARG2: x142 ]
+          [ udef_q LBL: h148 ARG0: x142 RSTR: h146 BODY: h147 ]
+          [ _left_n_of LBL: h144 ARG0: x142 ARG1: i143 ]
+          [ _hand_n_1 LBL: h152 ARG0: x140 ]
+          [ def_udef_a_q LBL: h159 ARG0: x153 RSTR: h157 BODY: h158 ]
+          [ _player_n_of LBL: h155 ARG0: x153 ARG1: i154 ]
+          [ def_implicit_q LBL: h201 ARG0: x196 RSTR: h199 BODY: h200 ]
+          [ _north_a_1 LBL: h191 ARG0: i188 ARG1: x196 ARG2: x175 ]
+          [ def_udef_a_q LBL: h195 ARG0: x175 RSTR: h193 BODY: h194 ]
+          [ compound LBL: h187 ARG0: e184 ARG1: x175 ARG2: x178 ]
+          [ udef_q LBL: h183 ARG0: x178 RSTR: h181 BODY: h182 ]
+          [ _pill_n_1 LBL: h179 ARG0: x178 ]
+          [ _bottle_n_of LBL: h187 ARG0: x175 ARG1: i176 ]
+          [ place_n LBL: h191 ARG0: x196 ]
+          [ place_n LBL: h215 ARG0: x216 ] >
+  HCONS: < h109 qeq h103 h115 qeq h113 h127 qeq h98 h133 qeq h131 h172 qeq h166 h146 qeq h144 h157 qeq h155 h181 qeq h179 h193 qeq h187 h199 qeq h191 h211 qeq h152 h217 qeq h215 h225 qeq h139 h231 qeq h230 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                MRS Produced    Reason                 Included in MRS    Reason
+------------------  --------------  ---------------------  -----------------  ---------------
+brown_7             True            MRS fragment produced  True               Included in MRS
+dirty_4             True            MRS fragment produced  True               Included in MRS
+idCabinet_8         True            MRS fragment produced  True               Included in MRS
+idChair_5           True            MRS fragment produced  True               Included in MRS
+idLocalLeft_10      True            MRS fragment produced  True               Included in MRS
+idPillBottle_11     True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_9  True            MRS fragment produced  True               Included in MRS
+idWater_1           True            MRS fragment produced  True               Included in MRS
+uncountable_2       True            MRS fragment produced  True               Included in MRS
+wobbly_6            True            MRS fragment produced  True               Included in MRS
+yes_3               True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idArticleType_1  True            MRS composed  True               Included in MRS
+idColor_5        True            MRS composed  True               Included in MRS
+idDescriptor_3   True            MRS composed  True               Included in MRS
+idDescriptor_4   True            MRS composed  True               Included in MRS
+idImmovable_2    True            MRS composed  True               Included in MRS
+idLocation_8     True            MRS composed  True               Included in MRS
+isNorthOf_6      True            MRS composed  True               Included in MRS
+isNorthOf_9      True            MRS composed  True               Included in MRS
+isSouthOf_10     True            MRS composed  True               Included in MRS
+isWestOf_7       True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced            11       11           1
+Nodes              Included            11       11           1
+Edges              Produced            10       10           1
+Edges              Included            10       10           1

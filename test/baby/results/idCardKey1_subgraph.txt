@@ -1,0 +1,51 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idCardKey1_subgraph.dot
+[ TOP: h928
+  INDEX: e925
+  RELS: < [ unknown LBL: h927 ARG: x921 ARG0: e925 ]
+          [ def_udef_a_q LBL: h924 ARG0: x921 RSTR: h922 BODY: h923 ]
+          [ _un-_a_neg LBL: h895 ARG0: i910 ARG1: e913 ]
+          [ _know_v_1 LBL: h895 ARG0: e913 ARG1: u914 ARG2: x921 ]
+          [ compound LBL: h895 ARG0: e902 ARG1: x921 ARG2: x896 ]
+          [ udef_q LBL: h901 ARG0: x896 RSTR: h899 BODY: h900 ]
+          [ _key_n_1 LBL: h897 ARG0: x896 ]
+          [ _card_n_1 LBL: h895 ARG0: x921 ] >
+  HCONS: < h899 qeq h897 h922 qeq h895 h928 qeq h927 > ]
+GENERATED RESULTS ... 
+An unknown key card
+The unknown key card
+The unknown key cards
+The unknown key cards.
+Unknown key cards.
+Unknown key cards
+Unknown key card
+An unknown key card.
+The unknown key card.
+Keys unknown card
+The keys unknown cards
+Keys unknown cards
+A keys unknown card
+The keys unknown card
+The keys unknown cards.
+Keys unknown card.
+Keys unknown cards.
+A keys unknown card.
+The keys unknown card.
+Unknown key card.
+
+TOTAL RESULTS: 20
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  ---------------
+idCardKey_1  True            MRS fragment produced  True               Included in MRS
+true_2       True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idUnknownObject_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

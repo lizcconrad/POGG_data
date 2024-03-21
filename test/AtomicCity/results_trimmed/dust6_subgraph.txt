@@ -1,0 +1,36 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/dust6_subgraph.dot
+[ TOP: h645
+  INDEX: e642
+  RELS: < [ unknown LBL: h644 ARG: x638 ARG0: e642 ]
+          [ def_udef_a_q LBL: h641 ARG0: x638 RSTR: h639 BODY: h640 ]
+          [ _dust_n_1 LBL: h637 ARG0: x638 ] >
+  HCONS: < h639 qeq h637 h645 qeq h644 > ]
+GENERATED RESULTS ... 
+Dust
+The dusts.
+The dusts
+A dust
+Dusts
+Dust.
+A dust.
+The dust.
+Dusts.
+The dust
+Dust.
+Dust
+
+TOTAL RESULTS: 12
+
+Node     MRS Produced    Reason                 Included in MRS    Reason
+-------  --------------  ---------------------  -----------------  ---------------
+dust6_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

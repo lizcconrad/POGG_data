@@ -1,0 +1,34 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idPassenger1_subgraph.dot
+[ TOP: h534
+  INDEX: e531
+  RELS: < [ unknown LBL: h533 ARG: x527 ARG0: e531 ]
+          [ def_udef_a_q LBL: h530 ARG0: x527 RSTR: h528 BODY: h529 ]
+          [ _passenger_n_1 LBL: h526 ARG0: x527 ] >
+  HCONS: < h528 qeq h526 h534 qeq h533 > ]
+GENERATED RESULTS ... 
+Passengers
+Passenger
+The passenger
+A passenger
+The passengers
+The passengers.
+Passenger.
+Passengers.
+A passenger.
+The passenger.
+
+TOTAL RESULTS: 10
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+idPassenger_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

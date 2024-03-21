@@ -1,0 +1,29 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idCavern3_subgraph.dot
+[ TOP: h402
+  INDEX: e399
+  RELS: < [ unknown LBL: h401 ARG: x389 ARG0: e399 ]
+          [ def_udef_a_q LBL: h398 ARG0: x389 RSTR: h396 BODY: h397 ]
+          [ _strange_a_to LBL: h394 ARG0: e391 ARG1: x389 ARG2: i393 ]
+          [ _cavern_n_1 LBL: h394 ARG0: x389 ] >
+  HCONS: < h396 qeq h394 h402 qeq h401 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node        MRS Produced    Reason                           Included in MRS    Reason
+----------  --------------  -------------------------------  -----------------  -------------------------------
+3_3         False           '3' has no value in the lexicon  False              '3' has no value in the lexicon
+idCavern_1  True            MRS fragment produced            True               Included in MRS
+strange_2   True            MRS fragment produced            True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idDescriptor_1  True            MRS composed            True               Included in MRS
+idOrdinality_2  False           Inbound to failed node  False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        3    0.666667
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

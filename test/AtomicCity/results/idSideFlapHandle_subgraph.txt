@@ -1,0 +1,34 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idSideFlapHandle_subgraph.dot
+[ TOP: h836
+  INDEX: e833
+  RELS: < [ unknown LBL: h835 ARG: x827 ARG0: e833 ]
+          [ def_udef_a_q LBL: h832 ARG0: x827 RSTR: h830 BODY: h831 ]
+          [ _handle_n_1 LBL: h828 ARG0: x827 ] >
+  HCONS: < h830 qeq h828 h836 qeq h835 > ]
+GENERATED RESULTS ... 
+Handles
+Handle
+The handle
+A handle
+The handles
+The handles.
+Handle.
+Handles.
+A handle.
+The handle.
+
+TOTAL RESULTS: 10
+
+Node                MRS Produced    Reason                 Included in MRS    Reason
+------------------  --------------  ---------------------  -----------------  ---------------
+idSideFlapHandle_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

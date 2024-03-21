@@ -1,0 +1,299 @@
+{
+    "entityTypes": {
+        "idBathroom": "_bathroom_n_1",
+        "idBathroom1FrontOpening":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idBed": "_bed_n_1",
+        "idBedroom": "_bedroom_n_1",
+        "idBedroom1BackOpening":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idBedroom1RightOpening":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_right_n_of"
+            }
+        },
+        "idBedroomToBathroomDoor":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_bathroom_n_1"
+            }
+        },
+        "idBerry": "_berry_n_1",
+        "idCabinet": "_cabinet_n_1",
+        "idCalendar": "_calendar_n_1",
+        "idCarKey":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_key_n_1",
+                "modifier": "_car_n_1"
+            }
+        },
+        "idChair": "_chair_n_1",
+        "idCouch": "_couch_n_1",
+        "idDeer": "_deer_n_1",
+        "idDesk": "_desk_n_1",
+        "idDrawer": "_drawer_n_of",
+        "idDresser": "_dresser_n_1",
+        "idKey": "_key_n_1",
+        "idKitchCabDrawer":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_drawer_n_of",
+                "modifier": "_cabinet_n_1"
+            }
+        },
+        "idKitchen": "_kitchen_n_1",
+        "idKitchen1FrontOpening":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idLivingRoomToBedroomDoor":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_bedroom_n_1"
+            }
+        },
+        "idLivingRoomToKitchenDoor":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_kitchen_n_1"
+            }
+        },
+        "idLivingroom":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_room_n_unit",
+                "modifier": "_living_n_1"
+            }
+        },
+        "idLivingroom1BackOpening":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idLivingroom1LeftOpening":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idLock": "_lock_n_1",
+        "idMedDrawer":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_drawer_n_of",
+                "modifier": "_medicine_n_1"
+            }
+        },
+        "idMedicineCabinet":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_cabinet_n_1",
+                "modifier": "_medicine_n_1"
+            }
+        },
+        "idMike": "",
+        "idPainting": "_painting_n_of",
+        "idPillBottle":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_bottle_n_of",
+                "modifier": "_pill_n_1"
+            }
+        },
+        "idPillow": "_pillow_n_1",
+        "idPlayer": "_player_n_of",
+        "idPlayerBackside": {
+            "composition": "possessive",
+            "predicates": {
+                "head": "_backside_n_1",
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerLeftHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_left_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerRightHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_right_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idRug": "_rug_n_1",
+        "idRugStain": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_stain_n_1",
+                "modifier": "_rug_n_1"
+            }
+        },
+        "idSink": "_sink_n_1",
+        "idSinkStain": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_stain_n_1",
+                "modifier": "_sink_n_1"
+            }
+        },
+        "idSock": "_sock_n_1",
+        "idTable": "_table_n_1",
+        "idTheFlashback": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_back_n_1",
+                "modifier": "_flash_n_of"
+            }
+        },
+        "idToilet": "_toilet_n_1",
+        "idTree": "_tree_n_1",
+        "idWater": "_water_n_1"
+    },
+    "propertyValues": {
+        "bare": "_bare_a_of",
+        "black": "_black_a_1",
+        "blue": "_blue_a_1",
+        "brown": "_brown_a_1",
+        "closed": "_closed_a_1",
+        "dirty": "_dirty_a_1",
+        "false": "_false_a_of",
+        "green": "_green_a_2",
+        "idLocalLeft": "_left_n_of",
+        "idporcelain": "",
+        "idqueen": "_queen_n_of",
+        "idwood": "_wooden_a_1",
+        "locked": "_lock_v_cause",
+        "messy": "_messy_a_1",
+        "no": "_false_a_of",
+        "old": "_old_a_1",
+        "open": "_open_a_to",
+        "red": "_red_a_1",
+        "regular": "_regular_a_1",
+        "right": "_right_n_of",
+        "scratched": "_scratch_v_1",
+        "small": "_small_a_1",
+        "stained": "_stain_v_1",
+        "thin": "_thin_a_1",
+        "true": "_true_a_of",
+        "uncountable": "",
+        "unmade": {
+            "composition": "prefix",
+            "predicates": {
+                "head": "_make_v_1",
+                "modifier": "_un-_a_neg"
+            }
+        },
+        "used": "_use_v_1",
+        "white": "_white_a_1",
+        "wobbly": "_wobbly_a_1",
+        "wooden": "_wooden_a_1",
+        "yellow": "_yellow_a_1",
+        "yes": "_true_a_of"
+    },
+    "properties": {
+        "idOpenState": "adjective",
+        "idDescriptor": "descriptor",
+        "idMaterial": "descriptor",
+        "idMaterial_": "descriptor",
+        "idImmovable": "",
+        "idColor": "adjective",
+        "idSize": "adjective",
+        "idUnknownObject": "",
+        "idDescriptor_": "descriptor",
+        "idArticleType": "descriptor",
+        "idLocation": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_on_p_loc"
+            }
+        },
+        "idLockedState": "descriptor",
+        "isBeneath": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_beneath_p"
+            }
+        },
+        "isEastOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_east_a_1"
+            }
+        },
+        "isInsideOf": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_inside+of_p"
+            }
+        },
+        "isNear": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_near_p"
+            }
+        },
+        "isNorthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_north_a_1"
+            }
+        },
+        "isSouthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_south_a_1"
+            }
+        },
+        "isWestOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_west_a_1"
+            }
+        }
+    }
+}

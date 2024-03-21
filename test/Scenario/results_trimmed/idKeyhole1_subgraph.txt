@@ -1,0 +1,500 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idKeyhole1_subgraph.dot
+[ TOP: h525
+  INDEX: e522
+  RELS: < [ unknown LBL: h524 ARG: x413 ARG0: e522 ]
+          [ def_udef_a_q LBL: h521 ARG0: x413 RSTR: h519 BODY: h520 ]
+          [ loc_nonsp LBL: h414 ARG0: i514 ARG1: x413 ARG2: x508 ]
+          [ _near_p LBL: h414 ARG0: e457 ARG1: x413 ARG2: x461 ]
+          [ def_udef_a_q LBL: h464 ARG0: x461 RSTR: h462 BODY: h463 ]
+          [ loc_nonsp LBL: h456 ARG0: i453 ARG1: x461 ARG2: x447 ]
+          [ compound LBL: h456 ARG0: e433 ARG1: x461 ARG2: x427 ]
+          [ udef_q LBL: h432 ARG0: x427 RSTR: h430 BODY: h431 ]
+          [ _lock_n_1 LBL: h428 ARG0: x427 ]
+          [ _face_n_1 LBL: h456 ARG0: x461 ]
+          [ def_implicit_q LBL: h452 ARG0: x447 RSTR: h450 BODY: h451 ]
+          [ _north_a_1 LBL: h442 ARG0: i439 ARG1: x447 ARG2: x437 ]
+          [ def_udef_a_q LBL: h446 ARG0: x437 RSTR: h444 BODY: h445 ]
+          [ _flashlight_n_1 LBL: h438 ARG0: x437 ]
+          [ place_n LBL: h442 ARG0: x447 ]
+          [ compound LBL: h414 ARG0: e421 ARG1: x413 ARG2: x417 ]
+          [ udef_q LBL: h420 ARG0: x417 RSTR: h418 BODY: h419 ]
+          [ _key_n_1 LBL: h416 ARG0: x417 ]
+          [ _hole_n_1 LBL: h414 ARG0: x413 ]
+          [ def_implicit_q LBL: h513 ARG0: x508 RSTR: h511 BODY: h512 ]
+          [ _north_a_1 LBL: h503 ARG0: i500 ARG1: x508 ARG2: x504 ]
+          [ def_udef_a_q LBL: h507 ARG0: x504 RSTR: h505 BODY: h506 ]
+          [ loc_nonsp LBL: h466 ARG0: i496 ARG1: x504 ARG2: x492 ]
+          [ _off_a_1 LBL: h466 ARG0: e467 ARG1: x504 ]
+          [ _machine_n_1 LBL: h466 ARG0: x504 ]
+          [ def_implicit_q LBL: h495 ARG0: x492 RSTR: h493 BODY: h494 ]
+          [ _south_a_1 LBL: h491 ARG0: i482 ARG1: x492 ARG2: x486 ]
+          [ def_udef_a_q LBL: h489 ARG0: x486 RSTR: h487 BODY: h488 ]
+          [ compound LBL: h471 ARG0: e478 ARG1: x486 ARG2: x472 ]
+          [ udef_q LBL: h477 ARG0: x472 RSTR: h475 BODY: h476 ]
+          [ _key_n_1 LBL: h473 ARG0: x472 ]
+          [ _hole_n_1 LBL: h471 ARG0: x486 ]
+          [ place_n LBL: h491 ARG0: x492 ]
+          [ place_n LBL: h503 ARG0: x508 ] >
+  HCONS: < h430 qeq h428 h444 qeq h438 h450 qeq h442 h462 qeq h456 h418 qeq h416 h475 qeq h473 h487 qeq h471 h493 qeq h491 h505 qeq h466 h511 qeq h503 h519 qeq h414 h525 qeq h524 > ]
+GENERATED RESULTS ... 
+Key holes near the lock faces north of the flashlights north of the off machines south of the key holes
+A key hole north of the off machines south of the key holes near lock faces north of the flashlights
+The key hole north of the off machines south of the key holes near lock faces north of the flashlights
+Key holes near lock faces north of the flashlights north of the off machines south of the key holes
+Key holes near the lock faces north of the flashlights north of the off machine south of the key holes
+Key holes near the lock faces north of the flashlights north of the off machines south of the key hole
+A key hole north of the off machine south of the key holes near lock faces north of the flashlights
+The key hole north of the off machine south of the key holes near lock faces north of the flashlights
+Key holes near a lock face north of the flashlights north of the off machines south of the key holes
+Key holes near lock faces north of the flashlights north of the off machine south of the key holes
+A key hole north of the off machines south of the key hole near lock faces north of the flashlights
+The key hole north of the off machines south of the key hole near lock faces north of the flashlights
+Key holes near lock faces north of the flashlights north of the off machines south of the key hole
+Key holes near the lock faces north of the flashlight north of the off machines south of the key holes
+A key hole north of the off machines south of the key holes near a lock face north of the flashlights
+The key hole north of the off machines south of the key holes near a lock face north of the flashlights
+A key hole north of the off machines south of the key holes near lock faces north of the flashlight
+The key hole north of the off machines south of the key holes near lock faces north of the flashlight
+Key holes near lock faces north of the flashlight north of the off machines south of the key holes
+Key holes near the lock face north of the flashlights north of the off machines south of the key holes
+Key holes near the lock faces north of the flashlights north of the off machine south of the key hole
+Key holes near a lock face north of the flashlights north of the off machine south of the key holes
+A key hole north of the off machine south of the key hole near lock faces north of the flashlights
+The key hole north of the off machine south of the key hole near lock faces north of the flashlights
+Key holes near a lock face north of the flashlights north of the off machines south of the key hole
+Key holes near lock faces north of the flashlights north of the off machine south of the key hole
+Key holes near the lock faces north of the flashlight north of the off machine south of the key holes
+A key hole north of the off machine south of the key holes near a lock face north of the flashlights
+The key hole north of the off machine south of the key holes near a lock face north of the flashlights
+Key holes near the lock faces north of the flashlight north of the off machines south of the key hole
+A key hole north of the off machines south of the key holes near the lock faces north of the flashlights
+A key hole north of the off machines south of the key hole near a lock face north of the flashlights
+A key hole north of the off machine south of the key holes near lock faces north of the flashlight
+The key hole north of the off machines south of the key holes near the lock faces north of the flashlights
+The key hole north of the off machines south of the key hole near a lock face north of the flashlights
+The key hole north of the off machine south of the key holes near lock faces north of the flashlight
+Key holes near a lock face north of the flashlight north of the off machines south of the key holes
+Key holes near lock faces north of the flashlight north of the off machine south of the key holes
+A key hole north of the off machines south of the key hole near lock faces north of the flashlight
+The key hole north of the off machines south of the key hole near lock faces north of the flashlight
+Key holes near the lock faces north of the flashlights north of the off machines south of the key holes.
+Key holes near lock faces north of the flashlight north of the off machines south of the key hole
+Key holes near the lock face north of the flashlights north of the off machine south of the key holes
+A key hole north of the off machines south of the key holes near a lock face north of the flashlight
+The key hole north of the off machines south of the key holes near a lock face north of the flashlight
+Key holes near the lock face north of the flashlights north of the off machines south of the key hole
+Key holes near lock faces north of the flashlights north of the off machines south of the key holes.
+Key holes near the lock face north of the flashlight north of the off machines south of the key holes
+Key holes near a lock face north of the flashlights north of the off machine south of the key hole
+Key holes near the lock faces north of the flashlight north of the off machine south of the key hole
+A key hole north of the off machine south of the key holes near the lock faces north of the flashlights
+A key hole north of the off machine south of the key hole near a lock face north of the flashlights
+The key hole north of the off machine south of the key holes near the lock faces north of the flashlights
+The key hole north of the off machine south of the key hole near a lock face north of the flashlights
+Key holes near a lock face north of the flashlight north of the off machine south of the key holes
+A key hole north of the off machines south of the key hole near the lock faces north of the flashlights
+A key hole north of the off machine south of the key hole near lock faces north of the flashlight
+The key hole north of the off machines south of the key hole near the lock faces north of the flashlights
+The key hole north of the off machine south of the key hole near lock faces north of the flashlight
+Key holes near a lock face north of the flashlight north of the off machines south of the key hole
+Key holes near the lock faces north of the flashlights north of the off machine south of the key holes.
+Key holes near lock faces north of the flashlight north of the off machine south of the key hole
+A key hole north of the off machine south of the key holes near a lock face north of the flashlight
+The key hole north of the off machine south of the key holes near a lock face north of the flashlight
+Key holes near the lock face north of the flashlights north of the off machine south of the key hole
+A key hole north of the off machines south of the key holes near the lock faces north of the flashlight
+A key hole north of the off machines south of the key hole near a lock face north of the flashlight
+Key holes near a lock face north of the flashlights north of the off machines south of the key holes.
+The key hole north of the off machines south of the key holes near the lock faces north of the flashlight
+The key hole north of the off machines south of the key hole near a lock face north of the flashlight
+Key holes near lock faces north of the flashlights north of the off machine south of the key holes.
+A key hole north of the off machines south of the key holes near lock faces north of the flashlights.
+Key holes near the lock faces north of a flashlight north of the off machines south of the key holes
+The key hole north of the off machines south of the key holes near lock faces north of the flashlights.
+Key holes near the lock faces north of the flashlight north of the off machines south of the key holes.
+Key holes near the lock faces north of the flashlights north of the off machines south of a key hole
+Key holes near the lock face north of the flashlight north of the off machine south of the key holes
+A key hole north of the off machines south of the key holes near lock faces north of a flashlight
+The key hole north of the off machines south of the key holes near lock faces north of a flashlight
+Key holes near the lock face north of the flashlight north of the off machines south of the key hole
+Key holes near lock faces north of a flashlight north of the off machines south of the key holes
+A key hole north of the off machines south of the key holes near the lock face north of the flashlights
+A key hole north of the off machines south of a key hole near lock faces north of the flashlights
+The key hole north of the off machines south of the key holes near the lock face north of the flashlights
+Key holes near lock faces north of the flashlight north of the off machines south of the key holes.
+The key hole north of the off machines south of a key hole near lock faces north of the flashlights
+Key holes near the lock faces north of the flashlights north of an off machine south of the key holes
+Key holes near lock faces north of the flashlights north of the off machines south of a key hole
+Key holes near the lock face north of the flashlights north of the off machines south of the key holes.
+A key hole north of an off machine south of the key holes near lock faces north of the flashlights
+A key hole north of the off machine south of the key hole near the lock faces north of the flashlights
+The key hole north of an off machine south of the key holes near lock faces north of the flashlights
+The key hole north of the off machine south of the key hole near the lock faces north of the flashlights
+Key holes near a lock face north of the flashlight north of the off machine south of the key hole
+Key holes near lock faces north of the flashlights north of an off machine south of the key holes
+A key hole north of the off machine south of the key holes near the lock faces north of the flashlight
+A key hole north of the off machine south of the key hole near a lock face north of the flashlight
+Key holes near a lock face north of the flashlights north of the off machine south of the key holes.
+The key hole north of the off machine south of the key holes near the lock faces north of the flashlight
+The key hole north of the off machine south of the key hole near a lock face north of the flashlight
+A key hole north of the off machines south of the key hole near the lock faces north of the flashlight
+The key hole north of the off machines south of the key hole near the lock faces north of the flashlight
+A key hole north of the off machine south of the key holes near lock faces north of the flashlights.
+Key holes near the lock faces north of a flashlight north of the off machine south of the key holes
+The key hole north of the off machine south of the key holes near lock faces north of the flashlights.
+Key holes near the lock faces north of the flashlight north of the off machine south of the key holes.
+Key holes near the lock faces north of the flashlights north of the off machine south of a key hole
+A key hole north of the off machines south of the key hole near lock faces north of the flashlights.
+Key holes near the lock faces north of a flashlight north of the off machines south of the key hole
+The key hole north of the off machines south of the key hole near lock faces north of the flashlights.
+A key hole north of the off machine south of the key holes near lock faces north of a flashlight
+The key hole north of the off machine south of the key holes near lock faces north of a flashlight
+Key holes near the lock face north of the flashlight north of the off machine south of the key hole
+Key holes near a lock face north of a flashlight north of the off machines south of the key holes
+Key holes near a lock face north of the flashlight north of the off machines south of the key holes.
+Key holes near lock faces north of a flashlight north of the off machine south of the key holes
+A key hole north of the off machine south of the key holes near the lock face north of the flashlights
+A key hole north of the off machine south of a key hole near lock faces north of the flashlights
+A key hole north of the off machines south of the key holes near a lock face north of the flashlights.
+The key holes north of the off machines south of the key holes near lock faces north of the flashlights
+A key hole north of the off machines south of the key hole near lock faces north of a flashlight
+The key hole north of the off machine south of the key holes near the lock face north of the flashlights
+Key holes near lock faces north of the flashlight north of the off machine south of the key holes.
+The key hole north of the off machine south of a key hole near lock faces north of the flashlights
+The key hole north of the off machines south of the key holes near a lock face north of the flashlights.
+Key holes near a lock face north of the flashlights north of the off machines south of a key hole
+The key hole north of the off machines south of the key hole near lock faces north of a flashlight
+Key holes near lock faces north of the flashlights north of the off machine south of a key hole
+Key holes near lock faces north of a flashlight north of the off machines south of the key hole
+A key hole north of the off machines south of the key hole near the lock face north of the flashlights
+The key hole north of the off machines south of the key hole near the lock face north of the flashlights
+Key holes near the lock faces north of the flashlights north of an off machine south of the key hole
+A key hole north of the off machines south of the key holes near a lock face north of a flashlight
+Key holes near the lock face north of the flashlights north of the off machine south of the key holes.
+The key hole north of the off machines south of the key holes near a lock face north of a flashlight
+Key holes near the lock faces north of the flashlight north of the off machines south of a key hole
+Key holes near a lock face north of the flashlights north of an off machine south of the key holes
+A key hole north of the off machines south of a key hole near a lock face north of the flashlights
+The key hole north of the off machines south of a key hole near a lock face north of the flashlights
+A key hole north of an off machine south of the key hole near lock faces north of the flashlights
+The key hole north of an off machine south of the key hole near lock faces north of the flashlights
+A key hole near lock faces north of the flashlights north of the off machines south of the key holes
+A key hole north of the off machines south of the key holes near the lock face north of the flashlight
+Key holes near lock faces north of the flashlights north of an off machine south of the key hole
+A key hole north of the off machines south of a key hole near lock faces north of the flashlight
+The key hole near lock faces north of the flashlights north of the off machines south of the key holes
+The key hole north of the off machines south of the key holes near the lock face north of the flashlight
+The key hole north of the off machines south of a key hole near lock faces north of the flashlight
+Key holes near the lock faces north of the flashlight north of an off machine south of the key holes
+Key holes near lock faces north of the flashlight north of the off machines south of a key hole
+A key hole north of an off machine south of the key holes near a lock face north of the flashlights
+The key hole north of an off machine south of the key holes near a lock face north of the flashlights
+Key holes near the lock faces north of the flashlights north of off machines south of the key holes
+Key holes near the lock face north of a flashlight north of the off machines south of the key holes
+Key holes near the lock face north of the flashlight north of the off machines south of the key holes.
+A key hole near the lock faces north of the flashlights north of the off machines south of the key holes
+A key hole north of an off machine south of the key holes near lock faces north of the flashlight
+A key hole north of the off machine south of the key hole near the lock faces north of the flashlight
+The key hole near the lock faces north of the flashlights north of the off machines south of the key holes
+The key hole north of an off machine south of the key holes near lock faces north of the flashlight
+The key hole north of the off machine south of the key hole near the lock faces north of the flashlight
+Key holes near the lock face north of the flashlights north of the off machines south of a key hole
+Key holes near lock faces north of the flashlight north of an off machine south of the key holes
+A key hole north of off machines south of the key holes near lock faces north of the flashlights
+The key hole north of off machines south of the key holes near lock faces north of the flashlights
+A key hole north of the off machine south of the key hole near lock faces north of the flashlights.
+Key holes near the lock faces north of a flashlight north of the off machine south of the key hole
+The key hole north of the off machine south of the key hole near lock faces north of the flashlights.
+Key holes near lock faces north of the flashlights north of off machines south of the key holes
+Key holes near the lock face north of the flashlights north of an off machine south of the key holes
+Key holes near a lock face north of a flashlight north of the off machine south of the key holes
+Key holes near a lock face north of the flashlight north of the off machine south of the key holes.
+A key hole north of the off machine south of the key holes near a lock face north of the flashlights.
+The key holes north of the off machine south of the key holes near lock faces north of the flashlights
+A key hole north of the off machine south of the key hole near lock faces north of a flashlight
+The key hole north of the off machine south of the key holes near a lock face north of the flashlights.
+Key holes near a lock face north of the flashlights north of the off machine south of a key hole
+The key hole north of the off machine south of the key hole near lock faces north of a flashlight
+Key holes near a lock face north of a flashlight north of the off machines south of the key hole
+Key holes near lock faces north of a flashlight north of the off machine south of the key hole
+A key hole north of the off machine south of the key hole near the lock face north of the flashlights
+A key hole north of the off machines south of the key holes near the lock faces north of the flashlights.
+A key hole north of the off machines south of the key hole near a lock face north of the flashlights.
+The key holes north of the off machines south of the key hole near lock faces north of the flashlights
+The key hole north of the off machine south of the key hole near the lock face north of the flashlights
+The key hole north of the off machines south of the key holes near the lock faces north of the flashlights.
+The key hole north of the off machines south of the key hole near a lock face north of the flashlights.
+A key hole north of the off machine south of the key holes near a lock face north of a flashlight
+Key holes near the lock faces north of the flashlights north of the off machines south of the key hole.
+The key hole north of the off machine south of the key holes near a lock face north of a flashlight
+Key holes near the lock faces north of the flashlight north of the off machine south of a key hole
+A key hole north of the off machine south of a key hole near a lock face north of the flashlights
+The key holes north of the off machines south of the key holes near a lock face north of the flashlights
+A key hole north of the off machines south of the key holes near the lock faces north of a flashlight
+A key hole north of the off machines south of the key hole near a lock face north of a flashlight
+The key hole north of the off machine south of a key hole near a lock face north of the flashlights
+The key hole north of the off machines south of the key holes near the lock faces north of a flashlight
+The key hole north of the off machines south of the key hole near a lock face north of a flashlight
+Key holes near a lock face north of the flashlights north of an off machine south of the key hole
+A key hole near lock faces north of the flashlights north of the off machine south of the key holes
+A key hole north of the off machines south of a key hole near the lock faces north of the flashlights
+A key hole north of the off machine south of the key holes near the lock face north of the flashlight
+A key hole north of the off machine south of a key hole near lock faces north of the flashlight
+The key hole near lock faces north of the flashlights north of the off machine south of the key holes
+The key hole north of the off machines south of a key hole near the lock faces north of the flashlights
+The key holes north of the off machines south of the key holes near lock faces north of the flashlight
+The key hole north of the off machine south of the key holes near the lock face north of the flashlight
+The key hole north of the off machine south of a key hole near lock faces north of the flashlight
+Key holes near a lock face north of the flashlight north of the off machines south of a key hole
+Key holes near lock faces north of the flashlights north of the off machines south of the key hole.
+Key holes near lock faces north of the flashlight north of the off machine south of a key hole
+A key hole near lock faces north of the flashlights north of the off machines south of the key hole
+Key holes near the lock faces north of a flashlight north of the off machines south of the key holes.
+A key hole north of the off machines south of the key hole near the lock face north of the flashlight
+The key hole near lock faces north of the flashlights north of the off machines south of the key hole
+The key hole north of the off machines south of the key hole near the lock face north of the flashlight
+Key holes near the lock faces north of the flashlight north of an off machine south of the key hole
+Key holes near the lock face north of a flashlight north of the off machine south of the key holes
+Key holes near the lock face north of the flashlight north of the off machine south of the key holes.
+A key hole north of an off machine south of the key holes near the lock faces north of the flashlights
+A key hole north of an off machine south of the key hole near a lock face north of the flashlights
+A key hole near the lock faces north of the flashlights north of the off machine south of the key holes
+The key hole north of an off machine south of the key holes near the lock faces north of the flashlights
+The key hole north of an off machine south of the key hole near a lock face north of the flashlights
+The key hole near the lock faces north of the flashlights north of the off machine south of the key holes
+Key holes near the lock face north of the flashlights north of the off machine south of a key hole
+Key holes near the lock faces north of the flashlights north of off machines south of the key hole
+Key holes near a lock face north of the flashlight north of an off machine south of the key holes
+Key holes near the lock face north of a flashlight north of the off machines south of the key hole
+A key hole north of the off machines south of a key hole near a lock face north of the flashlight
+The key hole north of the off machines south of a key hole near a lock face north of the flashlight
+A key hole near the lock faces north of the flashlights north of the off machines south of the key hole
+A key hole north of an off machine south of the key hole near lock faces north of the flashlight
+The key hole near the lock faces north of the flashlights north of the off machines south of the key hole
+Key holes near lock faces north of a flashlight north of the off machines south of the key holes.
+The key hole north of an off machine south of the key hole near lock faces north of the flashlight
+Key holes near a lock face north of the flashlights north of off machines south of the key holes
+A key hole near lock faces north of the flashlight north of the off machines south of the key holes
+Key holes near the lock faces north of the flashlights north of an off machine south of the key holes.
+Key holes near lock faces north of the flashlight north of an off machine south of the key hole
+The key hole near lock faces north of the flashlight north of the off machines south of the key holes
+A key hole near a lock face north of the flashlights north of the off machines south of the key holes
+A key hole north of off machines south of the key hole near lock faces north of the flashlights
+The key hole near a lock face north of the flashlights north of the off machines south of the key holes
+The key hole north of off machines south of the key hole near lock faces north of the flashlights
+A key hole north of an off machine south of the key holes near a lock face north of the flashlight
+Key holes near lock faces north of the flashlights north of off machines south of the key hole
+The key hole north of an off machine south of the key holes near a lock face north of the flashlight
+Key holes near the lock faces north of the flashlight north of off machines south of the key holes
+Key holes near the lock face north of the flashlights north of an off machine south of the key hole
+A key hole north of off machines south of the key holes near a lock face north of the flashlights
+A key hole near the lock faces north of the flashlight north of the off machines south of the key holes
+Key holes near a lock face north of a flashlight north of the off machine south of the key hole
+The key hole north of off machines south of the key holes near a lock face north of the flashlights
+The key hole near the lock faces north of the flashlight north of the off machines south of the key holes
+A key hole north of the off machine south of the key holes near the lock faces north of the flashlights.
+Key holes near lock faces north of the flashlights north of an off machine south of the key holes.
+A key hole north of the off machine south of the key hole near a lock face north of the flashlights.
+Key holes near the lock face north of the flashlight north of the off machines south of a key hole
+The key holes north of the off machine south of the key hole near lock faces north of the flashlights
+The key hole north of the off machine south of the key holes near the lock faces north of the flashlights.
+The key hole north of the off machine south of the key hole near a lock face north of the flashlights.
+A key hole north of off machines south of the key holes near lock faces north of the flashlight
+Key holes near the lock faces north of the flashlights north of the off machine south of the key hole.
+A key hole north of the off machines south of the key hole near the lock faces north of the flashlights.
+The key hole north of off machines south of the key holes near lock faces north of the flashlight
+A key hole north of the off machines south of the key holes near lock faces north of a flashlight.
+The key hole north of the off machines south of the key hole near the lock faces north of the flashlights.
+The key hole north of the off machines south of the key holes near lock faces north of a flashlight.
+Key holes near lock faces north of the flashlight north of off machines south of the key holes
+The key holes north of the off machine south of the key holes near a lock face north of the flashlights
+A key hole north of the off machine south of the key holes near the lock faces north of a flashlight
+A key hole north of the off machine south of the key hole near a lock face north of a flashlight
+The key hole north of the off machine south of the key holes near the lock faces north of a flashlight
+Key holes near the lock face north of the flashlight north of an off machine south of the key holes
+The key hole north of the off machine south of the key hole near a lock face north of a flashlight
+A key hole north of the off machine south of a key hole near the lock faces north of the flashlights
+The key holes north of the off machines south of the key holes near the lock faces north of the flashlights
+The key holes north of the off machines south of the key hole near a lock face north of the flashlights
+A key hole north of the off machines south of the key hole near the lock faces north of a flashlight
+The key hole north of the off machine south of a key hole near the lock faces north of the flashlights
+Key holes near a lock face north of the flashlights north of the off machines south of the key hole.
+The key holes north of the off machine south of the key holes near lock faces north of the flashlight
+The key hole north of the off machines south of the key hole near the lock faces north of a flashlight
+Key holes near the lock face north of the flashlights north of off machines south of the key holes
+Key holes near a lock face north of the flashlight north of the off machine south of a key hole
+Key holes near lock faces north of the flashlights north of the off machine south of the key hole.
+A key hole near lock faces north of the flashlights north of the off machine south of the key hole
+A key hole near the lock face north of the flashlights north of the off machines south of the key holes
+Key holes near the lock faces north of a flashlight north of the off machine south of the key holes.
+A key hole north of the off machine south of the key hole near the lock face north of the flashlight
+The key hole near lock faces north of the flashlights north of the off machine south of the key hole
+The key hole near the lock face north of the flashlights north of the off machines south of the key holes
+The key holes north of the off machines south of the key hole near lock faces north of the flashlight
+The key hole north of the off machine south of the key hole near the lock face north of the flashlight
+Key holes near the lock faces north of the flashlight north of the off machines south of the key hole.
+Key holes near the lock face north of a flashlight north of the off machine south of the key hole
+A key hole north of the off machine south of a key hole near a lock face north of the flashlight
+The key holes north of the off machines south of the key holes near a lock face north of the flashlight
+A key hole north of an off machine south of the key hole near the lock faces north of the flashlights
+The key hole north of the off machine south of a key hole near a lock face north of the flashlight
+A key hole near the lock faces north of the flashlights north of the off machine south of the key hole
+Key holes near a lock face north of a flashlight north of the off machines south of the key holes.
+The key hole north of an off machine south of the key hole near the lock faces north of the flashlights
+The key hole near the lock faces north of the flashlights north of the off machine south of the key hole
+Key holes near lock faces north of a flashlight north of the off machine south of the key holes.
+Key holes near a lock face north of the flashlight north of an off machine south of the key hole
+A key hole near lock faces north of the flashlight north of the off machine south of the key holes
+A key hole north of the off machines south of a key hole near the lock faces north of the flashlight
+The key hole near lock faces north of the flashlight north of the off machine south of the key holes
+The key hole north of the off machines south of a key hole near the lock faces north of the flashlight
+A key hole near a lock face north of the flashlights north of the off machine south of the key holes
+The key hole near a lock face north of the flashlights north of the off machine south of the key holes
+Key holes near lock faces north of the flashlight north of the off machines south of the key hole.
+Key holes near a lock face north of the flashlights north of off machines south of the key hole
+A key hole near lock faces north of the flashlight north of the off machines south of the key hole
+The key hole near lock faces north of the flashlight north of the off machines south of the key hole
+A key hole north of the off machines south of the key holes near lock faces north of the flashlight.
+A key hole near a lock face north of the flashlights north of the off machines south of the key hole
+A key hole north of the off machines south of the key holes near the lock face north of the flashlights.
+A key hole north of the off machines south of a key hole near lock faces north of the flashlights.
+The key hole north of the off machines south of the key holes near lock faces north of the flashlight.
+Key holes near the lock faces north of a flashlight north of the off machines south of a key hole
+The key hole near a lock face north of the flashlights north of the off machines south of the key hole
+The key hole north of the off machines south of the key holes near the lock face north of the flashlights.
+The key hole north of the off machines south of a key hole near lock faces north of the flashlights.
+A key hole north of an off machine south of the key holes near the lock faces north of the flashlight
+A key hole north of an off machine south of the key hole near a lock face north of the flashlight
+A key hole near the lock faces north of the flashlight north of the off machine south of the key holes
+Key holes near a lock face north of the flashlights north of an off machine south of the key holes.
+Key holes near the lock face north of the flashlights north of the off machines south of the key hole.
+The key hole north of an off machine south of the key holes near the lock faces north of the flashlight
+The key hole north of an off machine south of the key hole near a lock face north of the flashlight
+The key hole near the lock faces north of the flashlight north of the off machine south of the key holes
+Key holes, near the lock faces north of the flashlights north of the off machines south of the key holes
+Key holes near the lock face north of the flashlight north of the off machine south of a key hole
+Key holes near the lock faces north of the flashlight north of off machines south of the key hole
+A key hole north of off machines south of the key holes near the lock faces north of the flashlights
+A key hole north of off machines south of the key hole near a lock face north of the flashlights
+A key hole near the lock faces north of the flashlight north of the off machines south of the key hole
+A key hole north of the off machines south of the key holes near the lock face north of a flashlight
+A key hole north of the off machines south of a key hole near lock faces north of a flashlight
+A key hole near lock faces north of the flashlights north of the off machines south of the key holes.
+The key hole north of off machines south of the key holes near the lock faces north of the flashlights
+The key hole north of off machines south of the key hole near a lock face north of the flashlights
+The key hole near the lock faces north of the flashlight north of the off machines south of the key hole
+The key hole north of the off machines south of the key holes near the lock face north of a flashlight
+A key hole north of an off machine south of the key holes near lock faces north of the flashlights.
+The key hole north of the off machines south of a key hole near lock faces north of a flashlight
+A key hole north of the off machine south of the key hole near the lock faces north of the flashlights.
+A key hole north of the off machine south of the key holes near lock faces north of a flashlight.
+Key holes near the lock faces north of a flashlight north of an off machine south of the key holes
+The key hole near lock faces north of the flashlights north of the off machines south of the key holes.
+Key holes near a lock face north of the flashlight north of off machines south of the key holes
+The key hole north of an off machine south of the key holes near lock faces north of the flashlights.
+The key hole north of the off machine south of the key hole near the lock faces north of the flashlights.
+The key hole north of the off machine south of the key holes near lock faces north of a flashlight.
+Key holes near the lock faces north of the flashlight north of an off machine south of the key holes.
+Key holes near lock faces north of a flashlight north of the off machines south of a key hole
+A key hole north of the off machines south of a key hole near the lock face north of the flashlights
+A key hole near a lock face north of the flashlight north of the off machines south of the key holes
+A key hole north of off machines south of the key hole near lock faces north of the flashlight
+The key hole north of the off machines south of a key hole near the lock face north of the flashlights
+Key holes near the lock faces north of the flashlights north of an off machine south of a key hole
+The key hole near a lock face north of the flashlight north of the off machines south of the key holes
+The key hole north of off machines south of the key hole near lock faces north of the flashlight
+A key hole north of the off machines south of the key hole near lock faces north of a flashlight.
+The key hole north of the off machines south of the key hole near lock faces north of a flashlight.
+Key holes near the lock faces north of the flashlights north of off machines south of the key holes.
+Key holes near lock faces north of the flashlight north of off machines south of the key hole
+Key holes near the lock face north of a flashlight north of the off machines south of the key holes.
+The key holes north of the off machine south of the key holes near the lock faces north of the flashlights
+The key holes north of the off machine south of the key hole near a lock face north of the flashlights
+A key hole north of an off machine south of the key holes near lock faces north of a flashlight
+A key hole north of the off machine south of the key hole near the lock faces north of a flashlight
+A key hole near the lock faces north of the flashlights north of the off machines south of the key holes.
+Key holes near a lock face north of the flashlights north of the off machine south of the key hole.
+The key hole north of an off machine south of the key holes near lock faces north of a flashlight
+The key hole north of the off machine south of the key hole near the lock faces north of a flashlight
+Key holes near the lock face north of the flashlight north of an off machine south of the key hole
+The key hole near the lock faces north of the flashlights north of the off machines south of the key holes.
+A key hole north of off machines south of the key holes near a lock face north of the flashlight
+Key holes near lock faces north of a flashlight north of an off machine south of the key holes
+A key hole north of an off machine south of the key holes near the lock face north of the flashlights
+A key hole north of an off machine south of a key hole near lock faces north of the flashlights
+A key hole near the lock face north of the flashlights north of the off machine south of the key holes
+The key hole north of off machines south of the key holes near a lock face north of the flashlight
+A key hole north of the off machines south of the key holes near a lock face north of a flashlight.
+The key holes north of the off machines south of the key hole near the lock faces north of the flashlights
+The key hole north of an off machine south of the key holes near the lock face north of the flashlights
+Key holes near lock faces north of the flashlight north of an off machine south of the key holes.
+The key hole north of an off machine south of a key hole near lock faces north of the flashlights
+The key hole near the lock face north of the flashlights north of the off machine south of the key holes
+The key holes north of the off machine south of the key hole near lock faces north of the flashlight
+The key hole north of the off machines south of the key holes near a lock face north of a flashlight.
+Key holes north of the off machines south of the key holes near a lock face north of the flashlights
+Key holes near the lock face north of the flashlights north of off machines south of the key hole
+Key holes near lock faces north of the flashlights north of an off machine south of a key hole
+A key hole near the lock face north of the flashlights north of the off machines south of the key hole
+Key holes near the lock faces north of the flashlight north of the off machine south of the key hole.
+Key holes near lock faces north of the flashlights north of off machines south of the key holes.
+The key hole near the lock face north of the flashlights north of the off machines south of the key hole
+Key holes near the lock face north of the flashlights north of an off machine south of the key holes.
+The key holes north of the off machine south of the key holes near a lock face north of the flashlight
+Key holes near a lock face north of a flashlight north of the off machine south of the key holes.
+A key hole north of the off machine south of a key hole near the lock faces north of the flashlight
+Key hole near the lock faces north of the flashlights north of the off machines south of the key holes
+The key holes north of the off machines south of the key holes near the lock faces north of the flashlight
+The key holes north of the off machines south of the key hole near a lock face north of the flashlight
+The key hole north of the off machine south of a key hole near the lock faces north of the flashlight
+Key holes near a lock face north of the flashlight north of the off machines south of the key hole.
+Key holes near the lock face north of the flashlight north of off machines south of the key holes
+Key holes near lock faces north of the flashlight north of the off machine south of the key hole.
+A key hole near lock faces north of the flashlight north of the off machine south of the key hole
+A key hole near the lock face north of the flashlight north of the off machines south of the key holes
+The key hole near lock faces north of the flashlight north of the off machine south of the key hole
+A key hole north of the off machine south of the key holes near lock faces north of the flashlight.
+The key hole near the lock face north of the flashlight north of the off machines south of the key holes
+A key hole near a lock face north of the flashlights north of the off machine south of the key hole
+A key hole north of the off machine south of the key holes near the lock face north of the flashlights.
+A key hole north of the off machine south of a key hole near lock faces north of the flashlights.
+The key hole north of the off machine south of the key holes near lock faces north of the flashlight.
+Key holes near the lock faces north of a flashlight north of the off machine south of a key hole
+The key holes north of the off machines south of the key holes near lock faces north of the flashlights.
+The key hole near a lock face north of the flashlights north of the off machine south of the key hole
+The key hole north of the off machine south of the key holes near the lock face north of the flashlights.
+The key hole north of the off machine south of a key hole near lock faces north of the flashlights.
+Key holes near the lock face north of the flashlights north of the off machine south of the key hole.
+A key hole north of the off machines south of the key hole near lock faces north of the flashlight.
+Key holes, near the lock faces north of the flashlights north of the off machine south of the key holes
+A key hole north of the off machines south of the key hole near the lock face north of the flashlights.
+The key hole north of the off machines south of the key hole near lock faces north of the flashlight.
+The key hole north of the off machines south of the key hole near the lock face north of the flashlights.
+
+TOTAL RESULTS: 433
+
+Node            MRS Produced    Reason                                    Included in MRS    Reason
+--------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+idFlashlight_3  True            MRS fragment produced                     True               Included in MRS
+idKeyhole_1     True            MRS fragment produced                     True               Included in MRS
+idKeyhole_7     True            MRS fragment produced                     True               Included in MRS
+idLockFace_2    True            MRS fragment produced                     True               Included in MRS
+idMachine_4     True            MRS fragment produced                     True               Included in MRS
+idOnSwitch_6    False           'idOnSwitch' has no value in the lexicon  False              'idOnSwitch' has no value in the lexicon
+off_5           True            MRS fragment produced                     True               Included in MRS
+
+Edge              MRS Composed    Reason                  Included in MRS    Reason
+----------------  --------------  ----------------------  -----------------  ----------------------
+idPowerControl_4  False           Inbound to failed node  False              Inbound to failed node
+idPowerState_3    True            MRS composed            True               Included in MRS
+isNear_2          True            MRS composed            True               Included in MRS
+isNorthOf_1       True            MRS composed            True               Included in MRS
+isNorthOf_6       True            MRS composed            True               Included in MRS
+isSouthOf_5       True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        7    0.857143
+Nodes              Included             6        7    0.857143
+Edges              Produced             5        6    0.833333
+Edges              Included             5        6    0.833333

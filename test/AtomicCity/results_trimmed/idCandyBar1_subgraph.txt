@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idCandyBar1_subgraph.dot
+[ TOP: h2628
+  INDEX: e2625
+  RELS: < [ unknown LBL: h2627 ARG: x2621 ARG0: e2625 ]
+          [ def_udef_a_q LBL: h2624 ARG0: x2621 RSTR: h2622 BODY: h2623 ]
+          [ compound LBL: h2610 ARG0: e2617 ARG1: x2621 ARG2: x2611 ]
+          [ udef_q LBL: h2616 ARG0: x2611 RSTR: h2614 BODY: h2615 ]
+          [ _candy_n_1 LBL: h2612 ARG0: x2611 ]
+          [ _bar_n_1 LBL: h2610 ARG0: x2621 ] >
+  HCONS: < h2614 qeq h2612 h2622 qeq h2610 h2628 qeq h2627 > ]
+GENERATED RESULTS ... 
+The candy bar
+The candy bars
+A candy bar
+Candy bars
+The candy bars.
+Candy bar
+Candy bars.
+The candy bar.
+A candy bar.
+Candy bar.
+
+TOTAL RESULTS: 10
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  ---------------
+idCandyBar_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

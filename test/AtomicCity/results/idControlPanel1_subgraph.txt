@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idControlPanel1_subgraph.dot
+[ TOP: h510
+  INDEX: e507
+  RELS: < [ unknown LBL: h509 ARG: x489 ARG0: e507 ]
+          [ def_udef_a_q LBL: h506 ARG0: x489 RSTR: h504 BODY: h505 ]
+          [ compound LBL: h491 ARG0: e499 ARG1: x489 ARG2: x492 ]
+          [ udef_q LBL: h498 ARG0: x492 RSTR: h496 BODY: h497 ]
+          [ _control_n_of LBL: h494 ARG0: x492 ARG1: i493 ]
+          [ _panel_n_of LBL: h491 ARG0: x489 ARG1: i490 ] >
+  HCONS: < h496 qeq h494 h504 qeq h491 h510 qeq h509 > ]
+GENERATED RESULTS ... 
+Control panels
+The control panel
+The control panels
+A control panel
+Control panels.
+The control panels.
+The control panel.
+A control panel.
+Control panel
+Control panel.
+
+TOTAL RESULTS: 10
+
+Node              MRS Produced    Reason                 Included in MRS    Reason
+----------------  --------------  ---------------------  -----------------  ---------------
+idControlPanel_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

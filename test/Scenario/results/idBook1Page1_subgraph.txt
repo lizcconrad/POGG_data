@@ -1,0 +1,102 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idBook1Page1_subgraph.dot
+[ TOP: h650
+  INDEX: e647
+  RELS: < [ unknown LBL: h649 ARG: x606 ARG0: e647 ]
+          [ def_udef_a_q LBL: h646 ARG0: x606 RSTR: h644 BODY: h645 ]
+          [ loc_nonsp LBL: h608 ARG0: i639 ARG1: x606 ARG2: x633 ]
+          [ compound LBL: h608 ARG0: e616 ARG1: x606 ARG2: x612 ]
+          [ udef_q LBL: h615 ARG0: x612 RSTR: h613 BODY: h614 ]
+          [ _book_n_of LBL: h611 ARG0: x612 ARG1: i610 ]
+          [ _page_n_1 LBL: h608 ARG0: x606 ARG1: u607 ]
+          [ def_implicit_q LBL: h638 ARG0: x633 RSTR: h636 BODY: h637 ]
+          [ _north_a_1 LBL: h628 ARG0: i625 ARG1: x633 ARG2: x629 ]
+          [ def_udef_a_q LBL: h632 ARG0: x629 RSTR: h630 BODY: h631 ]
+          [ _red_a_1 LBL: h621 ARG0: i622 ARG1: x629 ]
+          [ _key_n_1 LBL: h621 ARG0: x629 ]
+          [ place_n LBL: h628 ARG0: x633 ] >
+  HCONS: < h613 qeq h611 h630 qeq h621 h636 qeq h628 h644 qeq h608 h650 qeq h649 > ]
+GENERATED RESULTS ... 
+Book pages north of the red keys
+Book pages north of the red keys.
+Book pages north of a red key
+Book pages north of the red key
+Book pages north of red keys.
+Book pages north of a red key.
+Book pages north of the red key.
+The book pages north of the red keys
+Book pages north of red keys
+The book pages north of the red keys.
+The book pages north of a red key
+A book page north of the red keys
+The book page north of the red keys
+A book page north of the red keys.
+The book page north of the red keys.
+The book pages north of the red key
+The book pages north of red keys.
+A book page north of a red key
+The book page north of a red key
+The book pages north of a red key.
+Book page north of the red keys
+A book page north of the red key
+The book page north of the red key
+A book page north of red keys.
+The book page north of red keys.
+The book pages north of the red key.
+The book pages north of red keys
+Book page north of the red keys.
+A book page north of a red key.
+The book page north of a red key.
+Book page north of a red key
+A book page north of the red key.
+The book page north of the red key.
+A book page north of red keys
+The book page north of red keys
+The book pages, north of the red keys
+Book page north of the red key
+Book pages, north of the red keys
+Book page north of red keys.
+Book page north of a red key.
+The book pages, north of a red key
+Book pages, north of a red key
+The book page, north of the red keys
+Book page north of the red key.
+Book page north of red keys
+Book page, north of the red keys
+The book pages, north of the red key
+Book pages, north of the red key
+The book page, north of a red key
+A book page, north of the red keys
+Book page, north of a red key
+The book page, north of the red key
+A book page, north of a red key
+The book pages, north of red keys
+Book pages, north of red keys
+Book page, north of the red key
+A book page, north of the red key
+The book page, north of red keys
+Book page, north of red keys
+A book page, north of red keys
+
+TOTAL RESULTS: 60
+
+Node            MRS Produced    Reason                                    Included in MRS    Reason
+--------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+1_2             False           '1' has no value in the lexicon           False              '1' has no value in the lexicon
+idBook1Page1_1  True            MRS fragment produced                     True               Included in MRS
+idKey_3         True            MRS fragment produced                     True               Included in MRS
+idOnSwitch_5    False           'idOnSwitch' has no value in the lexicon  False              'idOnSwitch' has no value in the lexicon
+red_4           True            MRS fragment produced                     True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idColor_2       True            MRS composed            True               Included in MRS
+idOrdinality_1  False           Inbound to failed node  False              Inbound to failed node
+isNorthOf_3     False           Inbound to failed node  False              Inbound to failed node
+isNorthOf_4     True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        5         0.6
+Nodes              Included             3        5         0.6
+Edges              Produced             2        4         0.5
+Edges              Included             2        4         0.5

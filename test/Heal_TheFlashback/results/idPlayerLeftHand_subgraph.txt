@@ -1,0 +1,131 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idPlayerLeftHand_subgraph.dot
+[ TOP: h2578
+  INDEX: e2575
+  RELS: < [ unknown LBL: h2577 ARG: x2571 ARG0: e2575 ]
+          [ def_udef_a_q LBL: h2574 ARG0: x2571 RSTR: h2572 BODY: h2573 ]
+          [ _on_p_loc LBL: h2566 ARG0: e2563 ARG1: x2571 ARG2: x2560 ]
+          [ def_udef_a_q LBL: h2570 ARG0: x2560 RSTR: h2568 BODY: h2569 ]
+          [ _left_n_of LBL: h2562 ARG0: x2560 ARG1: i2561 ]
+          [ poss LBL: h2566 ARG0: e2556 ARG1: x2571 ARG2: x2552 ]
+          [ compound LBL: h2566 ARG0: e2545 ARG1: x2571 ARG2: x2538 ]
+          [ udef_q LBL: h2544 ARG0: x2538 RSTR: h2542 BODY: h2543 ]
+          [ _left_n_of LBL: h2540 ARG0: x2538 ARG1: i2539 ]
+          [ _hand_n_1 LBL: h2566 ARG0: x2571 ]
+          [ def_udef_a_q LBL: h2555 ARG0: x2552 RSTR: h2553 BODY: h2554 ]
+          [ _player_n_of LBL: h2551 ARG0: x2552 ARG1: i2550 ] >
+  HCONS: < h2568 qeq h2562 h2542 qeq h2540 h2553 qeq h2551 h2572 qeq h2566 h2578 qeq h2577 > ]
+GENERATED RESULTS ... 
+The player's left hands on the lefts
+The player's left hand on the lefts
+The player's left hands on the left
+The player's left hand on the left
+The player's left hands on the lefts.
+A player's left hands on the lefts
+The players' left hands on the lefts
+The player's left hand on the lefts.
+A player's left hand on the lefts
+The players' left hand on the lefts
+The player's left hands on the left.
+A player's left hands on the left
+The player's left hand on the left.
+The players' left hands on the left
+The player's left hands on a left
+A player's left hand on the left
+A player's left hands on the lefts.
+The players' left hand on the left
+The player's left hand on a left
+Players' left hands on the lefts
+The players' left hands on the lefts.
+A player's left hand on the lefts.
+Players' left hand on the lefts
+The players' left hand on the lefts.
+The player's left hands on lefts.
+The player's left hand on lefts.
+A player's left hands on the left.
+The players' left hands on the left.
+The player's left hands on a left.
+Players' left hands on the left
+A player's left hand on the left.
+A player's left hands on a left
+The player's left hands, on the lefts
+The players' left hand on the left.
+The player's left hand on a left.
+Players' left hand on the left
+The players' left hands on a left
+A player's left hand on a left
+Players' left hands on the lefts.
+The players' left hand on a left
+Players' left hand on the lefts.
+The player's left hands on lefts
+The player's left hand on lefts
+The player's left hand, on the lefts
+A player's left hands on lefts.
+The players' left hands on lefts.
+A player's left hand on lefts.
+The players' left hand on lefts.
+Players' left hands on the left.
+A player's left hands on a left.
+Players' left hand on the left.
+The players' left hands on a left.
+A player's left hands, on the lefts
+Players' left hands on a left
+A player's left hand on a left.
+The players' left hands, on the lefts
+The players' left hand on a left.
+Players' left hand on a left
+A player's left hands on lefts
+The players' left hands on lefts
+A player's left hand on lefts
+The players' left hand on lefts
+A player's left hand, on the lefts
+Players' left hands on lefts.
+The players' left hand, on the lefts
+Players' left hand on lefts.
+The player's left hands, on the left
+Players' left hands on a left.
+Players' left hands, on the lefts
+Players' left hand on a left.
+The player's left hands, on a left
+Players' left hands on lefts
+The player's left hand, on the left
+Players' left hand on lefts
+The player's left hands, on lefts
+Players' left hand, on the lefts
+A player's left hands, on the left
+The player's left hand, on a left
+The players' left hands, on the left
+The player's left hand, on lefts
+A player's left hands, on a left
+The players' left hands, on a left
+A player's left hand, on the left
+The players' left hand, on the left
+A player's left hands, on lefts
+The players' left hands, on lefts
+Players' left hands, on the left
+A player's left hand, on a left
+The players' left hand, on a left
+A player's left hand, on lefts
+The players' left hand, on lefts
+Players' left hands, on a left
+Players' left hand, on the left
+Players' left hands, on lefts
+Players' left hand, on a left
+Players' left hand, on lefts
+
+TOTAL RESULTS: 96
+
+Node                MRS Produced    Reason                 Included in MRS    Reason
+------------------  --------------  ---------------------  -----------------  ---------------
+idLocalLeft_2       True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_1  True            MRS fragment produced  True               Included in MRS
+
+Edge          MRS Composed    Reason        Included in MRS    Reason
+------------  --------------  ------------  -----------------  ---------------
+idLocation_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

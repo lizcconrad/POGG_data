@@ -1,0 +1,80 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idGreenRoomBackOpening_subgraph.dot
+[ TOP: h405
+  INDEX: e402
+  RELS: < [ unknown LBL: h404 ARG: x398 ARG0: e402 ]
+          [ def_udef_a_q LBL: h401 ARG0: x398 RSTR: h399 BODY: h400 ]
+          [ _medium_a_1 LBL: h394 ARG0: e395 ARG1: x398 ]
+          [ compound LBL: h394 ARG0: e391 ARG1: x398 ARG2: x387 ]
+          [ udef_q LBL: h390 ARG0: x387 RSTR: h388 BODY: h389 ]
+          [ _back_n_1 LBL: h386 ARG0: x387 ]
+          [ _opening_n_1 LBL: h394 ARG0: x398 ] >
+  HCONS: < h388 qeq h386 h399 qeq h394 h405 qeq h404 > ]
+GENERATED RESULTS ... 
+The medium back opening
+A medium back opening
+The medium back openings
+Medium back openings
+The medium back openings.
+Medium back openings.
+Medium back opening
+Backs medium opening
+The medium back opening.
+The backed medium opening
+The medium backed opening
+A medium back opening.
+A backed medium opening
+A medium backed opening
+Medium backed openings
+Medium backed openings.
+Backed medium openings
+A backs medium opening
+The backs medium opening
+The backed medium openings
+The medium backed, openings.
+The medium backed, openings
+Medium backed, openings.
+The medium backed, opening
+The medium backed openings
+Medium backed, openings
+The medium backed openings.
+A medium backed, opening
+Medium backed opening
+The backs medium openings
+The backs medium openings.
+Backs medium opening.
+The medium backed, opening.
+A medium backed, opening.
+Backs medium openings
+Backed medium opening
+The backed medium openings.
+The medium backed opening.
+Backs medium openings.
+Medium back opening.
+A medium backed opening.
+Backed medium openings.
+A backs medium opening.
+The backs medium opening.
+Medium backed, opening
+The backed medium opening.
+A backed medium opening.
+Medium backed opening.
+Medium backed, opening.
+Backed medium opening.
+
+TOTAL RESULTS: 50
+
+Node                      MRS Produced    Reason                 Included in MRS    Reason
+------------------------  --------------  ---------------------  -----------------  ---------------
+idGreenRoomBackOpening_1  True            MRS fragment produced  True               Included in MRS
+medium_2                  True            MRS fragment produced  True               Included in MRS
+
+Edge        MRS Composed    Reason        Included in MRS    Reason
+----------  --------------  ------------  -----------------  ---------------
+idHeight_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

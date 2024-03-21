@@ -1,0 +1,113 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idDeerSkeleton1_subgraph.dot
+[ TOP: h348
+  INDEX: e345
+  RELS: < [ unknown LBL: h347 ARG: x341 ARG0: e345 ]
+          [ def_udef_a_q LBL: h344 ARG0: x341 RSTR: h342 BODY: h343 ]
+          [ _old_a_1 LBL: h324 ARG0: e338 ARG1: x341 ]
+          [ _white_a_1 LBL: h324 ARG0: i335 ARG1: x341 ]
+          [ compound LBL: h324 ARG0: e331 ARG1: x341 ARG2: x327 ]
+          [ udef_q LBL: h330 ARG0: x327 RSTR: h328 BODY: h329 ]
+          [ _deer_n_1 LBL: h326 ARG0: x327 ]
+          [ _skeleton_n_1 LBL: h324 ARG0: x341 ] >
+  HCONS: < h328 qeq h326 h342 qeq h324 h348 qeq h347 > ]
+GENERATED RESULTS ... 
+The old white deer skeletons
+An old white deer skeleton
+The old white deer skeleton
+The old white deer skeletons.
+Old white deer skeletons
+Deer white old skeleton
+Old white deer skeletons.
+An old white deer skeleton.
+The deer white old skeleton
+Deer old white skeleton
+The old white deer skeleton.
+White old deer skeletons
+A deer white old skeleton
+A deer white old skeleton
+Old deer white skeletons
+The deer old white skeletons
+The deer white old skeleton
+The white deer old skeleton
+An old deer white skeleton
+The old deer white skeleton
+The white old deer skeletons
+The old deer white skeletons
+Old deer white skeletons.
+The deer white old skeletons
+Deer white old skeleton
+A white deer old skeleton
+White old deer skeletons.
+A deer old white skeleton
+The white old deer skeleton
+Deer old white skeletons
+The deer old white skeleton
+Deer white old skeletons
+The white old deer skeletons.
+The old deer white skeletons.
+The deer white old skeletons
+The white deer old skeletons
+A white old deer skeleton
+White deer old skeletons
+The old deer white skeletons
+An old deer white skeleton
+Old deer white skeletons
+Old white deer skeleton
+The old deer white skeleton
+The white deer old skeletons.
+White deer old skeletons.
+Deer white old skeletons
+The old deer white skeletons.
+Old deer white skeletons.
+The deer old white skeletons.
+The deer white old skeletons.
+Deer old white skeleton.
+The white old deer skeleton.
+An old deer white skeleton.
+The old deer white skeleton.
+Deer white old skeletons.
+A white old deer skeleton.
+The deer white old skeletons.
+Deer old white skeletons.
+Deer white old skeleton.
+White deer old skeleton
+White old deer skeleton
+The white deer old skeleton.
+An old deer white skeleton.
+The old deer white skeleton.
+A deer old white skeleton.
+Old white deer skeleton.
+A white deer old skeleton.
+The deer old white skeleton.
+Deer white old skeletons.
+The deer white old skeleton.
+A deer white old skeleton.
+A deer white old skeleton.
+Old deer white skeleton
+The deer white old skeleton.
+Old deer white skeleton
+Deer white old skeleton.
+White old deer skeleton.
+White deer old skeleton.
+Old deer white skeleton.
+Old deer white skeleton.
+
+TOTAL RESULTS: 80
+
+Node              MRS Produced    Reason                 Included in MRS    Reason
+----------------  --------------  ---------------------  -----------------  ---------------
+idDeerSkeleton_1  True            MRS fragment produced  True               Included in MRS
+old_3             True            MRS fragment produced  True               Included in MRS
+white_2           True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason        Included in MRS    Reason
+--------------  --------------  ------------  -----------------  ---------------
+idColor_1       True            MRS composed  True               Included in MRS
+idDescriptor_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

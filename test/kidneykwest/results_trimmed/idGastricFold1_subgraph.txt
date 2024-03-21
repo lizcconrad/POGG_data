@@ -1,0 +1,49 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idGastricFold1_subgraph.dot
+[ TOP: h321
+  INDEX: e318
+  RELS: < [ unknown LBL: h320 ARG: x314 ARG0: e318 ]
+          [ def_udef_a_q LBL: h317 ARG0: x314 RSTR: h315 BODY: h316 ]
+          [ _gastric_a_1 LBL: h305 ARG0: e303 ARG1: x314 ]
+          [ _fold_n_1 LBL: h305 ARG0: x314 ] >
+  HCONS: < h315 qeq h305 h321 qeq h320 > ]
+GENERATED RESULTS ... 
+The gastric fold
+Gastric folds
+A gastric fold
+The gastric folds
+The gastric fold
+The gastric folds.
+The gastric fold.
+Gastric fold
+The gastric fold.
+The gastric fold
+Gastric fold
+Gastric folds.
+Gastric fold.
+The gastric fold.
+Gastric fold.
+Gastric fold
+A gastric fold.
+Gastric fold.
+
+TOTAL RESULTS: 18
+
+Node             MRS Produced    Reason                 Included in MRS    Reason
+---------------  --------------  ---------------------  -----------------  -------------------------
+gastric_2        True            MRS fragment produced  True               Included in MRS
+idGastricFold_1  True            MRS fragment produced  True               Included in MRS
+true_4           True            MRS fragment produced  False              Descends from failed edge
+yes_3            True            MRS fragment produced  False              Descends from failed edge
+
+Edge                   MRS Composed    Reason                                         Included in MRS    Reason
+---------------------  --------------  ---------------------------------------------  -----------------  ---------------------------------------------
+idImmovable_2          False           'idImmovable' has no value in lexicon          False              'idImmovable' has no value in lexicon
+idInterestingObject_3  False           'idInterestingObject' has no value in lexicon  False              'idInterestingObject' has no value in lexicon
+idMaterial_1           True            MRS composed                                   True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4    1
+Nodes              Included             2        4    0.5
+Edges              Produced             1        3    0.333333
+Edges              Included             1        3    0.333333

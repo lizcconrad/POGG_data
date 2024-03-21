@@ -1,0 +1,693 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idLivingroom1_subgraph.dot
+[ TOP: h2163
+  INDEX: e2160
+  RELS: < [ unknown LBL: h2162 ARG: x2156 ARG0: e2160 ]
+          [ def_udef_a_q LBL: h2159 ARG0: x2156 RSTR: h2157 BODY: h2158 ]
+          [ loc_nonsp LBL: h2101 ARG0: i2152 ARG1: x2156 ARG2: x2146 ]
+          [ loc_nonsp LBL: h2101 ARG0: i2098 ARG1: x2156 ARG2: x2094 ]
+          [ compound LBL: h2101 ARG0: e2067 ARG1: x2156 ARG2: x2061 ]
+          [ udef_q LBL: h2066 ARG0: x2061 RSTR: h2064 BODY: h2065 ]
+          [ _living_n_1 LBL: h2062 ARG0: x2061 ]
+          [ _room_n_unit LBL: h2101 ARG0: x2156 ]
+          [ def_implicit_q LBL: h2097 ARG0: x2094 RSTR: h2095 BODY: h2096 ]
+          [ _east_a_1 LBL: h2087 ARG0: i2084 ARG1: x2094 ARG2: x2071 ]
+          [ def_udef_a_q LBL: h2091 ARG0: x2071 RSTR: h2089 BODY: h2090 ]
+          [ compound LBL: h2083 ARG0: e2080 ARG1: x2071 ARG2: x2073 ]
+          [ udef_q LBL: h2079 ARG0: x2073 RSTR: h2077 BODY: h2078 ]
+          [ _left_n_of LBL: h2075 ARG0: x2073 ARG1: i2074 ]
+          [ _opening_n_1 LBL: h2083 ARG0: x2071 ]
+          [ place_n LBL: h2087 ARG0: x2094 ]
+          [ def_implicit_q LBL: h2151 ARG0: x2146 RSTR: h2149 BODY: h2150 ]
+          [ _east_a_1 LBL: h2147 ARG0: i2138 ARG1: x2146 ARG2: x2142 ]
+          [ def_udef_a_q LBL: h2145 ARG0: x2142 RSTR: h2143 BODY: h2144 ]
+          [ loc_nonsp LBL: h2104 ARG0: i2134 ARG1: x2142 ARG2: x2130 ]
+          [ _closed_a_1 LBL: h2104 ARG0: e2115 ARG1: x2142 ]
+          [ compound LBL: h2104 ARG0: e2111 ARG1: x2142 ARG2: x2105 ]
+          [ udef_q LBL: h2110 ARG0: x2105 RSTR: h2108 BODY: h2109 ]
+          [ _medicine_n_1 LBL: h2106 ARG0: x2105 ]
+          [ _drawer_n_of LBL: h2104 ARG0: x2142 ARG1: i2103 ]
+          [ def_implicit_q LBL: h2133 ARG0: x2130 RSTR: h2131 BODY: h2132 ]
+          [ _south_a_1 LBL: h2123 ARG0: i2120 ARG1: x2130 ARG2: x2118 ]
+          [ def_udef_a_q LBL: h2127 ARG0: x2118 RSTR: h2125 BODY: h2126 ]
+          [ _dresser_n_1 LBL: h2119 ARG0: x2118 ]
+          [ place_n LBL: h2123 ARG0: x2130 ]
+          [ place_n LBL: h2147 ARG0: x2146 ] >
+  HCONS: < h2064 qeq h2062 h2077 qeq h2075 h2089 qeq h2083 h2095 qeq h2087 h2108 qeq h2106 h2125 qeq h2119 h2131 qeq h2123 h2143 qeq h2104 h2149 qeq h2147 h2157 qeq h2101 h2163 qeq h2162 > ]
+GENERATED RESULTS ... 
+Living rooms east of the closed medicine drawer south of the dressers east of the left openings
+Living rooms east of the left openings east of the closed medicine drawer south of the dressers
+Living rooms east of a closed medicine drawer south of the dressers east of the left openings
+Living rooms east of the left openings east of a closed medicine drawer south of the dressers
+Living rooms east of the closed medicine drawer south of the dresser east of the left openings
+Living rooms east of the left openings east of the closed medicine drawer south of the dresser
+Living rooms east of the closed medicine drawers south of the dressers east of the left openings
+Living rooms east of the left openings east of the closed medicine drawers south of the dressers
+Living rooms east of the closed medicine drawer south of the dressers east of the left opening
+Living rooms east of the left opening east of the closed medicine drawer south of the dressers
+Living rooms east of a closed medicine drawer south of the dresser east of the left openings
+Living rooms east of the left openings east of a closed medicine drawer south of the dresser
+Living rooms east of a closed medicine drawer south of the dressers east of the left opening
+Living rooms east of the left opening east of a closed medicine drawer south of the dressers
+Living rooms east of the closed medicine drawers south of the dresser east of the left openings
+Living rooms east of the left openings east of the closed medicine drawers south of the dresser
+Living rooms east of the closed medicine drawer south of the dresser east of the left opening
+Living rooms east of the left opening east of the closed medicine drawer south of the dresser
+Living rooms east of the closed medicine drawers south of the dressers east of the left opening
+Living rooms east of the left opening east of the closed medicine drawers south of the dressers
+A living room east of the closed medicine drawer south of the dressers east of the left openings
+A living room east of the left openings east of the closed medicine drawer south of the dressers
+The living room east of the closed medicine drawer south of the dressers east of the left openings
+The living room east of the left openings east of the closed medicine drawer south of the dressers
+Living rooms east of a closed medicine drawer south of the dresser east of the left opening
+Living rooms east of the left opening east of a closed medicine drawer south of the dresser
+A living room east of a closed medicine drawer south of the dressers east of the left openings
+A living room east of the left openings east of a closed medicine drawer south of the dressers
+The living room east of a closed medicine drawer south of the dressers east of the left openings
+The living room east of the left openings east of a closed medicine drawer south of the dressers
+Living rooms east of the left openings east of the closed medicine drawer south of the dressers.
+Living rooms east of the closed medicine drawer south of a dresser east of the left openings
+Living rooms east of the left openings east of the closed medicine drawer south of a dresser
+Living rooms east of the left openings east of a closed medicine drawer south of the dressers.
+Living rooms east of the closed medicine drawers south of the dresser east of the left opening
+Living rooms east of the left opening east of the closed medicine drawers south of the dresser
+Living rooms east of a closed medicine drawer south of a dresser east of the left openings
+Living rooms east of the left openings east of a closed medicine drawer south of a dresser
+A living room east of the closed medicine drawer south of the dresser east of the left openings
+A living room east of the left openings east of the closed medicine drawer south of the dresser
+A living room east of the closed medicine drawers south of the dressers east of the left openings
+A living room east of the left openings east of the closed medicine drawers south of the dressers
+The living room east of the closed medicine drawer south of the dresser east of the left openings
+The living room east of the left openings east of the closed medicine drawer south of the dresser
+The living room east of the closed medicine drawers south of the dressers east of the left openings
+The living room east of the left openings east of the closed medicine drawers south of the dressers
+Living rooms east of the closed medicine drawer south of the dressers east of a left opening
+Living rooms east of a left opening east of the closed medicine drawer south of the dressers
+A living room east of the closed medicine drawer south of the dressers east of the left opening
+A living room east of the left opening east of the closed medicine drawer south of the dressers
+The living room east of the closed medicine drawer south of the dressers east of the left opening
+The living room east of the left opening east of the closed medicine drawer south of the dressers
+Living rooms east of the closed medicine drawer south of the dressers east of the left openings.
+A living room east of a closed medicine drawer south of the dresser east of the left openings
+A living room east of the left openings east of a closed medicine drawer south of the dresser
+The living room east of a closed medicine drawer south of the dresser east of the left openings
+The living room east of the left openings east of a closed medicine drawer south of the dresser
+Living rooms east of the left openings east of the closed medicine drawers south of the dressers.
+Living rooms east of a closed medicine drawer south of the dressers east of a left opening
+Living rooms east of a left opening east of a closed medicine drawer south of the dressers
+Living rooms east of the closed medicine drawers south of a dresser east of the left openings
+Living rooms east of the left openings east of the closed medicine drawers south of a dresser
+A living room east of a closed medicine drawer south of the dressers east of the left opening
+A living room east of the left opening east of a closed medicine drawer south of the dressers
+The living room east of a closed medicine drawer south of the dressers east of the left opening
+The living room east of the left opening east of a closed medicine drawer south of the dressers
+Living rooms east of the left opening east of the closed medicine drawer south of the dressers.
+Living rooms east of a closed medicine drawer south of the dressers east of the left openings.
+Living rooms east of the closed medicine drawer south of a dresser east of the left opening
+Living rooms east of the left opening east of the closed medicine drawer south of a dresser
+Living rooms east of closed medicine drawers south of the dressers east of the left openings
+Living rooms east of the left openings east of closed medicine drawers south of the dressers
+A living room east of the closed medicine drawers south of the dresser east of the left openings
+A living room east of the left openings east of the closed medicine drawers south of the dresser
+The living room east of the closed medicine drawers south of the dresser east of the left openings
+The living room east of the left openings east of the closed medicine drawers south of the dresser
+Living rooms east of the left opening east of a closed medicine drawer south of the dressers.
+Living rooms east of the closed medicine drawer south of the dresser east of a left opening
+Living rooms east of a left opening east of the closed medicine drawer south of the dresser
+Living rooms east of the closed medicine drawers south of the dressers east of a left opening
+Living rooms east of a left opening east of the closed medicine drawers south of the dressers
+Living rooms east of a closed medicine drawer south of a dresser east of the left opening
+Living rooms east of the left opening east of a closed medicine drawer south of a dresser
+A living room east of the closed medicine drawer south of the dresser east of the left opening
+A living room east of the left opening east of the closed medicine drawer south of the dresser
+A living room east of the closed medicine drawers south of the dressers east of the left opening
+A living room east of the left opening east of the closed medicine drawers south of the dressers
+The living room east of the closed medicine drawer south of the dresser east of the left opening
+The living room east of the left opening east of the closed medicine drawer south of the dresser
+The living room east of the closed medicine drawers south of the dressers east of the left opening
+The living room east of the left opening east of the closed medicine drawers south of the dressers
+Living rooms east of the closed medicine drawer south of the dresser east of the left openings.
+Living rooms east of the closed medicine drawers south of the dressers east of the left openings.
+Living rooms east of a closed medicine drawer south of the dresser east of a left opening
+Living rooms east of a left opening east of a closed medicine drawer south of the dresser
+A living room east of a closed medicine drawer south of the dresser east of the left opening
+A living room east of the left opening east of a closed medicine drawer south of the dresser
+The living room east of a closed medicine drawer south of the dresser east of the left opening
+The living room east of the left opening east of a closed medicine drawer south of the dresser
+Living rooms east of the left opening east of the closed medicine drawers south of the dressers.
+Living rooms east of a closed medicine drawer south of the dresser east of the left openings.
+A living room east of the left openings east of the closed medicine drawer south of the dressers.
+Living rooms east of the closed medicine drawers south of a dresser east of the left opening
+Living rooms east of the left opening east of the closed medicine drawers south of a dresser
+The living room east of the left openings east of the closed medicine drawer south of the dressers.
+Living rooms east of closed medicine drawers south of the dresser east of the left openings
+Living rooms east of the left openings east of closed medicine drawers south of the dresser
+Living rooms east of the left openings east of the closed medicine drawer south of a dresser.
+A living room east of the closed medicine drawer south of a dresser east of the left openings
+A living room east of the left openings east of the closed medicine drawer south of a dresser
+The living room east of the closed medicine drawer south of a dresser east of the left openings
+The living room east of the left openings east of the closed medicine drawer south of a dresser
+Living rooms east of closed medicine drawers south of the dressers east of the left opening
+Living rooms east of the left opening east of closed medicine drawers south of the dressers
+Living rooms east of the closed medicine drawers south of the dresser east of a left opening
+Living rooms east of a left opening east of the closed medicine drawers south of the dresser
+A living room east of the left openings east of a closed medicine drawer south of the dressers.
+The living room east of the left openings east of a closed medicine drawer south of the dressers.
+A living room east of the closed medicine drawers south of the dresser east of the left opening
+A living room east of the left opening east of the closed medicine drawers south of the dresser
+The living room east of the closed medicine drawers south of the dresser east of the left opening
+The living room east of the left opening east of the closed medicine drawers south of the dresser
+Living rooms east of the left openings east of a closed medicine drawer south of a dresser.
+A living room east of a closed medicine drawer south of a dresser east of the left openings
+A living room east of the left openings east of a closed medicine drawer south of a dresser
+Living rooms east of the closed medicine drawers south of the dresser east of the left openings.
+The living room east of a closed medicine drawer south of a dresser east of the left openings
+The living room east of the left openings east of a closed medicine drawer south of a dresser
+Living rooms east of the left openings east of the closed medicine drawer south of the dresser.
+A living room east of the closed medicine drawer south of the dressers east of a left opening
+A living room east of a left opening east of the closed medicine drawer south of the dressers
+The living room east of the closed medicine drawer south of the dressers east of a left opening
+The living room east of a left opening east of the closed medicine drawer south of the dressers
+A living room east of the closed medicine drawer south of the dressers east of the left openings.
+The living room east of the closed medicine drawer south of the dressers east of the left openings.
+A living room east of the left openings east of the closed medicine drawers south of the dressers.
+Living rooms east of the left openings east of a closed medicine drawer south of the dresser.
+The living room east of the left openings east of the closed medicine drawers south of the dressers.
+A living room east of a closed medicine drawer south of the dressers east of a left opening
+A living room east of a left opening east of a closed medicine drawer south of the dressers
+The living room east of a closed medicine drawer south of the dressers east of a left opening
+The living room east of a left opening east of a closed medicine drawer south of the dressers
+Living rooms east of a left opening east of the closed medicine drawer south of the dressers.
+Living rooms east of the left openings east of the closed medicine drawers south of a dresser.
+A living room east of the closed medicine drawers south of a dresser east of the left openings
+A living room east of the left openings east of the closed medicine drawers south of a dresser
+The living room east of the closed medicine drawers south of a dresser east of the left openings
+The living room east of the left openings east of the closed medicine drawers south of a dresser
+A living room east of the left opening east of the closed medicine drawer south of the dressers.
+Living rooms east of the closed medicine drawer south of a dresser east of a left opening
+Living rooms east of a left opening east of the closed medicine drawer south of a dresser
+Living rooms east of the closed medicine drawer south of the dressers east of the left opening.
+The living room east of the left opening east of the closed medicine drawer south of the dressers.
+Living rooms east of closed medicine drawers south of the dresser east of the left opening
+Living rooms east of the left opening east of closed medicine drawers south of the dresser
+A living room east of a closed medicine drawer south of the dressers east of the left openings.
+The living room east of a closed medicine drawer south of the dressers east of the left openings.
+Living rooms east of the left opening east of the closed medicine drawer south of a dresser.
+A living room east of the closed medicine drawer south of a dresser east of the left opening
+A living room east of the left opening east of the closed medicine drawer south of a dresser
+The living room east of the closed medicine drawer south of a dresser east of the left opening
+The living room east of the left opening east of the closed medicine drawer south of a dresser
+A living room east of closed medicine drawers south of the dressers east of the left openings
+A living room east of the left openings east of closed medicine drawers south of the dressers
+The living room east of closed medicine drawers south of the dressers east of the left openings
+The living room east of the left openings east of closed medicine drawers south of the dressers
+Living rooms east of the closed medicine drawer south of a dresser east of the left openings.
+Living rooms east of a left opening east of a closed medicine drawer south of the dressers.
+The living rooms east of the closed medicine drawer south of the dressers east of the left openings
+The living rooms east of the left openings east of the closed medicine drawer south of the dressers
+A living room east of the left opening east of a closed medicine drawer south of the dressers.
+Living rooms east of a closed medicine drawer south of a dresser east of a left opening
+Living rooms east of a left opening east of a closed medicine drawer south of a dresser
+Living rooms east of the left openings east of the closed medicine drawers south of the dresser.
+Living rooms east of a closed medicine drawer south of the dressers east of the left opening.
+The living room east of the left opening east of a closed medicine drawer south of the dressers.
+A living room east of the closed medicine drawer south of the dresser east of a left opening
+A living room east of a left opening east of the closed medicine drawer south of the dresser
+A living room east of the closed medicine drawers south of the dressers east of a left opening
+A living room east of a left opening east of the closed medicine drawers south of the dressers
+The living room east of the closed medicine drawer south of the dresser east of a left opening
+The living room east of a left opening east of the closed medicine drawer south of the dresser
+The living room east of the closed medicine drawers south of the dressers east of a left opening
+The living room east of a left opening east of the closed medicine drawers south of the dressers
+Living rooms east of the left opening east of a closed medicine drawer south of a dresser.
+A living room east of a closed medicine drawer south of a dresser east of the left opening
+A living room east of the left opening east of a closed medicine drawer south of a dresser
+The living room east of a closed medicine drawer south of a dresser east of the left opening
+The living room east of the left opening east of a closed medicine drawer south of a dresser
+Living rooms east of the left openings east of closed medicine drawers south of the dressers.
+Living rooms east of a closed medicine drawer south of a dresser east of the left openings.
+Living rooms east of the left opening east of the closed medicine drawer south of the dresser.
+A living room east of the closed medicine drawer south of the dresser east of the left openings.
+A living room east of the closed medicine drawers south of the dressers east of the left openings.
+The living room east of the closed medicine drawer south of the dresser east of the left openings.
+The living room east of the closed medicine drawers south of the dressers east of the left openings.
+The living rooms east of a closed medicine drawer south of the dressers east of the left openings
+The living rooms east of the left openings east of a closed medicine drawer south of the dressers
+Living rooms east of closed medicine drawers south of a dresser east of the left openings
+Living rooms east of the left openings east of closed medicine drawers south of a dresser
+A living room east of a closed medicine drawer south of the dresser east of a left opening
+A living room east of a left opening east of a closed medicine drawer south of the dresser
+The living room east of a closed medicine drawer south of the dresser east of a left opening
+The living room east of a left opening east of a closed medicine drawer south of the dresser
+Living rooms east of a left opening east of the closed medicine drawers south of the dressers.
+A living room east of the left opening east of the closed medicine drawers south of the dressers.
+Living rooms east of the closed medicine drawers south of a dresser east of a left opening
+Living rooms east of a left opening east of the closed medicine drawers south of a dresser
+Living rooms east of the closed medicine drawer south of the dresser east of the left opening.
+Living rooms east of the closed medicine drawers south of the dressers east of the left opening.
+Living rooms east of the left opening east of a closed medicine drawer south of the dresser.
+The living room east of the left opening east of the closed medicine drawers south of the dressers.
+A living room east of a closed medicine drawer south of the dresser east of the left openings.
+The living room east of a closed medicine drawer south of the dresser east of the left openings.
+Living rooms east of the left opening east of the closed medicine drawers south of a dresser.
+A living room east of the closed medicine drawers south of a dresser east of the left opening
+A living room east of the left opening east of the closed medicine drawers south of a dresser
+The living room east of the closed medicine drawers south of a dresser east of the left opening
+The living room east of the left opening east of the closed medicine drawers south of a dresser
+A living room east of closed medicine drawers south of the dresser east of the left openings
+A living room east of the left openings east of closed medicine drawers south of the dresser
+The living room east of closed medicine drawers south of the dresser east of the left openings
+The living room east of the left openings east of closed medicine drawers south of the dresser
+A living room east of the left openings east of the closed medicine drawer south of a dresser.
+Living rooms east of the closed medicine drawers south of a dresser east of the left openings.
+The living room east of the left openings east of the closed medicine drawer south of a dresser.
+Living rooms east of closed medicine drawers south of the dressers east of a left opening
+Living rooms east of a left opening east of closed medicine drawers south of the dressers
+Living rooms east of the closed medicine drawer south of dressers east of the left openings
+Living rooms east of the left openings east of the closed medicine drawer south of dressers
+The living rooms east of the left openings east of the closed medicine drawer south of the dresser
+The living rooms east of the closed medicine drawer south of the dresser east of the left openings
+The living rooms east of the left openings east of the closed medicine drawers south of the dressers
+The living rooms east of the closed medicine drawers south of the dressers east of the left openings
+A living room east of closed medicine drawers south of the dressers east of the left opening
+A living room east of the left opening east of closed medicine drawers south of the dressers
+Living rooms east of a closed medicine drawer south of the dresser east of the left opening.
+The living room east of closed medicine drawers south of the dressers east of the left opening
+The living room east of the left opening east of closed medicine drawers south of the dressers
+A living room east of the closed medicine drawers south of the dresser east of a left opening
+A living room east of a left opening east of the closed medicine drawers south of the dresser
+The living room east of the closed medicine drawers south of the dresser east of a left opening
+The living room east of a left opening east of the closed medicine drawers south of the dresser
+Living rooms east of closed medicine drawers south of the dressers east of the left openings.
+The living rooms east of the closed medicine drawer south of the dressers east of the left opening
+The living rooms east of the left opening east of the closed medicine drawer south of the dressers
+A living room east of the left openings east of a closed medicine drawer south of a dresser.
+Living rooms east of the left opening east of the closed medicine drawers south of the dresser.
+The living room east of the left openings east of a closed medicine drawer south of a dresser.
+A living room east of the closed medicine drawers south of the dresser east of the left openings.
+The living room east of the closed medicine drawers south of the dresser east of the left openings.
+Living rooms east of a closed medicine drawer south of dressers east of the left openings
+Living rooms east of the left openings east of a closed medicine drawer south of dressers
+The living rooms east of a closed medicine drawer south of the dresser east of the left openings
+The living rooms east of the left openings east of a closed medicine drawer south of the dresser
+A living room east of the left openings east of the closed medicine drawer south of the dresser.
+The living room east of the left openings east of the closed medicine drawer south of the dresser.
+Living rooms east of the left opening east of closed medicine drawers south of the dressers.
+The living rooms east of a closed medicine drawer south of the dressers east of the left opening
+The living rooms east of the left opening east of a closed medicine drawer south of the dressers
+Living rooms east of closed medicine drawers south of a dresser east of the left opening
+Living rooms east of the left opening east of closed medicine drawers south of a dresser
+Living rooms east of the closed medicine drawers south of the dresser east of the left opening.
+A living room east of the left openings east of a closed medicine drawer south of the dresser.
+The living room east of the left openings east of a closed medicine drawer south of the dresser.
+A living room east of a left opening east of the closed medicine drawer south of the dressers.
+A living room east of the left openings east of the closed medicine drawers south of a dresser.
+Living rooms east of the closed medicine drawer south of the dressers east of a left opening.
+The living room east of a left opening east of the closed medicine drawer south of the dressers.
+The living room east of the left openings east of the closed medicine drawers south of a dresser.
+Living rooms east of closed medicine drawers south of the dresser east of a left opening
+Living rooms east of a left opening east of closed medicine drawers south of the dresser
+Living rooms east of the closed medicine drawers south of dressers east of the left openings
+Living rooms east of the left openings east of the closed medicine drawers south of dressers
+The living rooms east of the closed medicine drawers south of the dresser east of the left openings
+The living rooms east of the left openings east of the closed medicine drawers south of the dresser
+Living rooms east of a left opening east of the closed medicine drawer south of a dresser.
+A living room east of the closed medicine drawer south of a dresser east of a left opening
+A living room east of a left opening east of the closed medicine drawer south of a dresser
+A living room east of the closed medicine drawer south of the dressers east of the left opening.
+The living room east of the closed medicine drawer south of a dresser east of a left opening
+The living room east of a left opening east of the closed medicine drawer south of a dresser
+The living room east of the closed medicine drawer south of the dressers east of the left opening.
+A living room east of closed medicine drawers south of the dresser east of the left opening
+A living room east of the left opening east of closed medicine drawers south of the dresser
+The living room east of closed medicine drawers south of the dresser east of the left opening
+The living room east of the left opening east of closed medicine drawers south of the dresser
+A living room east of the left opening east of the closed medicine drawer south of a dresser.
+The living room east of the left opening east of the closed medicine drawer south of a dresser.
+Living rooms east of closed medicine drawers south of the dresser east of the left openings.
+Living rooms east of the closed medicine drawer south of dressers east of the left opening
+Living rooms east of the left opening east of the closed medicine drawer south of dressers
+The living rooms east of the left opening east of the closed medicine drawer south of the dresser
+The living rooms east of the closed medicine drawer south of the dresser east of the left opening
+The living rooms east of the left opening east of the closed medicine drawers south of the dressers
+The living rooms east of the closed medicine drawers south of the dressers east of the left opening
+A living room east of the closed medicine drawer south of a dresser east of the left openings.
+A living room east of a left opening east of a closed medicine drawer south of the dressers.
+The living room east of the closed medicine drawer south of a dresser east of the left openings.
+Living rooms east of a closed medicine drawer south of the dressers east of a left opening.
+The living room east of a left opening east of a closed medicine drawer south of the dressers.
+Living rooms east of the left openings east of the closed medicine drawer south of dressers.
+Living rooms east of the medicines closed drawer south of the dressers east of the left openings
+Living rooms east of the left openings east of the medicines closed drawer south of the dressers
+Living rooms east of a left opening east of a closed medicine drawer south of a dresser.
+A living room east of a closed medicine drawer south of a dresser east of a left opening
+A living room east of a left opening east of a closed medicine drawer south of a dresser
+A living room east of the left openings east of the closed medicine drawers south of the dresser.
+A living room east of a closed medicine drawer south of the dressers east of the left opening.
+The living room east of a closed medicine drawer south of a dresser east of a left opening
+The living room east of a left opening east of a closed medicine drawer south of a dresser
+The living room east of the left openings east of the closed medicine drawers south of the dresser.
+The living room east of a closed medicine drawer south of the dressers east of the left opening.
+Living rooms east of a left opening east of the closed medicine drawer south of the dresser.
+A living room east of the left opening east of a closed medicine drawer south of a dresser.
+The living room east of the left opening east of a closed medicine drawer south of a dresser.
+Living rooms east of a closed medicine drawer south of dressers east of the left opening
+Living rooms east of the left opening east of a closed medicine drawer south of dressers
+The living rooms east of a closed medicine drawer south of the dresser east of the left opening
+The living rooms east of the left opening east of a closed medicine drawer south of the dresser
+Living rooms east of the closed medicine drawer south of a dresser east of the left opening.
+A living room east of the left openings east of closed medicine drawers south of the dressers.
+The living room east of the left openings east of closed medicine drawers south of the dressers.
+A living room east of a closed medicine drawer south of a dresser east of the left openings.
+A living room east of the left opening east of the closed medicine drawer south of the dresser.
+The living room east of a closed medicine drawer south of a dresser east of the left openings.
+The living room east of the left opening east of the closed medicine drawer south of the dresser.
+Living rooms east of the left openings east of a closed medicine drawer south of dressers.
+Living rooms east of the left openings east of closed medicine drawers south of a dresser.
+A living room east of closed medicine drawers south of a dresser east of the left openings
+A living room east of the left openings east of closed medicine drawers south of a dresser
+The living rooms east of the left openings east of the closed medicine drawer south of the dressers.
+Living rooms east of a medicines closed drawer south of the dressers east of the left openings
+Living rooms east of the left openings east of a medicines closed drawer south of the dressers
+The living room east of closed medicine drawers south of a dresser east of the left openings
+The living room east of the left openings east of closed medicine drawers south of a dresser
+A living room east of a left opening east of the closed medicine drawers south of the dressers.
+Living rooms east of the closed medicine drawer south of the dresser east of a left opening.
+Living rooms east of the closed medicine drawers south of the dressers east of a left opening.
+Living rooms east of a left opening east of a closed medicine drawer south of the dresser.
+The living rooms east of the closed medicine drawer south of a dresser east of the left openings
+The living rooms east of the left openings east of the closed medicine drawer south of a dresser
+The living room east of a left opening east of the closed medicine drawers south of the dressers.
+Living rooms east of a left opening east of the closed medicine drawers south of a dresser.
+Living rooms east of a closed medicine drawer south of a dresser east of the left opening.
+A living room east of the closed medicine drawers south of a dresser east of a left opening
+A living room east of a left opening east of the closed medicine drawers south of a dresser
+A living room east of the closed medicine drawer south of the dresser east of the left opening.
+A living room east of the closed medicine drawers south of the dressers east of the left opening.
+A living room east of the left opening east of a closed medicine drawer south of the dresser.
+The living room east of the closed medicine drawers south of a dresser east of a left opening
+The living room east of a left opening east of the closed medicine drawers south of a dresser
+The living room east of the closed medicine drawer south of the dresser east of the left opening.
+The living room east of the closed medicine drawers south of the dressers east of the left opening.
+The living room east of the left opening east of a closed medicine drawer south of the dresser.
+A living room east of the left opening east of the closed medicine drawers south of a dresser.
+The living room east of the left opening east of the closed medicine drawers south of a dresser.
+The living rooms east of the left openings east of a closed medicine drawer south of the dressers.
+Living rooms east of the closed medicine drawers south of dressers east of the left opening
+Living rooms east of the left opening east of the closed medicine drawers south of dressers
+The living rooms east of the closed medicine drawers south of the dresser east of the left opening
+The living rooms east of the left opening east of the closed medicine drawers south of the dresser
+Living rooms east of the left openings east of closed medicine drawers south of the dresser.
+A living room east of the closed medicine drawers south of a dresser east of the left openings.
+The living room east of the closed medicine drawers south of a dresser east of the left openings.
+A living room east of closed medicine drawers south of the dressers east of a left opening
+A living room east of a left opening east of closed medicine drawers south of the dressers
+Living rooms east of a closed medicine drawer south of the dresser east of a left opening.
+The living rooms east of a closed medicine drawer south of a dresser east of the left openings
+The living rooms east of the left openings east of a closed medicine drawer south of a dresser
+The living room east of closed medicine drawers south of the dressers east of a left opening
+The living room east of a left opening east of closed medicine drawers south of the dressers
+A living room east of the closed medicine drawer south of dressers east of the left openings
+A living room east of the left openings east of the closed medicine drawer south of dressers
+Living rooms east of the left openings east of the closed medicine drawers south of dressers.
+The living room east of the closed medicine drawer south of dressers east of the left openings
+The living room east of the left openings east of the closed medicine drawer south of dressers
+Living rooms east of the medicines closed drawer south of the dresser east of the left openings
+Living rooms east of the left openings east of the medicines closed drawer south of the dresser
+The living rooms east of the closed medicine drawer south of the dressers east of a left opening
+The living rooms east of a left opening east of the closed medicine drawer south of the dressers
+A living room east of a closed medicine drawer south of the dresser east of the left opening.
+The living room east of a closed medicine drawer south of the dresser east of the left opening.
+A living room east of closed medicine drawers south of the dressers east of the left openings.
+Living rooms east of a left opening east of the closed medicine drawers south of the dresser.
+The living room east of closed medicine drawers south of the dressers east of the left openings.
+Living rooms east of the left opening east of the closed medicine drawer south of dressers.
+Living rooms east of the closed medicine drawers south of a dresser east of the left opening.
+Living rooms east of the medicines closed drawer south of the dressers east of the left opening
+Living rooms east of the left opening east of the medicines closed drawer south of the dressers
+A living room east of the left opening east of the closed medicine drawers south of the dresser.
+The living rooms east of the closed medicine drawer south of the dressers east of the left openings.
+The living room east of the left opening east of the closed medicine drawers south of the dresser.
+A living room east of a closed medicine drawer south of dressers east of the left openings
+A living room east of the left openings east of a closed medicine drawer south of dressers
+Living rooms east of a left opening east of closed medicine drawers south of the dressers.
+The living room east of a closed medicine drawer south of dressers east of the left openings
+The living room east of the left openings east of a closed medicine drawer south of dressers
+The living rooms east of the left openings east of the closed medicine drawers south of the dressers.
+Living rooms east of a medicines closed drawer south of the dresser east of the left openings
+Living rooms east of the left openings east of a medicines closed drawer south of the dresser
+The living rooms east of a closed medicine drawer south of the dressers east of a left opening
+The living rooms east of a left opening east of a closed medicine drawer south of the dressers
+A living room east of the left opening east of closed medicine drawers south of the dressers.
+Living rooms east of closed medicine drawers south of a dresser east of a left opening
+Living rooms east of a left opening east of closed medicine drawers south of a dresser
+Living rooms east of closed medicine drawers south of the dressers east of the left opening.
+The living room east of the left opening east of closed medicine drawers south of the dressers.
+Living rooms east of the closed medicine drawers south of the dresser east of a left opening.
+The living rooms east of the closed medicine drawers south of a dresser east of the left openings
+The living rooms east of the left openings east of the closed medicine drawers south of a dresser
+Living rooms east of the medicines closed drawers south of the dressers east of the left openings
+Living rooms east of the left openings east of the medicines closed drawers south of the dressers
+Living rooms east of the left opening east of a closed medicine drawer south of dressers.
+Living rooms east of the left opening east of closed medicine drawers south of a dresser.
+A living room east of closed medicine drawers south of a dresser east of the left opening
+A living room east of the left opening east of closed medicine drawers south of a dresser
+The living rooms east of the left opening east of the closed medicine drawer south of the dressers.
+Living rooms east of a medicines closed drawer south of the dressers east of the left opening
+Living rooms east of the left opening east of a medicines closed drawer south of the dressers
+The living room east of closed medicine drawers south of a dresser east of the left opening
+The living room east of the left opening east of closed medicine drawers south of a dresser
+A living room east of the closed medicine drawers south of the dresser east of the left opening.
+The living rooms east of a closed medicine drawer south of the dressers east of the left openings.
+The living room east of the closed medicine drawers south of the dresser east of the left opening.
+Living rooms east of closed medicine drawers south of a dresser east of the left openings.
+The living rooms east of the closed medicine drawer south of a dresser east of the left opening
+The living rooms east of the left opening east of the closed medicine drawer south of a dresser
+The living rooms east of closed medicine drawers south of the dressers east of the left openings
+The living rooms east of the left openings east of closed medicine drawers south of the dressers
+A living room east of the closed medicine drawer south of the dressers east of a left opening.
+The living room east of the closed medicine drawer south of the dressers east of a left opening.
+A living room east of closed medicine drawers south of the dresser east of a left opening
+A living room east of a left opening east of closed medicine drawers south of the dresser
+The living room east of closed medicine drawers south of the dresser east of a left opening
+The living room east of a left opening east of closed medicine drawers south of the dresser
+A living room east of the closed medicine drawers south of dressers east of the left openings
+A living room east of the left openings east of the closed medicine drawers south of dressers
+The living room east of the closed medicine drawers south of dressers east of the left openings
+The living room east of the left openings east of the closed medicine drawers south of dressers
+A living room east of a left opening east of the closed medicine drawer south of a dresser.
+The living room east of a left opening east of the closed medicine drawer south of a dresser.
+The living rooms east of the left opening east of a closed medicine drawer south of the dressers.
+Living rooms east of the closed medicine drawer south of dressers east of a left opening
+Living rooms east of a left opening east of the closed medicine drawer south of dressers
+The living rooms east of the closed medicine drawer south of the dresser east of a left opening
+The living rooms east of a left opening east of the closed medicine drawer south of the dresser
+The living rooms east of the closed medicine drawers south of the dressers east of a left opening
+The living rooms east of a left opening east of the closed medicine drawers south of the dressers
+Living rooms east of the left opening east of closed medicine drawers south of the dresser.
+A living room east of closed medicine drawers south of the dresser east of the left openings.
+The living rooms east of a closed medicine drawer south of a dresser east of the left opening
+The living rooms east of the left opening east of a closed medicine drawer south of a dresser
+The living room east of closed medicine drawers south of the dresser east of the left openings.
+A living room east of the closed medicine drawer south of dressers east of the left opening
+A living room east of the left opening east of the closed medicine drawer south of dressers
+Living rooms east of the left opening east of the closed medicine drawers south of dressers.
+The living room east of the closed medicine drawer south of dressers east of the left opening
+The living room east of the left opening east of the closed medicine drawer south of dressers
+Living rooms east of the medicines closed drawer south of the dresser east of the left opening
+Living rooms east of the left opening east of the medicines closed drawer south of the dresser
+A living room east of a closed medicine drawer south of the dressers east of a left opening.
+Living rooms east of the closed medicine drawer south of dressers east of the left openings.
+The living rooms east of the closed medicine drawer south of the dresser east of the left openings.
+The living rooms east of the closed medicine drawers south of the dressers east of the left openings.
+The living room east of a closed medicine drawer south of the dressers east of a left opening.
+A living room east of the left openings east of the closed medicine drawer south of dressers.
+The living room east of the left openings east of the closed medicine drawer south of dressers.
+A living room east of the medicines closed drawer south of the dressers east of the left openings
+A living room east of the left openings east of the medicines closed drawer south of the dressers
+A living room east of a left opening east of a closed medicine drawer south of a dresser.
+The living room east of the medicines closed drawer south of the dressers east of the left openings
+The living room east of the left openings east of the medicines closed drawer south of the dressers
+The living room east of a left opening east of a closed medicine drawer south of a dresser.
+Living rooms east of a closed medicine drawer south of dressers east of a left opening
+Living rooms east of a left opening east of a closed medicine drawer south of dressers
+The living rooms east of a left opening east of a closed medicine drawer south of the dresser
+The living rooms east of a closed medicine drawer south of the dresser east of a left opening
+Living rooms east of the closed medicine drawer south of a dresser east of a left opening.
+Living rooms east of closed medicine drawers south of the dresser east of the left opening.
+A living room east of a left opening east of the closed medicine drawer south of the dresser.
+The living room east of a left opening east of the closed medicine drawer south of the dresser.
+Living rooms east of the medicines closed drawers south of the dresser east of the left openings
+Living rooms east of the left openings east of the medicines closed drawers south of the dresser
+A living room east of a closed medicine drawer south of dressers east of the left opening
+A living room east of the left opening east of a closed medicine drawer south of dressers
+The living room east of a closed medicine drawer south of dressers east of the left opening
+The living room east of the left opening east of a closed medicine drawer south of dressers
+A living room east of the closed medicine drawer south of a dresser east of the left opening.
+The living room east of the closed medicine drawer south of a dresser east of the left opening.
+The living rooms east of the left opening east of the closed medicine drawers south of the dressers.
+Living rooms east of a medicines closed drawer south of the dresser east of the left opening
+Living rooms east of the left opening east of a medicines closed drawer south of the dresser
+Living rooms east of a closed medicine drawer south of dressers east of the left openings.
+The living rooms east of a closed medicine drawer south of the dresser east of the left openings.
+A living room east of the left openings east of a closed medicine drawer south of dressers.
+A living room east of the left openings east of closed medicine drawers south of a dresser.
+The living room east of the left openings east of a closed medicine drawer south of dressers.
+The living room east of the left openings east of closed medicine drawers south of a dresser.
+A living room east of a medicines closed drawer south of the dressers east of the left openings
+A living room east of the left openings east of a medicines closed drawer south of the dressers
+The living rooms east of the closed medicine drawers south of a dresser east of the left opening
+The living rooms east of the left opening east of the closed medicine drawers south of a dresser
+The living room east of a medicines closed drawer south of the dressers east of the left openings
+The living room east of the left openings east of a medicines closed drawer south of the dressers
+Living rooms east of closed medicine drawers south of dressers east of the left openings
+Living rooms east of the left openings east of closed medicine drawers south of dressers
+The living rooms east of closed medicine drawers south of the dresser east of the left openings
+The living rooms east of the left openings east of closed medicine drawers south of the dresser
+Living rooms east of the medicines closed drawers south of the dressers east of the left opening
+Living rooms east of the left opening east of the medicines closed drawers south of the dressers
+Living rooms east of the left openings east of the medicines closed drawer south of the dressers.
+Living rooms east of a closed medicine drawer south of a dresser east of a left opening.
+The living rooms east of the left openings east of the closed medicine drawer south of a dresser.
+A living room east of the closed medicine drawer south of the dresser east of a left opening.
+A living room east of the closed medicine drawers south of the dressers east of a left opening.
+A living room east of a left opening east of a closed medicine drawer south of the dresser.
+The living room east of the closed medicine drawer south of the dresser east of a left opening.
+The living room east of the closed medicine drawers south of the dressers east of a left opening.
+The living room east of a left opening east of a closed medicine drawer south of the dresser.
+Living rooms, east of the closed medicine drawer south of the dressers east of the left openings
+Living rooms, east of the left openings east of the closed medicine drawer south of the dressers
+Living rooms east of the medicines closed drawer south of a dresser east of the left openings
+Living rooms east of the left openings east of the medicines closed drawer south of a dresser
+A living room east of a left opening east of the closed medicine drawers south of a dresser.
+A living room east of a closed medicine drawer south of a dresser east of the left opening.
+The living room east of a left opening east of the closed medicine drawers south of a dresser.
+The living room east of a closed medicine drawer south of a dresser east of the left opening.
+The living rooms east of closed medicine drawers south of the dressers east of the left opening
+The living rooms east of the left opening east of closed medicine drawers south of the dressers
+Living rooms east of the closed medicine drawers south of dressers east of a left opening
+Living rooms east of a left opening east of the closed medicine drawers south of dressers
+The living rooms east of the closed medicine drawers south of the dresser east of a left opening
+The living rooms east of a left opening east of the closed medicine drawers south of the dresser
+Living room east of the closed medicine drawer south of the dressers east of the left openings
+Living room east of the left openings east of the closed medicine drawer south of the dressers
+A living room east of the closed medicine drawers south of dressers east of the left opening
+A living room east of the left opening east of the closed medicine drawers south of dressers
+Living rooms east of the left openings east of a medicines closed drawer south of the dressers.
+The living room east of the closed medicine drawers south of dressers east of the left opening
+The living room east of the left opening east of the closed medicine drawers south of dressers
+A living room east of the left openings east of closed medicine drawers south of the dresser.
+The living rooms east of the left openings east of a closed medicine drawer south of a dresser.
+The living room east of the left openings east of closed medicine drawers south of the dresser.
+A living room east of a closed medicine drawer south of the dresser east of a left opening.
+Living rooms east of the closed medicine drawers south of dressers east of the left openings.
+The living rooms east of the closed medicine drawers south of the dresser east of the left openings.
+The living room east of a closed medicine drawer south of the dresser east of a left opening.
+A living room east of the left openings east of the closed medicine drawers south of dressers.
+The living room east of the left openings east of the closed medicine drawers south of dressers.
+Living rooms, east of the left openings east of a closed medicine drawer south of the dressers
+Living rooms, east of a closed medicine drawer south of the dressers east of the left openings
+Living rooms east of the left openings east of a medicines closed drawer south of a dresser
+Living rooms east of a medicines closed drawer south of a dresser east of the left openings
+A living room east of the medicines closed drawer south of the dresser east of the left openings
+A living room east of the left openings east of the medicines closed drawer south of the dresser
+The living rooms east of the left openings east of the closed medicine drawer south of the dresser.
+The living room east of the medicines closed drawer south of the dresser east of the left openings
+The living room east of the left openings east of the medicines closed drawer south of the dresser
+Living rooms east of a left opening east of the closed medicine drawer south of dressers.
+Living rooms east of the closed medicine drawers south of a dresser east of a left opening.
+Living rooms east of the medicines closed drawer south of the dressers east of a left opening
+Living rooms east of a left opening east of the medicines closed drawer south of the dressers
+A living room east of a left opening east of the closed medicine drawers south of the dresser.
+The living room east of a left opening east of the closed medicine drawers south of the dresser.
+A living room east of the left opening east of the closed medicine drawer south of dressers.
+The living room east of the left opening east of the closed medicine drawer south of dressers.
+Living room east of a closed medicine drawer south of the dressers east of the left openings
+Living room east of the left openings east of a closed medicine drawer south of the dressers
+A living room east of the closed medicine drawers south of a dresser east of the left opening.
+A living room east of the medicines closed drawer south of the dressers east of the left opening
+A living room east of the left opening east of the medicines closed drawer south of the dressers
+The living room east of the closed medicine drawers south of a dresser east of the left opening.
+The living room east of the medicines closed drawer south of the dressers east of the left opening
+The living room east of the left opening east of the medicines closed drawer south of the dressers
+Living rooms east of the medicines closed drawer south of the dressers east of the left openings.
+A living room east of a left opening east of closed medicine drawers south of the dressers.
+Living rooms east of closed medicine drawers south of the dressers east of a left opening.
+The living room east of a left opening east of closed medicine drawers south of the dressers.
+A living room east of a medicines closed drawer south of the dresser east of the left openings
+A living room east of the left openings east of a medicines closed drawer south of the dresser
+The living rooms east of the left openings east of a closed medicine drawer south of the dresser.
+The living room east of a medicines closed drawer south of the dresser east of the left openings
+The living room east of the left openings east of a medicines closed drawer south of the dresser
+Living rooms east of the medicines closed drawers south of the dresser east of the left opening
+Living rooms east of the left opening east of the medicines closed drawers south of the dresser
+Living rooms east of a left opening east of a closed medicine drawer south of dressers.
+Living rooms east of a left opening east of closed medicine drawers south of a dresser.
+A living room east of closed medicine drawers south of a dresser east of a left opening
+A living room east of a left opening east of closed medicine drawers south of a dresser
+The living rooms east of a left opening east of the closed medicine drawer south of the dressers.
+A living room east of closed medicine drawers south of the dressers east of the left opening.
+Living rooms east of a medicines closed drawer south of the dressers east of a left opening
+Living rooms east of a left opening east of a medicines closed drawer south of the dressers
+The living rooms east of the left openings east of the closed medicine drawers south of a dresser.
+The living room east of closed medicine drawers south of a dresser east of a left opening
+The living room east of a left opening east of closed medicine drawers south of a dresser
+The living room east of closed medicine drawers south of the dressers east of the left opening.
+A living room east of the closed medicine drawers south of the dresser east of a left opening.
+The living room east of the closed medicine drawers south of the dresser east of a left opening.
+A living room east of the medicines closed drawers south of the dressers east of the left openings
+A living room east of the left openings east of the medicines closed drawers south of the dressers
+Living rooms east of the closed medicine drawer south of the dressers east of left openings
+Living rooms east of left openings east of the closed medicine drawer south of the dressers
+A living room east of the left opening east of a closed medicine drawer south of dressers.
+The living room east of the medicines closed drawers south of the dressers east of the left openings
+The living room east of the left openings east of the medicines closed drawers south of the dressers
+Living rooms, east of the closed medicine drawer south of the dresser east of the left openings
+Living rooms, east of the left openings east of the closed medicine drawer south of the dresser
+Living rooms, east of the closed medicine drawers south of the dressers east of the left openings
+Living rooms, east of the left openings east of the closed medicine drawers south of the dressers
+A living room east of the left opening east of closed medicine drawers south of a dresser.
+The living room east of the left opening east of a closed medicine drawer south of dressers.
+The living room east of the left opening east of closed medicine drawers south of a dresser.
+The living rooms east of the closed medicine drawer south of a dresser east of a left opening
+The living rooms east of a left opening east of the closed medicine drawer south of a dresser
+A living room east of a medicines closed drawer south of the dressers east of the left opening
+A living room east of the left opening east of a medicines closed drawer south of the dressers
+The living rooms east of the closed medicine drawer south of the dressers east of the left opening.
+The living room east of a medicines closed drawer south of the dressers east of the left opening
+The living room east of the left opening east of a medicines closed drawer south of the dressers
+Living rooms east of closed medicine drawers south of dressers east of the left opening
+Living rooms east of the left opening east of closed medicine drawers south of dressers
+The living rooms east of closed medicine drawers south of the dresser east of the left opening
+The living rooms east of the left opening east of closed medicine drawers south of the dresser
+Living rooms east of the left opening east of the medicines closed drawer south of the dressers.
+A living room east of closed medicine drawers south of a dresser east of the left openings.
+Living rooms east of a medicines closed drawer south of the dressers east of the left openings.
+The living rooms east of the left opening east of the closed medicine drawer south of a dresser.
+The living room east of closed medicine drawers south of a dresser east of the left openings.
+Living rooms east of the left openings east of closed medicine drawers south of dressers.
+Living room east of the closed medicine drawer south of the dresser east of the left openings
+Living room east of the left openings east of the closed medicine drawer south of the dresser
+
+TOTAL RESULTS: 633
+
+Node                        MRS Produced    Reason                 Included in MRS    Reason
+--------------------------  --------------  ---------------------  -----------------  ---------------
+closed_4                    True            MRS fragment produced  True               Included in MRS
+idDresser_5                 True            MRS fragment produced  True               Included in MRS
+idLivingroom1LeftOpening_2  True            MRS fragment produced  True               Included in MRS
+idLivingroom_1              True            MRS fragment produced  True               Included in MRS
+idMedDrawer_3               True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idOpenState_2  True            MRS composed  True               Included in MRS
+isEastOf_1     True            MRS composed  True               Included in MRS
+isEastOf_4     True            MRS composed  True               Included in MRS
+isSouthOf_3    True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             5        5           1
+Nodes              Included             5        5           1
+Edges              Produced             4        4           1
+Edges              Included             4        4           1

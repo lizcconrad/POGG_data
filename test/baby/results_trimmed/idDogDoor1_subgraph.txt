@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idDogDoor1_subgraph.dot
+[ TOP: h3634
+  INDEX: e3631
+  RELS: < [ unknown LBL: h3633 ARG: x3627 ARG0: e3631 ]
+          [ def_udef_a_q LBL: h3630 ARG0: x3627 RSTR: h3628 BODY: h3629 ]
+          [ _closed_a_1 LBL: h3626 ARG0: e3624 ARG1: x3627 ]
+          [ _door_n_1 LBL: h3626 ARG0: x3627 ] >
+  HCONS: < h3628 qeq h3626 h3634 qeq h3633 > ]
+GENERATED RESULTS ... 
+The closed door
+Closed doors
+A closed door
+The closed doors
+The closed doors.
+Closed door
+Closed doors.
+The closed door.
+A closed door.
+Closed door.
+
+TOTAL RESULTS: 10
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  ---------------
+closed_2     True            MRS fragment produced  True               Included in MRS
+idDogDoor_1  True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idOpenState_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

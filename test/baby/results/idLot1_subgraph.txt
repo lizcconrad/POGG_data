@@ -1,0 +1,51 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idLot1_subgraph.dot
+[ TOP: h1385
+  INDEX: e1382
+  RELS: < [ unknown LBL: h1384 ARG: x1378 ARG0: e1382 ]
+          [ def_udef_a_q LBL: h1381 ARG0: x1378 RSTR: h1379 BODY: h1380 ]
+          [ _un-_a_neg LBL: h1369 ARG0: i1367 ARG1: e1370 ]
+          [ _know_v_1 LBL: h1369 ARG0: e1370 ARG1: u1371 ARG2: x1378 ]
+          [ _dusty_a_1 LBL: h1369 ARG0: e1360 ARG1: x1378 ]
+          [ _lot_n_1 LBL: h1369 ARG0: x1378 ] >
+  HCONS: < h1379 qeq h1369 h1385 qeq h1384 > ]
+GENERATED RESULTS ... 
+The dusty unknown lots
+Dusty unknown lots
+The dusty unknown lots.
+Dusty unknown lots.
+The unknown dusty lots
+The dusty unknown lot
+A dusty unknown lot
+An unknown dusty lot
+The unknown dusty lots.
+The unknown dusty lot
+Unknown dusty lots
+The dusty unknown lot.
+A dusty unknown lot.
+Unknown dusty lots.
+Dusty unknown lot
+An unknown dusty lot.
+The unknown dusty lot.
+Unknown dusty lot
+Dusty unknown lot.
+Unknown dusty lot.
+
+TOTAL RESULTS: 20
+
+Node     MRS Produced    Reason                 Included in MRS    Reason
+-------  --------------  ---------------------  -----------------  ---------------
+dusty_2  True            MRS fragment produced  True               Included in MRS
+idLot_1  True            MRS fragment produced  True               Included in MRS
+true_3   True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idMaterial_1       True            MRS composed  True               Included in MRS
+idUnknownObject_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

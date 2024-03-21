@@ -1,0 +1,58 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idBed1_subgraph.dot
+[ TOP: h1743
+  INDEX: e1740
+  RELS: < [ unknown LBL: h1742 ARG: x1670 ARG0: e1740 ]
+          [ def_udef_a_q LBL: h1739 ARG0: x1670 RSTR: h1737 BODY: h1738 ]
+          [ loc_nonsp LBL: h1735 ARG0: i1732 ARG1: x1670 ARG2: x1726 ]
+          [ _queen_n_of LBL: h1735 ARG0: x1670 ARG1: x1655 ]
+          [ _immovable_a_1 LBL: h1735 ARG0: e1664 ARG1: x1655 ]
+          [ _brown_a_1 LBL: h1735 ARG0: i1657 ARG1: x1655 ]
+          [ _bed_n_1 LBL: h1735 ARG0: x1655 ]
+          [ def_implicit_q LBL: h1731 ARG0: x1726 RSTR: h1729 BODY: h1730 ]
+          [ _north_a_1 LBL: h1721 ARG0: i1718 ARG1: x1726 ARG2: x1673 ]
+          [ def_udef_a_q LBL: h1725 ARG0: x1673 RSTR: h1723 BODY: h1724 ]
+          [ loc_nonsp LBL: h1674 ARG0: i1714 ARG1: x1673 ARG2: x1710 ]
+          [ _immovable_a_1 LBL: h1674 ARG0: e1692 ARG1: x1673 ]
+          [ _white_a_1 LBL: h1674 ARG0: i1685 ARG1: x1673 ]
+          [ compound LBL: h1674 ARG0: e1681 ARG1: x1673 ARG2: x1675 ]
+          [ udef_q LBL: h1680 ARG0: x1675 RSTR: h1678 BODY: h1679 ]
+          [ _medicine_n_1 LBL: h1676 ARG0: x1675 ]
+          [ _cabinet_n_1 LBL: h1674 ARG0: x1673 ]
+          [ def_implicit_q LBL: h1713 ARG0: x1710 RSTR: h1711 BODY: h1712 ]
+          [ _west_a_1 LBL: h1703 ARG0: i1700 ARG1: x1710 ARG2: x1704 ]
+          [ def_udef_a_q LBL: h1707 ARG0: x1704 RSTR: h1705 BODY: h1706 ]
+          [ _chair_n_1 LBL: h1699 ARG0: x1704 ]
+          [ place_n LBL: h1703 ARG0: x1710 ]
+          [ place_n LBL: h1721 ARG0: x1726 ] >
+  HCONS: < h1678 qeq h1676 h1705 qeq h1699 h1711 qeq h1703 h1723 qeq h1674 h1729 qeq h1721 h1737 qeq h1735 h1743 qeq h1742 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                 MRS Produced    Reason                 Included in MRS    Reason
+-------------------  --------------  ---------------------  -----------------  ---------------
+brown_2              True            MRS fragment produced  True               Included in MRS
+idBed_1              True            MRS fragment produced  True               Included in MRS
+idChair_8            True            MRS fragment produced  True               Included in MRS
+idMedicineCabinet_5  True            MRS fragment produced  True               Included in MRS
+idqueen_4            True            MRS fragment produced  True               Included in MRS
+white_6              True            MRS fragment produced  True               Included in MRS
+yes_3                True            MRS fragment produced  True               Included in MRS
+yes_7                True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idColor_1        True            MRS composed  True               Included in MRS
+idColor_4        True            MRS composed  True               Included in MRS
+idDescriptor__3  True            MRS composed  True               Included in MRS
+idImmovable_2    True            MRS composed  True               Included in MRS
+idImmovable_5    True            MRS composed  True               Included in MRS
+isNorthOf_7      True            MRS composed  True               Included in MRS
+isWestOf_6       True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             8        8           1
+Nodes              Included             8        8           1
+Edges              Produced             7        7           1
+Edges              Included             7        7           1

@@ -1,0 +1,95 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idHouse1_subgraph.dot
+[ TOP: h2607
+  INDEX: e2604
+  RELS: < [ unknown LBL: h2606 ARG: x2582 ARG0: e2604 ]
+          [ def_udef_a_q LBL: h2603 ARG0: x2582 RSTR: h2601 BODY: h2602 ]
+          [ _near_p LBL: h2595 ARG0: e2592 ARG1: x2582 ARG2: x2584 ]
+          [ def_udef_a_q LBL: h2599 ARG0: x2584 RSTR: h2597 BODY: h2598 ]
+          [ _table_n_1 LBL: h2585 ARG0: x2584 ]
+          [ _house_n_of LBL: h2595 ARG0: x2582 ] >
+  HCONS: < h2597 qeq h2585 h2601 qeq h2595 h2607 qeq h2606 > ]
+GENERATED RESULTS ... 
+The houses near the tables
+The houses near the table
+The houses near a table
+The houses near tables
+The houses near the tables.
+A house near the tables
+The house near the tables
+Houses near the tables
+A house near the table
+The house, near the tables
+The house near the table
+House near the table
+House near the tables
+Houses, near the tables
+The houses, near the tables
+House, near the tables
+A house near a table
+The house near a table
+The houses near tables.
+The houses near a table.
+The house, near the table
+A house, near the tables
+House near a table
+A house near tables
+The house near tables
+The houses near the table.
+A house near the tables.
+The house near the tables.
+Houses, near the table
+House, near the table
+The houses, near the table
+Houses near the table
+Houses near the tables.
+House near the tables.
+The house, near a table
+Houses near a table
+A house, near the table
+Houses, near a table
+The houses, near a table
+House, near a table
+The house, near tables
+House near tables
+A house near tables.
+The house near tables.
+House near tables.
+A house near a table.
+The house near a table.
+Houses near tables
+A house, near a table
+The houses, near tables
+House, near tables
+Houses near a table.
+Houses, near tables
+A house near the table.
+House near a table.
+The house near the table.
+Houses near the table.
+House near the table.
+A house, near tables
+Houses near tables.
+
+TOTAL RESULTS: 60
+
+Node           MRS Produced    Reason                                     Included in MRS    Reason
+-------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idHouse_1      True            MRS fragment produced                      True               Included in MRS
+idTable_3      True            MRS fragment produced                      True               Included in MRS
+idmetal_4      True            MRS fragment produced                      False              Descends from failed edge
+uncountable_2  False           'uncountable' has no value in the lexicon  False              'uncountable' has no value in the lexicon
+yes_5          True            MRS fragment produced                      False              Descends from failed edge
+
+Edge             MRS Composed    Reason                                 Included in MRS    Reason
+---------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idArticleType_1  False           Inbound to failed node                 False              Inbound to failed node
+idImmovable_3    False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idMaterial_2     False           Semantic functor has no ARG1 hole      False              Semantic functor has no ARG1 hole
+isNear_4         True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        5        0.8
+Nodes              Included             2        5        0.4
+Edges              Produced             1        4        0.25
+Edges              Included             1        4        0.25

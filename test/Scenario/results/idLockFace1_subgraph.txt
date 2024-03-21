@@ -1,0 +1,100 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idLockFace1_subgraph.dot
+[ TOP: h159
+  INDEX: e156
+  RELS: < [ unknown LBL: h158 ARG: x117 ARG0: e156 ]
+          [ def_udef_a_q LBL: h155 ARG0: x117 RSTR: h153 BODY: h154 ]
+          [ loc_nonsp LBL: h128 ARG0: i148 ARG1: x117 ARG2: x144 ]
+          [ compound LBL: h128 ARG0: e125 ARG1: x117 ARG2: x119 ]
+          [ udef_q LBL: h124 ARG0: x119 RSTR: h122 BODY: h123 ]
+          [ _lock_n_1 LBL: h120 ARG0: x119 ]
+          [ _face_n_1 LBL: h128 ARG0: x117 ]
+          [ def_implicit_q LBL: h147 ARG0: x144 RSTR: h145 BODY: h146 ]
+          [ _north_a_1 LBL: h143 ARG0: i134 ARG1: x144 ARG2: x138 ]
+          [ def_udef_a_q LBL: h141 ARG0: x138 RSTR: h139 BODY: h140 ]
+          [ _dark_a_1 LBL: h130 ARG0: e131 ARG1: x138 ]
+          [ _cave_n_1 LBL: h130 ARG0: x138 ]
+          [ place_n LBL: h143 ARG0: x144 ] >
+  HCONS: < h122 qeq h120 h139 qeq h130 h145 qeq h143 h153 qeq h128 h159 qeq h158 > ]
+GENERATED RESULTS ... 
+Lock faces north of a dark cave
+A lock face north of a dark cave
+The lock face north of a dark cave
+Lock faces north of the dark cave
+Lock faces north of the dark caves
+A lock face north of the dark cave
+The lock face north of the dark cave
+The lock faces north of a dark cave
+A lock face north of the dark caves
+The lock face north of the dark caves
+Lock faces north of the dark caves.
+The lock faces north of the dark cave
+Lock faces north of dark caves
+A lock face north of the dark caves.
+The lock face north of the dark caves.
+The lock faces north of the dark caves
+Lock faces north of a dark cave.
+Lock faces north of dark caves.
+A lock face north of dark caves
+The lock face north of dark caves
+The lock faces north of the dark caves.
+A lock face north of a dark cave.
+The lock face north of a dark cave.
+Lock faces north of the dark cave.
+Lock face north of a dark cave
+A lock face north of dark caves.
+The lock face north of dark caves.
+The lock faces, north of a dark cave
+Lock faces, north of a dark cave
+The lock faces north of dark caves
+A lock face north of the dark cave.
+The lock face north of the dark cave.
+The lock faces north of a dark cave.
+Lock face north of the dark cave
+The lock face, north of a dark cave
+The lock faces, north of the dark cave
+Lock faces, north of the dark cave
+The lock faces north of dark caves.
+Lock face north of the dark caves
+The lock faces, north of the dark caves
+Lock faces, north of the dark caves
+The lock faces north of the dark cave.
+Lock face, north of a dark cave
+The lock face, north of the dark cave
+A lock face, north of a dark cave
+Lock face north of the dark caves.
+The lock face, north of the dark caves
+Lock face, north of the dark cave
+Lock face north of dark caves
+Lock face, north of the dark caves
+A lock face, north of the dark cave
+The lock faces, north of dark caves
+Lock faces, north of dark caves
+Lock face north of a dark cave.
+A lock face, north of the dark caves
+Lock face north of dark caves.
+The lock face, north of dark caves
+Lock face north of the dark cave.
+Lock face, north of dark caves
+A lock face, north of dark caves
+
+TOTAL RESULTS: 60
+
+Node          MRS Produced    Reason                           Included in MRS    Reason
+------------  --------------  -------------------------------  -----------------  -------------------------------
+3_3           False           '3' has no value in the lexicon  False              '3' has no value in the lexicon
+dark_4        True            MRS fragment produced            True               Included in MRS
+idDarkCave_2  True            MRS fragment produced            True               Included in MRS
+idLockFace_1  True            MRS fragment produced            True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idOrdinality_1  False           Inbound to failed node  False              Inbound to failed node
+idTone_2        True            MRS composed            True               Included in MRS
+isNorthOf_3     True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        4    0.75
+Nodes              Included             3        4    0.75
+Edges              Produced             2        3    0.666667
+Edges              Included             2        3    0.666667

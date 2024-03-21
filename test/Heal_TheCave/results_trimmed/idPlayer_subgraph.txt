@@ -1,0 +1,36 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idPlayer_subgraph.dot
+[ TOP: h410
+  INDEX: e407
+  RELS: < [ unknown LBL: h409 ARG: x403 ARG0: e407 ]
+          [ def_udef_a_q LBL: h406 ARG0: x403 RSTR: h404 BODY: h405 ]
+          [ _player_n_of LBL: h399 ARG0: x403 ARG1: i398 ] >
+  HCONS: < h404 qeq h399 h410 qeq h409 > ]
+GENERATED RESULTS ... 
+Players
+Players.
+The players
+A player
+Player
+Player.
+A player.
+The player
+The players.
+The player.
+
+TOTAL RESULTS: 10
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  -------------------------
+false_2     True            MRS fragment produced  False              Descends from failed edge
+idPlayer_1  True            MRS fragment produced  True               Included in MRS
+
+Edge              MRS Composed    Reason                                    Included in MRS    Reason
+----------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+idBoulderMoved_1  False           'idBoulderMoved' has no value in lexicon  False              'idBoulderMoved' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2         1
+Nodes              Included             1        2         0.5
+Edges              Produced             0        1         0
+Edges              Included             0        1         0

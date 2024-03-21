@@ -1,0 +1,98 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheTrees/subgraphs/dot/complete/idCave1_subgraph.dot
+[ TOP: h35
+  INDEX: e32
+  RELS: < [ unknown LBL: h34 ARG: x0 ARG0: e32 ]
+          [ def_udef_a_q LBL: h31 ARG0: x0 RSTR: h29 BODY: h30 ]
+          [ loc_nonsp LBL: h4 ARG0: i24 ARG1: x0 ARG2: x11 ]
+          [ _dark_a_1 LBL: h4 ARG0: e2 ARG1: x0 ]
+          [ _cave_n_1 LBL: h4 ARG0: x0 ]
+          [ def_implicit_q LBL: h23 ARG0: x11 RSTR: h21 BODY: h22 ]
+          [ _north_a_1 LBL: h19 ARG0: i10 ARG1: x11 ARG2: x14 ]
+          [ def_udef_a_q LBL: h17 ARG0: x14 RSTR: h15 BODY: h16 ]
+          [ _grassy_a_1 LBL: h9 ARG0: e7 ARG1: x14 ]
+          [ _clearing_n_1 LBL: h9 ARG0: x14 ]
+          [ place_n LBL: h19 ARG0: x11 ] >
+  HCONS: < h15 qeq h9 h21 qeq h19 h29 qeq h4 h35 qeq h34 > ]
+GENERATED RESULTS ... 
+A dark cave north of the grassy clearings
+The dark cave north of the grassy clearings
+A dark cave north of a grassy clearing
+The dark cave north of a grassy clearing
+A dark cave north of the grassy clearing
+The dark cave north of the grassy clearing
+A dark cave north of grassy clearings
+The dark cave north of grassy clearings
+The dark caves north of the grassy clearings
+Dark caves north of the grassy clearings
+The dark caves north of a grassy clearing
+Dark caves north of a grassy clearing
+A dark cave north of the grassy clearings.
+The dark cave north of the grassy clearings.
+The dark caves north of the grassy clearing
+The dark caves north of grassy clearings
+Dark caves north of the grassy clearing
+Dark caves north of grassy clearings
+The dark caves north of the grassy clearings.
+Dark cave north of the grassy clearings
+Dark caves north of the grassy clearings.
+Dark cave north of a grassy clearing
+A dark cave north of grassy clearings.
+The dark cave north of grassy clearings.
+Dark cave north of the grassy clearing
+Dark cave north of grassy clearings
+A dark cave north of a grassy clearing.
+The dark cave north of a grassy clearing.
+The dark caves north of grassy clearings.
+Dark caves north of grassy clearings.
+Dark cave north of the grassy clearings.
+A dark cave north of the grassy clearing.
+The dark cave north of the grassy clearing.
+The dark caves north of a grassy clearing.
+Dark caves north of a grassy clearing.
+Dark cave north of grassy clearings.
+The dark caves north of the grassy clearing.
+Dark caves north of the grassy clearing.
+Dark cave north of a grassy clearing.
+Dark cave north of the grassy clearing.
+The dark caves, north of the grassy clearings
+The dark cave, north of the grassy clearings
+The dark caves, north of a grassy clearing
+The dark cave, north of a grassy clearing
+Dark caves, north of the grassy clearings
+Dark caves, north of a grassy clearing
+Dark cave, north of the grassy clearings
+Dark cave, north of a grassy clearing
+The dark caves, north of the grassy clearing
+The dark cave, north of the grassy clearing
+The dark caves, north of grassy clearings
+A dark cave, north of the grassy clearings
+The dark cave, north of grassy clearings
+Dark caves, north of the grassy clearing
+A dark cave, north of a grassy clearing
+Dark caves, north of grassy clearings
+Dark cave, north of the grassy clearing
+Dark cave, north of grassy clearings
+A dark cave, north of the grassy clearing
+A dark cave, north of grassy clearings
+
+TOTAL RESULTS: 60
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  ---------------
+dark_2        True            MRS fragment produced  True               Included in MRS
+grassy_4      True            MRS fragment produced  True               Included in MRS
+idCave_1      True            MRS fragment produced  True               Included in MRS
+idClearing_3  True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason        Included in MRS    Reason
+--------------  --------------  ------------  -----------------  ---------------
+idDescriptor_2  True            MRS composed  True               Included in MRS
+idTint_1        True            MRS composed  True               Included in MRS
+isNorthOf_3     True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4           1
+Nodes              Included             4        4           1
+Edges              Produced             3        3           1
+Edges              Included             3        3           1

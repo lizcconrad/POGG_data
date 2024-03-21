@@ -1,0 +1,50 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idLivingRoomToKitchenDoor1_subgraph.dot
+[ TOP: h153
+  INDEX: e150
+  RELS: < [ unknown LBL: h152 ARG: x130 ARG0: e150 ]
+          [ def_udef_a_q LBL: h149 ARG0: x130 RSTR: h147 BODY: h148 ]
+          [ _open_a_to LBL: h145 ARG0: e142 ARG1: x130 ARG2: u144 ]
+          [ compound LBL: h145 ARG0: e138 ARG1: x130 ARG2: x134 ]
+          [ udef_q LBL: h137 ARG0: x134 RSTR: h135 BODY: h136 ]
+          [ _kitchen_n_1 LBL: h133 ARG0: x134 ]
+          [ _door_n_1 LBL: h145 ARG0: x130 ] >
+  HCONS: < h135 qeq h133 h147 qeq h145 h153 qeq h152 > ]
+GENERATED RESULTS ... 
+The open kitchen doors
+An open kitchen door
+The open kitchen door
+Open kitchen doors
+The open kitchen doors.
+Open kitchen doors.
+An open kitchen door.
+The open kitchen door.
+Open kitchen door
+Kitchens open door
+Open kitchen door.
+A kitchens open door
+Kitchens open door.
+The kitchens open doors.
+The kitchens open doors
+The kitchens open door
+Kitchens open doors
+Kitchens open doors.
+A kitchens open door.
+The kitchens open door.
+
+TOTAL RESULTS: 20
+
+Node                         MRS Produced    Reason                 Included in MRS    Reason
+---------------------------  --------------  ---------------------  -----------------  ---------------
+idLivingRoomToKitchenDoor_1  True            MRS fragment produced  True               Included in MRS
+open_2                       True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idOpenState_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

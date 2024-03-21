@@ -1,0 +1,36 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idKitchen1_subgraph.dot
+[ TOP: h2757
+  INDEX: e2754
+  RELS: < [ unknown LBL: h2756 ARG: x2750 ARG0: e2754 ]
+          [ def_udef_a_q LBL: h2753 ARG0: x2750 RSTR: h2751 BODY: h2752 ]
+          [ _kitchen_n_1 LBL: h2745 ARG0: x2750 ] >
+  HCONS: < h2751 qeq h2745 h2757 qeq h2756 > ]
+GENERATED RESULTS ... 
+Kitchens
+Kitchen
+The kitchen
+A kitchen
+The kitchens
+The kitchens.
+Kitchen.
+Kitchens.
+A kitchen.
+The kitchen.
+
+TOTAL RESULTS: 10
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  -------------------------
+idKitchen_1  True            MRS fragment produced  True               Included in MRS
+true_2       True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idUnknownObject_1  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2         1
+Nodes              Included             1        2         0.5
+Edges              Produced             0        1         0
+Edges              Included             0        1         0

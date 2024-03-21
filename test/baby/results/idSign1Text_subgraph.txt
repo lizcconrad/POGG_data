@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idSign1Text_subgraph.dot
+[ TOP: h1023
+  INDEX: e1020
+  RELS: < [ unknown LBL: h1022 ARG: x1016 ARG0: e1020 ]
+          [ def_udef_a_q LBL: h1019 ARG0: x1016 RSTR: h1017 BODY: h1018 ]
+          [ compound LBL: h1015 ARG0: e1012 ARG1: x1016 ARG2: x1005 ]
+          [ udef_q LBL: h1011 ARG0: x1005 RSTR: h1009 BODY: h1010 ]
+          [ _sign_n_of LBL: h1007 ARG0: x1005 ARG1: i1006 ]
+          [ _text_n_of LBL: h1015 ARG0: x1016 ARG1: i1003 ] >
+  HCONS: < h1009 qeq h1007 h1017 qeq h1015 h1023 qeq h1022 > ]
+GENERATED RESULTS ... 
+The sign texts.
+The sign texts
+The sign text
+A sign text
+Sign texts
+The sign text.
+Sign texts.
+Sign text
+A sign text.
+Sign text.
+Sign text.
+Sign text
+
+TOTAL RESULTS: 12
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+idSign1Text_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

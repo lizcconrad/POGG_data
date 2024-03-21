@@ -1,0 +1,35 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idDriversSideFrontDoorInsideOpening_subgraph.dot
+[ TOP: h4571
+  INDEX: e4568
+  RELS: < [ unknown LBL: h4570 ARG: x4559 ARG0: e4568 ]
+          [ def_udef_a_q LBL: h4567 ARG0: x4559 RSTR: h4565 BODY: h4566 ]
+          [ _inside_a_1 LBL: h4560 ARG0: e4561 ARG1: x4559 ]
+          [ _opening_n_1 LBL: h4560 ARG0: x4559 ] >
+  HCONS: < h4565 qeq h4560 h4571 qeq h4570 > ]
+GENERATED RESULTS ... 
+The inside openings
+The inside opening
+Inside openings
+An inside opening
+The inside openings.
+Inside openings.
+The inside opening.
+Inside opening
+An inside opening.
+Inside opening.
+
+TOTAL RESULTS: 10
+
+Node                                   MRS Produced    Reason                 Included in MRS    Reason
+-------------------------------------  --------------  ---------------------  -----------------  ---------------
+idDriversSideFrontDoorInsideOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

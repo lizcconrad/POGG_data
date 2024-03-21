@@ -1,0 +1,36 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/light1_subgraph.dot
+[ TOP: h1283
+  INDEX: e1280
+  RELS: < [ unknown LBL: h1282 ARG: x1276 ARG0: e1280 ]
+          [ def_udef_a_q LBL: h1279 ARG0: x1276 RSTR: h1277 BODY: h1278 ]
+          [ _light_n_1 LBL: h1275 ARG0: x1276 ] >
+  HCONS: < h1277 qeq h1275 h1283 qeq h1282 > ]
+GENERATED RESULTS ... 
+Light
+The lights.
+The lights
+A light
+Lights
+Light.
+A light.
+The light.
+Lights.
+The light
+Light.
+Light
+
+TOTAL RESULTS: 12
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  ---------------
+light1_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

@@ -1,0 +1,43 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idWindow1_subgraph.dot
+[ TOP: h918
+  INDEX: e915
+  RELS: < [ unknown LBL: h917 ARG: x902 ARG0: e915 ]
+          [ def_udef_a_q LBL: h914 ARG0: x902 RSTR: h912 BODY: h913 ]
+          [ _dark_a_1 LBL: h903 ARG0: e908 ARG1: x902 ]
+          [ _window_n_1 LBL: h903 ARG0: x902 ] >
+  HCONS: < h912 qeq h903 h918 qeq h917 > ]
+GENERATED RESULTS ... 
+The dark window
+The dark windows
+A dark window
+Dark windows
+The dark windows.
+Dark windows.
+Dark window
+The dark window.
+A dark window.
+Dark windowed
+Dark windowed.
+Dark window.
+
+TOTAL RESULTS: 12
+
+Node        MRS Produced    Reason                                  Included in MRS    Reason
+----------  --------------  --------------------------------------  -----------------  --------------------------------------
+dark_4      True            MRS fragment produced                   True               Included in MRS
+idDriver_2  False           'idDriver' has no value in the lexicon  False              'idDriver' has no value in the lexicon
+idWindow_1  True            MRS fragment produced                   True               Included in MRS
+yes_3       True            MRS fragment produced                   False              Descends from failed edge
+
+Edge            MRS Composed    Reason                                 Included in MRS    Reason
+--------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idDescriptor_3  True            MRS composed                           True               Included in MRS
+idImmovable_2   False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idOwnedBy_1     False           Inbound to failed node                 False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        4    0.75
+Nodes              Included             2        4    0.5
+Edges              Produced             1        3    0.333333
+Edges              Included             1        3    0.333333

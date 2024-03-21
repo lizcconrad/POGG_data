@@ -1,0 +1,99 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idMachine1_subgraph.dot
+[ TOP: h2831
+  INDEX: e2828
+  RELS: < [ unknown LBL: h2830 ARG: x2795 ARG0: e2828 ]
+          [ def_udef_a_q LBL: h2827 ARG0: x2795 RSTR: h2825 BODY: h2826 ]
+          [ loc_nonsp LBL: h2823 ARG0: i2820 ARG1: x2795 ARG2: x2814 ]
+          [ _off_a_1 LBL: h2823 ARG0: e2801 ARG1: x2795 ]
+          [ _machine_n_1 LBL: h2823 ARG0: x2795 ]
+          [ def_implicit_q LBL: h2819 ARG0: x2814 RSTR: h2817 BODY: h2818 ]
+          [ _north_a_1 LBL: h2809 ARG0: i2806 ARG1: x2814 ARG2: x2810 ]
+          [ def_udef_a_q LBL: h2813 ARG0: x2810 RSTR: h2811 BODY: h2812 ]
+          [ _opening_n_1 LBL: h2805 ARG0: x2810 ]
+          [ place_n LBL: h2809 ARG0: x2814 ] >
+  HCONS: < h2811 qeq h2805 h2817 qeq h2809 h2825 qeq h2823 h2831 qeq h2830 > ]
+GENERATED RESULTS ... 
+Off machines north of the openings
+The off machine north of the openings
+Off machines north of the opening
+The off machines north of the openings
+An off machine north of the openings
+The off machine north of the opening
+The off machines north of the opening
+Off machines north of an opening
+Off machines north of the openings.
+An off machine north of the opening
+The off machine north of an opening
+The off machines north of an opening
+The off machine north of the openings.
+The off machines north of the openings.
+An off machine north of an opening
+An off machine north of the openings.
+Off machines north of an opening.
+Off machines north of the opening.
+The off machine north of an opening.
+The off machines north of an opening.
+The off machine north of the opening.
+The off machines north of the opening.
+An off machine north of an opening.
+An off machine north of the opening.
+Off machines north of openings
+The off machine north of openings
+The off machines north of openings
+Off machines north of openings.
+Off machine north of the openings
+An off machine north of openings
+The off machine north of openings.
+The off machines north of openings.
+Off machine north of the opening
+An off machine north of openings.
+Off machine north of an opening
+Off machine north of the openings.
+Off machine north of an opening.
+Off machine north of the opening.
+The off machines, north of the openings
+The off machine, north of the openings
+Off machines, north of the openings
+Off machine north of openings
+The off machines, north of the opening
+The off machine, north of the opening
+Off machines, north of the opening
+Off machine, north of the openings
+An off machine, north of the openings
+The off machines, north of an opening
+Off machine north of openings.
+The off machine, north of an opening
+Off machine, north of the opening
+Off machines, north of an opening
+An off machine, north of the opening
+Off machine, north of an opening
+An off machine, north of an opening
+The off machines, north of openings
+The off machine, north of openings
+Off machines, north of openings
+Off machine, north of openings
+An off machine, north of openings
+
+TOTAL RESULTS: 60
+
+Node                 MRS Produced    Reason                                    Included in MRS    Reason
+-------------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+idElevatorOpening_5  True            MRS fragment produced                     True               Included in MRS
+idMachine_1          True            MRS fragment produced                     True               Included in MRS
+idOnSwitch_2         False           'idOnSwitch' has no value in the lexicon  False              'idOnSwitch' has no value in the lexicon
+off_4                True            MRS fragment produced                     True               Included in MRS
+yes_3                True            MRS fragment produced                     False              Descends from failed edge
+
+Edge              MRS Composed    Reason                                 Included in MRS    Reason
+----------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idImmovable_2     False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idPowerControl_1  False           Inbound to failed node                 False              Inbound to failed node
+idPowerState_3    True            MRS composed                           True               Included in MRS
+isNorthOf_4       True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        5         0.8
+Nodes              Included             3        5         0.6
+Edges              Produced             2        4         0.5
+Edges              Included             2        4         0.5

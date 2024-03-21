@@ -1,0 +1,67 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idLock1_subgraph.dot
+[ TOP: h2592
+  INDEX: e2589
+  RELS: < [ unknown LBL: h2591 ARG: x2585 ARG0: e2589 ]
+          [ def_udef_a_q LBL: h2588 ARG0: x2585 RSTR: h2586 BODY: h2587 ]
+          [ _lock_v_cause LBL: h2584 ARG0: e2581 ARG1: i2582 ARG2: x2585 ]
+          [ _lock_n_1 LBL: h2584 ARG0: x2585 ] >
+  HCONS: < h2586 qeq h2584 h2592 qeq h2591 > ]
+GENERATED RESULTS ... 
+The locked lock
+The locked locks
+A locked lock
+Locked locks
+The locked locks.
+The locked lock.
+Locked lock
+A lock locked.
+The locks to lock.
+Locked locks.
+A locked lock.
+A lock locked
+A lock to lock.
+The locks to lock
+The lock locked.
+A lock, to lock.
+Locked lock.
+The lock locked
+A lock, locked.
+Lock to lock.
+Locks locked.
+A lock to lock
+The lock to lock.
+The locks locked.
+Locks, locked.
+Locks, to lock.
+Lock locked.
+The locks locked
+The locks, to lock.
+Locks to lock.
+Lock locked
+Lock to lock
+The lock, to lock.
+The lock to lock
+Locks locked
+The locks, locked.
+The lock, locked.
+Lock, to lock.
+Locks to lock
+Lock, locked.
+
+TOTAL RESULTS: 40
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  ---------------
+idLock_1  True            MRS fragment produced  True               Included in MRS
+locked_2  True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idLockedState_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

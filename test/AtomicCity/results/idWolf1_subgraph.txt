@@ -1,0 +1,50 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idWolf1_subgraph.dot
+[ TOP: h1959
+  INDEX: e1956
+  RELS: < [ unknown LBL: h1958 ARG: x1944 ARG0: e1956 ]
+          [ def_udef_a_q LBL: h1955 ARG0: x1944 RSTR: h1953 BODY: h1954 ]
+          [ _tiny_a_1 LBL: h1945 ARG0: e1949 ARG1: x1944 ]
+          [ _black_a_1 LBL: h1945 ARG0: i1946 ARG1: x1944 ]
+          [ _wolf_n_1 LBL: h1945 ARG0: x1944 ] >
+  HCONS: < h1953 qeq h1945 h1959 qeq h1958 > ]
+GENERATED RESULTS ... 
+The tiny black wolf
+The tiny black wolves
+Tiny black wolves
+The black tiny wolf
+A tiny black wolf
+A black tiny wolf
+The tiny black wolves.
+Tiny black wolves.
+The black tiny wolves
+Black tiny wolves
+The black tiny wolves.
+Black tiny wolves.
+Black tiny wolf
+The tiny black wolf.
+A tiny black wolf.
+Tiny black wolf
+The black tiny wolf.
+A black tiny wolf.
+Tiny black wolf.
+Black tiny wolf.
+
+TOTAL RESULTS: 20
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  ---------------
+black_2   True            MRS fragment produced  True               Included in MRS
+idWolf_1  True            MRS fragment produced  True               Included in MRS
+tiny_3    True            MRS fragment produced  True               Included in MRS
+
+Edge       MRS Composed    Reason        Included in MRS    Reason
+---------  --------------  ------------  -----------------  ---------------
+idColor_1  True            MRS composed  True               Included in MRS
+idSize_2   True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

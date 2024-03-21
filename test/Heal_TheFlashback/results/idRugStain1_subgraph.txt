@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idRugStain1_subgraph.dot
+[ TOP: h2658
+  INDEX: e2655
+  RELS: < [ unknown LBL: h2657 ARG: x2651 ARG0: e2655 ]
+          [ def_udef_a_q LBL: h2654 ARG0: x2651 RSTR: h2652 BODY: h2653 ]
+          [ compound LBL: h2640 ARG0: e2647 ARG1: x2651 ARG2: x2641 ]
+          [ udef_q LBL: h2646 ARG0: x2641 RSTR: h2644 BODY: h2645 ]
+          [ _rug_n_1 LBL: h2642 ARG0: x2641 ]
+          [ _stain_n_1 LBL: h2640 ARG0: x2651 ] >
+  HCONS: < h2644 qeq h2642 h2652 qeq h2640 h2658 qeq h2657 > ]
+GENERATED RESULTS ... 
+Rug stains
+The rug stain
+The rug stains
+A rug stain
+The rug stains.
+Rug stain
+Rug stains.
+The rug stain.
+A rug stain.
+Rug stain.
+
+TOTAL RESULTS: 10
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  ---------------
+idRugStain_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

@@ -1,0 +1,38 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idWorkshop1_subgraph.dot
+[ TOP: h702
+  INDEX: e699
+  RELS: < [ unknown LBL: h701 ARG: x678 ARG0: e699 ]
+          [ def_udef_a_q LBL: h698 ARG0: x678 RSTR: h696 BODY: h697 ]
+          [ _un-_a_neg LBL: h690 ARG0: i684 ARG1: e685 ]
+          [ _know_v_1 LBL: h690 ARG0: e685 ARG1: u688 ARG2: x678 ]
+          [ _workshop_n_1 LBL: h690 ARG0: x678 ] >
+  HCONS: < h696 qeq h690 h702 qeq h701 > ]
+GENERATED RESULTS ... 
+The unknown workshops
+Unknown workshops
+The unknown workshop
+An unknown workshop
+The unknown workshops.
+Unknown workshops.
+The unknown workshop.
+Unknown workshop
+An unknown workshop.
+Unknown workshop.
+
+TOTAL RESULTS: 10
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  ---------------
+idWorkshop_1  True            MRS fragment produced  True               Included in MRS
+true_2        True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idUnknownObject_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

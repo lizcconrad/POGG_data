@@ -1,0 +1,91 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idPipeTopOpening_subgraph.dot
+[ TOP: h1303
+  INDEX: e1300
+  RELS: < [ unknown LBL: h1302 ARG: x1296 ARG0: e1300 ]
+          [ def_udef_a_q LBL: h1299 ARG0: x1296 RSTR: h1297 BODY: h1298 ]
+          [ _small_a_1 LBL: h1292 ARG0: e1293 ARG1: x1296 ]
+          [ _open_a_to LBL: h1292 ARG0: e1289 ARG1: x1296 ARG2: u1291 ]
+          [ _top_a_1 LBL: h1292 ARG0: e1286 ARG1: x1296 ]
+          [ _opening_n_1 LBL: h1292 ARG0: x1296 ] >
+  HCONS: < h1297 qeq h1292 h1303 qeq h1302 > ]
+GENERATED RESULTS ... 
+The small open top openings
+The small open top opening
+The top open small opening
+A small open top opening
+The top open small openings
+A top open small opening
+Small open top openings
+Top small open openings
+The small open top openings.
+Open small top openings
+The top small open openings
+Top open small openings
+The open small top openings
+The small top open openings
+The top small open opening
+An open small top opening
+The open small top opening
+The top open small openings.
+The small top open opening
+A top small open opening
+Top small open openings.
+An open top small opening
+Small open top openings.
+Small top open openings
+The open top small opening
+The small open top opening.
+A small top open opening
+The top small open openings.
+The open top small openings
+A small open top opening.
+The small top open openings.
+Open small top openings.
+Small open top opening
+Top open small opening
+The top open small opening.
+The open small top openings.
+Top open small openings.
+Open top small openings
+Small top open openings.
+A top open small opening.
+Open small top opening
+The top small open opening.
+Top small open opening
+The small top open opening.
+A top small open opening.
+A small top open opening.
+The open top small openings.
+An open small top opening.
+The open small top opening.
+Open top small opening
+Small top open opening
+Open top small openings.
+Small open top opening.
+An open top small opening.
+The open top small opening.
+Top small open opening.
+Open small top opening.
+Top open small opening.
+Small top open opening.
+Open top small opening.
+
+TOTAL RESULTS: 60
+
+Node                MRS Produced    Reason                 Included in MRS    Reason
+------------------  --------------  ---------------------  -----------------  ---------------
+idPipeTopOpening_1  True            MRS fragment produced  True               Included in MRS
+open_2              True            MRS fragment produced  True               Included in MRS
+small_3             True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idOpenState_1  True            MRS composed  True               Included in MRS
+idSize_2       True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

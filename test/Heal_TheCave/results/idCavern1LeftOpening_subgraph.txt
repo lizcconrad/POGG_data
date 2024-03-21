@@ -1,0 +1,98 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idCavern1LeftOpening_subgraph.dot
+[ TOP: h701
+  INDEX: e698
+  RELS: < [ unknown LBL: h700 ARG: x650 ARG0: e698 ]
+          [ def_udef_a_q LBL: h697 ARG0: x650 RSTR: h695 BODY: h696 ]
+          [ loc_nonsp LBL: h651 ARG0: i690 ARG1: x650 ARG2: x677 ]
+          [ compound LBL: h651 ARG0: e659 ARG1: x650 ARG2: x652 ]
+          [ udef_q LBL: h658 ARG0: x652 RSTR: h656 BODY: h657 ]
+          [ _left_n_of LBL: h654 ARG0: x652 ARG1: i653 ]
+          [ _opening_n_1 LBL: h651 ARG0: x650 ]
+          [ def_implicit_q LBL: h689 ARG0: x677 RSTR: h687 BODY: h688 ]
+          [ _east_a_1 LBL: h679 ARG0: i676 ARG1: x677 ARG2: x680 ]
+          [ def_udef_a_q LBL: h683 ARG0: x680 RSTR: h681 BODY: h682 ]
+          [ compound LBL: h675 ARG0: e672 ARG1: x680 ARG2: x665 ]
+          [ udef_q LBL: h671 ARG0: x665 RSTR: h669 BODY: h670 ]
+          [ _right_n_of LBL: h667 ARG0: x665 ARG1: i666 ]
+          [ _opening_n_1 LBL: h675 ARG0: x680 ]
+          [ place_n LBL: h679 ARG0: x677 ] >
+  HCONS: < h656 qeq h654 h669 qeq h667 h681 qeq h675 h687 qeq h679 h695 qeq h651 h701 qeq h700 > ]
+GENERATED RESULTS ... 
+The left openings east of the right openings
+The left openings east of the right opening
+A left opening east of the right openings
+The left opening east of the right openings
+A left opening east of the right opening
+The left opening east of the right opening
+Left openings east of the right openings
+The left openings east of a right opening
+The left openings east of the right openings.
+Left openings east of the right opening
+A left opening east of a right opening
+The left opening east of a right opening
+A left opening east of the right openings.
+The left opening east of the right openings.
+Left openings east of a right opening
+Left openings east of the right openings.
+The left openings east of the right opening.
+Left opening east of the right openings
+A left opening east of the right opening.
+The left opening east of the right opening.
+Left opening east of the right opening
+The left openings east of a right opening.
+Left openings east of the right opening.
+A left opening east of a right opening.
+The left opening east of a right opening.
+Left opening east of a right opening
+Left opening east of the right openings.
+Left openings east of a right opening.
+The left openings east of right openings
+Left opening east of the right opening.
+The left openings, east of the right openings
+Left openings, east of the right openings
+The left opening, east of the right openings
+A left opening east of right openings
+The left opening east of right openings
+Left opening, east of the right openings
+The left openings, east of the right opening
+Left openings, east of the right opening
+The left opening, east of the right opening
+The left openings east of right openings.
+Left opening east of a right opening.
+A left opening, east of the right openings
+Left openings east of right openings
+Left opening, east of the right opening
+A left opening east of right openings.
+The left opening east of right openings.
+The left openings, east of a right opening
+A left opening, east of the right opening
+Left openings, east of a right opening
+The left opening, east of a right opening
+Left openings east of right openings.
+Left opening, east of a right opening
+A left opening, east of a right opening
+Left opening east of right openings
+Left opening east of right openings.
+The left openings, east of right openings
+Left openings, east of right openings
+The left opening, east of right openings
+Left opening, east of right openings
+A left opening, east of right openings
+
+TOTAL RESULTS: 60
+
+Node                     MRS Produced    Reason                 Included in MRS    Reason
+-----------------------  --------------  ---------------------  -----------------  ---------------
+idCavern1LeftOpening_1   True            MRS fragment produced  True               Included in MRS
+idCavern7RightOpening_2  True            MRS fragment produced  True               Included in MRS
+
+Edge        MRS Composed    Reason        Included in MRS    Reason
+----------  --------------  ------------  -----------------  ---------------
+isEastOf_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

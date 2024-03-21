@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idLivingroom1BackOpening_subgraph.dot
+[ TOP: h321
+  INDEX: e318
+  RELS: < [ unknown LBL: h320 ARG: x302 ARG0: e318 ]
+          [ def_udef_a_q LBL: h317 ARG0: x302 RSTR: h315 BODY: h316 ]
+          [ compound LBL: h313 ARG0: e310 ARG1: x302 ARG2: x304 ]
+          [ udef_q LBL: h309 ARG0: x304 RSTR: h307 BODY: h308 ]
+          [ _back_n_1 LBL: h305 ARG0: x304 ]
+          [ _opening_n_1 LBL: h313 ARG0: x302 ] >
+  HCONS: < h307 qeq h305 h315 qeq h313 h321 qeq h320 > ]
+GENERATED RESULTS ... 
+The back openings
+The back opening
+A back opening
+The back openings.
+Back openings.
+Back openings
+Back opening
+The back opening.
+A back opening.
+The backed, openings.
+Backed, opening
+The backed, openings
+Backed, openings.
+The backed, opening
+A backed, opening
+Backed, openings
+The backed opening
+Back opening.
+Backed openings
+Backed, opening.
+The backed, opening.
+A backed opening
+A backed, opening.
+The backed openings
+The backed openings.
+Backed openings.
+Backed opening
+The backed opening.
+A backed opening.
+Backed opening.
+
+TOTAL RESULTS: 30
+
+Node                        MRS Produced    Reason                 Included in MRS    Reason
+--------------------------  --------------  ---------------------  -----------------  ---------------
+idLivingroom1BackOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

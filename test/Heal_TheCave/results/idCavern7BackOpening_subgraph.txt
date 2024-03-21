@@ -1,0 +1,63 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idCavern7BackOpening_subgraph.dot
+[ TOP: h1561
+  INDEX: e1558
+  RELS: < [ unknown LBL: h1560 ARG: x1554 ARG0: e1558 ]
+          [ def_udef_a_q LBL: h1557 ARG0: x1554 RSTR: h1555 BODY: h1556 ]
+          [ loc_nonsp LBL: h1495 ARG0: i1550 ARG1: x1554 ARG2: x1544 ]
+          [ loc_nonsp LBL: h1495 ARG0: i1492 ARG1: x1554 ARG2: x1486 ]
+          [ compound LBL: h1495 ARG0: e1468 ARG1: x1554 ARG2: x1464 ]
+          [ udef_q LBL: h1467 ARG0: x1464 RSTR: h1465 BODY: h1466 ]
+          [ _back_n_1 LBL: h1463 ARG0: x1464 ]
+          [ _opening_n_1 LBL: h1495 ARG0: x1554 ]
+          [ def_implicit_q LBL: h1491 ARG0: x1486 RSTR: h1489 BODY: h1490 ]
+          [ _west_a_1 LBL: h1487 ARG0: i1478 ARG1: x1486 ARG2: x1472 ]
+          [ def_udef_a_q LBL: h1485 ARG0: x1472 RSTR: h1483 BODY: h1484 ]
+          [ _strange_a_to LBL: h1473 ARG0: e1474 ARG1: x1472 ARG2: i1476 ]
+          [ _cavern_n_1 LBL: h1473 ARG0: x1472 ]
+          [ place_n LBL: h1487 ARG0: x1486 ]
+          [ def_implicit_q LBL: h1549 ARG0: x1544 RSTR: h1547 BODY: h1548 ]
+          [ _north_a_1 LBL: h1545 ARG0: i1536 ARG1: x1544 ARG2: e1520 ]
+          [ def_udef_a_q LBL: h1543 ARG0: e1520 RSTR: h1541 BODY: h1542 ]
+          [ _inside+of_p LBL: h1498 ARG0: e1528 ARG1: e1520 ARG2: x1532 ]
+          [ def_udef_a_q LBL: h1535 ARG0: x1532 RSTR: h1533 BODY: h1534 ]
+          [ _cave_n_1 LBL: h1527 ARG0: x1532 ]
+          [ _un-_a_neg LBL: h1498 ARG0: i1519 [ i PROG: bool ] ARG1: e1520 ]
+          [ _touch_v_1 LBL: h1498 ARG0: e1520 ARG1: x1496 ARG2: i1524 ]
+          [ _white_a_1 LBL: h1498 ARG0: i1509 ARG1: x1496 ]
+          [ compound LBL: h1498 ARG0: e1505 ARG1: x1496 ARG2: x1499 ]
+          [ udef_q LBL: h1504 ARG0: x1499 RSTR: h1502 BODY: h1503 ]
+          [ _spider_n_1 LBL: h1500 ARG0: x1499 ]
+          [ _web_n_of LBL: h1498 ARG0: x1496 ARG1: i1497 ]
+          [ place_n LBL: h1545 ARG0: x1544 ] >
+  HCONS: < h1465 qeq h1463 h1483 qeq h1473 h1489 qeq h1487 h1533 qeq h1527 h1502 qeq h1500 h1541 qeq h1498 h1547 qeq h1545 h1555 qeq h1495 h1561 qeq h1560 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                    MRS Produced    Reason                           Included in MRS    Reason
+----------------------  --------------  -------------------------------  -----------------  -------------------------------
+3_4                     False           '3' has no value in the lexicon  False              '3' has no value in the lexicon
+false_7                 True            MRS fragment produced            True               Included in MRS
+idCavern7BackOpening_1  True            MRS fragment produced            True               Included in MRS
+idCavern_2              True            MRS fragment produced            True               Included in MRS
+idSpiderWeb_5           True            MRS fragment produced            True               Included in MRS
+idTheCave_8             True            MRS fragment produced            True               Included in MRS
+strange_3               True            MRS fragment produced            True               Included in MRS
+white_6                 True            MRS fragment produced            True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idColor_4       True            MRS composed            True               Included in MRS
+idDescriptor_1  True            MRS composed            True               Included in MRS
+idOrdinality_2  False           Inbound to failed node  False              Inbound to failed node
+idWebTouched_5  True            MRS composed            True               Included in MRS
+isInsideOf_6    True            MRS composed            True               Included in MRS
+isNorthOf_7     True            MRS composed            True               Included in MRS
+isWestOf_3      True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7        8    0.875
+Nodes              Included             7        8    0.875
+Edges              Produced             6        7    0.857143
+Edges              Included             6        7    0.857143

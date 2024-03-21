@@ -1,0 +1,28 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idPlage_subgraph.dot
+
+
+TOTAL RESULTS: 0
+
+Node                  MRS Produced    Reason                                 Included in MRS    Reason
+--------------------  --------------  -------------------------------------  -----------------  -------------------------------------
+2_2                   False           '2' has no value in the lexicon        False              '2' has no value in the lexicon
+idGreenRoom_6         True            MRS fragment produced                  False              Descends from failed node
+idPlageBackOpening_3  True            MRS fragment produced                  False              Descends from failed node
+idPlage_1             False           'idPlage' has no value in the lexicon  False              'idPlage' has no value in the lexicon
+open_5                True            MRS fragment produced                  False              Descends from failed node
+short_4               True            MRS fragment produced                  False              Descends from failed node
+
+Edge            MRS Composed    Reason                     Included in MRS    Reason
+--------------  --------------  -------------------------  -----------------  -------------------------
+idHeight_2      True            MRS composed               False              Descends from failed node
+idOpenState_3   True            MRS composed               False              Descends from failed node
+idOrdinality_1  False           Outbound from failed node  False              Outbound from failed node
+isNorthOf_4     True            MRS composed               False              Descends from failed node
+isNorthOf_5     False           Outbound from failed node  False              Outbound from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        6    0.666667
+Nodes              Included             0        6    0
+Edges              Produced             3        5    0.6
+Edges              Included             0        5    0

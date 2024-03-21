@@ -1,0 +1,34 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/current/idTheCliff1_subgraph.dot
+[ TOP: h215
+  INDEX: e212
+  RELS: < [ unknown LBL: h214 ARG: x206 ARG0: e212 ]
+          [ def_udef_a_q LBL: h211 ARG0: x206 RSTR: h209 BODY: h210 ]
+          [ _cliff_n_1 LBL: h207 ARG0: x206 ] >
+  HCONS: < h209 qeq h207 h215 qeq h214 > ]
+GENERATED RESULTS ... 
+Cliffs
+Cliff
+The cliff
+A cliff
+The cliffs
+The cliffs.
+Cliff.
+Cliffs.
+A cliff.
+The cliff.
+
+TOTAL RESULTS: 10
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  ---------------
+idTheCliff_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

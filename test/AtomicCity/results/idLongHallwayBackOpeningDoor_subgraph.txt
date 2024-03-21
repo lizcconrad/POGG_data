@@ -1,0 +1,193 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idLongHallwayBackOpeningDoor_subgraph.dot
+[ TOP: h374
+  INDEX: e371
+  RELS: < [ unknown LBL: h373 ARG: x348 ARG0: e371 ]
+          [ def_udef_a_q LBL: h370 ARG0: x348 RSTR: h368 BODY: h369 ]
+          [ _red_a_1 LBL: h366 ARG0: i364 ARG1: x348 ]
+          [ _open_a_to LBL: h366 ARG0: e360 ARG1: x348 ARG2: u362 ]
+          [ compound LBL: h366 ARG0: e356 ARG1: x348 ARG2: x350 ]
+          [ udef_q LBL: h355 ARG0: x350 RSTR: h353 BODY: h354 ]
+          [ _back_n_1 LBL: h351 ARG0: x350 ]
+          [ _door_n_1 LBL: h366 ARG0: x348 ] >
+  HCONS: < h353 qeq h351 h368 qeq h366 h374 qeq h373 > ]
+GENERATED RESULTS ... 
+An open red back door
+The open red back door
+The red open back door
+A red open back door
+The open red back doors
+The red open back doors
+An open back red door
+The open back red door
+Open red back doors
+The open back red doors
+Backs red open door
+The open red back doors.
+Open red back door
+Open back red doors
+The open back red doors.
+Red open back doors
+Backs open red door
+The red open back doors.
+Open back red doors.
+Red open back door
+The backed open red doors
+The red open backed door
+The back red open door
+The open backs red doors
+The backs open red doors
+Open red back doors.
+An open backs red door
+The back red open doors
+A backs red open door
+An open red back door.
+The open backs red door
+A red open backed door
+The open red back door.
+A back red open door
+The backs red open door
+An open red backed door
+The open backed red doors
+The open backs red doors.
+The open red backed door
+The backs red open doors
+An open back red door.
+Back red open doors
+The red open backed, doors.
+The open back red door.
+A backs open red door
+Open backs red doors
+The red open backed, doors
+Backs open red doors
+The red open backed, door
+The backs open red door
+The red open back door.
+The red open backed doors
+Red open back doors.
+The back red open doors.
+The backed red open doors
+Backed open red doors
+Open backed red doors
+Back red open door
+Open backs red doors.
+The red backed open doors
+The red open backed doors.
+The backed open red door
+The red backs open door
+The red backs open doors
+The red backs open doors.
+A red open backed, door
+A red open back door.
+Red backed open doors
+Backs red open doors
+Back red open doors.
+The backs red open doors.
+Red open backed, doors.
+Backs red open door.
+Red backs open doors
+The open red backed doors
+Red backs open doors.
+A backed open red door
+A red backs open door
+The backed red open door
+Red open backed, doors
+The red backed open door
+Open back red door
+Red open backed doors
+Backed red open doors
+The open red backed, doors.
+An open backs red door.
+The red open backed, door.
+The open red backed doors.
+An open backed red door
+The open backs red door.
+An open red backed, door
+The open backed red door
+The open red backed, doors
+A backed red open door
+The open red backed, door
+Red open backed doors.
+The backs open red doors.
+A red backed open door
+The backed open red doors.
+Backs open red door.
+Backs red open doors.
+Open red backed doors
+A red open backed, door.
+The backed red open doors.
+The red backed open doors.
+Open red backed, doors.
+The back red open door.
+Open red backed doors.
+Red backed open doors.
+Open red backed, doors
+The red open backed door.
+A backs red open door.
+The red backs open door.
+Backs open red doors.
+The open backed red doors.
+A back red open door.
+The backs red open door.
+An open red backed, door.
+Red open backed door
+The open red backed, door.
+A red open backed door.
+Backed red open doors.
+A red backs open door.
+An open red backed door.
+The open red backed door.
+A backs open red door.
+Open red backed door
+Open backs red door
+Backed open red doors.
+Open backed red doors.
+The backs open red door.
+The backed open red door.
+Open red back door.
+Back red open door.
+The backed red open door.
+The red backed open door.
+Open back red door.
+A backed open red door.
+Red open backed, door
+Red backs open door
+Red open back door.
+A backed red open door.
+An open backed red door.
+A red backed open door.
+The open backed red door.
+Backed open red door
+Backed red open door
+Red backed open door
+Open backed red door
+Open red backed, door
+Red open backed, door.
+Open backs red door.
+Red backs open door.
+Red open backed door.
+Open red backed, door.
+Open red backed door.
+Backed red open door.
+Backed open red door.
+Red backed open door.
+Open backed red door.
+
+TOTAL RESULTS: 160
+
+Node                            MRS Produced    Reason                 Included in MRS    Reason
+------------------------------  --------------  ---------------------  -----------------  ---------------
+idLongHallwayBackOpeningDoor_1  True            MRS fragment produced  True               Included in MRS
+open_2                          True            MRS fragment produced  True               Included in MRS
+red_3                           True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idColor_2      True            MRS composed  True               Included in MRS
+idOpenState_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

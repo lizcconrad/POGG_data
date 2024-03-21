@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idValve1_subgraph.dot
+[ TOP: h152
+  INDEX: e149
+  RELS: < [ unknown LBL: h151 ARG: x145 ARG0: e149 ]
+          [ def_udef_a_q LBL: h148 ARG0: x145 RSTR: h146 BODY: h147 ]
+          [ _open_a_to LBL: h140 ARG0: e141 ARG1: x145 ARG2: u143 ]
+          [ _valve_n_1 LBL: h140 ARG0: x145 ] >
+  HCONS: < h146 qeq h140 h152 qeq h151 > ]
+GENERATED RESULTS ... 
+The open valve
+The open valves
+An open valve
+The open valves.
+Open valves
+The open valve.
+Open valves.
+An open valve.
+Open valve
+Open valve.
+
+TOTAL RESULTS: 10
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  ---------------
+idValve_1  True            MRS fragment produced  True               Included in MRS
+open_2     True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idOpenState_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

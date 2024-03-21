@@ -1,0 +1,402 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idBagOfChips1_subgraph.dot
+[ TOP: h2441
+  INDEX: e2438
+  RELS: < [ unknown LBL: h2440 ARG: x2434 ARG0: e2438 ]
+          [ def_udef_a_q LBL: h2437 ARG0: x2434 RSTR: h2435 BODY: h2436 ]
+          [ loc_nonsp LBL: h2396 ARG0: i2430 ARG1: x2434 ARG2: x2426 ]
+          [ loc_nonsp LBL: h2396 ARG0: i2393 ARG1: x2434 ARG2: x2380 ]
+          [ compound LBL: h2396 ARG0: e2347 ARG1: x2434 ARG2: x2341 ]
+          [ udef_q LBL: h2346 ARG0: x2341 RSTR: h2344 BODY: h2345 ]
+          [ _chip_n_1 LBL: h2342 ARG0: x2341 ]
+          [ _bag_n_of LBL: h2396 ARG0: x2434 ARG1: i2339 ]
+          [ def_implicit_q LBL: h2392 ARG0: x2380 RSTR: h2390 BODY: h2391 ]
+          [ _west_a_1 LBL: h2388 ARG0: i2379 ARG1: x2380 ARG2: x2383 ]
+          [ def_udef_a_q LBL: h2386 ARG0: x2383 RSTR: h2384 BODY: h2385 ]
+          [ loc_nonsp LBL: h2378 ARG0: i2375 ARG1: x2383 ARG2: x2369 ]
+          [ _throne_n_1 LBL: h2378 ARG0: x2383 ]
+          [ def_implicit_q LBL: h2374 ARG0: x2369 RSTR: h2372 BODY: h2373 ]
+          [ _east_a_1 LBL: h2364 ARG0: i2361 ARG1: x2369 ARG2: x2359 ]
+          [ def_udef_a_q LBL: h2368 ARG0: x2359 RSTR: h2366 BODY: h2367 ]
+          [ _pill_n_1 LBL: h2360 ARG0: x2359 ]
+          [ place_n LBL: h2364 ARG0: x2369 ]
+          [ place_n LBL: h2388 ARG0: x2380 ]
+          [ def_implicit_q LBL: h2429 ARG0: x2426 RSTR: h2427 BODY: h2428 ]
+          [ _east_a_1 LBL: h2425 ARG0: i2416 ARG1: x2426 ARG2: x2397 ]
+          [ def_udef_a_q LBL: h2423 ARG0: x2397 RSTR: h2421 BODY: h2422 ]
+          [ _open_a_to LBL: h2411 ARG0: e2412 ARG1: x2397 ARG2: u2414 ]
+          [ _wooden_a_1 LBL: h2411 ARG0: e2409 ARG1: x2397 ]
+          [ compound LBL: h2411 ARG0: e2405 ARG1: x2397 ARG2: x2401 ]
+          [ udef_q LBL: h2404 ARG0: x2401 RSTR: h2402 BODY: h2403 ]
+          [ _barn_n_1 LBL: h2400 ARG0: x2401 ]
+          [ _door_n_1 LBL: h2411 ARG0: x2397 ]
+          [ place_n LBL: h2425 ARG0: x2426 ] >
+  HCONS: < h2344 qeq h2342 h2366 qeq h2360 h2372 qeq h2364 h2384 qeq h2378 h2390 qeq h2388 h2402 qeq h2400 h2421 qeq h2411 h2427 qeq h2425 h2435 qeq h2396 h2441 qeq h2440 > ]
+GENERATED RESULTS ... 
+Chip bags west of the thrones east of the pills east of a wooden open barn door
+Chip bags east of a wooden open barn door west of the thrones east of the pills
+Chip bags west of the thrones east of the pills east of an open wooden barn door
+Chip bags east of an open wooden barn door west of the thrones east of the pills
+Chip bags west of the thrones east of the pills east of the wooden open barn doors
+Chip bags east of the wooden open barn doors west of the thrones east of the pills
+Chip bags west of the throne east of the pills east of a wooden open barn door
+Chip bags east of a wooden open barn door west of the throne east of the pills
+Chip bags west of the thrones east of the pills east of the open wooden barn doors
+Chip bags east of the open wooden barn doors west of the thrones east of the pills
+Chip bags west of the throne east of the pills east of an open wooden barn door
+Chip bags east of an open wooden barn door west of the throne east of the pills
+Chip bags west of the throne east of the pills east of the wooden open barn doors
+Chip bags east of the wooden open barn doors west of the throne east of the pills
+Chip bags west of a throne east of the pills east of a wooden open barn door
+Chip bags east of a wooden open barn door west of a throne east of the pills
+Chip bags west of the throne east of the pills east of the open wooden barn doors
+Chip bags east of the open wooden barn doors west of the throne east of the pills
+Chip bags west of a throne east of the pills east of an open wooden barn door
+Chip bags east of an open wooden barn door west of a throne east of the pills
+Chip bags west of a throne east of the pills east of the wooden open barn doors
+Chip bags east of the wooden open barn doors west of a throne east of the pills
+Chip bags west of the thrones east of the pill east of a wooden open barn door
+Chip bags east of a wooden open barn door west of the thrones east of the pill
+Chip bags west of a throne east of the pills east of the open wooden barn doors
+Chip bags east of the open wooden barn doors west of a throne east of the pills
+Chip bags west of the thrones east of the pill east of an open wooden barn door
+Chip bags east of an open wooden barn door west of the thrones east of the pill
+Chip bags west of the thrones east of the pills east of the wooden open barn door
+Chip bags east of the wooden open barn door west of the thrones east of the pills
+Chip bags west of the thrones east of the pill east of the wooden open barn doors
+Chip bags east of the wooden open barn doors west of the thrones east of the pill
+Chip bags west of the throne east of the pill east of a wooden open barn door
+Chip bags east of a wooden open barn door west of the throne east of the pill
+Chip bags west of the thrones east of the pills east of the open wooden barn door
+Chip bags east of the open wooden barn door west of the thrones east of the pills
+Chip bags west of the thrones east of the pill east of the open wooden barn doors
+Chip bags east of the open wooden barn doors west of the thrones east of the pill
+Chip bags west of the thrones east of the pills east of the wooden open barn doors.
+Chip bags west of the throne east of the pill east of an open wooden barn door
+Chip bags east of an open wooden barn door west of the throne east of the pill
+Chip bags west of the throne east of the pills east of the wooden open barn door
+Chip bags east of the wooden open barn door west of the throne east of the pills
+Chip bags west of the throne east of the pill east of the wooden open barn doors
+Chip bags east of the wooden open barn doors west of the throne east of the pill
+Chip bags west of a throne east of the pill east of a wooden open barn door
+Chip bags east of a wooden open barn door west of a throne east of the pill
+Chip bags west of the thrones east of the pills east of the open wooden barn doors.
+Chip bags west of the throne east of the pills east of the open wooden barn door
+Chip bags east of the open wooden barn door west of the throne east of the pills
+Chip bags west of the throne east of the pill east of the open wooden barn doors
+Chip bags east of the open wooden barn doors west of the throne east of the pill
+Chip bags west of the throne east of the pills east of the wooden open barn doors.
+Chip bags west of a throne east of the pill east of an open wooden barn door
+Chip bags east of an open wooden barn door west of a throne east of the pill
+Chip bags west of a throne east of the pills east of the wooden open barn door
+Chip bags east of the wooden open barn door west of a throne east of the pills
+Chip bags west of a throne east of the pill east of the wooden open barn doors
+Chip bags east of the wooden open barn doors west of a throne east of the pill
+Chip bags west of the throne east of the pills east of the open wooden barn doors.
+A chip bag east of a wooden open barn door west of the thrones east of the pills
+A chip bag west of the thrones east of the pills east of a wooden open barn door
+The chip bag east of a wooden open barn door west of the thrones east of the pills
+The chip bag west of the thrones east of the pills east of a wooden open barn door
+Chip bags west of a throne east of the pills east of the open wooden barn door
+Chip bags east of the open wooden barn door west of a throne east of the pills
+Chip bags west of a throne east of the pill east of the open wooden barn doors
+Chip bags east of the open wooden barn doors west of a throne east of the pill
+Chip bags west of a throne east of the pills east of the wooden open barn doors.
+Chip bags west of the thrones east of the pill east of the wooden open barn door
+Chip bags east of the wooden open barn door west of the thrones east of the pill
+A chip bag east of an open wooden barn door west of the thrones east of the pills
+A chip bag west of the thrones east of the pills east of an open wooden barn door
+A chip bag east of the wooden open barn doors west of the thrones east of the pills
+A chip bag west of the thrones east of the pills east of the wooden open barn doors
+A chip bag east of a wooden open barn door west of the throne east of the pills
+A chip bag west of the throne east of the pills east of a wooden open barn door
+The chip bag east of an open wooden barn door west of the thrones east of the pills
+The chip bag west of the thrones east of the pills east of an open wooden barn door
+The chip bag east of the wooden open barn doors west of the thrones east of the pills
+The chip bag west of the thrones east of the pills east of the wooden open barn doors
+The chip bag east of a wooden open barn door west of the throne east of the pills
+The chip bag west of the throne east of the pills east of a wooden open barn door
+Chip bags west of a throne east of the pills east of the open wooden barn doors.
+Chip bags west of the thrones east of the pill east of the open wooden barn door
+Chip bags east of the open wooden barn door west of the thrones east of the pill
+Chip bags west of the thrones east of the pill east of the wooden open barn doors.
+Chip bags west of the throne east of the pill east of the wooden open barn door
+Chip bags east of the wooden open barn door west of the throne east of the pill
+A chip bag east of the open wooden barn doors west of the thrones east of the pills
+A chip bag west of the thrones east of the pills east of the open wooden barn doors
+The chip bag east of the open wooden barn doors west of the thrones east of the pills
+The chip bag west of the thrones east of the pills east of the open wooden barn doors
+A chip bag east of an open wooden barn door west of the throne east of the pills
+A chip bag west of the throne east of the pills east of an open wooden barn door
+A chip bag east of the wooden open barn doors west of the throne east of the pills
+A chip bag west of the throne east of the pills east of the wooden open barn doors
+The chip bag east of an open wooden barn door west of the throne east of the pills
+The chip bag west of the throne east of the pills east of an open wooden barn door
+The chip bag east of the wooden open barn doors west of the throne east of the pills
+The chip bag west of the throne east of the pills east of the wooden open barn doors
+Chip bags west of the thrones east of the pill east of the open wooden barn doors.
+Chip bags west of the thrones east of the pills east of a wooden open barn door.
+Chip bags west of the throne east of the pill east of the open wooden barn door
+Chip bags east of the open wooden barn door west of the throne east of the pill
+Chip bags east of a wooden open barn door west of the thrones east of the pills.
+A chip bag east of a wooden open barn door west of a throne east of the pills
+A chip bag west of a throne east of the pills east of a wooden open barn door
+The chip bag east of a wooden open barn door west of a throne east of the pills
+The chip bag west of a throne east of the pills east of a wooden open barn door
+Chip bags west of the throne east of the pill east of the wooden open barn doors.
+A chip bag east of the open wooden barn doors west of the throne east of the pills
+A chip bag west of the throne east of the pills east of the open wooden barn doors
+The chip bag east of the open wooden barn doors west of the throne east of the pills
+The chip bag west of the throne east of the pills east of the open wooden barn doors
+Chip bags west of the thrones east of a pill east of a wooden open barn door
+Chip bags east of a wooden open barn door west of the thrones east of a pill
+Chip bags west of a throne east of the pill east of the wooden open barn door
+Chip bags east of the wooden open barn door west of a throne east of the pill
+Chip bags west of the throne east of the pill east of the open wooden barn doors.
+Chip bags west of the thrones east of the pills east of an open wooden barn door.
+Chip bags east of an open wooden barn door west of the thrones east of the pills.
+Chip bags east of the wooden open barn doors west of the thrones east of the pills.
+A chip bag east of an open wooden barn door west of a throne east of the pills
+A chip bag west of a throne east of the pills east of an open wooden barn door
+A chip bag east of the wooden open barn doors west of a throne east of the pills
+A chip bag west of a throne east of the pills east of the wooden open barn doors
+Chip bags west of the throne east of the pills east of a wooden open barn door.
+Chip bags east of a wooden open barn door west of the throne east of the pills.
+The chip bag east of an open wooden barn door west of a throne east of the pills
+The chip bag west of a throne east of the pills east of an open wooden barn door
+The chip bag east of the wooden open barn doors west of a throne east of the pills
+The chip bag west of a throne east of the pills east of the wooden open barn doors
+A chip bag east of a wooden open barn door west of the thrones east of the pill
+A chip bag west of the thrones east of the pill east of a wooden open barn door
+The chip bag east of a wooden open barn door west of the thrones east of the pill
+The chip bag west of the thrones east of the pill east of a wooden open barn door
+Chip bags west of a throne east of the pill east of the open wooden barn door
+Chip bags east of the open wooden barn door west of a throne east of the pill
+Chip bags west of the thrones east of a pill east of an open wooden barn door
+Chip bags east of an open wooden barn door west of the thrones east of a pill
+Chip bags west of the thrones east of a pill east of the wooden open barn doors
+Chip bags east of the wooden open barn doors west of the thrones east of a pill
+Chip bags west of the throne east of a pill east of a wooden open barn door
+Chip bags east of a wooden open barn door west of the throne east of a pill
+Chip bags west of a throne east of the pill east of the wooden open barn doors.
+Chip bags east of the open wooden barn doors west of the thrones east of the pills.
+A chip bag east of the open wooden barn doors west of a throne east of the pills
+A chip bag west of a throne east of the pills east of the open wooden barn doors
+The chip bag east of the open wooden barn doors west of a throne east of the pills
+The chip bag west of a throne east of the pills east of the open wooden barn doors
+Chip bags west of the throne east of the pills east of an open wooden barn door.
+Chip bags east of an open wooden barn door west of the throne east of the pills.
+Chip bags east of the wooden open barn doors west of the throne east of the pills.
+Chip bags west of the thrones east of the pills east of an open barns wooden door
+Chip bags east of an open barns wooden door west of the thrones east of the pills
+A chip bag east of an open wooden barn door west of the thrones east of the pill
+A chip bag west of the thrones east of the pill east of an open wooden barn door
+A chip bag east of the wooden open barn door west of the thrones east of the pills
+A chip bag west of the thrones east of the pills east of the wooden open barn door
+A chip bag east of the wooden open barn doors west of the thrones east of the pill
+A chip bag west of the thrones east of the pill east of the wooden open barn doors
+A chip bag east of a wooden open barn door west of the throne east of the pill
+A chip bag west of the throne east of the pill east of a wooden open barn door
+The chip bag east of an open wooden barn door west of the thrones east of the pill
+The chip bag west of the thrones east of the pill east of an open wooden barn door
+The chip bag east of the wooden open barn door west of the thrones east of the pills
+The chip bag west of the thrones east of the pills east of the wooden open barn door
+The chip bag east of the wooden open barn doors west of the thrones east of the pill
+The chip bag west of the thrones east of the pill east of the wooden open barn doors
+Chip bags west of the thrones east of a pill east of the open wooden barn doors
+Chip bags east of the open wooden barn doors west of the thrones east of a pill
+The chip bag east of a wooden open barn door west of the throne east of the pill
+The chip bag west of the throne east of the pill east of a wooden open barn door
+Chip bags west of a throne east of the pill east of the open wooden barn doors.
+Chip bags west of the thrones east of the pills east of the barns open wooden door
+Chip bags east of the barns open wooden door west of the thrones east of the pills
+Chip bags west of a throne east of the pills east of a wooden open barn door.
+Chip bags east of a wooden open barn door west of a throne east of the pills.
+Chip bags west of the throne east of a pill east of an open wooden barn door
+Chip bags east of an open wooden barn door west of the throne east of a pill
+Chip bags west of the throne east of a pill east of the wooden open barn doors
+Chip bags east of the wooden open barn doors west of the throne east of a pill
+Chip bags east of the open wooden barn doors west of the throne east of the pills.
+A chip bag east of the open wooden barn door west of the thrones east of the pills
+A chip bag west of the thrones east of the pills east of the open wooden barn door
+A chip bag east of the open wooden barn doors west of the thrones east of the pill
+A chip bag west of the thrones east of the pill east of the open wooden barn doors
+The chip bag east of the open wooden barn door west of the thrones east of the pills
+The chip bag west of the thrones east of the pills east of the open wooden barn door
+The chip bag east of the open wooden barn doors west of the thrones east of the pill
+The chip bag west of the thrones east of the pill east of the open wooden barn doors
+Chip bags west of a throne east of a pill east of a wooden open barn door
+Chip bags east of a wooden open barn door west of a throne east of a pill
+A chip bag west of the thrones east of the pills east of the wooden open barn doors.
+Chip bags west of the throne east of the pills east of an open barns wooden door
+Chip bags east of an open barns wooden door west of the throne east of the pills
+The chip bag west of the thrones east of the pills east of the wooden open barn doors.
+A chip bag east of an open wooden barn door west of the throne east of the pill
+A chip bag west of the throne east of the pill east of an open wooden barn door
+A chip bag east of the wooden open barn door west of the throne east of the pills
+A chip bag west of the throne east of the pills east of the wooden open barn door
+A chip bag east of the wooden open barn doors west of the throne east of the pill
+A chip bag west of the throne east of the pill east of the wooden open barn doors
+The chip bag east of an open wooden barn door west of the throne east of the pill
+The chip bag west of the throne east of the pill east of an open wooden barn door
+The chip bag east of the wooden open barn door west of the throne east of the pills
+The chip bag west of the throne east of the pills east of the wooden open barn door
+The chip bag east of the wooden open barn doors west of the throne east of the pill
+The chip bag west of the throne east of the pill east of the wooden open barn doors
+Chip bags west of the throne east of a pill east of the open wooden barn doors
+Chip bags east of the open wooden barn doors west of the throne east of a pill
+Chip bags west of a throne east of the pills east of an open wooden barn door.
+Chip bags east of an open wooden barn door west of a throne east of the pills.
+Chip bags west of the throne east of the pills east of the barns open wooden door
+Chip bags east of the barns open wooden door west of the throne east of the pills
+Chip bags east of the wooden open barn doors west of a throne east of the pills.
+Chip bags west of the thrones east of the pill east of a wooden open barn door.
+A chip bag east of a wooden open barn door west of a throne east of the pill
+A chip bag west of a throne east of the pill east of a wooden open barn door
+The chip bag east of a wooden open barn door west of a throne east of the pill
+The chip bag west of a throne east of the pill east of a wooden open barn door
+A chip bag west of the thrones east of the pills east of the open wooden barn doors.
+The chip bag west of the thrones east of the pills east of the open wooden barn doors.
+A chip bag east of the open wooden barn door west of the throne east of the pills
+A chip bag west of the throne east of the pills east of the open wooden barn door
+A chip bag east of the open wooden barn doors west of the throne east of the pill
+A chip bag west of the throne east of the pill east of the open wooden barn doors
+Chip bags west of a throne east of a pill east of an open wooden barn door
+Chip bags east of an open wooden barn door west of a throne east of a pill
+Chip bags west of a throne east of a pill east of the wooden open barn doors
+Chip bags east of the wooden open barn doors west of a throne east of a pill
+The chip bag east of the open wooden barn door west of the throne east of the pills
+The chip bag west of the throne east of the pills east of the open wooden barn door
+The chip bag east of the open wooden barn doors west of the throne east of the pill
+The chip bag west of the throne east of the pill east of the open wooden barn doors
+A chip bag west of the throne east of the pills east of the wooden open barn doors.
+Chip bags east of the open wooden barn doors west of a throne east of the pills.
+The chip bag west of the throne east of the pills east of the wooden open barn doors.
+Chip bags west of the thrones east of the pill east of an open wooden barn door.
+Chip bags west of the thrones east of the pills east of the wooden open barn door.
+Chip bags west of a throne east of the pills east of an open barns wooden door
+Chip bags east of an open barns wooden door west of a throne east of the pills
+Chip bags east of the wooden open barn door west of the thrones east of the pills.
+A chip bag east of an open wooden barn door west of a throne east of the pill
+A chip bag west of a throne east of the pill east of an open wooden barn door
+A chip bag east of the wooden open barn door west of a throne east of the pills
+A chip bag west of a throne east of the pills east of the wooden open barn door
+A chip bag east of the wooden open barn doors west of a throne east of the pill
+A chip bag west of a throne east of the pill east of the wooden open barn doors
+Chip bags west of the throne east of the pill east of a wooden open barn door.
+The chip bag east of an open wooden barn door west of a throne east of the pill
+The chip bag west of a throne east of the pill east of an open wooden barn door
+The chip bag east of the wooden open barn door west of a throne east of the pills
+The chip bag west of a throne east of the pills east of the wooden open barn door
+The chip bag east of the wooden open barn doors west of a throne east of the pill
+The chip bag west of a throne east of the pill east of the wooden open barn doors
+Chip bags west of a throne east of a pill east of the open wooden barn doors
+Chip bags east of the open wooden barn doors west of a throne east of a pill
+Chip bags west of a throne east of the pills east of the barns open wooden door
+Chip bags east of the barns open wooden door west of a throne east of the pills
+A chip bag west of the throne east of the pills east of the open wooden barn doors.
+The chip bag west of the throne east of the pills east of the open wooden barn doors.
+Chip bags west of the thrones east of a pill east of the wooden open barn door
+Chip bags east of the wooden open barn door west of the thrones east of a pill
+Chip bags west of the thrones east of the pills east of the open wooden barn door.
+Chip bags east of the open wooden barn door west of the thrones east of the pills.
+A chip bag east of the open wooden barn door west of a throne east of the pills
+A chip bag west of a throne east of the pills east of the open wooden barn door
+A chip bag east of the open wooden barn doors west of a throne east of the pill
+A chip bag west of a throne east of the pill east of the open wooden barn doors
+The chip bag east of the open wooden barn door west of a throne east of the pills
+The chip bag west of a throne east of the pills east of the open wooden barn door
+The chip bag east of the open wooden barn doors west of a throne east of the pill
+The chip bag west of a throne east of the pill east of the open wooden barn doors
+A chip bag west of a throne east of the pills east of the wooden open barn doors.
+Chip bags west of the throne east of the pill east of an open wooden barn door.
+Chip bags west of the throne east of the pills east of the wooden open barn door.
+Chip bags west of the thrones east of the pills east of the barns wooden open door
+Chip bags east of the barns wooden open door west of the thrones east of the pills
+The chip bag west of a throne east of the pills east of the wooden open barn doors.
+Chip bags east of the wooden open barn door west of the throne east of the pills.
+Chip bags west of the thrones east of the pill east of an open barns wooden door
+Chip bags east of an open barns wooden door west of the thrones east of the pill
+A chip bag east of the wooden open barn door west of the thrones east of the pill
+A chip bag west of the thrones east of the pill east of the wooden open barn door
+The chip bag east of the wooden open barn door west of the thrones east of the pill
+The chip bag west of the thrones east of the pill east of the wooden open barn door
+Chip bags west of the thrones east of a pill east of the open wooden barn door
+Chip bags east of the open wooden barn door west of the thrones east of a pill
+Chip bags west of the thrones east of the pill east of the barns open wooden door
+Chip bags east of the barns open wooden door west of the thrones east of the pill
+Chip bags west of a throne east of the pill east of a wooden open barn door.
+Chip bags west of the thrones east of a pill east of the wooden open barn doors.
+Chip bags west of the thrones east of the pills east of a barns open wooden door
+Chip bags east of a barns open wooden door west of the thrones east of the pills
+Chip bags west of the throne east of a pill east of the wooden open barn door
+Chip bags east of the wooden open barn door west of the throne east of a pill
+A chip bag west of a throne east of the pills east of the open wooden barn doors.
+Chip bags west of the throne east of the pills east of the open wooden barn door.
+The chip bag west of a throne east of the pills east of the open wooden barn doors.
+Chip bags east of the open wooden barn door west of the throne east of the pills.
+Chip bags west of the thrones east of the pills east of the open barns wooden door
+Chip bags east of the open barns wooden door west of the thrones east of the pills
+A chip bag east of the open wooden barn door west of the thrones east of the pill
+A chip bag west of the thrones east of the pill east of the open wooden barn door
+The chip bag east of the open wooden barn door west of the thrones east of the pill
+The chip bag west of the thrones east of the pill east of the open wooden barn door
+A chip bag west of the thrones east of the pill east of the wooden open barn doors.
+Chip bags west of the throne east of the pills east of the barns wooden open door
+Chip bags east of the barns wooden open door west of the throne east of the pills
+Chip bags west of the throne east of the pill east of an open barns wooden door
+Chip bags east of an open barns wooden door west of the throne east of the pill
+The chip bag west of the thrones east of the pill east of the wooden open barn doors.
+Chip bags west of the thrones east of the pills east of the barns wooden open doors
+Chip bags east of the barns wooden open doors west of the thrones east of the pills
+Chip bags west of the thrones east of a pill east of the open wooden barn doors.
+A chip bag east of the wooden open barn door west of the throne east of the pill
+A chip bag west of the throne east of the pill east of the wooden open barn door
+The chip bag east of the wooden open barn door west of the throne east of the pill
+The chip bag west of the throne east of the pill east of the wooden open barn door
+Chip bags west of the throne east of a pill east of the open wooden barn door
+Chip bags east of the open wooden barn door west of the throne east of a pill
+Chip bags west of a throne east of the pill east of an open wooden barn door.
+Chip bags west of a throne east of the pills east of the wooden open barn door.
+Chip bags west of the throne east of the pill east of the barns open wooden door
+Chip bags east of the barns open wooden door west of the throne east of the pill
+Chip bags east of the wooden open barn door west of a throne east of the pills.
+Chip bags west of the throne east of a pill east of the wooden open barn doors.
+Chip bags west of the throne east of the pills east of a barns open wooden door
+Chip bags east of a barns open wooden door west of the throne east of the pills
+A chip bag west of the thrones east of the pill east of the open wooden barn doors.
+The chip bag west of the thrones east of the pill east of the open wooden barn doors.
+Chip bags west of the throne east of the pills east of the open barns wooden door
+Chip bags east of the open barns wooden door west of the throne east of the pills
+A chip bag west of the thrones east of the pills east of a wooden open barn door.
+A chip bag east of the open wooden barn door west of the throne east of the pill
+A chip bag west of the throne east of the pill east of the open wooden barn door
+
+TOTAL RESULTS: 338
+
+Node            MRS Produced    Reason                 Included in MRS    Reason
+--------------  --------------  ---------------------  -----------------  -------------------------
+idBagOfChips_1  True            MRS fragment produced  True               Included in MRS
+idBarn1Door_6   True            MRS fragment produced  True               Included in MRS
+idPill_5        True            MRS fragment produced  True               Included in MRS
+idThrone_2      True            MRS fragment produced  True               Included in MRS
+idiron_4        True            MRS fragment produced  False              Descends from failed edge
+idwood_7        True            MRS fragment produced  True               Included in MRS
+open_8          True            MRS fragment produced  True               Included in MRS
+yes_3           True            MRS fragment produced  False              Descends from failed edge
+
+Edge           MRS Composed    Reason                                 Included in MRS    Reason
+-------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idImmovable_1  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idMaterial_2   False           Semantic functor has no ARG1 hole      False              Semantic functor has no ARG1 hole
+idMaterial_5   True            MRS composed                           True               Included in MRS
+idOpenState_6  True            MRS composed                           True               Included in MRS
+isEastOf_3     True            MRS composed                           True               Included in MRS
+isEastOf_7     True            MRS composed                           True               Included in MRS
+isWestOf_4     True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             8        8    1
+Nodes              Included             6        8    0.75
+Edges              Produced             5        7    0.714286
+Edges              Included             5        7    0.714286

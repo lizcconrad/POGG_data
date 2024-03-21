@@ -1,0 +1,52 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idBedroomToClosetDoor_subgraph.dot
+[ TOP: h2480
+  INDEX: e2477
+  RELS: < [ unknown LBL: h2479 ARG: x2473 ARG0: e2477 ]
+          [ def_udef_a_q LBL: h2476 ARG0: x2473 RSTR: h2474 BODY: h2475 ]
+          [ _open_a_to LBL: h2454 ARG0: e2465 ARG1: x2473 ARG2: u2467 ]
+          [ compound LBL: h2454 ARG0: e2461 ARG1: x2473 ARG2: x2455 ]
+          [ udef_q LBL: h2460 ARG0: x2455 RSTR: h2458 BODY: h2459 ]
+          [ _closet_n_1 LBL: h2456 ARG0: x2455 ]
+          [ _door_n_1 LBL: h2454 ARG0: x2473 ] >
+  HCONS: < h2458 qeq h2456 h2474 qeq h2454 h2480 qeq h2479 > ]
+GENERATED RESULTS ... 
+The open closet doors
+An open closet door
+The open closet door
+Open closet doors
+The open closet doors.
+Open closet doors.
+An open closet door.
+The open closet door.
+Open closet door
+Closets open door
+Open closet door.
+A closets open door
+Closets open door.
+The closets open doors.
+The closets open doors
+The closets open door
+Closets open doors
+Closets open doors.
+A closets open door.
+The closets open door.
+
+TOTAL RESULTS: 20
+
+Node                     MRS Produced    Reason                 Included in MRS    Reason
+-----------------------  --------------  ---------------------  -----------------  -------------------------
+idBedroomToClosetDoor_1  True            MRS fragment produced  True               Included in MRS
+open_2                   True            MRS fragment produced  True               Included in MRS
+true_3                   True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idOpenState_1      True            MRS composed                               True               Included in MRS
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

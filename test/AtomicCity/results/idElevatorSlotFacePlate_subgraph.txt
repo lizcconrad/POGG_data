@@ -1,0 +1,198 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idElevatorSlotFacePlate_subgraph.dot
+[ TOP: h788
+  INDEX: e785
+  RELS: < [ unknown LBL: h787 ARG: x781 ARG0: e785 ]
+          [ def_udef_a_q LBL: h784 ARG0: x781 RSTR: h782 BODY: h783 ]
+          [ _lock_v_cause LBL: h776 ARG0: e777 ARG1: i778 ARG2: x781 ]
+          [ compound LBL: h776 ARG0: e773 ARG1: x781 ARG2: x769 ]
+          [ udef_q LBL: h772 ARG0: x769 RSTR: h770 BODY: h771 ]
+          [ _face_n_1 LBL: h768 ARG0: x769 ]
+          [ _plate_n_of LBL: h776 ARG0: x781 ARG1: i765 ] >
+  HCONS: < h770 qeq h768 h782 qeq h776 h788 qeq h787 > ]
+GENERATED RESULTS ... 
+Locked face plates.
+Locked face plates
+Locked face plate.
+Locked face plate
+Locked faced plates
+Locked faced plates.
+A face plate to lock.
+Face plates locked.
+Locked faced, plates.
+A face plate locked.
+The locked face plates.
+The locked face plates
+Locked faced plate
+Locked faced plate.
+A face plate locked
+Locked faced, plates
+Locked faced, plate.
+The locked face plate
+The locked face plate.
+A face plate to lock
+The faced plates to lock.
+The locked faced, plates.
+The face plate to lock.
+A locked face plate
+The face plate locked.
+A locked face plate.
+Face plates locked
+Locked faced, plate
+Faces locked plate.
+Face plate locked.
+The locked faced, plates
+The face plate locked
+Faces locked plate
+The locked faced, plate.
+A faced plate to lock.
+The faces locked plates.
+The faced locked plates
+The faced locked plates.
+A face plate, to lock.
+The faced plates to lock
+The locked faced plates
+A locked faced, plate.
+The face plate to lock
+A faces locked plate
+Faced locked plates
+The locked faced plates.
+The face plates to lock.
+The faces locked plate
+A faces locked plate.
+The face plates locked.
+The faced plates locked.
+The faces locked plates
+The locked faced, plate
+Locked face plate.
+The faces locked plate.
+Locked face plate
+The faced locked plate
+The faced locked plate.
+A face plate, locked.
+A locked faced, plate
+Face plates, to lock.
+Faced locked plates.
+A faced plate to lock
+The face plates locked
+The locked faced plate
+The faced plates locked
+A faced, plate to lock.
+The faced plate to lock.
+The locked faced plate.
+Face plate locked
+A faced locked plate
+A faced locked plate.
+Faces locked plates.
+The face plates, to lock.
+A faced plate locked.
+A locked faced plate
+Face plate to lock.
+Locked faced, plate.
+A faced, plate, to lock.
+The faced, plates to lock.
+A locked faced plate.
+Faced locked plate
+The face plates to lock
+Face plates, locked.
+Face plate, to lock.
+Faced plates locked.
+Faced locked plate.
+A faced plate locked
+Faces locked plate.
+The face plate, to lock.
+A faced, plate locked.
+The face plates, locked.
+Face plates to lock.
+Faces locked plate
+A faced, plate, locked.
+Locked faced, plate
+Face plate, locked.
+A faced, plate to lock
+The faced plate to lock
+Faced, plates, locked.
+Faced, plates, to lock.
+The faced, plate to lock.
+Face plate locked.
+Faces locked plates
+The faced, plates locked.
+Locked faced plate.
+Locked faced plate
+The faced plate locked.
+Face plate to lock
+A faced, plate locked
+The faced, plates to lock
+Face plate locked
+The faced, plates, to lock.
+The face plate, locked.
+Faced, plates locked.
+Face plate, to lock.
+A faced plate, locked.
+Faced, plate, locked.
+Faced, plate, to lock.
+The faced, plates locked
+The faced plate locked
+Faced plates locked
+Face plates to lock
+The faced, plate locked.
+Face plate, locked.
+The faced, plate, to lock.
+The faced, plates, locked.
+Faced, plate to lock.
+The faced, plate to lock
+Faced plates to lock.
+Faced, plate locked.
+Faced plates, locked.
+Faced locked plate.
+The faced, plate locked
+Face plate to lock.
+Faced locked plate
+The faced, plate, locked.
+The faced plates, locked.
+A faced plate, to lock.
+Faced, plate, to lock.
+Faced, plates locked
+Faced, plates to lock.
+Faced plate, locked.
+Faced plate to lock.
+Faced, plate, locked.
+Faced, plate to lock
+Faced plates to lock
+The faced plate, locked.
+Faced plates, to lock.
+Faced, plate locked
+Faced, plate to lock.
+Faced plate locked.
+Face plate to lock
+Faced, plate locked.
+Faced plate locked.
+The faced plates, to lock.
+Faced, plates to lock
+Faced, plate locked
+Faced plate, to lock.
+Faced plate locked
+Faced plate to lock
+The faced plate, to lock.
+Faced, plate to lock
+Faced plate, locked.
+Faced plate locked
+Faced plate, to lock.
+Faced plate to lock.
+Faced plate to lock
+
+TOTAL RESULTS: 168
+
+Node                       MRS Produced    Reason                 Included in MRS    Reason
+-------------------------  --------------  ---------------------  -----------------  ---------------
+idElevatorSlotFacePlate_1  True            MRS fragment produced  True               Included in MRS
+locked_2                   True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idLockedState_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

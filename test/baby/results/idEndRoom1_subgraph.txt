@@ -1,0 +1,51 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idEndRoom1_subgraph.dot
+[ TOP: h2952
+  INDEX: e2949
+  RELS: < [ unknown LBL: h2951 ARG: x2853 ARG0: e2949 ]
+          [ def_udef_a_q LBL: h2948 ARG0: x2853 RSTR: h2946 BODY: h2947 ]
+          [ _near_p LBL: h2872 ARG0: e2937 ARG1: x2853 ARG2: x2920 ]
+          [ def_udef_a_q LBL: h2944 ARG0: x2920 RSTR: h2942 BODY: h2943 ]
+          [ _un-_a_neg LBL: h2932 ARG0: i2926 ARG1: e2927 ]
+          [ _know_v_1 LBL: h2932 ARG0: e2927 ARG1: u2930 ARG2: x2920 ]
+          [ _backyard_n_1 LBL: h2932 ARG0: x2920 ]
+          [ _near_p LBL: h2872 ARG0: e2912 ARG1: x2853 ARG2: x2916 ]
+          [ def_udef_a_q LBL: h2919 ARG0: x2916 RSTR: h2917 BODY: h2918 ]
+          [ _un-_a_neg LBL: h2907 ARG0: i2901 ARG1: e2904 ]
+          [ _know_v_1 LBL: h2907 ARG0: e2904 ARG1: u2905 ARG2: x2916 ]
+          [ _baby_n_1 LBL: h2907 ARG0: x2916 ]
+          [ _un-_a_neg LBL: h2872 ARG0: i2870 ARG1: e2873 ]
+          [ _know_v_1 LBL: h2872 ARG0: e2873 ARG1: u2874 ARG2: x2853 ]
+          [ compound LBL: h2872 ARG0: e2862 ARG1: x2853 ARG2: x2855 ]
+          [ udef_q LBL: h2861 ARG0: x2855 RSTR: h2859 BODY: h2860 ]
+          [ _end_n_of LBL: h2857 ARG0: x2855 ARG1: i2856 ]
+          [ _room_n_unit LBL: h2872 ARG0: x2853 ] >
+  HCONS: < h2942 qeq h2932 h2917 qeq h2907 h2859 qeq h2857 h2946 qeq h2872 h2952 qeq h2951 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  -------------------------
+false_4       True            MRS fragment produced  False              Descends from failed edge
+idBaby_3      True            MRS fragment produced  True               Included in MRS
+idBackyard_6  True            MRS fragment produced  True               Included in MRS
+idEndRoom_1   True            MRS fragment produced  True               Included in MRS
+true_2        True            MRS fragment produced  True               Included in MRS
+true_5        True            MRS fragment produced  True               Included in MRS
+true_7        True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason                                                Included in MRS    Reason
+-----------------  --------------  ----------------------------------------------------  -----------------  ----------------------------------------------------
+idSeen_2           False           Boolean property edge doesn't point to boolean value  False              Boolean property edge doesn't point to boolean value
+idUnknownObject_1  True            MRS composed                                          True               Included in MRS
+idUnknownObject_3  True            MRS composed                                          True               Included in MRS
+idUnknownObject_5  True            MRS composed                                          True               Included in MRS
+isNear_4           True            MRS composed                                          True               Included in MRS
+isNear_6           True            MRS composed                                          True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7        7    1
+Nodes              Included             6        7    0.857143
+Edges              Produced             5        6    0.833333
+Edges              Included             5        6    0.833333

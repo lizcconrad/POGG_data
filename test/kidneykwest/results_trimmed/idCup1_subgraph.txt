@@ -1,0 +1,45 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idCup1_subgraph.dot
+[ TOP: h2630
+  INDEX: e2627
+  RELS: < [ unknown LBL: h2629 ARG: x2623 ARG0: e2627 ]
+          [ def_udef_a_q LBL: h2626 ARG0: x2623 RSTR: h2624 BODY: h2625 ]
+          [ _ceramic_a_1 LBL: h2607 ARG0: e2608 ARG1: x2623 ]
+          [ _cup_n_1 LBL: h2607 ARG0: x2623 ARG1: u2606 ] >
+  HCONS: < h2624 qeq h2607 h2630 qeq h2629 > ]
+GENERATED RESULTS ... 
+The ceramic cups.
+Ceramic cups
+The ceramic cups
+The ceramic cup
+A ceramic cup
+Ceramic cups.
+Ceramic cup
+The ceramic cup.
+A ceramic cup.
+Ceramic cup.
+
+TOTAL RESULTS: 10
+
+Node         MRS Produced    Reason                                                Included in MRS    Reason
+-----------  --------------  ----------------------------------------------------  -----------------  ----------------------------------------------------
+ceramic_2    True            MRS fragment produced                                 True               Included in MRS
+closed_5     True            MRS fragment produced                                 False              Descends from failed node
+idBarn_6     True            MRS fragment produced                                 False              Descends from failed node
+idCup_1      True            MRS fragment produced                                 True               Included in MRS
+idGiftBox_4  False           "Can't find '_gift_n_of-to' as a key in the lexicon"  False              "Can't find '_gift_n_of-to' as a key in the lexicon"
+true_3       True            MRS fragment produced                                 False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idMaterial_1       True            MRS composed                               True               Included in MRS
+idOpenState_3      False           Outbound from failed node                  False              Outbound from failed node
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isEastOf_4         False           Outbound from failed node                  False              Outbound from failed node
+isNorthOf_5        False           Inbound to failed node                     False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             5        6    0.833333
+Nodes              Included             2        6    0.333333
+Edges              Produced             1        5    0.2
+Edges              Included             1        5    0.2

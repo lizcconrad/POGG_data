@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idCavern6OutsideBottomOpening_subgraph.dot
+[ TOP: h734
+  INDEX: e731
+  RELS: < [ unknown LBL: h733 ARG: x715 ARG0: e731 ]
+          [ def_udef_a_q LBL: h730 ARG0: x715 RSTR: h728 BODY: h729 ]
+          [ compound LBL: h726 ARG0: e723 ARG1: x715 ARG2: x719 ]
+          [ udef_q LBL: h722 ARG0: x719 RSTR: h720 BODY: h721 ]
+          [ _bottom_n_1 LBL: h718 ARG0: x719 ]
+          [ _opening_n_1 LBL: h726 ARG0: x715 ] >
+  HCONS: < h720 qeq h718 h728 qeq h726 h734 qeq h733 > ]
+GENERATED RESULTS ... 
+The bottom openings
+The bottom opening
+A bottom opening
+The bottom openings.
+Bottom openings.
+Bottom openings
+Bottom opening
+The bottom opening.
+A bottom opening.
+The bottommed, openings.
+Bottommed, opening
+The bottommed, openings
+Bottommed, openings.
+The bottommed, opening
+A bottommed, opening
+Bottommed, openings
+The bottommed opening
+Bottom opening.
+Bottommed openings
+Bottommed, opening.
+The bottommed, opening.
+A bottommed opening
+A bottommed, opening.
+The bottommed openings
+The bottommed openings.
+Bottommed openings.
+Bottommed opening
+The bottommed opening.
+A bottommed opening.
+Bottommed opening.
+
+TOTAL RESULTS: 30
+
+Node                             MRS Produced    Reason                 Included in MRS    Reason
+-------------------------------  --------------  ---------------------  -----------------  ---------------
+idCavern6OutsideBottomOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

@@ -1,0 +1,102 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idGoggles1_subgraph.dot
+[ TOP: h560
+  INDEX: e557
+  RELS: < [ unknown LBL: h559 ARG: x517 ARG0: e557 ]
+          [ def_udef_a_q LBL: h556 ARG0: x517 RSTR: h554 BODY: h555 ]
+          [ loc_nonsp LBL: h521 ARG0: i549 ARG1: x517 ARG2: x543 ]
+          [ _plastic_a_1 LBL: h521 ARG0: e519 ARG1: x517 ]
+          [ _goggle_n_1 LBL: h521 ARG0: x517 ]
+          [ def_implicit_q LBL: h548 ARG0: x543 RSTR: h546 BODY: h547 ]
+          [ _west_a_1 LBL: h544 ARG0: i535 ARG1: x543 ARG2: x526 ]
+          [ def_udef_a_q LBL: h542 ARG0: x526 RSTR: h540 BODY: h541 ]
+          [ _red_a_1 LBL: h530 ARG0: i528 ARG1: x526 ]
+          [ _apple_n_1 LBL: h530 ARG0: x526 ]
+          [ place_n LBL: h544 ARG0: x543 ] >
+  HCONS: < h540 qeq h530 h546 qeq h544 h554 qeq h521 h560 qeq h559 > ]
+GENERATED RESULTS ... 
+The plastic goggles west of the red apples
+The plastic goggles west of a red apple
+The plastic goggles west of the red apple
+The plastic goggles west of the red apples.
+A plastic goggle west of the red apples
+The plastic goggle west of the red apples
+Plastic goggles west of the red apples
+A plastic goggle west of a red apple
+The plastic goggle west of a red apple
+Plastic goggles west of a red apple
+The plastic goggles west of a red apple.
+A plastic goggle west of the red apple
+The plastic goggle west of the red apple
+The plastic goggles west of red apples.
+A plastic goggle west of the red apples.
+The plastic goggle west of the red apples.
+Plastic goggles west of the red apple
+The plastic goggles west of red apples
+Plastic goggles west of the red apples.
+The plastic goggles west of the red apple.
+A plastic goggle west of a red apple.
+The plastic goggle west of a red apple.
+Plastic goggle west of the red apples
+Plastic goggles west of a red apple.
+Plastic goggle west of a red apple
+A plastic goggle west of red apples.
+The plastic goggle west of red apples.
+Plastic goggles west of red apples.
+A plastic goggle west of red apples
+The plastic goggle west of red apples
+A plastic goggle west of the red apple.
+The plastic goggle west of the red apple.
+Plastic goggles west of red apples
+Plastic goggles west of the red apple.
+Plastic goggle west of the red apple
+Plastic goggle west of the red apples.
+Plastic goggle west of a red apple.
+Plastic goggle west of red apples.
+Plastic goggle west of red apples
+Plastic goggle west of the red apple.
+The plastic goggles, west of the red apples
+The plastic goggle, west of the red apples
+Plastic goggles, west of the red apples
+The plastic goggles, west of a red apple
+The plastic goggle, west of a red apple
+Plastic goggles, west of a red apple
+Plastic goggle, west of the red apples
+Plastic goggle, west of a red apple
+The plastic goggles, west of the red apple
+A plastic goggle, west of the red apples
+The plastic goggle, west of the red apple
+Plastic goggles, west of the red apple
+A plastic goggle, west of a red apple
+Plastic goggle, west of the red apple
+A plastic goggle, west of the red apple
+The plastic goggles, west of red apples
+The plastic goggle, west of red apples
+Plastic goggles, west of red apples
+Plastic goggle, west of red apples
+A plastic goggle, west of red apples
+
+TOTAL RESULTS: 60
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  -------------------------
+idApple_4    True            MRS fragment produced  True               Included in MRS
+idGoggles_1  True            MRS fragment produced  True               Included in MRS
+plastic_2    True            MRS fragment produced  True               Included in MRS
+red_5        True            MRS fragment produced  True               Included in MRS
+true_3       True            MRS fragment produced  False              Descends from failed edge
+true_6       True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idColor_3          True            MRS composed                               True               Included in MRS
+idMaterial_1       True            MRS composed                               True               Included in MRS
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+idUnknownObject_4  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isWestOf_5         True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        6    1
+Nodes              Included             4        6    0.666667
+Edges              Produced             3        5    0.6
+Edges              Included             3        5    0.6

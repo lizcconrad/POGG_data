@@ -1,0 +1,117 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idScubaDiverCostume1_subgraph.dot
+[ TOP: h559
+  INDEX: e556
+  RELS: < [ unknown LBL: h558 ARG: x552 ARG0: e556 ]
+          [ def_udef_a_q LBL: h555 ARG0: x552 RSTR: h553 BODY: h554 ]
+          [ _un-_a_neg LBL: h543 ARG0: i541 ARG1: e544 ]
+          [ _know_v_1 LBL: h543 ARG0: e544 ARG1: u545 ARG2: x552 ]
+          [ _gold_a_1 LBL: h543 ARG0: i534 ARG1: x552 ]
+          [ compound LBL: h543 ARG0: e530 ARG1: x552 ARG2: x514 ]
+          [ udef_q LBL: h529 ARG0: x514 RSTR: h527 BODY: h528 ]
+          [ compound LBL: h525 ARG0: e522 ARG1: x514 ARG2: x518 ]
+          [ udef_q LBL: h521 ARG0: x518 RSTR: h519 BODY: h520 ]
+          [ _scuba_n_1 LBL: h517 ARG0: x518 ]
+          [ _diver_n_1 LBL: h525 ARG0: x514 ]
+          [ _costume_n_1 LBL: h543 ARG0: x552 ] >
+  HCONS: < h519 qeq h517 h527 qeq h525 h553 qeq h543 h559 qeq h558 > ]
+GENERATED RESULTS ... 
+The gold unknown scuba diver costume
+Scuba diver gold unknown costumes
+The gold unknown scuba diver costumes
+Gold unknown scuba diver costumes
+A gold unknown scuba diver costume
+An unknown scuba diver gold costume
+The unknown scuba diver gold costume
+The gold scuba divers unknown costumes
+Gold scuba divers unknown costumes
+Scuba divers gold unknown costume
+An unknown gold scuba diver costume
+The unknown gold scuba diver costume
+The unknown scuba diver gold costumes.
+The unknown gold scuba diver costumes
+The scuba diver gold unknown costumes
+The gold scuba divers unknown costume
+The scuba divers gold unknown costumes
+The gold unknown scuba diver costumes.
+Gold unknown scuba diver costumes.
+An unknown scuba divers gold costume
+The unknown scuba divers gold costume
+Scuba divers unknown gold costume
+A gold scuba divers unknown costume
+Unknown scuba diver gold costumes.
+Unknown gold scuba diver costumes
+The gold scuba divers unknown costumes.
+Gold scuba divers unknown costumes.
+The unknown scuba divers gold costumes.
+A scuba divers gold unknown costume
+The scuba diver gold unknown costume
+The scuba divers gold unknown costume
+The unknown scuba diver gold costumes
+Scuba divers gold unknown costumes
+Unknown scuba divers gold costumes.
+A scuba diver gold unknown costume
+Scuba diver gold unknown costumes.
+The unknown gold scuba diver costumes.
+Scuba diver gold unknown costume
+An unknown scuba diver gold costume.
+The unknown scuba diver gold costume.
+The gold unknown scuba diver costume.
+Gold unknown scuba diver costume
+Unknown scuba diver gold costumes
+A scuba divers unknown gold costume
+The scuba divers unknown gold costume
+The unknown scuba divers gold costumes
+A gold unknown scuba diver costume.
+Unknown gold scuba diver costumes.
+An unknown scuba divers gold costume.
+The gold scuba divers unknown costume.
+The unknown scuba divers gold costume.
+Unknown scuba divers gold costumes
+A gold scuba divers unknown costume.
+The scuba divers unknown gold costumes
+An unknown gold scuba diver costume.
+The scuba diver gold unknown costumes.
+The unknown gold scuba diver costume.
+The scuba divers gold unknown costumes.
+Gold scuba divers unknown costume
+Scuba divers gold unknown costume.
+The scuba divers unknown gold costumes.
+Unknown scuba diver gold costume
+Unknown gold scuba diver costume
+Scuba divers unknown gold costume.
+Scuba divers unknown gold costumes
+Unknown scuba divers gold costume
+Scuba divers gold unknown costumes.
+Scuba divers unknown gold costumes.
+A scuba divers gold unknown costume.
+The scuba diver gold unknown costume.
+The scuba divers gold unknown costume.
+A scuba divers unknown gold costume.
+Gold unknown scuba diver costume.
+A scuba diver gold unknown costume.
+The scuba divers unknown gold costume.
+Scuba diver gold unknown costume.
+Gold scuba divers unknown costume.
+Unknown scuba diver gold costume.
+Unknown scuba divers gold costume.
+Unknown gold scuba diver costume.
+
+TOTAL RESULTS: 80
+
+Node                   MRS Produced    Reason                 Included in MRS    Reason
+---------------------  --------------  ---------------------  -----------------  ---------------
+gold_2                 True            MRS fragment produced  True               Included in MRS
+idScubaDiverCostume_1  True            MRS fragment produced  True               Included in MRS
+true_3                 True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idColor_1          True            MRS composed  True               Included in MRS
+idUnknownObject_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

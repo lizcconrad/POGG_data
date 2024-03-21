@@ -1,0 +1,80 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idPlageFrontOpening_subgraph.dot
+[ TOP: h724
+  INDEX: e721
+  RELS: < [ unknown LBL: h723 ARG: x702 ARG0: e721 ]
+          [ def_udef_a_q LBL: h720 ARG0: x702 RSTR: h718 BODY: h719 ]
+          [ _tall_a_1 LBL: h713 ARG0: e714 ARG1: x702 ]
+          [ compound LBL: h713 ARG0: e710 ARG1: x702 ARG2: x704 ]
+          [ udef_q LBL: h709 ARG0: x704 RSTR: h707 BODY: h708 ]
+          [ _front_n_1 LBL: h705 ARG0: x704 ]
+          [ _opening_n_1 LBL: h713 ARG0: x702 ] >
+  HCONS: < h707 qeq h705 h718 qeq h713 h724 qeq h723 > ]
+GENERATED RESULTS ... 
+The tall front opening
+A tall front opening
+The tall front openings
+Tall front openings
+Tall front openings.
+The tall front openings.
+The tall fronted opening
+A tall fronted opening
+Fronts tall opening
+Tall fronted openings
+The tall front opening.
+Tall fronted openings.
+A tall front opening.
+Tall front opening
+The fronted tall opening
+The tall fronted openings
+A fronted tall opening
+The tall fronted openings.
+A fronts tall opening
+The fronted tall openings
+The fronts tall opening
+The tall fronted, openings.
+The tall fronted, openings
+Tall fronted, openings.
+The tall fronted, opening
+Tall fronted, openings
+Fronted tall openings
+Tall fronted opening
+A tall fronted, opening
+The fronts tall openings
+The tall fronted opening.
+The fronts tall openings.
+Fronts tall opening.
+The tall fronted, opening.
+A tall fronted opening.
+Fronts tall openings
+A tall fronted, opening.
+Fronted tall opening
+The fronted tall openings.
+Fronts tall openings.
+Fronted tall openings.
+A fronts tall opening.
+The fronts tall opening.
+Tall front opening.
+Tall fronted, opening
+The fronted tall opening.
+Tall fronted opening.
+A fronted tall opening.
+Tall fronted, opening.
+Fronted tall opening.
+
+TOTAL RESULTS: 50
+
+Node                   MRS Produced    Reason                 Included in MRS    Reason
+---------------------  --------------  ---------------------  -----------------  ---------------
+idPlageFrontOpening_1  True            MRS fragment produced  True               Included in MRS
+tall_2                 True            MRS fragment produced  True               Included in MRS
+
+Edge        MRS Composed    Reason        Included in MRS    Reason
+----------  --------------  ------------  -----------------  ---------------
+idHeight_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

@@ -1,0 +1,547 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idCar1_subgraph.dot
+[ TOP: h3335
+  INDEX: e3332
+  RELS: < [ unknown LBL: h3334 ARG: x3178 ARG0: e3332 ]
+          [ def_udef_a_q LBL: h3331 ARG0: x3178 RSTR: h3329 BODY: h3330 ]
+          [ loc_nonsp LBL: h3179 ARG0: i3324 ARG1: x3178 ARG2: x3320 ]
+          [ loc_nonsp LBL: h3179 ARG0: i3258 ARG1: x3178 ARG2: x3245 ]
+          [ _un-_a_neg LBL: h3179 ARG0: i3189 ARG1: e3192 ]
+          [ _know_v_1 LBL: h3179 ARG0: e3192 ARG1: u3193 ARG2: x3178 ]
+          [ _off_a_1 LBL: h3179 ARG0: e3180 ARG1: x3178 ]
+          [ _car_n_1 LBL: h3179 ARG0: x3178 ]
+          [ def_implicit_q LBL: h3257 ARG0: x3245 RSTR: h3255 BODY: h3256 ]
+          [ _west_a_1 LBL: h3247 ARG0: i3244 ARG1: x3245 ARG2: x3200 ]
+          [ def_udef_a_q LBL: h3251 ARG0: x3200 RSTR: h3249 BODY: h3250 ]
+          [ loc_nonsp LBL: h3201 ARG0: i3240 ARG1: x3200 ARG2: x3227 ]
+          [ compound LBL: h3201 ARG0: e3209 ARG1: x3200 ARG2: x3202 ]
+          [ udef_q LBL: h3208 ARG0: x3202 RSTR: h3206 BODY: h3207 ]
+          [ _left_n_of LBL: h3204 ARG0: x3202 ARG1: i3203 ]
+          [ _opening_n_1 LBL: h3201 ARG0: x3200 ]
+          [ def_implicit_q LBL: h3239 ARG0: x3227 RSTR: h3237 BODY: h3238 ]
+          [ _west_a_1 LBL: h3229 ARG0: i3226 ARG1: x3227 ARG2: x3230 ]
+          [ def_udef_a_q LBL: h3233 ARG0: x3230 RSTR: h3231 BODY: h3232 ]
+          [ compound LBL: h3225 ARG0: e3222 ARG1: x3230 ARG2: x3215 ]
+          [ udef_q LBL: h3221 ARG0: x3215 RSTR: h3219 BODY: h3220 ]
+          [ _left_n_of LBL: h3217 ARG0: x3215 ARG1: i3216 ]
+          [ _opening_n_1 LBL: h3225 ARG0: x3230 ]
+          [ place_n LBL: h3229 ARG0: x3227 ]
+          [ place_n LBL: h3247 ARG0: x3245 ]
+          [ def_implicit_q LBL: h3323 ARG0: x3320 RSTR: h3321 BODY: h3322 ]
+          [ _west_a_1 LBL: h3313 ARG0: i3310 ARG1: x3320 ARG2: x3314 ]
+          [ def_udef_a_q LBL: h3317 ARG0: x3314 RSTR: h3315 BODY: h3316 ]
+          [ loc_nonsp LBL: h3309 ARG0: i3306 ARG1: x3314 ARG2: x3293 ]
+          [ _un-_a_neg LBL: h3309 ARG0: i3268 ARG1: e3271 ]
+          [ _know_v_1 LBL: h3309 ARG0: e3271 ARG1: u3272 ARG2: x3314 ]
+          [ _bed_n_1 LBL: h3309 ARG0: x3314 ]
+          [ def_implicit_q LBL: h3305 ARG0: x3293 RSTR: h3303 BODY: h3304 ]
+          [ _east_a_1 LBL: h3301 ARG0: i3292 ARG1: x3293 ARG2: x3279 ]
+          [ def_udef_a_q LBL: h3299 ARG0: x3279 RSTR: h3297 BODY: h3298 ]
+          [ compound LBL: h3291 ARG0: e3288 ARG1: x3279 ARG2: x3284 ]
+          [ udef_q LBL: h3287 ARG0: x3284 RSTR: h3285 BODY: h3286 ]
+          [ _driver_n_of LBL: h3283 ARG0: x3284 ARG1: i3282 ]
+          [ _seat_n_1 LBL: h3291 ARG0: x3279 ]
+          [ place_n LBL: h3301 ARG0: x3293 ]
+          [ place_n LBL: h3313 ARG0: x3320 ] >
+  HCONS: < h3206 qeq h3204 h3219 qeq h3217 h3231 qeq h3225 h3237 qeq h3229 h3249 qeq h3201 h3255 qeq h3247 h3285 qeq h3283 h3297 qeq h3291 h3303 qeq h3301 h3315 qeq h3309 h3321 qeq h3313 h3329 qeq h3179 h3335 qeq h3334 > ]
+GENERATED RESULTS ... 
+Off unknown cars west of the left openings west of the left openings west of the unknown beds east of the driver seats
+Off unknown cars west of the unknown beds east of the driver seats west of the left openings west of the left openings
+Off unknown cars west of the left openings west of the left opening west of the unknown beds east of the driver seats
+Off unknown cars west of the unknown beds east of the driver seats west of the left openings west of the left opening
+Off unknown cars west of the left openings west of the left openings west of the unknown beds east of the driver seat
+Off unknown cars west of the unknown beds east of the driver seat west of the left openings west of the left openings
+Unknown off cars west of the left openings west of the left openings west of the unknown beds east of the driver seats
+Unknown off cars west of the unknown beds east of the driver seats west of the left openings west of the left openings
+Off unknown cars west of the unknown beds east of the driver seat west of the left openings west of the left opening
+Off unknown cars west of the left openings west of the left opening west of the unknown beds east of the driver seat
+Off unknown cars west of the unknown beds east of the driver seats west of the left opening west of the left openings
+Off unknown cars west of the left opening west of the left openings west of the unknown beds east of the driver seats
+Off unknown cars west of a left opening west of the left openings west of the unknown beds east of the driver seats
+Off unknown cars west of the unknown beds east of the driver seats west of a left opening west of the left openings
+Off unknown cars west of the left openings west of the left openings west of the unknown beds east of a driver seat
+Off unknown cars west of the unknown beds east of a driver seat west of the left openings west of the left openings
+Off unknown cars west of the left openings west of a left opening west of the unknown beds east of the driver seats
+Off unknown cars west of the unknown beds east of the driver seats west of the left openings west of a left opening
+Unknown off cars west of the left openings west of the left openings west of the unknown beds east of the driver seat
+Unknown off cars west of the unknown beds east of the driver seats west of the left openings west of the left opening
+Unknown off cars west of the left openings west of the left opening west of the unknown beds east of the driver seats
+Unknown off cars west of the unknown beds east of the driver seat west of the left openings west of the left openings
+Off unknown cars west of the left openings west of the left openings west of the unknown beds east of the driver seats.
+Off unknown cars west of the unknown beds east of the driver seats west of the left openings west of the left openings.
+Off unknown cars west of the left opening west of the left openings west of the unknown beds east of the driver seat
+Off unknown cars west of the unknown beds east of the driver seat west of the left opening west of the left openings
+Off unknown cars west of the left opening west of the left opening west of the unknown beds east of the driver seats
+Off unknown cars west of the unknown beds east of the driver seats west of the left opening west of the left opening
+Off unknown cars west of a left opening west of the left opening west of the unknown beds east of the driver seats
+Off unknown cars west of the unknown beds east of the driver seats west of a left opening west of the left opening
+Off unknown cars west of a left opening west of the left openings west of the unknown beds east of the driver seat
+Off unknown cars west of the unknown beds east of the driver seat west of a left opening west of the left openings
+Off unknown cars west of the left openings west of the left opening west of the unknown beds east of a driver seat
+Off unknown cars west of the unknown beds east of a driver seat west of the left openings west of the left opening
+Off unknown cars west of the unknown beds east of the driver seat west of the left openings west of a left opening
+Off unknown cars west of the left openings west of a left opening west of the unknown beds east of the driver seat
+Unknown off cars west of the unknown beds east of the driver seat west of the left openings west of the left opening
+Unknown off cars west of the left openings west of the left opening west of the unknown beds east of the driver seat
+Off unknown cars west of the left openings west of the left opening west of the unknown beds east of the driver seats.
+Off unknown cars west of the unknown beds east of the driver seat west of the left openings west of the left openings.
+Unknown off cars west of the unknown beds east of the driver seats west of the left opening west of the left openings
+Unknown off cars west of the left opening west of the left openings west of the unknown beds east of the driver seats
+Off unknown cars west of the unknown beds east of the driver seat west of the left opening west of the left opening
+Off unknown cars west of the left opening west of the left opening west of the unknown beds east of the driver seat
+Unknown off cars west of the unknown beds east of the driver seats west of a left opening west of the left openings
+Unknown off cars west of a left opening west of the left openings west of the unknown beds east of the driver seats
+Unknown off cars west of the unknown beds east of a driver seat west of the left openings west of the left openings
+Unknown off cars west of the left openings west of the left openings west of the unknown beds east of a driver seat
+Unknown off cars west of the unknown beds east of the driver seats west of the left openings west of a left opening
+Unknown off cars west of the left openings west of a left opening west of the unknown beds east of the driver seats
+Off unknown cars west of the unknown beds east of the driver seat west of a left opening west of the left opening
+Off unknown cars west of a left opening west of the left opening west of the unknown beds east of the driver seat
+Unknown off cars west of the left openings west of the left openings west of the unknown beds east of the driver seats.
+Unknown off cars west of the unknown beds east of the driver seats west of the left openings west of the left openings.
+Off unknown cars west of the unknown beds east of the driver seats west of the left openings west of the left opening.
+Off unknown cars west of the left openings west of the left openings west of the unknown beds east of the driver seat.
+Off unknown cars west of the unknown beds east of the driver seats west of the left opening west of a left opening
+Off unknown cars west of the left opening west of the left openings west of the unknown beds east of a driver seat
+Off unknown cars west of the unknown beds east of a driver seat west of the left opening west of the left openings
+Off unknown cars west of the left opening west of a left opening west of the unknown beds east of the driver seats
+Unknown off cars west of the unknown beds east of the driver seats west of the left opening west of the left opening
+Unknown off cars west of the left opening west of the left opening west of the unknown beds east of the driver seats
+Unknown off cars west of the unknown beds east of the driver seat west of the left opening west of the left openings
+Unknown off cars west of the left opening west of the left openings west of the unknown beds east of the driver seat
+Off unknown cars west of the unknown beds east of the driver seats west of the left opening west of the left openings.
+Off unknown cars west of the left opening west of the left openings west of the unknown beds east of the driver seats.
+The off unknown cars west of the left openings west of the left openings west of the unknown beds east of the driver seats
+The off unknown cars west of the unknown beds east of the driver seats west of the left openings west of the left openings
+Off unknown cars west of a left opening west of the left openings west of the unknown beds east of a driver seat
+Off unknown cars west of the unknown beds east of a driver seat west of a left opening west of the left openings
+Off unknown cars west of a left opening west of a left opening west of the unknown beds east of the driver seats
+Off unknown cars west of the unknown beds east of the driver seats west of a left opening west of a left opening
+Off unknown cars west of the left openings west of a left opening west of the unknown beds east of a driver seat
+Off unknown cars west of the unknown beds east of a driver seat west of the left openings west of a left opening
+Unknown off cars west of a left opening west of the left opening west of the unknown beds east of the driver seats
+Unknown off cars west of the unknown beds east of the driver seats west of a left opening west of the left opening
+Unknown off cars west of a left opening west of the left openings west of the unknown beds east of the driver seat
+Unknown off cars west of the unknown beds east of the driver seat west of a left opening west of the left openings
+Unknown off cars west of the unknown beds east of a driver seat west of the left openings west of the left opening
+Unknown off cars west of the left openings west of the left opening west of the unknown beds east of a driver seat
+Unknown off cars west of the unknown beds east of the driver seat west of the left openings west of a left opening
+Unknown off cars west of the left openings west of a left opening west of the unknown beds east of the driver seat
+Off unknown cars west of a left opening west of the left openings west of the unknown beds east of the driver seats.
+Off unknown cars west of the unknown beds east of the driver seats west of a left opening west of the left openings.
+Off unknown cars west of the left openings west of a left opening west of the unknown beds east of the driver seats.
+Off unknown cars west of the unknown beds east of a driver seat west of the left openings west of the left openings.
+Unknown off cars west of the left openings west of the left opening west of the unknown beds east of the driver seats.
+Unknown off cars west of the unknown beds east of the driver seat west of the left openings west of the left openings.
+Off unknown cars west of the left openings west of the left opening west of the unknown beds east of the driver seat.
+Off unknown cars west of the unknown beds east of the driver seat west of the left openings west of the left opening.
+Off unknown cars west of the unknown beds east of a driver seat west of the left opening west of the left opening
+Off unknown cars west of the left opening west of the left opening west of the unknown beds east of a driver seat
+Off unknown cars west of the unknown beds east of the driver seat west of the left opening west of a left opening
+Off unknown cars west of the left opening west of a left opening west of the unknown beds east of the driver seat
+Unknown off cars west of the unknown beds east of the driver seat west of the left opening west of the left opening
+Unknown off cars west of the left opening west of the left opening west of the unknown beds east of the driver seat
+Off unknown cars west of the left opening west of the left opening west of the unknown beds east of the driver seats.
+Off unknown cars west of the unknown beds east of the driver seat west of the left opening west of the left openings.
+Off unknown cars west of the unknown bed east of the driver seats west of the left openings west of the left openings
+Off unknown cars west of the left openings west of the left openings west of the unknown bed east of the driver seats
+The off unknown cars west of the unknown beds east of the driver seat west of the left openings west of the left openings
+The off unknown cars west of the left openings west of the left opening west of the unknown beds east of the driver seats
+The off unknown cars west of the unknown beds east of the driver seats west of the left openings west of the left opening
+The off unknown cars west of the left openings west of the left openings west of the unknown beds east of the driver seat
+Off unknown cars west of the unknown beds east of a driver seat west of a left opening west of the left opening
+Off unknown cars west of the unknown beds east of the driver seat west of a left opening west of a left opening
+Off unknown cars west of a left opening west of the left opening west of the unknown beds east of a driver seat
+Off unknown cars west of a left opening west of a left opening west of the unknown beds east of the driver seat
+The off unknown car west of the left openings west of the left openings west of the unknown beds east of the driver seats
+The off unknown car west of the unknown beds east of the driver seats west of the left openings west of the left openings
+Unknown off cars west of the unknown beds east of the driver seat west of a left opening west of the left opening
+Unknown off cars west of a left opening west of the left opening west of the unknown beds east of the driver seat
+Off unknown cars west of unknown beds east of the driver seats west of the left openings west of the left openings
+Off unknown cars west of the left openings west of the left openings west of unknown beds east of the driver seats
+Off unknown cars west of the unknown beds east of the driver seat west of a left opening west of the left openings.
+Off unknown cars west of a left opening west of the left opening west of the unknown beds east of the driver seats.
+Off unknown cars west of the left openings west of the left openings west of the unknown beds east of a driver seat.
+Off unknown cars west of the unknown beds east of the driver seats west of the left openings west of a left opening.
+Unknown off cars west of the unknown beds east of the driver seats west of the left openings west of the left opening.
+Unknown off cars west of the left openings west of the left openings west of the unknown beds east of the driver seat.
+Unknown off cars west of the unknown beds east of a driver seat west of the left opening west of the left openings
+Unknown off cars west of the left opening west of the left openings west of the unknown beds east of a driver seat
+Unknown off cars west of the unknown beds east of the driver seats west of the left opening west of a left opening
+Unknown off cars west of the left opening west of a left opening west of the unknown beds east of the driver seats
+An off unknown car west of the left openings west of the left openings west of the unknown beds east of the driver seats
+An off unknown car west of the unknown beds east of the driver seats west of the left openings west of the left openings
+Unknown off cars west of the unknown beds east of the driver seats west of the left opening west of the left openings.
+Unknown off cars west of the left opening west of the left openings west of the unknown beds east of the driver seats.
+The unknown off cars west of the left openings west of the left openings west of the unknown beds east of the driver seats
+The unknown off cars west of the unknown beds east of the driver seats west of the left openings west of the left openings
+Off unknown cars west of the unknown bed east of the driver seat west of the left openings west of the left openings
+Off unknown cars west of the left openings west of the left opening west of the unknown bed east of the driver seats
+Off unknown cars west of the unknown bed east of the driver seats west of the left openings west of the left opening
+Off unknown cars west of the left openings west of the left openings west of the unknown bed east of the driver seat
+Unknown off cars west of the unknown beds east of a driver seat west of a left opening west of the left openings
+Unknown off cars west of a left opening west of the left openings west of the unknown beds east of a driver seat
+Unknown off cars west of the unknown beds east of the driver seats west of a left opening west of a left opening
+Unknown off cars west of a left opening west of a left opening west of the unknown beds east of the driver seats
+Unknown off cars west of the unknown beds east of a driver seat west of the left openings west of a left opening
+Unknown off cars west of the left openings west of a left opening west of the unknown beds east of a driver seat
+The off unknown cars west of the left openings west of the left opening west of the unknown beds east of the driver seat
+The off unknown cars west of the unknown beds east of the driver seat west of the left openings west of the left opening
+The off unknown car west of the left openings west of the left opening west of the unknown beds east of the driver seats
+The off unknown car west of the unknown beds east of the driver seats west of the left openings west of the left opening
+The off unknown car west of the left openings west of the left openings west of the unknown beds east of the driver seat
+The off unknown car west of the unknown beds east of the driver seat west of the left openings west of the left openings
+Off unknown cars west of the unknown beds east of driver seats west of the left openings west of the left openings
+Off unknown cars west of the left openings west of the left openings west of the unknown beds east of driver seats
+Off unknown cars west of the left opening west of the left openings west of the unknown beds east of the driver seat.
+Off unknown cars west of the unknown beds east of the driver seats west of the left opening west of the left opening.
+Unknown off cars west of a left opening west of the left openings west of the unknown beds east of the driver seats.
+Unknown off cars west of the unknown beds east of the driver seats west of a left opening west of the left openings.
+Unknown off cars west of the unknown beds east of a driver seat west of the left openings west of the left openings.
+Unknown off cars west of the left openings west of a left opening west of the unknown beds east of the driver seats.
+Off unknown cars west of unknown beds east of the driver seat west of the left openings west of the left openings
+Off unknown cars west of the left openings west of the left openings west of unknown beds east of the driver seat
+Off unknown cars west of unknown beds east of the driver seats west of the left openings west of the left opening
+Off unknown cars west of the left openings west of the left opening west of unknown beds east of the driver seats
+The unknown off car west of the left openings west of the left openings west of the unknown beds east of the driver seats
+The unknown off car west of the unknown beds east of the driver seats west of the left openings west of the left openings
+Off unknown cars west of the unknown beds east of the driver seats west of a left opening west of the left opening.
+Off unknown cars west of a left opening west of the left openings west of the unknown beds east of the driver seat.
+The off unknown cars west of the left opening west of the left openings west of the unknown beds east of the driver seats
+The off unknown cars west of the unknown beds east of the driver seats west of the left opening west of the left openings
+Off unknown cars west of the unknown beds east of a driver seat west of the left openings west of the left opening.
+Off unknown cars west of the left openings west of a left opening west of the unknown beds east of the driver seat.
+Off unknown cars west of the unknown beds east of the driver seat west of the left openings west of a left opening.
+Off unknown cars west of the left openings west of the left opening west of the unknown beds east of a driver seat.
+Off unknown cars west of the left opening west of a left opening west of the unknown beds east of a driver seat
+Off unknown cars west of the unknown beds east of a driver seat west of the left opening west of a left opening
+Unknown off cars west of the left openings west of the left opening west of the unknown beds east of the driver seat.
+Unknown off cars west of the unknown beds east of the driver seat west of the left openings west of the left opening.
+Unknown off cars west of the unknown beds east of a driver seat west of the left opening west of the left opening
+Unknown off cars west of the left opening west of a left opening west of the unknown beds east of the driver seat
+Unknown off cars west of the unknown beds east of the driver seat west of the left opening west of a left opening
+Unknown off cars west of the left opening west of the left opening west of the unknown beds east of a driver seat
+Off unknown cars west of the unknown beds east of a driver seat west of the left opening west of the left openings.
+Off unknown cars west of the left opening west of a left opening west of the unknown beds east of the driver seats.
+The off unknown cars west of the unknown beds east of the driver seats west of a left opening west of the left openings
+The off unknown cars west of a left opening west of the left openings west of the unknown beds east of the driver seats
+An off unknown car west of the left openings west of the left opening west of the unknown beds east of the driver seats
+An off unknown car west of the unknown beds east of the driver seats west of the left openings west of the left opening
+An off unknown car west of the left openings west of the left openings west of the unknown beds east of the driver seat
+An off unknown car west of the unknown beds east of the driver seat west of the left openings west of the left openings
+Unknown off cars west of the unknown beds east of the driver seat west of the left opening west of the left openings.
+Unknown off cars west of the left opening west of the left opening west of the unknown beds east of the driver seats.
+The off unknown cars west of the left openings west of the left openings west of the unknown beds east of a driver seat
+The off unknown cars west of the unknown beds east of a driver seat west of the left openings west of the left openings
+The off unknown cars west of the left openings west of a left opening west of the unknown beds east of the driver seats
+The off unknown cars west of the unknown beds east of the driver seats west of the left openings west of a left opening
+Unknown off cars west of the unknown bed east of the driver seats west of the left openings west of the left openings
+Unknown off cars west of the left openings west of the left openings west of the unknown bed east of the driver seats
+Off unknown cars west of the unknown beds east of a driver seat west of a left opening west of a left opening
+Off unknown cars west of a left opening west of a left opening west of the unknown beds east of a driver seat
+The unknown off cars west of the left openings west of the left openings west of the unknown beds east of the driver seat
+The unknown off cars west of the unknown beds east of the driver seat west of the left openings west of the left openings
+The unknown off cars west of the left openings west of the left opening west of the unknown beds east of the driver seats
+The unknown off cars west of the unknown beds east of the driver seats west of the left openings west of the left opening
+Off unknown cars west of an unknown bed east of the driver seats west of the left openings west of the left openings
+Off unknown cars west of the left openings west of the left openings west of an unknown bed east of the driver seats
+Off unknown cars west of the unknown bed east of the driver seat west of the left openings west of the left opening
+Off unknown cars west of the left openings west of the left opening west of the unknown bed east of the driver seat
+Unknown off cars west of the unknown beds east of a driver seat west of a left opening west of the left opening
+Unknown off cars west of a left opening west of the left opening west of the unknown beds east of a driver seat
+Unknown off cars west of the unknown beds east of the driver seat west of a left opening west of a left opening
+Unknown off cars west of a left opening west of a left opening west of the unknown beds east of the driver seat
+The off unknown cars west of the left openings west of the left openings west of the unknown beds east of the driver seats.
+The off unknown cars west of the unknown beds east of the driver seats west of the left openings west of the left openings.
+An unknown off car west of the left openings west of the left openings west of the unknown beds east of the driver seats
+An unknown off car west of the unknown beds east of the driver seats west of the left openings west of the left openings
+Off unknown cars west of the unknown beds east of a driver seat west of a left opening west of the left openings.
+Off unknown cars west of a left opening west of a left opening west of the unknown beds east of the driver seats.
+The off unknown car west of the left openings west of the left opening west of the unknown beds east of the driver seat
+The off unknown car west of the unknown beds east of the driver seat west of the left openings west of the left opening
+Off unknown cars west of the unknown beds east of driver seats west of the left openings west of the left opening
+Off unknown cars west of the left openings west of the left opening west of the unknown beds east of driver seats
+Unknown off cars west of unknown beds east of the driver seats west of the left openings west of the left openings
+Unknown off cars west of the left openings west of the left openings west of unknown beds east of the driver seats
+Off unknown cars west of the unknown beds east of the driver seat west of the left opening west of the left opening.
+Off unknown cars west of the left opening west of the left opening west of the unknown beds east of the driver seat.
+Unknown off cars west of the unknown beds east of the driver seat west of a left opening west of the left openings.
+Unknown off cars west of a left opening west of the left opening west of the unknown beds east of the driver seats.
+Off unknown cars west of unknown beds east of the driver seat west of the left openings west of the left opening
+Off unknown cars west of the left openings west of the left opening west of unknown beds east of the driver seat
+The unknown off car west of the left openings west of the left opening west of the unknown beds east of the driver seats
+The unknown off car west of the unknown beds east of the driver seats west of the left openings west of the left opening
+The unknown off car west of the left openings west of the left openings west of the unknown beds east of the driver seat
+The unknown off car west of the unknown beds east of the driver seat west of the left openings west of the left openings
+Off unknown cars west of the left opening west of the left openings west of the unknown bed east of the driver seats
+Off unknown cars west of the unknown bed east of the driver seats west of the left opening west of the left openings
+Unknown off cars west of the left openings west of the left openings west of the unknown beds east of a driver seat.
+Unknown off cars west of the unknown beds east of the driver seats west of the left openings west of a left opening.
+Off unknown cars west of the unknown beds east of the driver seat west of a left opening west of the left opening.
+Off unknown cars west of a left opening west of the left opening west of the unknown beds east of the driver seat.
+The off unknown cars west of the left opening west of the left openings west of the unknown beds east of the driver seat
+The off unknown cars west of the unknown beds east of the driver seats west of the left opening west of the left opening
+The off unknown cars west of the left opening west of the left opening west of the unknown beds east of the driver seats
+The off unknown cars west of the unknown beds east of the driver seat west of the left opening west of the left openings
+The off unknown car west of the unknown beds east of the driver seats west of the left opening west of the left openings
+The off unknown car west of the left opening west of the left openings west of the unknown beds east of the driver seats
+Off unknown cars west of unknown beds east of the driver seats west of the left opening west of the left openings
+Off unknown cars west of the left opening west of the left openings west of unknown beds east of the driver seats
+Off unknown cars west of the unknown bed east of the driver seats west of a left opening west of the left openings
+Off unknown cars west of a left opening west of the left openings west of the unknown bed east of the driver seats
+Off unknown cars west of the unknown bed east of a driver seat west of the left openings west of the left openings
+Off unknown cars west of the left openings west of a left opening west of the unknown bed east of the driver seats
+Off unknown cars west of the unknown bed east of the driver seats west of the left openings west of a left opening
+Off unknown cars west of the left openings west of the left openings west of the unknown bed east of a driver seat
+The off unknown cars west of a left opening west of the left opening west of the unknown beds east of the driver seats
+The off unknown cars west of the unknown beds east of the driver seats west of a left opening west of the left opening
+The off unknown cars west of a left opening west of the left openings west of the unknown beds east of the driver seat
+The off unknown cars west of the unknown beds east of the driver seat west of a left opening west of the left openings
+Off unknown cars west of the left openings west of the left openings west of the unknown beds east of driver seats.
+An off unknown car west of the left openings west of the left opening west of the unknown beds east of the driver seat
+An off unknown car west of the unknown beds east of the driver seat west of the left openings west of the left opening
+The off unknown car west of a left opening west of the left openings west of the unknown beds east of the driver seats
+The off unknown car west of the unknown beds east of the driver seats west of a left opening west of the left openings
+The off unknown cars west of the left openings west of the left opening west of the unknown beds east of a driver seat
+The off unknown cars west of the unknown beds east of a driver seat west of the left openings west of the left opening
+The off unknown cars west of the left openings west of a left opening west of the unknown beds east of the driver seat
+The off unknown cars west of the unknown beds east of the driver seat west of the left openings west of a left opening
+Unknown off cars west of the unknown bed east of the driver seat west of the left openings west of the left openings
+Unknown off cars west of the left openings west of the left openings west of the unknown bed east of the driver seat
+Unknown off cars west of the unknown bed east of the driver seats west of the left openings west of the left opening
+Unknown off cars west of the left openings west of the left opening west of the unknown bed east of the driver seats
+The off unknown car west of the left openings west of a left opening west of the unknown beds east of the driver seats
+The off unknown car west of the unknown beds east of the driver seats west of the left openings west of a left opening
+The off unknown car west of the left openings west of the left openings west of the unknown beds east of a driver seat
+The off unknown car west of the unknown beds east of a driver seat west of the left openings west of the left openings
+Off unknown cars west of the left openings west of the left openings west of the unknown bed east of the driver seats.
+Off unknown cars west of the unknown bed east of the driver seats west of the left openings west of the left openings.
+Off unknown cars west of the unknown beds east of the driver seats west of the left opening west of a left opening.
+Off unknown cars west of the left opening west of the left openings west of the unknown beds east of a driver seat.
+The unknown off cars west of the unknown beds east of the driver seat west of the left openings west of the left opening
+The unknown off cars west of the left openings west of the left opening west of the unknown beds east of the driver seat
+Off unknown cars west of an unknown bed east of the driver seats west of the left openings west of the left opening
+Off unknown cars west of the left openings west of the left opening west of an unknown bed east of the driver seats
+Off unknown cars west of an unknown bed east of the driver seat west of the left openings west of the left openings
+Off unknown cars west of the left openings west of the left openings west of an unknown bed east of the driver seat
+Off unknown cars west of a left opening west of the left openings west of unknown beds east of the driver seats
+Off unknown cars west of unknown beds east of the driver seats west of a left opening west of the left openings
+Unknown off cars west of the left openings west of the left openings west of the unknown beds east of driver seats
+Unknown off cars west of the unknown beds east of driver seats west of the left openings west of the left openings
+Off unknown cars west of the left openings west of a left opening west of unknown beds east of the driver seats
+Off unknown cars west of unknown beds east of the driver seats west of the left openings west of a left opening
+Off unknown cars west of the left openings west of the left openings west of unknown beds east of a driver seat
+Off unknown cars west of unknown beds east of a driver seat west of the left openings west of the left openings
+The off unknown cars west of the left openings west of the left opening west of the unknown beds east of the driver seats.
+The off unknown cars west of the unknown beds east of the driver seat west of the left openings west of the left openings.
+An unknown off car west of the left openings west of the left opening west of the unknown beds east of the driver seats
+An unknown off car west of the unknown beds east of the driver seats west of the left openings west of the left opening
+An unknown off car west of the left openings west of the left openings west of the unknown beds east of the driver seat
+An unknown off car west of the unknown beds east of the driver seat west of the left openings west of the left openings
+Unknown off cars west of the unknown beds east of the driver seats west of the left opening west of the left opening.
+Unknown off cars west of the left opening west of the left openings west of the unknown beds east of the driver seat.
+The off unknown car west of the left openings west of the left openings west of the unknown beds east of the driver seats.
+The off unknown car west of the unknown beds east of the driver seats west of the left openings west of the left openings.
+Unknown off cars west of unknown beds east of the driver seat west of the left openings west of the left openings
+Unknown off cars west of the left openings west of the left openings west of unknown beds east of the driver seat
+Unknown off cars west of unknown beds east of the driver seats west of the left openings west of the left opening
+Unknown off cars west of the left openings west of the left opening west of unknown beds east of the driver seats
+Off unknown cars west of the left openings west of the left openings west of unknown beds east of the driver seats.
+Off unknown cars west of unknown beds east of the driver seats west of the left openings west of the left openings.
+An off unknown car west of the unknown beds east of the driver seats west of the left opening west of the left openings
+An off unknown car west of the left opening west of the left openings west of the unknown beds east of the driver seats
+Off unknown cars west of the unknown beds east of the driver seats west of a left opening west of a left opening.
+Off unknown cars west of a left opening west of the left openings west of the unknown beds east of a driver seat.
+The unknown off car west of the unknown beds east of the driver seat west of the left openings west of the left opening
+The unknown off car west of the left openings west of the left opening west of the unknown beds east of the driver seat
+Off unknown cars west of the unknown beds east of a driver seat west of the left openings west of a left opening.
+Off unknown cars west of the left openings west of a left opening west of the unknown beds east of a driver seat.
+Unknown off cars west of the unknown beds east of the driver seats west of a left opening west of the left opening.
+Unknown off cars west of a left opening west of the left openings west of the unknown beds east of the driver seat.
+The unknown off cars west of the left opening west of the left openings west of the unknown beds east of the driver seats
+The unknown off cars west of the unknown beds east of the driver seats west of the left opening west of the left openings
+Off unknown cars west of the unknown bed east of the driver seat west of the left opening west of the left openings
+Off unknown cars west of the left opening west of the left openings west of the unknown bed east of the driver seat
+Off unknown cars west of the unknown bed east of the driver seats west of the left opening west of the left opening
+Off unknown cars west of the left opening west of the left opening west of the unknown bed east of the driver seats
+Unknown off cars west of the unknown beds east of a driver seat west of the left openings west of the left opening.
+Unknown off cars west of the left openings west of a left opening west of the unknown beds east of the driver seat.
+Unknown off cars west of the left openings west of the left opening west of the unknown beds east of a driver seat.
+Unknown off cars west of the unknown beds east of the driver seat west of the left openings west of a left opening.
+Unknown off cars west of the unknown beds east of a driver seat west of the left opening west of a left opening
+Unknown off cars west of the left opening west of a left opening west of the unknown beds east of a driver seat
+The off unknown cars west of the left opening west of the left opening west of the unknown beds east of the driver seat
+The off unknown cars west of the unknown beds east of the driver seat west of the left opening west of the left opening
+The off unknown car west of the left opening west of the left openings west of the unknown beds east of the driver seat
+The off unknown car west of the unknown beds east of the driver seat west of the left opening west of the left openings
+The off unknown car west of the left opening west of the left opening west of the unknown beds east of the driver seats
+The off unknown car west of the unknown beds east of the driver seats west of the left opening west of the left opening
+Off unknown cars west of the unknown beds east of driver seats west of the left opening west of the left openings
+Off unknown cars west of the left opening west of the left openings west of the unknown beds east of driver seats
+An off unknown car west of a left opening west of the left openings west of the unknown beds east of the driver seats
+An off unknown car west of the unknown beds east of the driver seats west of a left opening west of the left openings
+An off unknown car west of the left openings west of a left opening west of the unknown beds east of the driver seats
+An off unknown car west of the unknown beds east of the driver seats west of the left openings west of a left opening
+An off unknown car west of the left openings west of the left openings west of the unknown beds east of a driver seat
+An off unknown car west of the unknown beds east of a driver seat west of the left openings west of the left openings
+Unknown off cars west of the unknown beds east of a driver seat west of the left opening west of the left openings.
+Unknown off cars west of the left opening west of a left opening west of the unknown beds east of the driver seats.
+Off unknown cars west of the left opening west of the left opening west of unknown beds east of the driver seats
+Off unknown cars west of unknown beds east of the driver seats west of the left opening west of the left opening
+Off unknown cars west of the left opening west of the left openings west of unknown beds east of the driver seat
+Off unknown cars west of unknown beds east of the driver seat west of the left opening west of the left openings
+The unknown off cars west of the unknown beds east of the driver seats west of a left opening west of the left openings
+The unknown off cars west of a left opening west of the left openings west of the unknown beds east of the driver seats
+Off unknown cars west of a left opening west of the left openings west of the unknown bed east of the driver seat
+Off unknown cars west of the unknown bed east of the driver seat west of a left opening west of the left openings
+Off unknown cars west of a left opening west of the left opening west of the unknown bed east of the driver seats
+Off unknown cars west of the unknown bed east of the driver seats west of a left opening west of the left opening
+Off unknown cars west of the unknown beds east of the driver seats west of left openings west of the left openings
+Off unknown cars west of left openings west of the left openings west of the unknown beds east of the driver seats
+The unknown off car west of the left opening west of the left openings west of the unknown beds east of the driver seats
+The unknown off car west of the unknown beds east of the driver seats west of the left opening west of the left openings
+The unknown off cars west of the unknown beds east of a driver seat west of the left openings west of the left openings
+The unknown off cars west of the left openings west of the left openings west of the unknown beds east of a driver seat
+The unknown off cars west of the unknown beds east of the driver seats west of the left openings west of a left opening
+The unknown off cars west of the left openings west of a left opening west of the unknown beds east of the driver seats
+Off unknown cars west of the unknown bed east of a driver seat west of the left openings west of the left opening
+Off unknown cars west of the left openings west of the left opening west of the unknown bed east of a driver seat
+Off unknown cars west of the unknown bed east of the driver seat west of the left openings west of a left opening
+Off unknown cars west of the left openings west of a left opening west of the unknown bed east of the driver seat
+Unknown off cars west of the unknown beds east of a driver seat west of a left opening west of a left opening
+Unknown off cars west of a left opening west of a left opening west of the unknown beds east of a driver seat
+The off unknown cars west of the unknown beds east of the driver seat west of a left opening west of the left opening
+The off unknown cars west of a left opening west of the left opening west of the unknown beds east of the driver seat
+An off unknown car west of the left openings west of the left openings west of the unknown beds east of the driver seats.
+An off unknown car west of the unknown beds east of the driver seats west of the left openings west of the left openings.
+Off unknown cars west of the left openings west of the left opening west of the unknown beds east of driver seats.
+The off unknown car west of the unknown beds east of the driver seats west of a left opening west of the left opening
+The off unknown car west of a left opening west of the left opening west of the unknown beds east of the driver seats
+The off unknown car west of the unknown beds east of the driver seat west of a left opening west of the left openings
+The off unknown car west of a left opening west of the left openings west of the unknown beds east of the driver seat
+Off unknown cars west of the unknown beds east of driver seats west of a left opening west of the left openings
+Off unknown cars west of a left opening west of the left openings west of the unknown beds east of driver seats
+Unknown off cars west of an unknown bed east of the driver seats west of the left openings west of the left openings
+Unknown off cars west of the left openings west of the left openings west of an unknown bed east of the driver seats
+Unknown off cars west of the unknown bed east of the driver seat west of the left openings west of the left opening
+Unknown off cars west of the left openings west of the left opening west of the unknown bed east of the driver seat
+The off unknown car west of the unknown beds east of a driver seat west of the left openings west of the left opening
+The off unknown car west of the left openings west of the left opening west of the unknown beds east of a driver seat
+The off unknown car west of the unknown beds east of the driver seat west of the left openings west of a left opening
+The off unknown car west of the left openings west of a left opening west of the unknown beds east of the driver seat
+Off unknown cars west of the unknown beds east of driver seats west of the left openings west of a left opening
+Off unknown cars west of the left openings west of a left opening west of the unknown beds east of driver seats
+The unknown off cars west of the left openings west of the left openings west of the unknown beds east of the driver seats.
+The unknown off cars west of the unknown beds east of the driver seats west of the left openings west of the left openings.
+Off unknown cars west of the unknown bed east of the driver seat west of the left openings west of the left openings.
+Off unknown cars west of the left openings west of the left opening west of the unknown bed east of the driver seats.
+Off unknown cars west of the unknown beds east of a driver seat west of the left opening west of the left opening.
+Off unknown cars west of the unknown beds east of the driver seat west of the left opening west of a left opening.
+Off unknown cars west of the left opening west of a left opening west of the unknown beds east of the driver seat.
+Off unknown cars west of the left opening west of the left opening west of the unknown beds east of a driver seat.
+Off unknown cars west of the left openings west of the left opening west of an unknown bed east of the driver seat
+Off unknown cars west of an unknown bed east of the driver seat west of the left openings west of the left opening
+Unknown off cars west of the unknown beds east of a driver seat west of a left opening west of the left openings.
+Unknown off cars west of a left opening west of a left opening west of the unknown beds east of the driver seats.
+Off unknown cars west of a left opening west of the left openings west of unknown beds east of the driver seat
+Off unknown cars west of unknown beds east of the driver seats west of a left opening west of the left opening
+Off unknown cars west of a left opening west of the left opening west of unknown beds east of the driver seats
+Off unknown cars west of unknown beds east of the driver seat west of a left opening west of the left openings
+Unknown off cars west of the left openings west of the left opening west of the unknown beds east of driver seats
+Unknown off cars west of the unknown beds east of driver seats west of the left openings west of the left opening
+Off unknown cars west of the left openings west of the left opening west of unknown beds east of a driver seat
+Off unknown cars west of unknown beds east of a driver seat west of the left openings west of the left opening
+Off unknown cars west of the left openings west of a left opening west of unknown beds east of the driver seat
+Off unknown cars west of unknown beds east of the driver seat west of the left openings west of a left opening
+An unknown off car west of the unknown beds east of the driver seat west of the left openings west of the left opening
+An unknown off car west of the left openings west of the left opening west of the unknown beds east of the driver seat
+Unknown off cars west of the unknown beds east of the driver seat west of the left opening west of the left opening.
+Unknown off cars west of the left opening west of the left opening west of the unknown beds east of the driver seat.
+The unknown off car west of a left opening west of the left openings west of the unknown beds east of the driver seats
+The unknown off car west of the unknown beds east of the driver seats west of a left opening west of the left openings
+The off unknown car west of the left openings west of the left opening west of the unknown beds east of the driver seats.
+The off unknown car west of the unknown beds east of the driver seat west of the left openings west of the left openings.
+Off unknown cars west of the unknown beds east of driver seats west of the left openings west of the left openings.
+Off unknown cars west of the unknown beds east of the driver seats west of the left openings west of left openings
+Off unknown cars west of the left openings west of left openings west of the unknown beds east of the driver seats
+The unknown off car west of the unknown beds east of a driver seat west of the left openings west of the left openings
+The unknown off car west of the left openings west of the left openings west of the unknown beds east of a driver seat
+The unknown off car west of the unknown beds east of the driver seats west of the left openings west of a left opening
+The unknown off car west of the left openings west of a left opening west of the unknown beds east of the driver seats
+Unknown off cars west of unknown beds east of the driver seat west of the left openings west of the left opening
+Unknown off cars west of the left openings west of the left opening west of unknown beds east of the driver seat
+Off unknown cars west of the left openings west of the left opening west of unknown beds east of the driver seats.
+Off unknown cars west of unknown beds east of the driver seat west of the left openings west of the left openings.
+The off unknown cars west of the left openings west of the left openings west of the unknown beds east of the driver seat.
+The off unknown cars west of the unknown beds east of the driver seats west of the left openings west of the left opening.
+An off unknown car west of the left opening west of the left openings west of the unknown beds east of the driver seat
+An off unknown car west of the unknown beds east of the driver seat west of the left opening west of the left openings
+An off unknown car west of the left opening west of the left opening west of the unknown beds east of the driver seats
+An off unknown car west of the unknown beds east of the driver seats west of the left opening west of the left opening
+Off unknown cars west of the unknown beds east of a driver seat west of a left opening west of the left opening.
+Off unknown cars west of the unknown beds east of the driver seat west of a left opening west of a left opening.
+Off unknown cars west of a left opening west of a left opening west of the unknown beds east of the driver seat.
+Off unknown cars west of a left opening west of the left opening west of the unknown beds east of a driver seat.
+The off unknown cars west of the left opening west of the left openings west of the unknown beds east of a driver seat
+The off unknown cars west of the unknown beds east of a driver seat west of the left opening west of the left openings
+The off unknown cars west of the left opening west of a left opening west of the unknown beds east of the driver seats
+The off unknown cars west of the unknown beds east of the driver seats west of the left opening west of a left opening
+Unknown off cars west of the unknown bed east of the driver seats west of the left opening west of the left openings
+Unknown off cars west of the left opening west of the left openings west of the unknown bed east of the driver seats
+The unknown off car west of the left openings west of the left openings west of the unknown beds east of the driver seats.
+The unknown off car west of the unknown beds east of the driver seats west of the left openings west of the left openings.
+Unknown off cars west of the unknown beds east of the driver seat west of a left opening west of the left opening.
+Unknown off cars west of a left opening west of the left opening west of the unknown beds east of the driver seat.
+The unknown off cars west of the left opening west of the left openings west of the unknown beds east of the driver seat
+The unknown off cars west of the unknown beds east of the driver seat west of the left opening west of the left openings
+The unknown off cars west of the left opening west of the left opening west of the unknown beds east of the driver seats
+The unknown off cars west of the unknown beds east of the driver seats west of the left opening west of the left opening
+Off unknown cars west of an unknown bed east of the driver seats west of the left opening west of the left openings
+Off unknown cars west of the left opening west of the left openings west of an unknown bed east of the driver seats
+Off unknown cars west of the unknown bed east of the driver seat west of the left opening west of the left opening
+Off unknown cars west of the left opening west of the left opening west of the unknown bed east of the driver seat
+The off unknown cars west of the unknown beds east of the driver seats west of the left opening west of the left openings.
+The off unknown cars west of the left opening west of the left openings west of the unknown beds east of the driver seats.
+An unknown off car west of the left opening west of the left openings west of the unknown beds east of the driver seats
+An unknown off car west of the unknown beds east of the driver seats west of the left opening west of the left openings
+The off unknown car west of the left opening west of the left opening west of the unknown beds east of the driver seat
+The off unknown car west of the unknown beds east of the driver seat west of the left opening west of the left opening
+Off unknown cars west of the left opening west of the left opening west of the unknown beds east of driver seats
+Off unknown cars west of the unknown beds east of driver seats west of the left opening west of the left opening
+Unknown off cars west of unknown beds east of the driver seats west of the left opening west of the left openings
+Unknown off cars west of the left opening west of the left openings west of unknown beds east of the driver seats
+An off unknown car west of the unknown beds east of the driver seats west of a left opening west of the left opening
+An off unknown car west of a left opening west of the left opening west of the unknown beds east of the driver seats
+An off unknown car west of the unknown beds east of the driver seat west of a left opening west of the left openings
+An off unknown car west of a left opening west of the left openings west of the unknown beds east of the driver seat
+
+TOTAL RESULTS: 469
+
+Node                     MRS Produced    Reason                 Included in MRS    Reason
+-----------------------  --------------  ---------------------  -----------------  -------------------------
+idBed_7                  True            MRS fragment produced  True               Included in MRS
+idBedroom1LeftOpening_5  True            MRS fragment produced  True               Included in MRS
+idCar_1                  True            MRS fragment produced  True               Included in MRS
+idCloset1LeftOpening_6   True            MRS fragment produced  True               Included in MRS
+idDriverSeat_9           True            MRS fragment produced  True               Included in MRS
+idMom_3                  True            MRS fragment produced  False              Descends from failed edge
+off_2                    True            MRS fragment produced  True               Included in MRS
+true_4                   True            MRS fragment produced  True               Included in MRS
+true_8                   True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason                               Included in MRS    Reason
+-----------------  --------------  -----------------------------------  -----------------  -----------------------------------
+idOwnedBy_2        False           'idOwnedBy' has no value in lexicon  False              'idOwnedBy' has no value in lexicon
+idPowerState_1     True            MRS composed                         True               Included in MRS
+idUnknownObject_3  True            MRS composed                         True               Included in MRS
+idUnknownObject_6  True            MRS composed                         True               Included in MRS
+isEastOf_7         True            MRS composed                         True               Included in MRS
+isWestOf_4         True            MRS composed                         True               Included in MRS
+isWestOf_5         True            MRS composed                         True               Included in MRS
+isWestOf_8         True            MRS composed                         True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             9        9    1
+Nodes              Included             8        9    0.888889
+Edges              Produced             7        8    0.875
+Edges              Included             7        8    0.875

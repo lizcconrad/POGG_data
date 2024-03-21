@@ -1,0 +1,104 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idBackyardDoor1Key_subgraph.dot
+[ TOP: h1459
+  INDEX: e1456
+  RELS: < [ unknown LBL: h1458 ARG: x1452 ARG0: e1456 ]
+          [ def_udef_a_q LBL: h1455 ARG0: x1452 RSTR: h1453 BODY: h1454 ]
+          [ loc_nonsp LBL: h1409 ARG0: i1448 ARG1: x1452 ARG2: x1442 ]
+          [ _blue_a_1 LBL: h1409 ARG0: i1407 ARG1: x1452 ]
+          [ _key_n_1 LBL: h1409 ARG0: x1452 ]
+          [ def_implicit_q LBL: h1447 ARG0: x1442 RSTR: h1445 BODY: h1446 ]
+          [ _west_a_1 LBL: h1437 ARG0: i1434 ARG1: x1442 ARG2: x1414 ]
+          [ def_udef_a_q LBL: h1441 ARG0: x1414 RSTR: h1439 BODY: h1440 ]
+          [ compound LBL: h1415 ARG0: e1423 ARG1: x1414 ARG2: x1419 ]
+          [ udef_q LBL: h1422 ARG0: x1419 RSTR: h1420 BODY: h1421 ]
+          [ _driver_n_of LBL: h1418 ARG0: x1419 ARG1: i1417 ]
+          [ _seat_n_1 LBL: h1415 ARG0: x1414 ]
+          [ place_n LBL: h1437 ARG0: x1442 ] >
+  HCONS: < h1420 qeq h1418 h1439 qeq h1415 h1445 qeq h1437 h1453 qeq h1409 h1459 qeq h1458 > ]
+GENERATED RESULTS ... 
+Blue keys west of the driver seats
+The blue keys west of the driver seats
+A blue key west of the driver seats
+The blue key west of the driver seats
+Blue keys west of the driver seat
+The blue keys west of the driver seat
+A blue key west of the driver seat
+The blue key west of the driver seat
+Blue keys west of a driver seat
+Blue keys west of the driver seats.
+The blue keys west of a driver seat
+The blue keys west of the driver seats.
+A blue key west of a driver seat
+The blue key west of a driver seat
+A blue key west of the driver seats.
+The blue key west of the driver seats.
+Blue keys west of the driver seat.
+The blue keys west of the driver seat.
+A blue key west of the driver seat.
+The blue key west of the driver seat.
+Blue keys west of a driver seat.
+The blue keys west of a driver seat.
+Blue keys west of driver seats
+Blue key west of the driver seats
+A blue key west of a driver seat.
+The blue key west of a driver seat.
+The blue keys west of driver seats
+A blue key west of driver seats
+The blue key west of driver seats
+Blue key west of the driver seat
+Blue keys west of driver seats.
+The blue keys, west of the driver seats
+The blue keys west of driver seats.
+Blue keys, west of the driver seats
+A blue key west of driver seats.
+The blue key west of driver seats.
+The blue key, west of the driver seats
+Blue key west of a driver seat
+The blue keys, west of the driver seat
+Blue key west of the driver seats.
+Blue keys, west of the driver seat
+The blue key, west of the driver seat
+Blue key, west of the driver seats
+A blue key, west of the driver seats
+Blue key, west of the driver seat
+The blue keys, west of a driver seat
+Blue keys, west of a driver seat
+Blue key west of the driver seat.
+A blue key, west of the driver seat
+The blue key, west of a driver seat
+Blue key, west of a driver seat
+Blue key west of a driver seat.
+A blue key, west of a driver seat
+Blue key west of driver seats
+Blue key west of driver seats.
+The blue keys, west of driver seats
+Blue keys, west of driver seats
+The blue key, west of driver seats
+Blue key, west of driver seats
+A blue key, west of driver seats
+
+TOTAL RESULTS: 60
+
+Node                  MRS Produced    Reason                 Included in MRS    Reason
+--------------------  --------------  ---------------------  -----------------  -------------------------
+blue_2                True            MRS fragment produced  True               Included in MRS
+idBackyardDoor1Key_1  True            MRS fragment produced  True               Included in MRS
+idDriverSeat_4        True            MRS fragment produced  True               Included in MRS
+idDriver_5            True            MRS fragment produced  False              Descends from failed edge
+true_3                True            MRS fragment produced  False              Descends from failed edge
+yes_6                 True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idColor_1          True            MRS composed                               True               Included in MRS
+idImmovable_4      False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idOwnedBy_3        False           'idOwnedBy' has no value in lexicon        False              'idOwnedBy' has no value in lexicon
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isWestOf_5         True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        6         1
+Nodes              Included             3        6         0.5
+Edges              Produced             2        5         0.4
+Edges              Included             2        5         0.4

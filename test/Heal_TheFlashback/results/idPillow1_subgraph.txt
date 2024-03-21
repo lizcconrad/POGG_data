@@ -1,0 +1,50 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idPillow1_subgraph.dot
+[ TOP: h2512
+  INDEX: e2509
+  RELS: < [ unknown LBL: h2511 ARG: x2505 ARG0: e2509 ]
+          [ def_udef_a_q LBL: h2508 ARG0: x2505 RSTR: h2506 BODY: h2507 ]
+          [ _dirty_a_1 LBL: h2501 ARG0: e2502 ARG1: x2505 ]
+          [ _white_a_1 LBL: h2501 ARG0: i2499 ARG1: x2505 ]
+          [ _pillow_n_1 LBL: h2501 ARG0: x2505 ] >
+  HCONS: < h2506 qeq h2501 h2512 qeq h2511 > ]
+GENERATED RESULTS ... 
+The dirty white pillows
+Dirty white pillows
+The dirty white pillow
+The white dirty pillow
+A dirty white pillow
+A white dirty pillow
+The white dirty pillows
+White dirty pillows
+The dirty white pillows.
+Dirty white pillows.
+The white dirty pillows.
+White dirty pillow
+White dirty pillows.
+The dirty white pillow.
+A dirty white pillow.
+Dirty white pillow
+The white dirty pillow.
+A white dirty pillow.
+Dirty white pillow.
+White dirty pillow.
+
+TOTAL RESULTS: 20
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  ---------------
+dirty_3     True            MRS fragment produced  True               Included in MRS
+idPillow_1  True            MRS fragment produced  True               Included in MRS
+white_2     True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason        Included in MRS    Reason
+--------------  --------------  ------------  -----------------  ---------------
+idColor_1       True            MRS composed  True               Included in MRS
+idDescriptor_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

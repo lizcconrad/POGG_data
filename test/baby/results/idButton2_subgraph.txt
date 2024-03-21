@@ -1,0 +1,101 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idButton2_subgraph.dot
+[ TOP: h3139
+  INDEX: e3136
+  RELS: < [ unknown LBL: h3138 ARG: x3132 ARG0: e3136 ]
+          [ def_udef_a_q LBL: h3135 ARG0: x3132 RSTR: h3133 BODY: h3134 ]
+          [ loc_nonsp LBL: h3092 ARG0: i3128 ARG1: x3132 ARG2: x3124 ]
+          [ _un-_a_neg LBL: h3092 ARG0: i3090 ARG1: e3091 ]
+          [ _know_v_1 LBL: h3092 ARG0: e3091 ARG1: u3094 ARG2: x3132 ]
+          [ _button_n_1 LBL: h3092 ARG0: x3132 ]
+          [ def_implicit_q LBL: h3127 ARG0: x3124 RSTR: h3125 BODY: h3126 ]
+          [ _east_a_1 LBL: h3123 ARG0: i3114 ARG1: x3124 ARG2: x3118 ]
+          [ def_udef_a_q LBL: h3121 ARG0: x3118 RSTR: h3119 BODY: h3120 ]
+          [ compound LBL: h3102 ARG0: e3110 ARG1: x3118 ARG2: x3103 ]
+          [ udef_q LBL: h3109 ARG0: x3103 RSTR: h3107 BODY: h3108 ]
+          [ _left_n_of LBL: h3105 ARG0: x3103 ARG1: i3104 ]
+          [ _opening_n_1 LBL: h3102 ARG0: x3118 ]
+          [ place_n LBL: h3123 ARG0: x3124 ] >
+  HCONS: < h3107 qeq h3105 h3119 qeq h3102 h3125 qeq h3123 h3133 qeq h3092 h3139 qeq h3138 > ]
+GENERATED RESULTS ... 
+The unknown buttons east of the left openings
+The unknown buttons east of the left opening
+Unknown buttons east of the left openings
+The unknown buttons east of a left opening
+The unknown buttons east of the left openings.
+Unknown buttons east of the left opening
+Unknown buttons east of a left opening
+The unknown buttons east of the left opening.
+Unknown buttons east of the left openings.
+The unknown button east of the left openings
+An unknown button east of the left openings
+The unknown button east of the left opening
+The unknown buttons east of a left opening.
+An unknown button east of the left opening
+Unknown buttons east of the left opening.
+The unknown button east of a left opening
+The unknown button east of the left openings.
+An unknown button east of a left opening
+Unknown button east of the left openings
+An unknown button east of the left openings.
+Unknown buttons east of a left opening.
+Unknown button east of the left opening
+The unknown button east of the left opening.
+The unknown buttons east of left openings
+An unknown button east of the left opening.
+Unknown button east of a left opening
+Unknown button east of the left openings.
+The unknown buttons east of left openings.
+The unknown button east of a left opening.
+Unknown buttons east of left openings
+An unknown button east of a left opening.
+Unknown button east of the left opening.
+Unknown buttons east of left openings.
+The unknown buttons, east of the left openings
+The unknown button, east of the left openings
+Unknown buttons, east of the left openings
+Unknown button east of a left opening.
+The unknown button east of left openings
+The unknown buttons, east of the left opening
+The unknown button, east of the left opening
+An unknown button east of left openings
+Unknown button, east of the left openings
+Unknown buttons, east of the left opening
+An unknown button, east of the left openings
+The unknown button east of left openings.
+Unknown button, east of the left opening
+An unknown button, east of the left opening
+The unknown buttons, east of a left opening
+An unknown button east of left openings.
+The unknown button, east of a left opening
+Unknown buttons, east of a left opening
+Unknown button east of left openings
+Unknown button, east of a left opening
+An unknown button, east of a left opening
+Unknown button east of left openings.
+The unknown buttons, east of left openings
+The unknown button, east of left openings
+Unknown buttons, east of left openings
+Unknown button, east of left openings
+An unknown button, east of left openings
+
+TOTAL RESULTS: 60
+
+Node                        MRS Produced    Reason                           Included in MRS    Reason
+--------------------------  --------------  -------------------------------  -----------------  -------------------------------
+2_2                         False           '2' has no value in the lexicon  False              '2' has no value in the lexicon
+idButton_1                  True            MRS fragment produced            True               Included in MRS
+idLivingRoom1LeftOpening_4  True            MRS fragment produced            True               Included in MRS
+true_3                      True            MRS fragment produced            True               Included in MRS
+
+Edge               MRS Composed    Reason                  Included in MRS    Reason
+-----------------  --------------  ----------------------  -----------------  ----------------------
+idOrdinality_1     False           Inbound to failed node  False              Inbound to failed node
+idUnknownObject_2  True            MRS composed            True               Included in MRS
+isEastOf_3         True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        4    0.75
+Nodes              Included             3        4    0.75
+Edges              Produced             2        3    0.666667
+Edges              Included             2        3    0.666667

@@ -1,0 +1,170 @@
+EVALUATION SUMMARY
+
+  Graphs Generated From    Total Graphs    Graph Coverage
+-----------------------  --------------  ----------------
+                     13              16            0.8125
+
+Graph Name                    Results  Reason
+--------------------------  ---------  ----------------------
+idBottle1_subgraph               1954  Successfully generated
+idBranch1_subgraph               2183  Successfully generated
+idCave1_subgraph                   60  Successfully generated
+idClearing1_subgraph              500  Successfully generated
+idGlowingArea1_subgraph           624  Successfully generated
+idGlowingFlower1_subgraph          35  Successfully generated
+idGlowingGrass1_subgraph         2572  Successfully generated
+idGrass1_subgraph                 864  Successfully generated
+idPebble1_subgraph                700  Successfully generated
+idPlayerBackside_subgraph         800  Successfully generated
+idPlayerLeftHand_subgraph           0  Graph contains cycles
+idPlayerRightHand_subgraph         96  Successfully generated
+idPlayer_subgraph                2000  Successfully generated
+idRockPile1_subgraph             1206  Successfully generated
+idRockyArea1_subgraph               0  Graph contains cycles
+idTheTrees1_subgraph                0  Graph contains cycles
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced            70       73    0.958904
+Nodes              Included            61       73    0.835616
+Edges              Produced            48       60    0.8
+Edges              Included            48       60    0.8
+
+Node                                            MRS Produced    Reason                                     Included in MRS    Reason
+----------------------------------------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idBottle1_subgraph_broken_2                     True            MRS fragment produced                      True               Included in MRS
+idBottle1_subgraph_brown_4                      True            MRS fragment produced                      True               Included in MRS
+idBottle1_subgraph_bumpy_9                      True            MRS fragment produced                      True               Included in MRS
+idBottle1_subgraph_false_6                      True            MRS fragment produced                      False              Descends from failed edge
+idBottle1_subgraph_idBottle_1                   True            MRS fragment produced                      True               Included in MRS
+idBottle1_subgraph_idPlayer_5                   True            MRS fragment produced                      True               Included in MRS
+idBottle1_subgraph_idRockPile_7                 True            MRS fragment produced                      True               Included in MRS
+idBottle1_subgraph_sharp_3                      True            MRS fragment produced                      True               Included in MRS
+idBottle1_subgraph_yes_8                        True            MRS fragment produced                      False              Descends from failed edge
+idBranch1_subgraph_brown_2                      True            MRS fragment produced                      True               Included in MRS
+idBranch1_subgraph_glowing_5                    True            MRS fragment produced                      True               Included in MRS
+idBranch1_subgraph_idBranch_1                   True            MRS fragment produced                      True               Included in MRS
+idBranch1_subgraph_idGlowingGrass_3             True            MRS fragment produced                      True               Included in MRS
+idBranch1_subgraph_idPlayerBackside_6           True            MRS fragment produced                      True               Included in MRS
+idBranch1_subgraph_yes_4                        True            MRS fragment produced                      False              Descends from failed edge
+idCave1_subgraph_dark_2                         True            MRS fragment produced                      True               Included in MRS
+idCave1_subgraph_grassy_4                       True            MRS fragment produced                      True               Included in MRS
+idCave1_subgraph_idCave_1                       True            MRS fragment produced                      True               Included in MRS
+idCave1_subgraph_idClearing_3                   True            MRS fragment produced                      True               Included in MRS
+idClearing1_subgraph_grassy_2                   True            MRS fragment produced                      True               Included in MRS
+idClearing1_subgraph_idClearing_1               True            MRS fragment produced                      True               Included in MRS
+idClearing1_subgraph_idGlowingGrass_3           True            MRS fragment produced                      True               Included in MRS
+idClearing1_subgraph_idPlayer_6                 True            MRS fragment produced                      True               Included in MRS
+idClearing1_subgraph_uncountable_5              False           'uncountable' has no value in the lexicon  False              'uncountable' has no value in the lexicon
+idClearing1_subgraph_yes_4                      True            MRS fragment produced                      False              Descends from failed edge
+idGlowingArea1_subgraph_glowing_2               True            MRS fragment produced                      True               Included in MRS
+idGlowingArea1_subgraph_idGlowingArea_1         True            MRS fragment produced                      True               Included in MRS
+idGlowingArea1_subgraph_idPlayerBackside_3      True            MRS fragment produced                      True               Included in MRS
+idGlowingFlower1_subgraph_glowing_2             True            MRS fragment produced                      True               Included in MRS
+idGlowingFlower1_subgraph_green_3               True            MRS fragment produced                      True               Included in MRS
+idGlowingFlower1_subgraph_idGlowingFlower_1     True            MRS fragment produced                      True               Included in MRS
+idGlowingFlower1_subgraph_true_4                True            MRS fragment produced                      False              Descends from failed edge
+idGlowingGrass1_subgraph_glowing_6              True            MRS fragment produced                      True               Included in MRS
+idGlowingGrass1_subgraph_green_3                True            MRS fragment produced                      True               Included in MRS
+idGlowingGrass1_subgraph_idGlowingArea_5        True            MRS fragment produced                      True               Included in MRS
+idGlowingGrass1_subgraph_idGlowingGrass_1       True            MRS fragment produced                      True               Included in MRS
+idGlowingGrass1_subgraph_idPlayerLeftHand_7     True            MRS fragment produced                      True               Included in MRS
+idGlowingGrass1_subgraph_uncountable_2          False           'uncountable' has no value in the lexicon  False              'uncountable' has no value in the lexicon
+idGlowingGrass1_subgraph_yes_4                  True            MRS fragment produced                      False              Descends from failed edge
+idGrass1_subgraph_green_3                       True            MRS fragment produced                      True               Included in MRS
+idGrass1_subgraph_grey_6                        True            MRS fragment produced                      True               Included in MRS
+idGrass1_subgraph_idGrass_1                     True            MRS fragment produced                      True               Included in MRS
+idGrass1_subgraph_idRockPile_5                  True            MRS fragment produced                      True               Included in MRS
+idGrass1_subgraph_tall_2                        True            MRS fragment produced                      True               Included in MRS
+idGrass1_subgraph_uncountable_4                 False           'uncountable' has no value in the lexicon  False              'uncountable' has no value in the lexicon
+idGrass1_subgraph_yes_7                         True            MRS fragment produced                      False              Descends from failed edge
+idPebble1_subgraph_glowing_5                    True            MRS fragment produced                      True               Included in MRS
+idPebble1_subgraph_grey_2                       True            MRS fragment produced                      True               Included in MRS
+idPebble1_subgraph_idGlowingArea_4              True            MRS fragment produced                      True               Included in MRS
+idPebble1_subgraph_idPebble_1                   True            MRS fragment produced                      True               Included in MRS
+idPebble1_subgraph_smooth_3                     True            MRS fragment produced                      True               Included in MRS
+idPlayerBackside_subgraph_dark_3                True            MRS fragment produced                      True               Included in MRS
+idPlayerBackside_subgraph_idCave_2              True            MRS fragment produced                      True               Included in MRS
+idPlayerBackside_subgraph_idPlayerBackside_1    True            MRS fragment produced                      True               Included in MRS
+idPlayerBackside_subgraph_idRockyArea_4         True            MRS fragment produced                      True               Included in MRS
+idPlayerRightHand_subgraph_idPlayerRightHand_1  True            MRS fragment produced                      True               Included in MRS
+idPlayerRightHand_subgraph_right_2              True            MRS fragment produced                      True               Included in MRS
+idPlayer_subgraph_brown_7                       True            MRS fragment produced                      True               Included in MRS
+idPlayer_subgraph_false_2                       True            MRS fragment produced                      False              Descends from failed edge
+idPlayer_subgraph_idBottle_5                    True            MRS fragment produced                      True               Included in MRS
+idPlayer_subgraph_idPlayer_1                    True            MRS fragment produced                      True               Included in MRS
+idPlayer_subgraph_idRockyArea_3                 True            MRS fragment produced                      True               Included in MRS
+idPlayer_subgraph_rocky_4                       True            MRS fragment produced                      True               Included in MRS
+idPlayer_subgraph_shiny_6                       True            MRS fragment produced                      True               Included in MRS
+idRockPile1_subgraph_bumpy_3                    True            MRS fragment produced                      True               Included in MRS
+idRockPile1_subgraph_grassy_9                   True            MRS fragment produced                      True               Included in MRS
+idRockPile1_subgraph_grey_2                     True            MRS fragment produced                      True               Included in MRS
+idRockPile1_subgraph_idCave_7                   True            MRS fragment produced                      True               Included in MRS
+idRockPile1_subgraph_idClearing_8               True            MRS fragment produced                      True               Included in MRS
+idRockPile1_subgraph_idRockPile_1               True            MRS fragment produced                      True               Included in MRS
+idRockPile1_subgraph_idRockyArea_5              True            MRS fragment produced                      True               Included in MRS
+idRockPile1_subgraph_rocky_6                    True            MRS fragment produced                      True               Included in MRS
+idRockPile1_subgraph_yes_4                      True            MRS fragment produced                      False              Descends from failed edge
+
+Edge                                         MRS Composed    Reason                                     Included in MRS    Reason
+-------------------------------------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idBottle1_subgraph_idBottleFound_4           False           'idBottleFound' has no value in lexicon    False              'idBottleFound' has no value in lexicon
+idBottle1_subgraph_idColor_3                 True            MRS composed                               True               Included in MRS
+idBottle1_subgraph_idDescriptor_2            True            MRS composed                               True               Included in MRS
+idBottle1_subgraph_idDescriptor_7            True            MRS composed                               True               Included in MRS
+idBottle1_subgraph_idImmovable_6             False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idBottle1_subgraph_idIntegrity_1             True            MRS composed                               True               Included in MRS
+idBottle1_subgraph_isNear_8                  True            MRS composed                               True               Included in MRS
+idBottle1_subgraph_isWestOf_5                True            MRS composed                               True               Included in MRS
+idBranch1_subgraph_idColor_1                 True            MRS composed                               True               Included in MRS
+idBranch1_subgraph_idDescriptor_3            True            MRS composed                               True               Included in MRS
+idBranch1_subgraph_idImmovable_2             False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idBranch1_subgraph_isNorthOf_5               True            MRS composed                               True               Included in MRS
+idBranch1_subgraph_isSouthOf_4               True            MRS composed                               True               Included in MRS
+idCave1_subgraph_idDescriptor_2              True            MRS composed                               True               Included in MRS
+idCave1_subgraph_idTint_1                    True            MRS composed                               True               Included in MRS
+idCave1_subgraph_isNorthOf_3                 True            MRS composed                               True               Included in MRS
+idClearing1_subgraph_idArticleType_3         False           Inbound to failed node                     False              Inbound to failed node
+idClearing1_subgraph_idDescriptor_1          True            MRS composed                               True               Included in MRS
+idClearing1_subgraph_idImmovable_2           False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idClearing1_subgraph_isNorthOf_5             True            MRS composed                               True               Included in MRS
+idClearing1_subgraph_isSouthOf_4             True            MRS composed                               True               Included in MRS
+idGlowingArea1_subgraph_idDescriptor_1       True            MRS composed                               True               Included in MRS
+idGlowingArea1_subgraph_isSouthOf_2          True            MRS composed                               True               Included in MRS
+idGlowingFlower1_subgraph_idColor_2          True            MRS composed                               True               Included in MRS
+idGlowingFlower1_subgraph_idDescriptor_1     True            MRS composed                               True               Included in MRS
+idGlowingFlower1_subgraph_idUnknownObject_3  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+idGlowingGrass1_subgraph_idArticleType_1     False           Inbound to failed node                     False              Inbound to failed node
+idGlowingGrass1_subgraph_idColor_2           True            MRS composed                               True               Included in MRS
+idGlowingGrass1_subgraph_idDescriptor_4      True            MRS composed                               True               Included in MRS
+idGlowingGrass1_subgraph_idImmovable_3       False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idGlowingGrass1_subgraph_isNear_6            True            MRS composed                               True               Included in MRS
+idGlowingGrass1_subgraph_isSouthOf_5         True            MRS composed                               True               Included in MRS
+idGrass1_subgraph_idArticleType_3            False           Inbound to failed node                     False              Inbound to failed node
+idGrass1_subgraph_idColor_2                  True            MRS composed                               True               Included in MRS
+idGrass1_subgraph_idColor_4                  True            MRS composed                               True               Included in MRS
+idGrass1_subgraph_idHeight_1                 True            MRS composed                               True               Included in MRS
+idGrass1_subgraph_idImmovable_5              False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idGrass1_subgraph_isEastOf_6                 True            MRS composed                               True               Included in MRS
+idPebble1_subgraph_idColor_1                 True            MRS composed                               True               Included in MRS
+idPebble1_subgraph_idDescriptor_2            True            MRS composed                               True               Included in MRS
+idPebble1_subgraph_idDescriptor_3            True            MRS composed                               True               Included in MRS
+idPebble1_subgraph_isWestOf_4                True            MRS composed                               True               Included in MRS
+idPlayerBackside_subgraph_idTint_1           True            MRS composed                               True               Included in MRS
+idPlayerBackside_subgraph_isEastOf_2         True            MRS composed                               True               Included in MRS
+idPlayerBackside_subgraph_isSouthOf_3        True            MRS composed                               True               Included in MRS
+idPlayerRightHand_subgraph_idLocation_1      True            MRS composed                               True               Included in MRS
+idPlayer_subgraph_idBottleFound_1            False           'idBottleFound' has no value in lexicon    False              'idBottleFound' has no value in lexicon
+idPlayer_subgraph_idColor_5                  True            MRS composed                               True               Included in MRS
+idPlayer_subgraph_idDescriptor_2             True            MRS composed                               True               Included in MRS
+idPlayer_subgraph_idDescriptor__4            True            MRS composed                               True               Included in MRS
+idPlayer_subgraph_isEastOf_3                 True            MRS composed                               True               Included in MRS
+idPlayer_subgraph_isEastOf_6                 True            MRS composed                               True               Included in MRS
+idRockPile1_subgraph_idColor_1               True            MRS composed                               True               Included in MRS
+idRockPile1_subgraph_idDescriptor_2          True            MRS composed                               True               Included in MRS
+idRockPile1_subgraph_idDescriptor_4          True            MRS composed                               True               Included in MRS
+idRockPile1_subgraph_idDescriptor_7          True            MRS composed                               True               Included in MRS
+idRockPile1_subgraph_idImmovable_3           False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idRockPile1_subgraph_isNear_6                True            MRS composed                               True               Included in MRS
+idRockPile1_subgraph_isWestOf_5              True            MRS composed                               True               Included in MRS
+idRockPile1_subgraph_isWestOf_8              True            MRS composed                               True               Included in MRS

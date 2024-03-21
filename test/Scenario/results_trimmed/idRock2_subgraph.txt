@@ -1,0 +1,54 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idRock2_subgraph.dot
+[ TOP: h666
+  INDEX: e663
+  RELS: < [ unknown LBL: h665 ARG: x659 ARG0: e663 ]
+          [ def_udef_a_q LBL: h662 ARG0: x659 RSTR: h660 BODY: h661 ]
+          [ _rough_a_1 LBL: h658 ARG0: e656 ARG1: x659 ]
+          [ _red_a_1 LBL: h658 ARG0: i653 ARG1: x659 ]
+          [ _rock_n_1 LBL: h658 ARG0: x659 ] >
+  HCONS: < h660 qeq h658 h666 qeq h665 > ]
+GENERATED RESULTS ... 
+The rough red rocks
+Rough red rocks
+The rough red rock
+Rough red rock
+The red rough rocks
+Red rough rock
+A rough red rock
+The rough red rocks.
+Rough red rocks.
+Red rough rocks
+The red rough rock
+The rough red rock.
+Rough red rock.
+A red rough rock
+The red rough rocks.
+Red rough rocks.
+A rough red rock.
+The red rough rock.
+Red rough rock.
+A red rough rock.
+Rough red rock
+Red rough rock
+Rough red rock.
+Red rough rock.
+
+TOTAL RESULTS: 24
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  ---------------
+idRock_1  True            MRS fragment produced  True               Included in MRS
+red_2     True            MRS fragment produced  True               Included in MRS
+rough_3   True            MRS fragment produced  True               Included in MRS
+
+Edge         MRS Composed    Reason        Included in MRS    Reason
+-----------  --------------  ------------  -----------------  ---------------
+idColor_1    True            MRS composed  True               Included in MRS
+idTexture_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

@@ -1,0 +1,93 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idCavern4_subgraph.dot
+[ TOP: h382
+  INDEX: e379
+  RELS: < [ unknown LBL: h381 ARG: x363 ARG0: e379 ]
+          [ def_udef_a_q LBL: h378 ARG0: x363 RSTR: h376 BODY: h377 ]
+          [ _dark_a_1 LBL: h368 ARG0: e372 ARG1: x363 ]
+          [ _large_a_1 LBL: h368 ARG0: e369 ARG1: x363 ]
+          [ _open_a_to LBL: h368 ARG0: e365 ARG1: x363 ARG2: u367 ]
+          [ _cavern_n_1 LBL: h368 ARG0: x363 ] >
+  HCONS: < h376 qeq h368 h382 qeq h381 > ]
+GENERATED RESULTS ... 
+The dark open large cavern
+The large open dark cavern
+The dark open large caverns
+The large open dark caverns
+A dark open large cavern
+A large open dark cavern
+Dark large open caverns
+Large dark open caverns
+The dark large open caverns
+The large dark open caverns
+Dark open large caverns
+Large open dark caverns
+The dark large open cavern
+The large dark open cavern
+An open large dark cavern
+An open dark large cavern
+Open large dark caverns
+Open dark large caverns
+The dark open large caverns.
+The large open dark caverns.
+Dark large open caverns.
+Large dark open caverns.
+The open large dark cavern
+The open dark large cavern
+A dark large open cavern
+A large dark open cavern
+The open large dark caverns
+The open dark large caverns
+The dark large open caverns.
+The large dark open caverns.
+Dark open large cavern
+Large open dark cavern
+Dark open large caverns.
+Large open dark caverns.
+The dark open large cavern.
+The large open dark cavern.
+A dark open large cavern.
+A large open dark cavern.
+Open large dark cavern
+Open dark large cavern
+Open large dark caverns.
+Open dark large caverns.
+The dark large open cavern.
+The large dark open cavern.
+Large dark open cavern
+Dark large open cavern
+A dark large open cavern.
+A large dark open cavern.
+The open large dark caverns.
+The open dark large caverns.
+An open large dark cavern.
+An open dark large cavern.
+The open large dark cavern.
+The open dark large cavern.
+Large dark open cavern.
+Dark large open cavern.
+Large open dark cavern.
+Dark open large cavern.
+Open large dark cavern.
+Open dark large cavern.
+
+TOTAL RESULTS: 60
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  ---------------
+dark_4      True            MRS fragment produced  True               Included in MRS
+idCavern_1  True            MRS fragment produced  True               Included in MRS
+large_3     True            MRS fragment produced  True               Included in MRS
+open_2      True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idOpenState_1  True            MRS composed  True               Included in MRS
+idSize_2       True            MRS composed  True               Included in MRS
+idTint_3       True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4           1
+Nodes              Included             4        4           1
+Edges              Produced             3        3           1
+Edges              Included             3        3           1

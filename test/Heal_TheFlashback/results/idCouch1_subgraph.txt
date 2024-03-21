@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idCouch1_subgraph.dot
+[ TOP: h2496
+  INDEX: e2493
+  RELS: < [ unknown LBL: h2495 ARG: x2489 ARG0: e2493 ]
+          [ def_udef_a_q LBL: h2492 ARG0: x2489 RSTR: h2490 BODY: h2491 ]
+          [ loc_nonsp LBL: h2432 ARG0: i2485 ARG1: x2489 ARG2: x2479 ]
+          [ _immovable_a_1 LBL: h2432 ARG0: e2430 ARG1: x2489 ]
+          [ _use_v_1 LBL: h2432 ARG0: e2421 ARG1: i2422 ARG2: x2489 ARG3: h2424 ]
+          [ _green_a_2 LBL: h2432 ARG0: i2418 ARG1: x2489 ]
+          [ _couch_n_1 LBL: h2432 ARG0: x2489 ]
+          [ def_implicit_q LBL: h2484 ARG0: x2479 RSTR: h2482 BODY: h2483 ]
+          [ _east_a_1 LBL: h2474 ARG0: i2471 ARG1: x2479 ARG2: x2475 ]
+          [ def_udef_a_q LBL: h2478 ARG0: x2475 RSTR: h2476 BODY: h2477 ]
+          [ loc_nonsp LBL: h2470 ARG0: i2467 ARG1: x2475 ARG2: x2463 ]
+          [ _white_a_1 LBL: h2470 ARG0: i2438 ARG1: x2475 ]
+          [ _sink_n_1 LBL: h2470 ARG0: x2475 ]
+          [ def_implicit_q LBL: h2466 ARG0: x2463 RSTR: h2464 BODY: h2465 ]
+          [ _west_a_1 LBL: h2456 ARG0: i2453 ARG1: x2463 ARG2: x2441 ]
+          [ def_udef_a_q LBL: h2460 ARG0: x2441 RSTR: h2458 BODY: h2459 ]
+          [ compound LBL: h2452 ARG0: e2449 ARG1: x2441 ARG2: x2445 ]
+          [ udef_q LBL: h2448 ARG0: x2445 RSTR: h2446 BODY: h2447 ]
+          [ _living_n_1 LBL: h2444 ARG0: x2445 ]
+          [ _room_n_unit LBL: h2452 ARG0: x2441 ]
+          [ place_n LBL: h2456 ARG0: x2463 ]
+          [ place_n LBL: h2474 ARG0: x2479 ] >
+  HCONS: < h2446 qeq h2444 h2458 qeq h2452 h2464 qeq h2456 h2476 qeq h2470 h2482 qeq h2474 h2490 qeq h2432 h2496 qeq h2495 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node            MRS Produced    Reason                                     Included in MRS    Reason
+--------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+green_2         True            MRS fragment produced                      True               Included in MRS
+idCouch_1       True            MRS fragment produced                      True               Included in MRS
+idLivingroom_8  True            MRS fragment produced                      True               Included in MRS
+idSink_5        True            MRS fragment produced                      True               Included in MRS
+idporcelain_6   False           'idporcelain' has no value in the lexicon  False              'idporcelain' has no value in the lexicon
+used_3          True            MRS fragment produced                      True               Included in MRS
+white_7         True            MRS fragment produced                      True               Included in MRS
+yes_4           True            MRS fragment produced                      True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idColor_1       True            MRS composed            True               Included in MRS
+idColor_5       True            MRS composed            True               Included in MRS
+idDescriptor_2  True            MRS composed            True               Included in MRS
+idDescriptor_4  False           Inbound to failed node  False              Inbound to failed node
+idImmovable_3   True            MRS composed            True               Included in MRS
+isEastOf_7      True            MRS composed            True               Included in MRS
+isWestOf_6      True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7        8    0.875
+Nodes              Included             7        8    0.875
+Edges              Produced             6        7    0.857143
+Edges              Included             6        7    0.857143

@@ -1,0 +1,44 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idCaptainsChair1_subgraph.dot
+[ TOP: h1783
+  INDEX: e1780
+  RELS: < [ unknown LBL: h1782 ARG: x1744 ARG0: e1780 ]
+          [ def_udef_a_q LBL: h1779 ARG0: x1744 RSTR: h1777 BODY: h1778 ]
+          [ loc_nonsp LBL: h1735 ARG0: i1772 ARG1: x1744 ARG2: x1766 ]
+          [ poss LBL: h1735 ARG0: e1743 ARG1: x1744 ARG2: x1739 ]
+          [ _chair_n_1 LBL: h1735 ARG0: x1744 ]
+          [ def_udef_a_q LBL: h1742 ARG0: x1739 RSTR: h1740 BODY: h1741 ]
+          [ _captain_n_of LBL: h1738 ARG0: x1739 ARG1: i1737 ]
+          [ def_implicit_q LBL: h1771 ARG0: x1766 RSTR: h1769 BODY: h1770 ]
+          [ _east_a_1 LBL: h1761 ARG0: i1758 ARG1: x1766 ARG2: x1762 ]
+          [ def_udef_a_q LBL: h1765 ARG0: x1762 RSTR: h1763 BODY: h1764 ]
+          [ _warm_a_1 LBL: h1754 ARG0: e1755 ARG1: x1762 ]
+          [ _coat_n_of LBL: h1754 ARG0: x1762 ARG1: i1753 ]
+          [ place_n LBL: h1761 ARG0: x1766 ] >
+  HCONS: < h1740 qeq h1738 h1763 qeq h1754 h1769 qeq h1761 h1777 qeq h1735 h1783 qeq h1782 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node               MRS Produced    Reason                                 Included in MRS    Reason
+-----------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idCaptain_3        True            MRS fragment produced                  False              Descends from failed edge
+idCaptainsChair_1  True            MRS fragment produced                  True               Included in MRS
+idCoat_4           True            MRS fragment produced                  True               Included in MRS
+idKelly_6          False           'idKelly' has no value in the lexicon  False              'idKelly' has no value in the lexicon
+idleather_2        True            MRS fragment produced                  False              Descends from failed edge
+warm_5             True            MRS fragment produced                  True               Included in MRS
+
+Edge          MRS Composed    Reason                               Included in MRS    Reason
+------------  --------------  -----------------------------------  -----------------  -----------------------------------
+idMaterial_1  False           Semantic functor has no ARG1 hole    False              Semantic functor has no ARG1 hole
+idMaterial_3  True            MRS composed                         True               Included in MRS
+idOwnedBy_2   False           'idOwnedBy' has no value in lexicon  False              'idOwnedBy' has no value in lexicon
+isEastOf_5    True            MRS composed                         True               Included in MRS
+isWestOf_4    False           Inbound to failed node               False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             5        6    0.833333
+Nodes              Included             3        6    0.5
+Edges              Produced             2        5    0.4
+Edges              Included             2        5    0.4

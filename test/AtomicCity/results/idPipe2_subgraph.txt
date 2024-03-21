@@ -1,0 +1,36 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idPipe2_subgraph.dot
+[ TOP: h707
+  INDEX: e704
+  RELS: < [ unknown LBL: h706 ARG: x698 ARG0: e704 ]
+          [ def_udef_a_q LBL: h703 ARG0: x698 RSTR: h701 BODY: h702 ]
+          [ _pipe_n_1 LBL: h699 ARG0: x698 ] >
+  HCONS: < h701 qeq h699 h707 qeq h706 > ]
+GENERATED RESULTS ... 
+Pipe
+The pipes.
+The pipes
+A pipe
+Pipes
+Pipe.
+A pipe.
+The pipe.
+Pipes.
+The pipe
+Pipe.
+Pipe
+
+TOTAL RESULTS: 12
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  ---------------
+idPipe_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

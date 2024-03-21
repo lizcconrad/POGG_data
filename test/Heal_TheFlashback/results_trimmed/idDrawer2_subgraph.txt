@@ -1,0 +1,67 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idDrawer2_subgraph.dot
+[ TOP: h653
+  INDEX: e650
+  RELS: < [ unknown LBL: h652 ARG: x548 ARG0: e650 ]
+          [ def_udef_a_q LBL: h649 ARG0: x548 RSTR: h647 BODY: h648 ]
+          [ loc_nonsp LBL: h645 ARG0: i642 ARG1: x548 ARG2: x629 ]
+          [ loc_nonsp LBL: h645 ARG0: i580 ARG1: x548 ARG2: x574 ]
+          [ _closed_a_1 LBL: h645 ARG0: e554 ARG1: x548 ]
+          [ _drawer_n_of LBL: h645 ARG0: x548 ARG1: i549 ]
+          [ def_implicit_q LBL: h579 ARG0: x574 RSTR: h577 BODY: h578 ]
+          [ _east_a_1 LBL: h575 ARG0: i566 ARG1: x574 ARG2: x570 ]
+          [ def_udef_a_q LBL: h573 ARG0: x570 RSTR: h571 BODY: h572 ]
+          [ _closed_a_1 LBL: h559 ARG0: e563 ARG1: x570 ]
+          [ _drawer_n_of LBL: h559 ARG0: x570 ARG1: i558 ]
+          [ place_n LBL: h575 ARG0: x574 ]
+          [ def_implicit_q LBL: h641 ARG0: x629 RSTR: h639 BODY: h640 ]
+          [ _east_a_1 LBL: h631 ARG0: i628 ARG1: x629 ARG2: x584 ]
+          [ def_udef_a_q LBL: h635 ARG0: x584 RSTR: h633 BODY: h634 ]
+          [ loc_nonsp LBL: h594 ARG0: i624 ARG1: x584 ARG2: x611 ]
+          [ _un-_a_neg LBL: h594 ARG0: i595 ARG1: e596 ]
+          [ _make_v_1 LBL: h594 ARG0: e596 ARG1: i591 ARG2: x584 ARG3: h593 ]
+          [ _bed_n_1 LBL: h594 ARG0: x584 ]
+          [ def_implicit_q LBL: h623 ARG0: x611 RSTR: h621 BODY: h622 ]
+          [ _north_a_1 LBL: h619 ARG0: i610 ARG1: x611 ARG2: x614 ]
+          [ def_udef_a_q LBL: h617 ARG0: x614 RSTR: h615 BODY: h616 ]
+          [ compound LBL: h599 ARG0: e606 ARG1: x614 ARG2: x600 ]
+          [ udef_q LBL: h605 ARG0: x600 RSTR: h603 BODY: h604 ]
+          [ _back_n_1 LBL: h601 ARG0: x600 ]
+          [ _opening_n_1 LBL: h599 ARG0: x614 ]
+          [ place_n LBL: h619 ARG0: x611 ]
+          [ place_n LBL: h631 ARG0: x629 ] >
+  HCONS: < h571 qeq h559 h577 qeq h575 h603 qeq h601 h615 qeq h599 h621 qeq h619 h633 qeq h594 h639 qeq h631 h647 qeq h645 h653 qeq h652 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                      MRS Produced    Reason                 Included in MRS    Reason
+------------------------  --------------  ---------------------  -----------------  -------------------------
+closed_3                  True            MRS fragment produced  True               Included in MRS
+closed_6                  True            MRS fragment produced  True               Included in MRS
+false_2                   True            MRS fragment produced  False              Descends from failed edge
+idBed_7                   True            MRS fragment produced  True               Included in MRS
+idBedroom1BackOpening_10  True            MRS fragment produced  True               Included in MRS
+idDrawer_1                True            MRS fragment produced  True               Included in MRS
+idDrawer_4                True            MRS fragment produced  True               Included in MRS
+no_5                      True            MRS fragment produced  False              Descends from failed edge
+unmade_9                  True            MRS fragment produced  True               Included in MRS
+yes_8                     True            MRS fragment produced  False              Descends from failed edge
+
+Edge            MRS Composed    Reason                                 Included in MRS    Reason
+--------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idDescriptor_7  True            MRS composed                           True               Included in MRS
+idImmovable_1   False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idImmovable_3   False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idImmovable_6   False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idOpenState_2   True            MRS composed                           True               Included in MRS
+idOpenState_4   True            MRS composed                           True               Included in MRS
+isEastOf_5      True            MRS composed                           True               Included in MRS
+isEastOf_9      True            MRS composed                           True               Included in MRS
+isNorthOf_8     True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced            10       10    1
+Nodes              Included             7       10    0.7
+Edges              Produced             6        9    0.666667
+Edges              Included             6        9    0.666667

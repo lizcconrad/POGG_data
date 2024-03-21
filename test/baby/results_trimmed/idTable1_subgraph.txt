@@ -1,0 +1,106 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idTable1_subgraph.dot
+[ TOP: h3258
+  INDEX: e3255
+  RELS: < [ unknown LBL: h3257 ARG: x3251 ARG0: e3255 ]
+          [ def_udef_a_q LBL: h3254 ARG0: x3251 RSTR: h3252 BODY: h3253 ]
+          [ loc_nonsp LBL: h3202 ARG0: i3247 ARG1: x3251 ARG2: x3241 ]
+          [ _modern_a_1 LBL: h3202 ARG0: e3207 ARG1: x3251 ]
+          [ _table_n_1 LBL: h3202 ARG0: x3251 ]
+          [ def_implicit_q LBL: h3246 ARG0: x3241 RSTR: h3244 BODY: h3245 ]
+          [ _west_a_1 LBL: h3242 ARG0: i3233 ARG1: x3241 ARG2: x3212 ]
+          [ def_udef_a_q LBL: h3240 ARG0: x3212 RSTR: h3238 BODY: h3239 ]
+          [ compound LBL: h3213 ARG0: e3221 ARG1: x3212 ARG2: x3214 ]
+          [ udef_q LBL: h3220 ARG0: x3214 RSTR: h3218 BODY: h3219 ]
+          [ _driver_n_of LBL: h3216 ARG0: x3214 ARG1: i3215 ]
+          [ _seat_n_1 LBL: h3213 ARG0: x3212 ]
+          [ place_n LBL: h3242 ARG0: x3241 ] >
+  HCONS: < h3218 qeq h3216 h3238 qeq h3213 h3244 qeq h3242 h3252 qeq h3202 h3258 qeq h3257 > ]
+GENERATED RESULTS ... 
+The modern tables west of the driver seats
+The modern tables west of the driver seat
+A modern table west of the driver seats
+The modern table west of the driver seats
+Modern tables west of the driver seats
+The modern tables west of a driver seat
+The modern tables west of the driver seats.
+A modern table west of the driver seat
+The modern table west of the driver seat
+Modern tables west of the driver seat
+The modern tables west of the driver seat.
+A modern table west of a driver seat
+The modern table west of a driver seat
+A modern table west of the driver seats.
+The modern table west of the driver seats.
+Modern tables west of a driver seat
+Modern tables west of the driver seats.
+Modern table west of the driver seats
+The modern tables west of a driver seat.
+Modern table west of the driver seat
+The modern tables west of driver seats
+A modern table west of the driver seat.
+The modern table west of the driver seat.
+Modern tables west of the driver seat.
+Modern table west of a driver seat
+Modern table west of the driver seats.
+The modern tables west of driver seats.
+A modern table west of a driver seat.
+The modern table west of a driver seat.
+Modern tables west of a driver seat.
+A modern table west of driver seats
+The modern table west of driver seats
+Modern tables west of driver seats
+Modern table west of the driver seat.
+A modern table west of driver seats.
+The modern table west of driver seats.
+Modern tables west of driver seats.
+Modern table west of a driver seat.
+Modern table west of driver seats
+The modern tables, west of the driver seats
+The modern table, west of the driver seats
+Modern tables, west of the driver seats
+The modern tables, west of the driver seat
+The modern table, west of the driver seat
+Modern table, west of the driver seats
+Modern table west of driver seats.
+Modern tables, west of the driver seat
+A modern table, west of the driver seats
+Modern table, west of the driver seat
+The modern tables, west of a driver seat
+A modern table, west of the driver seat
+The modern table, west of a driver seat
+Modern tables, west of a driver seat
+Modern table, west of a driver seat
+A modern table, west of a driver seat
+The modern tables, west of driver seats
+The modern table, west of driver seats
+Modern tables, west of driver seats
+Modern table, west of driver seats
+A modern table, west of driver seats
+
+TOTAL RESULTS: 60
+
+Node            MRS Produced    Reason                 Included in MRS    Reason
+--------------  --------------  ---------------------  -----------------  -------------------------
+idDriverSeat_5  True            MRS fragment produced  True               Included in MRS
+idTable_1       True            MRS fragment produced  True               Included in MRS
+idmetal_4       True            MRS fragment produced  False              Descends from failed edge
+modern_3        True            MRS fragment produced  True               Included in MRS
+true_6          True            MRS fragment produced  False              Descends from failed edge
+yes_2           True            MRS fragment produced  False              Descends from failed edge
+yes_7           True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idImmovable_1      False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idImmovable_5      False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idMaterial_3       False           Semantic functor has no ARG1 hole          False              Semantic functor has no ARG1 hole
+idShape_2          True            MRS composed                               True               Included in MRS
+idUnknownObject_4  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isWestOf_6         True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7        7    1
+Nodes              Included             3        7    0.428571
+Edges              Produced             2        6    0.333333
+Edges              Included             2        6    0.333333

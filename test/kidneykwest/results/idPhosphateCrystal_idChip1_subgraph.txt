@@ -1,0 +1,94 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idPhosphateCrystal_idChip1_subgraph.dot
+[ TOP: h4567
+  INDEX: e4564
+  RELS: < [ unknown LBL: h4566 ARG: x4537 ARG0: e4564 ]
+          [ def_udef_a_q LBL: h4563 ARG0: x4537 RSTR: h4561 BODY: h4562 ]
+          [ _un-_a_neg LBL: h4541 ARG0: i4549 ARG1: e4550 ]
+          [ _know_v_1 LBL: h4541 ARG0: e4550 ARG1: u4553 ARG2: x4537 ]
+          [ _shiny_a_1 LBL: h4541 ARG0: e4542 ARG1: x4537 ]
+          [ _blue_a_1 LBL: h4541 ARG0: i4539 ARG1: x4537 ]
+          [ _chip_n_1 LBL: h4541 ARG0: x4537 ] >
+  HCONS: < h4561 qeq h4541 h4567 qeq h4566 > ]
+GENERATED RESULTS ... 
+The shiny blue unknown chips
+Shiny blue unknown chips
+Blue shiny unknown chips
+The shiny blue unknown chip
+The blue shiny unknown chips
+A shiny blue unknown chip
+Unknown shiny blue chips
+The shiny unknown blue chips
+An unknown blue shiny chip
+The unknown blue shiny chip
+The unknown shiny blue chips
+The unknown blue shiny chips
+Shiny unknown blue chips
+The shiny blue unknown chips.
+The blue shiny unknown chip
+Unknown blue shiny chips
+Shiny blue unknown chips.
+A blue shiny unknown chip
+The blue unknown shiny chip
+Blue shiny unknown chips.
+The shiny unknown blue chip
+The blue unknown shiny chips
+A blue unknown shiny chip
+A shiny unknown blue chip
+An unknown shiny blue chip
+The unknown shiny blue chip
+Blue unknown shiny chips
+The shiny blue unknown chip.
+Unknown shiny blue chips.
+The shiny unknown blue chips.
+The blue shiny unknown chips.
+Shiny blue unknown chip
+A shiny blue unknown chip.
+The unknown blue shiny chips.
+Blue shiny unknown chip
+The unknown shiny blue chips.
+Shiny unknown blue chips.
+Unknown blue shiny chips.
+Unknown blue shiny chip
+The shiny unknown blue chip.
+The blue unknown shiny chips.
+The blue shiny unknown chip.
+An unknown blue shiny chip.
+The unknown blue shiny chip.
+Blue unknown shiny chips.
+A shiny unknown blue chip.
+An unknown shiny blue chip.
+A blue shiny unknown chip.
+Blue unknown shiny chip
+The unknown shiny blue chip.
+Unknown shiny blue chip
+Shiny unknown blue chip
+The blue unknown shiny chip.
+Shiny blue unknown chip.
+A blue unknown shiny chip.
+Blue shiny unknown chip.
+Unknown shiny blue chip.
+Shiny unknown blue chip.
+Unknown blue shiny chip.
+Blue unknown shiny chip.
+
+TOTAL RESULTS: 60
+
+Node                         MRS Produced    Reason                 Included in MRS    Reason
+---------------------------  --------------  ---------------------  -----------------  ---------------
+blue_2                       True            MRS fragment produced  True               Included in MRS
+idPhosphateCrystal_idChip_1  True            MRS fragment produced  True               Included in MRS
+shiny_3                      True            MRS fragment produced  True               Included in MRS
+true_4                       True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idColor_1          True            MRS composed  True               Included in MRS
+idTrait_2          True            MRS composed  True               Included in MRS
+idUnknownObject_3  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4           1
+Nodes              Included             4        4           1
+Edges              Produced             3        3           1
+Edges              Included             3        3           1

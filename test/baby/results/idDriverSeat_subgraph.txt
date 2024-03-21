@@ -1,0 +1,96 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idDriverSeat_subgraph.dot
+[ TOP: h1357
+  INDEX: e1354
+  RELS: < [ unknown LBL: h1356 ARG: x1309 ARG0: e1354 ]
+          [ def_udef_a_q LBL: h1353 ARG0: x1309 RSTR: h1351 BODY: h1352 ]
+          [ _un-_a_neg LBL: h1341 ARG0: i1339 ARG1: e1342 ]
+          [ _know_v_1 LBL: h1341 ARG0: e1342 ARG1: u1343 ARG2: x1309 ]
+          [ _immovable_a_1 LBL: h1341 ARG0: e1329 ARG1: x1309 ]
+          [ compound LBL: h1341 ARG0: e1318 ARG1: x1309 ARG2: x1311 ]
+          [ udef_q LBL: h1317 ARG0: x1311 RSTR: h1315 BODY: h1316 ]
+          [ _driver_n_of LBL: h1313 ARG0: x1311 ARG1: i1312 ]
+          [ _seat_n_1 LBL: h1341 ARG0: x1309 ] >
+  HCONS: < h1315 qeq h1313 h1351 qeq h1341 h1357 qeq h1356 > ]
+GENERATED RESULTS ... 
+An immovable unknown driver seat
+The immovable unknown driver seat
+An unknown immovable driver seat
+The unknown immovable driver seat
+The immovable unknown driver seats
+The unknown immovable driver seats
+The immovable unknown driver seats.
+Drivers immovable unknown seat
+The unknown immovable driver seats.
+The drivers immovable unknown seats
+Immovable unknown driver seats
+Immovable unknown driver seat
+A drivers immovable unknown seat
+Immovable unknown driver seats.
+The drivers immovable unknown seat
+Drivers immovable unknown seats
+Unknown immovable driver seats
+An immovable unknown driver seat.
+The immovable unknown driver seat.
+An unknown immovable driver seat.
+Drivers unknown immovable seat
+The unknown immovable driver seat.
+Unknown immovable driver seats.
+Unknown immovable driver seat
+A drivers unknown immovable seat
+The drivers unknown immovable seat
+The drivers immovable unknown seats.
+Drivers immovable unknown seat.
+Immovable unknown driver seat.
+The drivers unknown immovable seats
+An unknown drivers immovable seat
+The unknown drivers immovable seat
+Drivers immovable unknown seats.
+A drivers immovable unknown seat.
+The drivers immovable unknown seat.
+The immovable drivers unknown seats
+Immovable drivers unknown seats
+Drivers unknown immovable seats
+Unknown immovable driver seat.
+The drivers unknown immovable seats.
+The unknown drivers immovable seats
+An immovable drivers unknown seat
+The immovable drivers unknown seat
+The unknown drivers immovable seats.
+Drivers unknown immovable seat.
+Unknown drivers immovable seats
+The immovable drivers unknown seats.
+Unknown drivers immovable seats.
+Immovable drivers unknown seats.
+A drivers unknown immovable seat.
+Drivers unknown immovable seats.
+The drivers unknown immovable seat.
+An unknown drivers immovable seat.
+The unknown drivers immovable seat.
+Unknown drivers immovable seat
+An immovable drivers unknown seat.
+The immovable drivers unknown seat.
+Immovable drivers unknown seat
+Immovable drivers unknown seat.
+Unknown drivers immovable seat.
+
+TOTAL RESULTS: 60
+
+Node            MRS Produced    Reason                 Included in MRS    Reason
+--------------  --------------  ---------------------  -----------------  -------------------------
+idDriverSeat_1  True            MRS fragment produced  True               Included in MRS
+idDriver_2      True            MRS fragment produced  False              Descends from failed edge
+true_4          True            MRS fragment produced  True               Included in MRS
+yes_3           True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason                               Included in MRS    Reason
+-----------------  --------------  -----------------------------------  -----------------  -----------------------------------
+idImmovable_2      True            MRS composed                         True               Included in MRS
+idOwnedBy_1        False           'idOwnedBy' has no value in lexicon  False              'idOwnedBy' has no value in lexicon
+idUnknownObject_3  True            MRS composed                         True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4    1
+Nodes              Included             3        4    0.75
+Edges              Produced             2        3    0.666667
+Edges              Included             2        3    0.666667

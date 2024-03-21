@@ -1,0 +1,50 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idTable1_subgraph.dot
+[ TOP: h2535
+  INDEX: e2532
+  RELS: < [ unknown LBL: h2534 ARG: x2513 ARG0: e2532 ]
+          [ def_udef_a_q LBL: h2531 ARG0: x2513 RSTR: h2529 BODY: h2530 ]
+          [ _white_a_1 LBL: h2521 ARG0: i2525 ARG1: x2513 ]
+          [ _immovable_a_1 LBL: h2521 ARG0: e2519 ARG1: x2513 ]
+          [ _table_n_1 LBL: h2521 ARG0: x2513 ] >
+  HCONS: < h2529 qeq h2521 h2535 qeq h2534 > ]
+GENERATED RESULTS ... 
+The white immovable table
+A white immovable table
+White immovable tables
+Immovable white tables
+The immovable white tables
+An immovable white table
+The immovable white table
+The white immovable tables
+Immovable white tables.
+The immovable white tables.
+The white immovable tables.
+White immovable tables.
+White immovable table
+Immovable white table
+An immovable white table.
+The immovable white table.
+The white immovable table.
+A white immovable table.
+Immovable white table.
+White immovable table.
+
+TOTAL RESULTS: 20
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  ---------------
+idTable_1  True            MRS fragment produced  True               Included in MRS
+white_3    True            MRS fragment produced  True               Included in MRS
+yes_2      True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idColor_2      True            MRS composed  True               Included in MRS
+idImmovable_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

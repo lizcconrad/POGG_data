@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idCavern5BackOpening_subgraph.dot
+[ TOP: h742
+  INDEX: e739
+  RELS: < [ unknown LBL: h741 ARG: x723 ARG0: e739 ]
+          [ def_udef_a_q LBL: h738 ARG0: x723 RSTR: h736 BODY: h737 ]
+          [ compound LBL: h724 ARG0: e731 ARG1: x723 ARG2: x727 ]
+          [ udef_q LBL: h730 ARG0: x727 RSTR: h728 BODY: h729 ]
+          [ _back_n_1 LBL: h726 ARG0: x727 ]
+          [ _opening_n_1 LBL: h724 ARG0: x723 ] >
+  HCONS: < h728 qeq h726 h736 qeq h724 h742 qeq h741 > ]
+GENERATED RESULTS ... 
+The back openings
+The back opening
+A back opening
+The back openings.
+Back openings.
+Back openings
+Back opening
+The back opening.
+A back opening.
+The backed, openings.
+Backed, opening
+The backed, openings
+Backed, openings.
+The backed, opening
+A backed, opening
+Backed, openings
+The backed opening
+Back opening.
+Backed openings
+Backed, opening.
+The backed, opening.
+A backed opening
+A backed, opening.
+The backed openings
+The backed openings.
+Backed openings.
+Backed opening
+The backed opening.
+A backed opening.
+Backed opening.
+
+TOTAL RESULTS: 30
+
+Node                    MRS Produced    Reason                 Included in MRS    Reason
+----------------------  --------------  ---------------------  -----------------  ---------------
+idCavern5BackOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

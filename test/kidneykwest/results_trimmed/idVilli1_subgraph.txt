@@ -1,0 +1,22 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idVilli1_subgraph.dot
+
+
+TOTAL RESULTS: 0
+
+Node       MRS Produced    Reason                                 Included in MRS    Reason
+---------  --------------  -------------------------------------  -----------------  -------------------------------------
+idVilli_1  False           'idVilli' has no value in the lexicon  False              'idVilli' has no value in the lexicon
+true_2     True            MRS fragment produced                  False              Descends from failed node
+yes_3      True            MRS fragment produced                  False              Descends from failed node
+
+Edge                   MRS Composed    Reason                     Included in MRS    Reason
+---------------------  --------------  -------------------------  -----------------  -------------------------
+idImmovable_2          False           Outbound from failed node  False              Outbound from failed node
+idInterestingObject_1  False           Outbound from failed node  False              Outbound from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        3    0.666667
+Nodes              Included             0        3    0
+Edges              Produced             0        2    0
+Edges              Included             0        2    0

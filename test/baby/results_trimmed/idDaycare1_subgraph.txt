@@ -1,0 +1,60 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idDaycare1_subgraph.dot
+[ TOP: h1114
+  INDEX: e1111
+  RELS: < [ unknown LBL: h1113 ARG: x1084 ARG0: e1111 ]
+          [ def_udef_a_q LBL: h1110 ARG0: x1084 RSTR: h1108 BODY: h1109 ]
+          [ _near_p LBL: h1096 ARG0: e1099 ARG1: x1084 ARG2: x1103 ]
+          [ def_udef_a_q LBL: h1106 ARG0: x1103 RSTR: h1104 BODY: h1105 ]
+          [ _baby_n_1 LBL: h1098 ARG0: x1103 ]
+          [ compound LBL: h1096 ARG0: e1093 ARG1: x1084 ARG2: x1086 ]
+          [ udef_q LBL: h1092 ARG0: x1086 RSTR: h1090 BODY: h1091 ]
+          [ _day_n_of LBL: h1088 ARG0: x1086 ARG1: i1087 ]
+          [ _care_n_1 LBL: h1096 ARG0: x1084 ] >
+  HCONS: < h1104 qeq h1098 h1090 qeq h1088 h1108 qeq h1096 h1114 qeq h1113 > ]
+GENERATED RESULTS ... 
+Day care near the babies
+Day care near the baby
+Day care near the babies.
+Day care near a baby
+Day care near babies
+Day care near a baby.
+The day care near the babies
+The day care near the baby
+Day care near the baby.
+Day care, near the babies
+The day care near a baby
+Day care near babies.
+The day care, near the babies
+The day care near babies
+The day care near the babies.
+Day care, near the baby
+The day care, near the baby
+Day care, near a baby
+The day care near babies.
+The day care near a baby.
+The day care, near a baby
+The day care near the baby.
+Day care, near babies
+The day care, near babies
+
+TOTAL RESULTS: 24
+
+Node         MRS Produced    Reason                                Included in MRS    Reason
+-----------  --------------  ------------------------------------  -----------------  ------------------------------------
+0_3          False           '0' has no value in the lexicon       False              '0' has no value in the lexicon
+idBaby_2     True            MRS fragment produced                 True               Included in MRS
+idDaycare_1  True            MRS fragment produced                 True               Included in MRS
+idNone_4     False           'idNone' has no value in the lexicon  False              'idNone' has no value in the lexicon
+
+Edge              MRS Composed    Reason                  Included in MRS    Reason
+----------------  --------------  ----------------------  -----------------  ----------------------
+idCrawlingRoom_2  False           Inbound to failed node  False              Inbound to failed node
+idCryTurns_1      False           Inbound to failed node  False              Inbound to failed node
+isNear_3          True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        4    0.5
+Nodes              Included             2        4    0.5
+Edges              Produced             1        3    0.333333
+Edges              Included             1        3    0.333333

@@ -1,0 +1,51 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idDriveway1_subgraph.dot
+[ TOP: h1800
+  INDEX: e1797
+  RELS: < [ unknown LBL: h1799 ARG: x1718 ARG0: e1797 ]
+          [ def_udef_a_q LBL: h1796 ARG0: x1718 RSTR: h1794 BODY: h1795 ]
+          [ loc_nonsp LBL: h1720 ARG0: i1789 ARG1: x1718 ARG2: x1783 ]
+          [ compound LBL: h1720 ARG0: e1728 ARG1: x1718 ARG2: x1721 ]
+          [ udef_q LBL: h1727 ARG0: x1721 RSTR: h1725 BODY: h1726 ]
+          [ _drive_n_1 LBL: h1723 ARG0: x1721 ARG1: h1722 ]
+          [ _way_n_of LBL: h1720 ARG0: x1718 ARG1: h1719 ]
+          [ def_implicit_q LBL: h1788 ARG0: x1783 RSTR: h1786 BODY: h1787 ]
+          [ _west_a_1 LBL: h1778 ARG0: i1775 ARG1: x1783 ARG2: x1779 ]
+          [ def_udef_a_q LBL: h1782 ARG0: x1779 RSTR: h1780 BODY: h1781 ]
+          [ loc_nonsp LBL: h1774 ARG0: i1771 ARG1: x1779 ARG2: x1767 ]
+          [ compound LBL: h1774 ARG0: e1741 ARG1: x1779 ARG2: x1737 ]
+          [ udef_q LBL: h1740 ARG0: x1737 RSTR: h1738 BODY: h1739 ]
+          [ _left_n_of LBL: h1736 ARG0: x1737 ARG1: i1735 ]
+          [ _opening_n_1 LBL: h1774 ARG0: x1779 ]
+          [ def_implicit_q LBL: h1770 ARG0: x1767 RSTR: h1768 BODY: h1769 ]
+          [ _east_a_1 LBL: h1760 ARG0: i1757 ARG1: x1767 ARG2: x1745 ]
+          [ def_udef_a_q LBL: h1764 ARG0: x1745 RSTR: h1762 BODY: h1763 ]
+          [ compound LBL: h1746 ARG0: e1753 ARG1: x1745 ARG2: x1747 ]
+          [ udef_q LBL: h1752 ARG0: x1747 RSTR: h1750 BODY: h1751 ]
+          [ _car_n_1 LBL: h1748 ARG0: x1747 ]
+          [ _seat_n_1 LBL: h1746 ARG0: x1745 ]
+          [ place_n LBL: h1760 ARG0: x1767 ]
+          [ place_n LBL: h1778 ARG0: x1783 ] >
+  HCONS: < h1725 qeq h1723 h1738 qeq h1736 h1750 qeq h1748 h1762 qeq h1746 h1768 qeq h1760 h1780 qeq h1774 h1786 qeq h1778 h1794 qeq h1720 h1800 qeq h1799 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                                       MRS Produced    Reason                                                                          Included in MRS    Reason
+-----------------------------------------  --------------  ------------------------------------------------------------------------------  -----------------  ------------------------------------------------------------------------------
+West is [the, sayName(idSidewalk1)].{p}_2  False           "Can't find 'West is [the, sayName(idSidewalk1)].{p}' as a key in the lexicon"  False              "Can't find 'West is [the, sayName(idSidewalk1)].{p}' as a key in the lexicon"
+idBabyCarSeat_4                            True            MRS fragment produced                                                           True               Included in MRS
+idBedroom1LeftOpening_3                    True            MRS fragment produced                                                           True               Included in MRS
+idDriveway_1                               True            MRS fragment produced                                                           True               Included in MRS
+
+Edge                      MRS Composed    Reason                  Included in MRS    Reason
+------------------------  --------------  ----------------------  -----------------  ----------------------
+idDirectionDescription_1  False           Inbound to failed node  False              Inbound to failed node
+isEastOf_2                True            MRS composed            True               Included in MRS
+isWestOf_3                True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        4    0.75
+Nodes              Included             3        4    0.75
+Edges              Produced             2        3    0.666667
+Edges              Included             2        3    0.666667

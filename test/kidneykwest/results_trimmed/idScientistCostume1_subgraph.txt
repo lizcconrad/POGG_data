@@ -1,0 +1,62 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idScientistCostume1_subgraph.dot
+[ TOP: h138
+  INDEX: e135
+  RELS: < [ unknown LBL: h137 ARG: x112 ARG0: e135 ]
+          [ def_udef_a_q LBL: h134 ARG0: x112 RSTR: h132 BODY: h133 ]
+          [ _gold_a_1 LBL: h126 ARG0: i124 ARG1: x112 ]
+          [ compound LBL: h126 ARG0: e120 ARG1: x112 ARG2: x116 ]
+          [ udef_q LBL: h119 ARG0: x116 RSTR: h117 BODY: h118 ]
+          [ _scientist_n_1 LBL: h115 ARG0: x116 ]
+          [ _costume_n_1 LBL: h126 ARG0: x112 ] >
+  HCONS: < h117 qeq h115 h132 qeq h126 h138 qeq h137 > ]
+GENERATED RESULTS ... 
+The gold scientist costumes
+The gold scientist costume
+Gold scientist costumes
+A gold scientist costume
+The gold scientist costumes.
+Gold scientist costumes.
+The scientist gold costume
+A scientist gold costume
+The gold scientist costume.
+A gold scientist costume.
+The scientist gold costumes.
+Scientist gold costume
+Scientist gold costumes.
+Scientists gold costume
+Gold scientist costume
+The scientist gold costumes
+The scientist gold costume.
+Scientist gold costumes
+A scientists gold costume
+A scientist gold costume.
+The scientists gold costume
+Scientists gold costume.
+The scientists gold costumes.
+Scientist gold costume.
+Gold scientist costume.
+Scientists gold costumes.
+The scientists gold costumes
+A scientists gold costume.
+The scientists gold costume.
+Scientists gold costumes
+
+TOTAL RESULTS: 30
+
+Node                  MRS Produced    Reason                 Included in MRS    Reason
+--------------------  --------------  ---------------------  -----------------  -------------------------
+gold_2                True            MRS fragment produced  True               Included in MRS
+idScientistCostume_1  True            MRS fragment produced  True               Included in MRS
+true_3                True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idColor_1          True            MRS composed                               True               Included in MRS
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

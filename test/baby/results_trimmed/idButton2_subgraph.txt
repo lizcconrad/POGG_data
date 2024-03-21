@@ -1,0 +1,99 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idButton2_subgraph.dot
+[ TOP: h2581
+  INDEX: e2578
+  RELS: < [ unknown LBL: h2580 ARG: x2574 ARG0: e2578 ]
+          [ def_udef_a_q LBL: h2577 ARG0: x2574 RSTR: h2575 BODY: h2576 ]
+          [ loc_nonsp LBL: h2573 ARG0: i2570 ARG1: x2574 ARG2: x2566 ]
+          [ _button_n_1 LBL: h2573 ARG0: x2574 ]
+          [ def_implicit_q LBL: h2569 ARG0: x2566 RSTR: h2567 BODY: h2568 ]
+          [ _east_a_1 LBL: h2559 ARG0: i2556 ARG1: x2566 ARG2: x2560 ]
+          [ def_udef_a_q LBL: h2563 ARG0: x2560 RSTR: h2561 BODY: h2562 ]
+          [ compound LBL: h2555 ARG0: e2552 ARG1: x2560 ARG2: x2548 ]
+          [ udef_q LBL: h2551 ARG0: x2548 RSTR: h2549 BODY: h2550 ]
+          [ _left_n_of LBL: h2547 ARG0: x2548 ARG1: i2546 ]
+          [ _opening_n_1 LBL: h2555 ARG0: x2560 ]
+          [ place_n LBL: h2559 ARG0: x2566 ] >
+  HCONS: < h2549 qeq h2547 h2561 qeq h2555 h2567 qeq h2559 h2575 qeq h2573 h2581 qeq h2580 > ]
+GENERATED RESULTS ... 
+Buttons east of the left openings
+Buttons east of the left opening
+Buttons east of a left opening
+Buttons east of the left openings.
+The buttons east of the left openings
+Buttons east of the left opening.
+The buttons east of the left opening
+Buttons east of a left opening.
+A button east of the left openings
+The button east of the left openings
+The buttons east of a left opening
+The buttons east of the left openings.
+A button east of the left opening
+The button east of the left opening
+The buttons east of the left opening.
+A button east of a left opening
+The button east of a left opening
+A button east of the left openings.
+The button east of the left openings.
+Buttons east of left openings
+The buttons, east of the left openings
+The button, east of the left openings
+Buttons, east of the left openings
+The buttons east of a left opening.
+Button east of the left openings
+Buttons east of left openings.
+The buttons, east of the left opening
+The button, east of the left opening
+A button east of the left opening.
+The button east of the left opening.
+Button, east of the left openings
+Buttons, east of the left opening
+A button, east of the left openings
+Button east of the left opening
+Button, east of the left opening
+The buttons, east of a left opening
+A button, east of the left opening
+The button, east of a left opening
+A button east of a left opening.
+The button east of a left opening.
+Buttons, east of a left opening
+Button east of a left opening
+Button east of the left openings.
+The buttons east of left openings
+Button, east of a left opening
+A button, east of a left opening
+The buttons east of left openings.
+Button east of the left opening.
+A button east of left openings
+The button east of left openings
+Button east of a left opening.
+A button east of left openings.
+The button east of left openings.
+The buttons, east of left openings
+The button, east of left openings
+Buttons, east of left openings
+Button east of left openings
+Button, east of left openings
+A button, east of left openings
+Button east of left openings.
+
+TOTAL RESULTS: 60
+
+Node                        MRS Produced    Reason                           Included in MRS    Reason
+--------------------------  --------------  -------------------------------  -----------------  -------------------------------
+2_2                         False           '2' has no value in the lexicon  False              '2' has no value in the lexicon
+idButton_1                  True            MRS fragment produced            True               Included in MRS
+idLivingRoom1LeftOpening_4  True            MRS fragment produced            True               Included in MRS
+true_3                      True            MRS fragment produced            False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idOrdinality_1     False           Inbound to failed node                     False              Inbound to failed node
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isEastOf_3         True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        4    0.75
+Nodes              Included             2        4    0.5
+Edges              Produced             1        3    0.333333
+Edges              Included             1        3    0.333333

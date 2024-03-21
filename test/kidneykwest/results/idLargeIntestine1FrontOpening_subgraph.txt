@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idLargeIntestine1FrontOpening_subgraph.dot
+[ TOP: h3086
+  INDEX: e3083
+  RELS: < [ unknown LBL: h3085 ARG: x3079 ARG0: e3083 ]
+          [ def_udef_a_q LBL: h3082 ARG0: x3079 RSTR: h3080 BODY: h3081 ]
+          [ compound LBL: h3078 ARG0: e3075 ARG1: x3079 ARG2: x3071 ]
+          [ udef_q LBL: h3074 ARG0: x3071 RSTR: h3072 BODY: h3073 ]
+          [ _front_n_1 LBL: h3070 ARG0: x3071 ]
+          [ _opening_n_1 LBL: h3078 ARG0: x3079 ] >
+  HCONS: < h3072 qeq h3070 h3080 qeq h3078 h3086 qeq h3085 > ]
+GENERATED RESULTS ... 
+The front openings
+The front opening
+A front opening
+The front openings.
+Front openings.
+Front openings
+Front opening
+The front opening.
+A front opening.
+The fronted, openings.
+Fronted, opening
+The fronted, openings
+Fronted, openings.
+The fronted, opening
+A fronted, opening
+Fronted, openings
+The fronted opening
+Front opening.
+Fronted openings
+Fronted, opening.
+The fronted, opening.
+A fronted opening
+A fronted, opening.
+The fronted openings
+The fronted openings.
+Fronted openings.
+Fronted opening
+The fronted opening.
+A fronted opening.
+Fronted opening.
+
+TOTAL RESULTS: 30
+
+Node                             MRS Produced    Reason                 Included in MRS    Reason
+-------------------------------  --------------  ---------------------  -----------------  ---------------
+idLargeIntestine1FrontOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

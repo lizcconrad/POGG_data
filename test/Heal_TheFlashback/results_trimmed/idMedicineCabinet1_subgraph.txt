@@ -1,0 +1,62 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idMedicineCabinet1_subgraph.dot
+[ TOP: h1099
+  INDEX: e1096
+  RELS: < [ unknown LBL: h1098 ARG: x1073 ARG0: e1096 ]
+          [ def_udef_a_q LBL: h1095 ARG0: x1073 RSTR: h1093 BODY: h1094 ]
+          [ _white_a_1 LBL: h1074 ARG0: i1085 ARG1: x1073 ]
+          [ compound LBL: h1074 ARG0: e1081 ARG1: x1073 ARG2: x1077 ]
+          [ udef_q LBL: h1080 ARG0: x1077 RSTR: h1078 BODY: h1079 ]
+          [ _medicine_n_1 LBL: h1076 ARG0: x1077 ]
+          [ _cabinet_n_1 LBL: h1074 ARG0: x1073 ] >
+  HCONS: < h1078 qeq h1076 h1093 qeq h1074 h1099 qeq h1098 > ]
+GENERATED RESULTS ... 
+The white medicine cabinet
+White medicine cabinets
+The white medicine cabinets
+A white medicine cabinet
+White medicine cabinets.
+The white medicine cabinets.
+The medicine white cabinet
+A medicine white cabinet
+The medicine white cabinets
+White medicine cabinet
+The white medicine cabinet.
+A white medicine cabinet.
+Medicines white cabinet
+The medicine white cabinets.
+Medicine white cabinet
+Medicine white cabinets.
+Medicine white cabinets
+The medicines white cabinets
+A medicines white cabinet
+The medicines white cabinet
+Medicines white cabinet.
+The medicines white cabinets.
+The medicine white cabinet.
+Medicines white cabinets
+A medicine white cabinet.
+White medicine cabinet.
+Medicines white cabinets.
+Medicine white cabinet.
+A medicines white cabinet.
+The medicines white cabinet.
+
+TOTAL RESULTS: 30
+
+Node                 MRS Produced    Reason                 Included in MRS    Reason
+-------------------  --------------  ---------------------  -----------------  -------------------------
+idMedicineCabinet_1  True            MRS fragment produced  True               Included in MRS
+white_2              True            MRS fragment produced  True               Included in MRS
+yes_3                True            MRS fragment produced  False              Descends from failed edge
+
+Edge           MRS Composed    Reason                                 Included in MRS    Reason
+-------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idColor_1      True            MRS composed                           True               Included in MRS
+idImmovable_2  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

@@ -1,0 +1,42 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idLock1_subgraph.dot
+[ TOP: h1641
+  INDEX: e1638
+  RELS: < [ unknown LBL: h1640 ARG: x1622 ARG0: e1638 ]
+          [ def_udef_a_q LBL: h1637 ARG0: x1622 RSTR: h1635 BODY: h1636 ]
+          [ _un-_a_neg LBL: h1630 ARG0: i1628 ARG1: e1624 ]
+          [ _lock_v_cause LBL: h1630 ARG0: e1624 ARG1: i1625 ARG2: x1622 ]
+          [ _lock_n_1 LBL: h1630 ARG0: x1622 ] >
+  HCONS: < h1635 qeq h1630 h1641 qeq h1640 > ]
+GENERATED RESULTS ... 
+The unlocked locks
+Unlocked locks
+The unlocked lock
+An unlocked lock
+The unlocked locks.
+Unlocked locks.
+The unlocked lock.
+Unlocked lock
+An unlocked lock.
+Unlocked lock.
+
+TOTAL RESULTS: 10
+
+Node          MRS Produced    Reason                                    Included in MRS    Reason
+------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+idLock_1      True            MRS fragment produced                     True               Included in MRS
+idOnSwitch_3  False           'idOnSwitch' has no value in the lexicon  False              'idOnSwitch' has no value in the lexicon
+off_4         True            MRS fragment produced                     False              Descends from failed node
+unlocked_2    True            MRS fragment produced                     True               Included in MRS
+
+Edge             MRS Composed    Reason                     Included in MRS    Reason
+---------------  --------------  -------------------------  -----------------  -------------------------
+idLockedState_1  True            MRS composed               True               Included in MRS
+idPowerState_2   False           Outbound from failed node  False              Outbound from failed node
+isNorthOf_3      False           Inbound to failed node     False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        4    0.75
+Nodes              Included             2        4    0.5
+Edges              Produced             1        3    0.333333
+Edges              Included             1        3    0.333333

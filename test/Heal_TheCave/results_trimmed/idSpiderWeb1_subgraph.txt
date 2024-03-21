@@ -1,0 +1,62 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idSpiderWeb1_subgraph.dot
+[ TOP: h769
+  INDEX: e766
+  RELS: < [ unknown LBL: h768 ARG: x743 ARG0: e766 ]
+          [ def_udef_a_q LBL: h765 ARG0: x743 RSTR: h763 BODY: h764 ]
+          [ _white_a_1 LBL: h758 ARG0: i756 ARG1: x743 ]
+          [ compound LBL: h758 ARG0: e752 ARG1: x743 ARG2: x748 ]
+          [ udef_q LBL: h751 ARG0: x748 RSTR: h749 BODY: h750 ]
+          [ _spider_n_1 LBL: h747 ARG0: x748 ]
+          [ _web_n_of LBL: h758 ARG0: x743 ARG1: i744 ] >
+  HCONS: < h749 qeq h747 h763 qeq h758 h769 qeq h768 > ]
+GENERATED RESULTS ... 
+The white spider web
+The white spider webs
+A white spider web
+White spider webs
+The white spider webs.
+White spider webs.
+The white spider web.
+A white spider web.
+White spider web
+Spiders white web
+The spider white webs.
+White spider web.
+Spider white webs.
+The spider white web.
+The spider white webs
+Spider white webs
+A spider white web.
+Spiders white web.
+A spiders white web
+Spider white web.
+The spiders white web
+The spider white web
+A spider white web
+The spiders white webs.
+Spider white web
+The spiders white webs
+A spiders white web.
+The spiders white web.
+Spiders white webs.
+Spiders white webs
+
+TOTAL RESULTS: 30
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  -------------------------
+false_3        True            MRS fragment produced  False              Descends from failed edge
+idSpiderWeb_1  True            MRS fragment produced  True               Included in MRS
+white_2        True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason                                  Included in MRS    Reason
+--------------  --------------  --------------------------------------  -----------------  --------------------------------------
+idColor_1       True            MRS composed                            True               Included in MRS
+idWebTouched_2  False           'idWebTouched' has no value in lexicon  False              'idWebTouched' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

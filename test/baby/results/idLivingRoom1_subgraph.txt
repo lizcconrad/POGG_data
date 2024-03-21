@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idLivingRoom1_subgraph.dot
+[ TOP: h3601
+  INDEX: e3598
+  RELS: < [ unknown LBL: h3600 ARG: x3505 ARG0: e3598 ]
+          [ def_udef_a_q LBL: h3597 ARG0: x3505 RSTR: h3595 BODY: h3596 ]
+          [ loc_nonsp LBL: h3527 ARG0: i3590 ARG1: x3505 ARG2: x3584 ]
+          [ _un-_a_neg LBL: h3527 ARG0: i3521 ARG1: e3522 ]
+          [ _know_v_1 LBL: h3527 ARG0: e3522 ARG1: u3525 ARG2: x3505 ]
+          [ compound LBL: h3527 ARG0: e3513 ARG1: x3505 ARG2: x3507 ]
+          [ udef_q LBL: h3512 ARG0: x3507 RSTR: h3510 BODY: h3511 ]
+          [ _living_n_1 LBL: h3508 ARG0: x3507 ]
+          [ _room_n_unit LBL: h3527 ARG0: x3505 ]
+          [ def_implicit_q LBL: h3589 ARG0: x3584 RSTR: h3587 BODY: h3588 ]
+          [ _west_a_1 LBL: h3579 ARG0: i3576 ARG1: x3584 ARG2: e3539 ]
+          [ def_udef_a_q LBL: h3583 ARG0: e3539 RSTR: h3581 BODY: h3582 ]
+          [ loc_nonsp LBL: h3537 ARG0: i3572 ARG1: e3539 ARG2: x3559 ]
+          [ _un-_a_neg LBL: h3537 ARG0: i3545 ARG1: e3546 ]
+          [ _know_v_1 LBL: h3537 ARG0: e3546 ARG1: u3549 ARG2: e3539 ]
+          [ _un-_a_neg LBL: h3537 ARG0: i3538 ARG1: e3539 ]
+          [ _usual_a_for LBL: h3537 ARG0: i3534 ARG1: e3539 ARG2: i3536 ]
+          [ _tent_n_1 LBL: h3537 ARG0: e3539 ]
+          [ def_implicit_q LBL: h3571 ARG0: x3559 RSTR: h3569 BODY: h3570 ]
+          [ _east_a_1 LBL: h3567 ARG0: i3558 ARG1: x3559 ARG2: x3562 ]
+          [ def_udef_a_q LBL: h3565 ARG0: x3562 RSTR: h3563 BODY: h3564 ]
+          [ _couch_n_1 LBL: h3557 ARG0: x3562 ]
+          [ place_n LBL: h3567 ARG0: x3559 ]
+          [ place_n LBL: h3579 ARG0: x3584 ] >
+  HCONS: < h3510 qeq h3508 h3563 qeq h3557 h3569 qeq h3567 h3581 qeq h3537 h3587 qeq h3579 h3595 qeq h3527 h3601 qeq h3600 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                                                                                                                                                                                 MRS Produced    Reason                                                                                                                                                                                                                    Included in MRS    Reason
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  --------------  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  -----------------  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+There are doors to [the, sayName(idKitchen1)], [the, sayName(idBackyard1)] (with [a, sayName(idDogDoor1)] installed), [the, sayName(idBedroom1)] and [the, sayName(idPorch1)].{p}_2  False           "Can't find 'There are doors to [the, sayName(idKitchen1)], [the, sayName(idBackyard1)] (with [a, sayName(idDogDoor1)] installed), [the, sayName(idBedroom1)] and [the, sayName(idPorch1)].{p}' as a key in the lexicon"  False              "Can't find 'There are doors to [the, sayName(idKitchen1)], [the, sayName(idBackyard1)] (with [a, sayName(idDogDoor1)] installed), [the, sayName(idBedroom1)] and [the, sayName(idPorch1)].{p}' as a key in the lexicon"
+idCouch_7                                                                                                                                                                            True            MRS fragment produced                                                                                                                                                                                                     True               Included in MRS
+idLivingRoom_1                                                                                                                                                                       True            MRS fragment produced                                                                                                                                                                                                     True               Included in MRS
+idTent_4                                                                                                                                                                             True            MRS fragment produced                                                                                                                                                                                                     True               Included in MRS
+true_3                                                                                                                                                                               True            MRS fragment produced                                                                                                                                                                                                     True               Included in MRS
+true_6                                                                                                                                                                               True            MRS fragment produced                                                                                                                                                                                                     True               Included in MRS
+unusual_5                                                                                                                                                                            True            MRS fragment produced                                                                                                                                                                                                     True               Included in MRS
+
+Edge                      MRS Composed    Reason                  Included in MRS    Reason
+------------------------  --------------  ----------------------  -----------------  ----------------------
+idDirectionDescription_1  False           Inbound to failed node  False              Inbound to failed node
+idShape_3                 True            MRS composed            True               Included in MRS
+idUnknownObject_2         True            MRS composed            True               Included in MRS
+idUnknownObject_4         True            MRS composed            True               Included in MRS
+isEastOf_5                True            MRS composed            True               Included in MRS
+isWestOf_6                True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        7    0.857143
+Nodes              Included             6        7    0.857143
+Edges              Produced             5        6    0.833333
+Edges              Included             5        6    0.833333

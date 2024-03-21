@@ -1,0 +1,347 @@
+EVALUATION SUMMARY
+
+  Graphs Generated From    Total Graphs    Graph Coverage
+-----------------------  --------------  ----------------
+                     35              41          0.853659
+
+Graph Name                                Results  Reason
+--------------------------------------  ---------  ----------------------
+idBoulder1_subgraph                            10  Successfully generated
+idBoulder2_subgraph                            10  Successfully generated
+idCavern1FrontOpening_subgraph                 30  Successfully generated
+idCavern1LeftOpening_subgraph                  60  Successfully generated
+idCavern1RightOpening_subgraph               1000  Successfully generated
+idCavern1_subgraph                           2199  Successfully generated
+idCavern2RightOpening_subgraph                 60  Successfully generated
+idCavern2_subgraph                           2400  Successfully generated
+idCavern3LeftOpening_subgraph                  10  Successfully generated
+idCavern3_subgraph                              0  ERG did not generate
+idCavern4BackOpening_subgraph                2400  Successfully generated
+idCavern4FrontOpening_subgraph                564  Successfully generated
+idCavern4_subgraph                             60  Successfully generated
+idCavern5BackOpening_subgraph                  30  Successfully generated
+idCavern5LeftOpening_subgraph                1600  Successfully generated
+idCavern5_subgraph                              0  ERG did not generate
+idCavern6FrontOpening_subgraph               1111  Successfully generated
+idCavern6OutsideBottomOpening_subgraph         30  Successfully generated
+idCavern6Outside_subgraph                    1372  Successfully generated
+idCavern6TopOpening_subgraph                 2640  Successfully generated
+idCavern6_subgraph                             10  Successfully generated
+idCavern7BackOpening_subgraph                   0  ERG did not generate
+idCavern7LeftOpening_subgraph                1121  Successfully generated
+idCavern7RightOpening_subgraph               2400  Successfully generated
+idCavern7_subgraph                           2544  Successfully generated
+idCavern8RightOpening_subgraph                 10  Successfully generated
+idCavern8_subgraph                           1184  Successfully generated
+idClearing1_subgraph                           10  Successfully generated
+idDeerSkeleton1_subgraph                       80  Successfully generated
+idGem1_subgraph                                35  Successfully generated
+idGlowingFlower1_subgraph                    2345  Successfully generated
+idGrass1_subgraph                               0  ERG did not generate
+idLiquid1_subgraph                              0  ERG did not generate
+idMushroom1_subgraph                           60  Successfully generated
+idPlayerBackside_subgraph                     288  Successfully generated
+idPlayerLeftHand_subgraph                      96  Successfully generated
+idPlayerRightHand_subgraph                   1280  Successfully generated
+idPlayer_subgraph                              10  Successfully generated
+idSpider1_subgraph                            360  Successfully generated
+idSpiderWeb1_subgraph                           0  ERG did not generate
+idTheCave1_subgraph                            10  Successfully generated
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced           147      163    0.90184
+Nodes              Included           146      163    0.895706
+Edges              Produced           105      122    0.860656
+Edges              Included           105      122    0.860656
+
+Node                                                                    MRS Produced    Reason                                 Included in MRS    Reason
+----------------------------------------------------------------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idBoulder1_subgraph_idBoulder_1                                         True            MRS fragment produced                  True               Included in MRS
+idBoulder1_subgraph_large_2                                             True            MRS fragment produced                  True               Included in MRS
+idBoulder2_subgraph_idBoulder_1                                         True            MRS fragment produced                  True               Included in MRS
+idBoulder2_subgraph_small_2                                             True            MRS fragment produced                  True               Included in MRS
+idCavern1FrontOpening_subgraph_idCavern1FrontOpening_1                  True            MRS fragment produced                  True               Included in MRS
+idCavern1LeftOpening_subgraph_idCavern1LeftOpening_1                    True            MRS fragment produced                  True               Included in MRS
+idCavern1LeftOpening_subgraph_idCavern7RightOpening_2                   True            MRS fragment produced                  True               Included in MRS
+idCavern1RightOpening_subgraph_idCavern1RightOpening_1                  True            MRS fragment produced                  True               Included in MRS
+idCavern1RightOpening_subgraph_idGlowingFlower_5                        True            MRS fragment produced                  True               Included in MRS
+idCavern1RightOpening_subgraph_idGrass_2                                True            MRS fragment produced                  True               Included in MRS
+idCavern1RightOpening_subgraph_short_3                                  True            MRS fragment produced                  True               Included in MRS
+idCavern1RightOpening_subgraph_yes_4                                    True            MRS fragment produced                  True               Included in MRS
+idCavern1_subgraph_1_2                                                  False           '1' has no value in the lexicon        False              '1' has no value in the lexicon
+idCavern1_subgraph_idCavern4BackOpening_5                               True            MRS fragment produced                  True               Included in MRS
+idCavern1_subgraph_idCavern6FrontOpening_4                              True            MRS fragment produced                  True               Included in MRS
+idCavern1_subgraph_idCavern_1                                           True            MRS fragment produced                  True               Included in MRS
+idCavern1_subgraph_original_3                                           True            MRS fragment produced                  True               Included in MRS
+idCavern2RightOpening_subgraph_1_3                                      False           '1' has no value in the lexicon        False              '1' has no value in the lexicon
+idCavern2RightOpening_subgraph_idCavern2RightOpening_1                  True            MRS fragment produced                  True               Included in MRS
+idCavern2RightOpening_subgraph_idCavern_2                               True            MRS fragment produced                  True               Included in MRS
+idCavern2RightOpening_subgraph_original_4                               True            MRS fragment produced                  True               Included in MRS
+idCavern2_subgraph_2_3                                                  False           '2' has no value in the lexicon        False              '2' has no value in the lexicon
+idCavern2_subgraph_idCavern4BackOpening_4                               True            MRS fragment produced                  True               Included in MRS
+idCavern2_subgraph_idCavern7RightOpening_5                              True            MRS fragment produced                  True               Included in MRS
+idCavern2_subgraph_idCavern_1                                           True            MRS fragment produced                  True               Included in MRS
+idCavern2_subgraph_wet_2                                                True            MRS fragment produced                  True               Included in MRS
+idCavern3LeftOpening_subgraph_idCavern3LeftOpening_1                    True            MRS fragment produced                  True               Included in MRS
+idCavern3_subgraph_3_3                                                  False           '3' has no value in the lexicon        False              '3' has no value in the lexicon
+idCavern3_subgraph_idCavern_1                                           True            MRS fragment produced                  True               Included in MRS
+idCavern3_subgraph_strange_2                                            True            MRS fragment produced                  True               Included in MRS
+idCavern4BackOpening_subgraph_idCavern1RightOpening_2                   True            MRS fragment produced                  True               Included in MRS
+idCavern4BackOpening_subgraph_idCavern3LeftOpening_3                    True            MRS fragment produced                  True               Included in MRS
+idCavern4BackOpening_subgraph_idCavern4BackOpening_1                    True            MRS fragment produced                  True               Included in MRS
+idCavern4FrontOpening_subgraph_5_3                                      False           '5' has no value in the lexicon        False              '5' has no value in the lexicon
+idCavern4FrontOpening_subgraph_idCavern4FrontOpening_1                  True            MRS fragment produced                  True               Included in MRS
+idCavern4FrontOpening_subgraph_idCavern6FrontOpening_5                  True            MRS fragment produced                  True               Included in MRS
+idCavern4FrontOpening_subgraph_idCavern_2                               True            MRS fragment produced                  True               Included in MRS
+idCavern4FrontOpening_subgraph_idDeerSkeleton_6                         True            MRS fragment produced                  True               Included in MRS
+idCavern4FrontOpening_subgraph_idSpider_9                               True            MRS fragment produced                  True               Included in MRS
+idCavern4FrontOpening_subgraph_old_8                                    True            MRS fragment produced                  True               Included in MRS
+idCavern4FrontOpening_subgraph_smelly_4                                 True            MRS fragment produced                  True               Included in MRS
+idCavern4FrontOpening_subgraph_white_7                                  True            MRS fragment produced                  True               Included in MRS
+idCavern4_subgraph_dark_4                                               True            MRS fragment produced                  True               Included in MRS
+idCavern4_subgraph_idCavern_1                                           True            MRS fragment produced                  True               Included in MRS
+idCavern4_subgraph_large_3                                              True            MRS fragment produced                  True               Included in MRS
+idCavern4_subgraph_open_2                                               True            MRS fragment produced                  True               Included in MRS
+idCavern5BackOpening_subgraph_idCavern5BackOpening_1                    True            MRS fragment produced                  True               Included in MRS
+idCavern5LeftOpening_subgraph_idCavern3LeftOpening_4                    True            MRS fragment produced                  True               Included in MRS
+idCavern5LeftOpening_subgraph_idCavern5LeftOpening_1                    True            MRS fragment produced                  True               Included in MRS
+idCavern5LeftOpening_subgraph_idCavern6Outside_2                        True            MRS fragment produced                  True               Included in MRS
+idCavern5LeftOpening_subgraph_outside_3                                 True            MRS fragment produced                  True               Included in MRS
+idCavern5_subgraph_5_3                                                  False           '5' has no value in the lexicon        False              '5' has no value in the lexicon
+idCavern5_subgraph_cold_2                                               True            MRS fragment produced                  True               Included in MRS
+idCavern5_subgraph_green_9                                              True            MRS fragment produced                  True               Included in MRS
+idCavern5_subgraph_idCavern4BackOpening_7                               True            MRS fragment produced                  True               Included in MRS
+idCavern5_subgraph_idCavern_1                                           True            MRS fragment produced                  True               Included in MRS
+idCavern5_subgraph_idGrass_8                                            True            MRS fragment produced                  True               Included in MRS
+idCavern5_subgraph_idPlayerRightHand_5                                  True            MRS fragment produced                  True               Included in MRS
+idCavern5_subgraph_ominous_4                                            False           'ominous' has no value in the lexicon  False              'ominous' has no value in the lexicon
+idCavern5_subgraph_right_6                                              True            MRS fragment produced                  True               Included in MRS
+idCavern5_subgraph_uncountable_10                                       True            MRS fragment produced                  True               Included in MRS
+idCavern6FrontOpening_subgraph_idCavern1RightOpening_2                  True            MRS fragment produced                  True               Included in MRS
+idCavern6FrontOpening_subgraph_idCavern6FrontOpening_1                  True            MRS fragment produced                  True               Included in MRS
+idCavern6FrontOpening_subgraph_idCavern6Outside_3                       True            MRS fragment produced                  True               Included in MRS
+idCavern6FrontOpening_subgraph_idPlayerBackside_4                       True            MRS fragment produced                  True               Included in MRS
+idCavern6OutsideBottomOpening_subgraph_idCavern6OutsideBottomOpening_1  True            MRS fragment produced                  True               Included in MRS
+idCavern6Outside_subgraph_idCavern1RightOpening_4                       True            MRS fragment produced                  True               Included in MRS
+idCavern6Outside_subgraph_idCavern6FrontOpening_3                       True            MRS fragment produced                  True               Included in MRS
+idCavern6Outside_subgraph_idCavern6Outside_1                            True            MRS fragment produced                  True               Included in MRS
+idCavern6Outside_subgraph_outside_2                                     True            MRS fragment produced                  True               Included in MRS
+idCavern6TopOpening_subgraph_glowing_3                                  True            MRS fragment produced                  True               Included in MRS
+idCavern6TopOpening_subgraph_idCavern6TopOpening_1                      True            MRS fragment produced                  True               Included in MRS
+idCavern6TopOpening_subgraph_idCavern7RightOpening_5                    True            MRS fragment produced                  True               Included in MRS
+idCavern6TopOpening_subgraph_open_2                                     True            MRS fragment produced                  True               Included in MRS
+idCavern6TopOpening_subgraph_small_4                                    True            MRS fragment produced                  True               Included in MRS
+idCavern6_subgraph_6_3                                                  False           '6' has no value in the lexicon        False              '6' has no value in the lexicon
+idCavern6_subgraph_bright_2                                             True            MRS fragment produced                  True               Included in MRS
+idCavern6_subgraph_idCavern_1                                           True            MRS fragment produced                  True               Included in MRS
+idCavern7BackOpening_subgraph_3_4                                       False           '3' has no value in the lexicon        False              '3' has no value in the lexicon
+idCavern7BackOpening_subgraph_false_7                                   True            MRS fragment produced                  True               Included in MRS
+idCavern7BackOpening_subgraph_idCavern7BackOpening_1                    True            MRS fragment produced                  True               Included in MRS
+idCavern7BackOpening_subgraph_idCavern_2                                True            MRS fragment produced                  True               Included in MRS
+idCavern7BackOpening_subgraph_idSpiderWeb_5                             True            MRS fragment produced                  True               Included in MRS
+idCavern7BackOpening_subgraph_idTheCave_8                               True            MRS fragment produced                  True               Included in MRS
+idCavern7BackOpening_subgraph_strange_3                                 True            MRS fragment produced                  True               Included in MRS
+idCavern7BackOpening_subgraph_white_6                                   True            MRS fragment produced                  True               Included in MRS
+idCavern7LeftOpening_subgraph_idCavern4FrontOpening_6                   True            MRS fragment produced                  True               Included in MRS
+idCavern7LeftOpening_subgraph_idCavern7LeftOpening_1                    True            MRS fragment produced                  True               Included in MRS
+idCavern7LeftOpening_subgraph_idCavern_3                                True            MRS fragment produced                  True               Included in MRS
+idCavern7LeftOpening_subgraph_idPlayerBackside_2                        True            MRS fragment produced                  True               Included in MRS
+idCavern7LeftOpening_subgraph_ominous_5                                 False           'ominous' has no value in the lexicon  False              'ominous' has no value in the lexicon
+idCavern7LeftOpening_subgraph_smelly_4                                  True            MRS fragment produced                  True               Included in MRS
+idCavern7RightOpening_subgraph_1_3                                      False           '1' has no value in the lexicon        False              '1' has no value in the lexicon
+idCavern7RightOpening_subgraph_idCavern4BackOpening_5                   True            MRS fragment produced                  True               Included in MRS
+idCavern7RightOpening_subgraph_idCavern7RightOpening_1                  True            MRS fragment produced                  True               Included in MRS
+idCavern7RightOpening_subgraph_idCavern_2                               True            MRS fragment produced                  True               Included in MRS
+idCavern7RightOpening_subgraph_original_4                               True            MRS fragment produced                  True               Included in MRS
+idCavern7_subgraph_6_6                                                  False           '6' has no value in the lexicon        False              '6' has no value in the lexicon
+idCavern7_subgraph_7_3                                                  False           '7' has no value in the lexicon        False              '7' has no value in the lexicon
+idCavern7_subgraph_bright_5                                             True            MRS fragment produced                  True               Included in MRS
+idCavern7_subgraph_glowing_2                                            True            MRS fragment produced                  True               Included in MRS
+idCavern7_subgraph_idCavern2RightOpening_7                              True            MRS fragment produced                  True               Included in MRS
+idCavern7_subgraph_idCavern_1                                           True            MRS fragment produced                  True               Included in MRS
+idCavern7_subgraph_idCavern_4                                           True            MRS fragment produced                  True               Included in MRS
+idCavern8RightOpening_subgraph_idCavern8RightOpening_1                  True            MRS fragment produced                  True               Included in MRS
+idCavern8_subgraph_8_3                                                  False           '8' has no value in the lexicon        False              '8' has no value in the lexicon
+idCavern8_subgraph_idCavern4BackOpening_4                               True            MRS fragment produced                  True               Included in MRS
+idCavern8_subgraph_idCavern_1                                           True            MRS fragment produced                  True               Included in MRS
+idCavern8_subgraph_idGrass_6                                            True            MRS fragment produced                  True               Included in MRS
+idCavern8_subgraph_idSpider_5                                           True            MRS fragment produced                  True               Included in MRS
+idCavern8_subgraph_rocky_2                                              True            MRS fragment produced                  True               Included in MRS
+idCavern8_subgraph_short_7                                              True            MRS fragment produced                  True               Included in MRS
+idCavern8_subgraph_yes_8                                                True            MRS fragment produced                  True               Included in MRS
+idClearing1_subgraph_grassy_2                                           True            MRS fragment produced                  True               Included in MRS
+idClearing1_subgraph_idClearing_1                                       True            MRS fragment produced                  True               Included in MRS
+idDeerSkeleton1_subgraph_idDeerSkeleton_1                               True            MRS fragment produced                  True               Included in MRS
+idDeerSkeleton1_subgraph_old_3                                          True            MRS fragment produced                  True               Included in MRS
+idDeerSkeleton1_subgraph_white_2                                        True            MRS fragment produced                  True               Included in MRS
+idGem1_subgraph_glowing_3                                               True            MRS fragment produced                  True               Included in MRS
+idGem1_subgraph_idGem_1                                                 True            MRS fragment produced                  True               Included in MRS
+idGem1_subgraph_red_2                                                   True            MRS fragment produced                  True               Included in MRS
+idGlowingFlower1_subgraph_7_7                                           False           '7' has no value in the lexicon        False              '7' has no value in the lexicon
+idGlowingFlower1_subgraph_dim_3                                         True            MRS fragment produced                  True               Included in MRS
+idGlowingFlower1_subgraph_glowing_6                                     True            MRS fragment produced                  True               Included in MRS
+idGlowingFlower1_subgraph_green_2                                       True            MRS fragment produced                  True               Included in MRS
+idGlowingFlower1_subgraph_idCavern7LeftOpening_8                        True            MRS fragment produced                  True               Included in MRS
+idGlowingFlower1_subgraph_idCavern_5                                    True            MRS fragment produced                  True               Included in MRS
+idGlowingFlower1_subgraph_idGlowingFlower_1                             True            MRS fragment produced                  True               Included in MRS
+idGlowingFlower1_subgraph_yes_4                                         True            MRS fragment produced                  True               Included in MRS
+idGrass1_subgraph_black_6                                               True            MRS fragment produced                  True               Included in MRS
+idGrass1_subgraph_green_2                                               True            MRS fragment produced                  True               Included in MRS
+idGrass1_subgraph_idGrass_1                                             True            MRS fragment produced                  True               Included in MRS
+idGrass1_subgraph_idLiquid_5                                            True            MRS fragment produced                  True               Included in MRS
+idGrass1_subgraph_strange_7                                             True            MRS fragment produced                  True               Included in MRS
+idGrass1_subgraph_uncountable_4                                         True            MRS fragment produced                  True               Included in MRS
+idGrass1_subgraph_yes_3                                                 True            MRS fragment produced                  True               Included in MRS
+idLiquid1_subgraph_black_3                                              True            MRS fragment produced                  True               Included in MRS
+idLiquid1_subgraph_idCavern7LeftOpening_5                               True            MRS fragment produced                  True               Included in MRS
+idLiquid1_subgraph_idLiquid_1                                           True            MRS fragment produced                  True               Included in MRS
+idLiquid1_subgraph_strange_4                                            True            MRS fragment produced                  True               Included in MRS
+idLiquid1_subgraph_yes_2                                                True            MRS fragment produced                  True               Included in MRS
+idMushroom1_subgraph_5_5                                                False           '5' has no value in the lexicon        False              '5' has no value in the lexicon
+idMushroom1_subgraph_blue_2                                             True            MRS fragment produced                  True               Included in MRS
+idMushroom1_subgraph_cold_4                                             True            MRS fragment produced                  True               Included in MRS
+idMushroom1_subgraph_idCavern_3                                         True            MRS fragment produced                  True               Included in MRS
+idMushroom1_subgraph_idMushroom_1                                       True            MRS fragment produced                  True               Included in MRS
+idPlayerBackside_subgraph_idCavern7BackOpening_2                        True            MRS fragment produced                  True               Included in MRS
+idPlayerBackside_subgraph_idPlayerBackside_1                            True            MRS fragment produced                  True               Included in MRS
+idPlayerLeftHand_subgraph_idLocalLeft_2                                 True            MRS fragment produced                  True               Included in MRS
+idPlayerLeftHand_subgraph_idPlayerLeftHand_1                            True            MRS fragment produced                  True               Included in MRS
+idPlayerRightHand_subgraph_idCavern7LeftOpening_3                       True            MRS fragment produced                  True               Included in MRS
+idPlayerRightHand_subgraph_idPlayerRightHand_1                          True            MRS fragment produced                  True               Included in MRS
+idPlayerRightHand_subgraph_right_2                                      True            MRS fragment produced                  True               Included in MRS
+idPlayer_subgraph_false_2                                               True            MRS fragment produced                  False              Descends from failed edge
+idPlayer_subgraph_idPlayer_1                                            True            MRS fragment produced                  True               Included in MRS
+idSpider1_subgraph_black_2                                              True            MRS fragment produced                  True               Included in MRS
+idSpider1_subgraph_dead_3                                               True            MRS fragment produced                  True               Included in MRS
+idSpider1_subgraph_idCavern1FrontOpening_4                              True            MRS fragment produced                  True               Included in MRS
+idSpider1_subgraph_idSpider_1                                           True            MRS fragment produced                  True               Included in MRS
+idSpiderWeb1_subgraph_false_3                                           True            MRS fragment produced                  True               Included in MRS
+idSpiderWeb1_subgraph_idSpiderWeb_1                                     True            MRS fragment produced                  True               Included in MRS
+idSpiderWeb1_subgraph_white_2                                           True            MRS fragment produced                  True               Included in MRS
+idTheCave1_subgraph_idTheCave_1                                         True            MRS fragment produced                  True               Included in MRS
+
+Edge                                            MRS Composed    Reason                                    Included in MRS    Reason
+----------------------------------------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+idBoulder1_subgraph_idSize_1                    True            MRS composed                              True               Included in MRS
+idBoulder2_subgraph_idSize_1                    True            MRS composed                              True               Included in MRS
+idCavern1LeftOpening_subgraph_isEastOf_1        True            MRS composed                              True               Included in MRS
+idCavern1RightOpening_subgraph_idHeight_1       True            MRS composed                              True               Included in MRS
+idCavern1RightOpening_subgraph_idImmovable_2    True            MRS composed                              True               Included in MRS
+idCavern1RightOpening_subgraph_isEastOf_4       True            MRS composed                              True               Included in MRS
+idCavern1RightOpening_subgraph_isWestOf_3       True            MRS composed                              True               Included in MRS
+idCavern1_subgraph_idDescriptor_2               True            MRS composed                              True               Included in MRS
+idCavern1_subgraph_idOrdinality_1               False           Inbound to failed node                    False              Inbound to failed node
+idCavern1_subgraph_isEastOf_4                   True            MRS composed                              True               Included in MRS
+idCavern1_subgraph_isWestOf_3                   True            MRS composed                              True               Included in MRS
+idCavern2RightOpening_subgraph_idDescriptor_2   True            MRS composed                              True               Included in MRS
+idCavern2RightOpening_subgraph_idOrdinality_1   False           Inbound to failed node                    False              Inbound to failed node
+idCavern2RightOpening_subgraph_isWestOf_3       True            MRS composed                              True               Included in MRS
+idCavern2_subgraph_idDescriptor_1               True            MRS composed                              True               Included in MRS
+idCavern2_subgraph_idOrdinality_2               False           Inbound to failed node                    False              Inbound to failed node
+idCavern2_subgraph_isSouthOf_4                  True            MRS composed                              True               Included in MRS
+idCavern2_subgraph_isWestOf_3                   True            MRS composed                              True               Included in MRS
+idCavern3_subgraph_idDescriptor_1               True            MRS composed                              True               Included in MRS
+idCavern3_subgraph_idOrdinality_2               False           Inbound to failed node                    False              Inbound to failed node
+idCavern4BackOpening_subgraph_isWestOf_1        True            MRS composed                              True               Included in MRS
+idCavern4BackOpening_subgraph_isWestOf_2        True            MRS composed                              True               Included in MRS
+idCavern4FrontOpening_subgraph_idColor_5        True            MRS composed                              True               Included in MRS
+idCavern4FrontOpening_subgraph_idDescriptor_6   True            MRS composed                              True               Included in MRS
+idCavern4FrontOpening_subgraph_idDescriptor__2  True            MRS composed                              True               Included in MRS
+idCavern4FrontOpening_subgraph_idOrdinality_1   False           Inbound to failed node                    False              Inbound to failed node
+idCavern4FrontOpening_subgraph_isEastOf_3       True            MRS composed                              True               Included in MRS
+idCavern4FrontOpening_subgraph_isEastOf_7       True            MRS composed                              True               Included in MRS
+idCavern4FrontOpening_subgraph_isSouthOf_4      True            MRS composed                              True               Included in MRS
+idCavern4FrontOpening_subgraph_isSouthOf_8      True            MRS composed                              True               Included in MRS
+idCavern4_subgraph_idOpenState_1                True            MRS composed                              True               Included in MRS
+idCavern4_subgraph_idSize_2                     True            MRS composed                              True               Included in MRS
+idCavern4_subgraph_idTint_3                     True            MRS composed                              True               Included in MRS
+idCavern5LeftOpening_subgraph_idDescriptor_1    True            MRS composed                              True               Included in MRS
+idCavern5LeftOpening_subgraph_isEastOf_2        True            MRS composed                              True               Included in MRS
+idCavern5LeftOpening_subgraph_isWestOf_3        True            MRS composed                              True               Included in MRS
+idCavern5_subgraph_idArticleType_8              True            MRS composed                              True               Included in MRS
+idCavern5_subgraph_idColor_7                    True            MRS composed                              True               Included in MRS
+idCavern5_subgraph_idDescriptor_3               False           Inbound to failed node                    False              Inbound to failed node
+idCavern5_subgraph_idDescriptor__1              True            MRS composed                              True               Included in MRS
+idCavern5_subgraph_idLocation_4                 True            MRS composed                              True               Included in MRS
+idCavern5_subgraph_idOrdinality_2               False           Inbound to failed node                    False              Inbound to failed node
+idCavern5_subgraph_isEastOf_9                   True            MRS composed                              True               Included in MRS
+idCavern5_subgraph_isNorthOf_6                  True            MRS composed                              True               Included in MRS
+idCavern5_subgraph_isSouthOf_5                  True            MRS composed                              True               Included in MRS
+idCavern6FrontOpening_subgraph_isEastOf_1       True            MRS composed                              True               Included in MRS
+idCavern6FrontOpening_subgraph_isWestOf_2       True            MRS composed                              True               Included in MRS
+idCavern6FrontOpening_subgraph_isWestOf_3       True            MRS composed                              True               Included in MRS
+idCavern6Outside_subgraph_idDescriptor_1        True            MRS composed                              True               Included in MRS
+idCavern6Outside_subgraph_isSouthOf_3           True            MRS composed                              True               Included in MRS
+idCavern6Outside_subgraph_isWestOf_2            True            MRS composed                              True               Included in MRS
+idCavern6TopOpening_subgraph_idOpenState_1      True            MRS composed                              True               Included in MRS
+idCavern6TopOpening_subgraph_idSize_3           True            MRS composed                              True               Included in MRS
+idCavern6TopOpening_subgraph_idTint_2           True            MRS composed                              True               Included in MRS
+idCavern6TopOpening_subgraph_isWestOf_4         True            MRS composed                              True               Included in MRS
+idCavern6_subgraph_idOrdinality_2               False           Inbound to failed node                    False              Inbound to failed node
+idCavern6_subgraph_idTint_1                     True            MRS composed                              True               Included in MRS
+idCavern7BackOpening_subgraph_idColor_4         True            MRS composed                              True               Included in MRS
+idCavern7BackOpening_subgraph_idDescriptor_1    True            MRS composed                              True               Included in MRS
+idCavern7BackOpening_subgraph_idOrdinality_2    False           Inbound to failed node                    False              Inbound to failed node
+idCavern7BackOpening_subgraph_idWebTouched_5    True            MRS composed                              True               Included in MRS
+idCavern7BackOpening_subgraph_isInsideOf_6      True            MRS composed                              True               Included in MRS
+idCavern7BackOpening_subgraph_isNorthOf_7       True            MRS composed                              True               Included in MRS
+idCavern7BackOpening_subgraph_isWestOf_3        True            MRS composed                              True               Included in MRS
+idCavern7LeftOpening_subgraph_idDescriptor_3    False           Inbound to failed node                    False              Inbound to failed node
+idCavern7LeftOpening_subgraph_idDescriptor__2   True            MRS composed                              True               Included in MRS
+idCavern7LeftOpening_subgraph_isNorthOf_4       True            MRS composed                              True               Included in MRS
+idCavern7LeftOpening_subgraph_isWestOf_1        True            MRS composed                              True               Included in MRS
+idCavern7LeftOpening_subgraph_isWestOf_5        True            MRS composed                              True               Included in MRS
+idCavern7RightOpening_subgraph_idDescriptor_2   True            MRS composed                              True               Included in MRS
+idCavern7RightOpening_subgraph_idOrdinality_1   False           Inbound to failed node                    False              Inbound to failed node
+idCavern7RightOpening_subgraph_isWestOf_3       True            MRS composed                              True               Included in MRS
+idCavern7RightOpening_subgraph_isWestOf_4       True            MRS composed                              True               Included in MRS
+idCavern7_subgraph_idOrdinality_2               False           Inbound to failed node                    False              Inbound to failed node
+idCavern7_subgraph_idOrdinality_4               False           Inbound to failed node                    False              Inbound to failed node
+idCavern7_subgraph_idTint_1                     True            MRS composed                              True               Included in MRS
+idCavern7_subgraph_idTint_3                     True            MRS composed                              True               Included in MRS
+idCavern7_subgraph_isNorthOf_5                  True            MRS composed                              True               Included in MRS
+idCavern7_subgraph_isNorthOf_6                  True            MRS composed                              True               Included in MRS
+idCavern8_subgraph_idDescriptor_1               True            MRS composed                              True               Included in MRS
+idCavern8_subgraph_idHeight_5                   True            MRS composed                              True               Included in MRS
+idCavern8_subgraph_idImmovable_6                True            MRS composed                              True               Included in MRS
+idCavern8_subgraph_idOrdinality_2               False           Inbound to failed node                    False              Inbound to failed node
+idCavern8_subgraph_isEastOf_3                   True            MRS composed                              True               Included in MRS
+idCavern8_subgraph_isWestOf_4                   True            MRS composed                              True               Included in MRS
+idCavern8_subgraph_isWestOf_7                   True            MRS composed                              True               Included in MRS
+idClearing1_subgraph_idDescriptor_1             True            MRS composed                              True               Included in MRS
+idDeerSkeleton1_subgraph_idColor_1              True            MRS composed                              True               Included in MRS
+idDeerSkeleton1_subgraph_idDescriptor_2         True            MRS composed                              True               Included in MRS
+idGem1_subgraph_idColor_1                       True            MRS composed                              True               Included in MRS
+idGem1_subgraph_idDescriptor_2                  True            MRS composed                              True               Included in MRS
+idGlowingFlower1_subgraph_idColor_1             True            MRS composed                              True               Included in MRS
+idGlowingFlower1_subgraph_idImmovable_3         True            MRS composed                              True               Included in MRS
+idGlowingFlower1_subgraph_idOrdinality_5        False           Inbound to failed node                    False              Inbound to failed node
+idGlowingFlower1_subgraph_idTint_2              True            MRS composed                              True               Included in MRS
+idGlowingFlower1_subgraph_idTint_4              True            MRS composed                              True               Included in MRS
+idGlowingFlower1_subgraph_isEastOf_6            True            MRS composed                              True               Included in MRS
+idGlowingFlower1_subgraph_isEastOf_7            True            MRS composed                              True               Included in MRS
+idGrass1_subgraph_idArticleType_3               True            MRS composed                              True               Included in MRS
+idGrass1_subgraph_idColor_1                     True            MRS composed                              True               Included in MRS
+idGrass1_subgraph_idColor_4                     True            MRS composed                              True               Included in MRS
+idGrass1_subgraph_idDescriptor_5                True            MRS composed                              True               Included in MRS
+idGrass1_subgraph_idImmovable_2                 True            MRS composed                              True               Included in MRS
+idGrass1_subgraph_isNorthOf_6                   True            MRS composed                              True               Included in MRS
+idLiquid1_subgraph_idColor_2                    True            MRS composed                              True               Included in MRS
+idLiquid1_subgraph_idDescriptor_3               True            MRS composed                              True               Included in MRS
+idLiquid1_subgraph_idImmovable_1                True            MRS composed                              True               Included in MRS
+idLiquid1_subgraph_isEastOf_4                   True            MRS composed                              True               Included in MRS
+idMushroom1_subgraph_idColor_1                  True            MRS composed                              True               Included in MRS
+idMushroom1_subgraph_idDescriptor__2            True            MRS composed                              True               Included in MRS
+idMushroom1_subgraph_idOrdinality_3             False           Inbound to failed node                    False              Inbound to failed node
+idMushroom1_subgraph_isEastOf_4                 True            MRS composed                              True               Included in MRS
+idPlayerBackside_subgraph_isEastOf_1            True            MRS composed                              True               Included in MRS
+idPlayerLeftHand_subgraph_idLocation_1          True            MRS composed                              True               Included in MRS
+idPlayerRightHand_subgraph_idLocation_1         True            MRS composed                              True               Included in MRS
+idPlayerRightHand_subgraph_isEastOf_2           True            MRS composed                              True               Included in MRS
+idPlayer_subgraph_idBoulderMoved_1              False           'idBoulderMoved' has no value in lexicon  False              'idBoulderMoved' has no value in lexicon
+idSpider1_subgraph_idColor_1                    True            MRS composed                              True               Included in MRS
+idSpider1_subgraph_idDescriptor_2               True            MRS composed                              True               Included in MRS
+idSpider1_subgraph_isWestOf_3                   True            MRS composed                              True               Included in MRS
+idSpiderWeb1_subgraph_idColor_1                 True            MRS composed                              True               Included in MRS
+idSpiderWeb1_subgraph_idWebTouched_2            True            MRS composed                              True               Included in MRS

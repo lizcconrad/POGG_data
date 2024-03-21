@@ -1,0 +1,498 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idLivingRoomToBedroomDoor1_subgraph.dot
+[ TOP: h3029
+  INDEX: e3026
+  RELS: < [ unknown LBL: h3028 ARG: x3022 ARG0: e3026 ]
+          [ def_udef_a_q LBL: h3025 ARG0: x3022 RSTR: h3023 BODY: h3024 ]
+          [ loc_nonsp LBL: h2907 ARG0: i3018 ARG1: x3022 ARG2: x3012 ]
+          [ loc_nonsp LBL: h2907 ARG0: i2934 ARG1: x3022 ARG2: x2921 ]
+          [ _open_a_to LBL: h2907 ARG0: e2904 ARG1: x3022 ARG2: u2906 ]
+          [ compound LBL: h2907 ARG0: e2900 ARG1: x3022 ARG2: x2896 ]
+          [ udef_q LBL: h2899 ARG0: x2896 RSTR: h2897 BODY: h2898 ]
+          [ _bedroom_n_1 LBL: h2895 ARG0: x2896 ]
+          [ _door_n_1 LBL: h2907 ARG0: x3022 ]
+          [ def_implicit_q LBL: h2933 ARG0: x2921 RSTR: h2931 BODY: h2932 ]
+          [ _east_a_1 LBL: h2923 ARG0: i2920 ARG1: x2921 ARG2: x2908 ]
+          [ def_udef_a_q LBL: h2927 ARG0: x2908 RSTR: h2925 BODY: h2926 ]
+          [ compound LBL: h2909 ARG0: e2916 ARG1: x2908 ARG2: x2910 ]
+          [ udef_q LBL: h2915 ARG0: x2910 RSTR: h2913 BODY: h2914 ]
+          [ _back_n_1 LBL: h2911 ARG0: x2910 ]
+          [ _opening_n_1 LBL: h2909 ARG0: x2908 ]
+          [ place_n LBL: h2923 ARG0: x2921 ]
+          [ def_implicit_q LBL: h3017 ARG0: x3012 RSTR: h3015 BODY: h3016 ]
+          [ _east_a_1 LBL: h3013 ARG0: i3004 ARG1: x3012 ARG2: x2938 ]
+          [ def_udef_a_q LBL: h3011 ARG0: x2938 RSTR: h3009 BODY: h3010 ]
+          [ loc_nonsp LBL: h2939 ARG0: i3000 ARG1: x2938 ARG2: x2987 ]
+          [ _on_p_loc LBL: h2939 ARG0: e2965 ARG1: x2938 ARG2: x2969 ]
+          [ def_udef_a_q LBL: h2972 ARG0: x2969 RSTR: h2970 BODY: h2971 ]
+          [ _left_n_of LBL: h2964 ARG0: x2969 ARG1: i2963 ]
+          [ poss LBL: h2939 ARG0: e2958 ARG1: x2938 ARG2: x2954 ]
+          [ compound LBL: h2939 ARG0: e2947 ARG1: x2938 ARG2: x2943 ]
+          [ udef_q LBL: h2946 ARG0: x2943 RSTR: h2944 BODY: h2945 ]
+          [ _left_n_of LBL: h2942 ARG0: x2943 ARG1: i2941 ]
+          [ _hand_n_1 LBL: h2939 ARG0: x2938 ]
+          [ def_udef_a_q LBL: h2957 ARG0: x2954 RSTR: h2955 BODY: h2956 ]
+          [ _player_n_of LBL: h2953 ARG0: x2954 ARG1: i2952 ]
+          [ def_implicit_q LBL: h2999 ARG0: x2987 RSTR: h2997 BODY: h2998 ]
+          [ _west_a_1 LBL: h2989 ARG0: i2986 ARG1: x2987 ARG2: x2973 ]
+          [ def_udef_a_q LBL: h2993 ARG0: x2973 RSTR: h2991 BODY: h2992 ]
+          [ compound LBL: h2975 ARG0: e2982 ARG1: x2973 ARG2: x2978 ]
+          [ udef_q LBL: h2981 ARG0: x2978 RSTR: h2979 BODY: h2980 ]
+          [ _cabinet_n_1 LBL: h2977 ARG0: x2978 ]
+          [ _drawer_n_of LBL: h2975 ARG0: x2973 ARG1: i2974 ]
+          [ place_n LBL: h2989 ARG0: x2987 ]
+          [ place_n LBL: h3013 ARG0: x3012 ] >
+  HCONS: < h2897 qeq h2895 h2913 qeq h2911 h2925 qeq h2909 h2931 qeq h2923 h2970 qeq h2964 h2944 qeq h2942 h2955 qeq h2953 h2979 qeq h2977 h2991 qeq h2975 h2997 qeq h2989 h3009 qeq h2939 h3015 qeq h3013 h3023 qeq h2907 h3029 qeq h3028 > ]
+GENERATED RESULTS ... 
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the lefts east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the lefts east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the lefts east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the lefts east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawers east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands on the lefts west of the cabinet drawers
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawers east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands on the lefts west of the cabinet drawers
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the left east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawer on the left
+Open bedroom doors east of the player's left hands west of a cabinet drawer on the lefts east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands west of a cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the left east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands west of the cabinet drawer on the left
+Open bedroom doors east of the player's left hands on the left west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands on the left west of the cabinet drawer
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawer on the lefts.
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the lefts east of a back opening
+Open bedroom doors east of the player's left hands west of a cabinet drawer on the lefts east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands west of a cabinet drawer on the lefts
+Open bedroom doors east of a back opening east of the player's left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands on the lefts west of a cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands on the lefts west of a cabinet drawer
+Open bedroom doors east of the player's left hands on the left west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands on the left west of the cabinet drawer
+Open bedroom doors east of the back opening east of the player's left hands west of the cabinet drawer on the lefts.
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the left east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawers on the left
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawer east of a back opening
+Open bedroom doors east of the player's left hands on the lefts west of a cabinet drawer east of the back opening
+Open bedroom doors east of a back opening east of the player's left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of the back opening east of the player's left hands on the lefts west of a cabinet drawer
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the lefts east of the back openings.
+Open bedroom doors east of the back openings east of the player's left hands on the lefts west of the cabinet drawers.
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the left east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands west of the cabinet drawers on the left
+Open bedroom doors east of the player's left hands on the left west of the cabinet drawers east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands on the left west of the cabinet drawers
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawers on the lefts.
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawer east of the back openings.
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the lefts east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of the back openings east of the player's left hands on the lefts west of the cabinet drawer.
+Open bedroom doors east of the back opening east of the player's left hands on the lefts west of the cabinet drawers.
+Open bedroom doors east of a player's left hands west of the cabinet drawer on the lefts east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands on the left west of the cabinet drawers east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands on the left west of the cabinet drawers
+Open bedroom doors east of the back opening east of the player's left hands west of the cabinet drawers on the lefts.
+Open bedroom doors east of the back opening east of the player's left hands on the lefts west of the cabinet drawer.
+Open bedroom doors east of a player's left hands west of the cabinet drawer on the lefts east of the back opening
+Open bedroom doors east of the back opening east of a player's left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawers east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands on the lefts west of the cabinet drawers
+Open bedroom doors east of a player's left hands on the lefts west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the lefts east of the back openings.
+Open bedroom doors east of the player's left hands on a left west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands on a left west of the cabinet drawer
+Open bedroom doors east of a player's left hands on the lefts west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of a player's left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands west of a cabinet drawer on the left east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands west of a cabinet drawer on the left
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawers east of the back openings.
+Open bedroom doors east of the player's left hands on a left west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands on a left west of the cabinet drawer
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawer on the left.
+Open bedroom doors east of a player's left hands west of the cabinet drawers on the lefts east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of the players' left hands west of the cabinet drawer on the lefts east of the back openings
+Open bedroom doors east of the back openings east of the players' left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands west of a cabinet drawer on the left east of the back opening
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the left east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands west of the cabinet drawer on the left
+Open bedroom doors east of the back opening east of the player's left hands west of a cabinet drawer on the left
+Open bedroom doors east of the player's left hands on the left west of a cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands on the left west of a cabinet drawer
+Open bedroom doors east of the back opening east of the player's left hands west of the cabinet drawer on the left.
+Open bedroom doors east of the back openings east of the player's left hands west of a cabinet drawer on the lefts.
+Open bedroom doors east of a player's left hands west of the cabinet drawers on the lefts east of the back opening
+Open bedroom doors east of the back opening east of a player's left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of the players' left hands west of the cabinet drawer on the lefts east of the back opening
+Open bedroom doors east of the back opening east of the players' left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands west of the cabinet drawer on a left east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawer on a left
+Open bedroom doors east of the player's left hands west of a cabinet drawer on the lefts east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands west of a cabinet drawer on the lefts
+Open bedroom doors east of a player's left hands on the lefts west of the cabinet drawers east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands on the lefts west of the cabinet drawers
+Open bedroom doors east of the players' left hands on the lefts west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the players' left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands on the left west of the cabinet drawer east of a back opening
+Open bedroom doors east of the player's left hands on the left west of a cabinet drawer east of the back opening
+Open bedroom doors east of a back opening east of the player's left hands on the left west of the cabinet drawer
+Open bedroom doors east of the back opening east of the player's left hands on the left west of a cabinet drawer
+Open bedroom doors east of the player's left hands on a left west of the cabinet drawers east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands on a left west of the cabinet drawers
+Open bedroom doors east of a back opening east of the player's left hands west of the cabinet drawer on the lefts.
+Open bedroom doors east of the back opening east of the player's left hands west of a cabinet drawer on the lefts.
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the left east of the back openings.
+Open bedroom doors east of the player's left hands west of the cabinet drawer on a left east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands west of the cabinet drawer on a left
+Open bedroom doors east of a player's left hands on the lefts west of the cabinet drawers east of the back opening
+Open bedroom doors east of the back opening east of a player's left hands on the lefts west of the cabinet drawers
+Open bedroom doors east of the players' left hands on the lefts west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of the players' left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands on the lefts west of a cabinet drawer east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands on the lefts west of a cabinet drawer
+Open bedroom doors east of the back openings east of the player's left hands on the left west of the cabinet drawers.
+Open bedroom doors east of the player's left hands west of a cabinet drawer on the lefts east of the back openings.
+Open bedroom doors east of the player's left hands on a left west of the cabinet drawers east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands on a left west of the cabinet drawers
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawers on the left.
+Open bedroom doors east of the players' left hands west of the cabinet drawers on the lefts east of the back openings
+Open bedroom doors east of the back openings east of the players' left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the lefts east of the backed, openings.
+Open bedroom doors east of the player's left hands on the left west of the cabinet drawer east of the back openings.
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the left east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands west of the cabinet drawers on the left
+Open bedroom doors east of the back openings east of the player's left hands on the left west of the cabinet drawer.
+Open bedroom doors east of the back opening east of the player's left hands on the left west of the cabinet drawers.
+Open bedroom doors east of a player's left hands west of the cabinet drawer on the left east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands west of the cabinet drawer on the left
+Open bedroom doors east of the back opening east of the player's left hands west of the cabinet drawers on the left.
+Open bedroom doors east of the player's left hands on the lefts west of a cabinet drawer east of the back openings.
+Open bedroom doors east of the player's left hand west of the cabinet drawer on the lefts east of the back openings
+Open bedroom doors east of the back openings east of the player's left hand west of the cabinet drawer on the lefts
+Open bedroom doors east of the players' left hands west of the cabinet drawers on the lefts east of the back opening
+Open bedroom doors east of the back opening east of the players' left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of the player's left hands west of the cabinet drawers on a left east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawers on a left
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the lefts east of the backed, openings
+Open bedroom doors east of the backed, openings east of the player's left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of the back openings east of the player's left hands on the lefts west of a cabinet drawer.
+Open bedroom doors east of a back opening east of the player's left hands on the lefts west of the cabinet drawers.
+Open bedroom doors east of the players' left hands on the lefts west of the cabinet drawers east of the back openings
+Open bedroom doors east of the back openings east of the players' left hands on the lefts west of the cabinet drawers
+Open bedroom doors east of the player's left hands on lefts west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands on lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the lefts east of the back opening.
+Open bedroom doors east of a player's left hands west of a cabinet drawer on the lefts east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands west of a cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawer east of the backed, openings.
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the lefts east of the backed, opening
+Open bedroom doors east of the backed, opening east of the player's left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands, on the lefts west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands, on the lefts west of the cabinet drawer
+Open bedroom doors east of the back opening east of the player's left hands on the left west of the cabinet drawer.
+Open bedroom doors east of a player's left hands west of the cabinet drawer on the left east of the back opening
+Open bedroom doors east of the back opening east of a player's left hands west of the cabinet drawer on the left
+Open bedroom doors east of the player's left hands on the left west of the cabinet drawers east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands on the left west of the cabinet drawers
+Open bedroom doors east of a back opening east of the player's left hands west of the cabinet drawers on the lefts.
+Open bedroom doors east of a player's left hands on the left west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands on the left west of the cabinet drawer
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the left east of the back openings.
+Open bedroom doors east of the player's left hand west of the cabinet drawer on the lefts east of the back opening
+Open bedroom doors east of the back opening east of the player's left hand west of the cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands west of the cabinet drawers on a left east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands west of the cabinet drawers on a left
+Open bedroom doors east of the back openings east of a player's left hands west of the cabinet drawer on the lefts.
+Open bedroom doors east of a back opening east of the player's left hands on the lefts west of the cabinet drawer.
+Open bedroom doors east of the back opening east of the player's left hands on the lefts west of a cabinet drawer.
+Open bedroom doors east of the player's left hand on the lefts west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hand on the lefts west of the cabinet drawer
+Open bedroom doors east of the players' left hands on the lefts west of the cabinet drawers east of the back opening
+Open bedroom doors east of the back opening east of the players' left hands on the lefts west of the cabinet drawers
+Open bedroom doors east of the player's left hands on lefts west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands on lefts west of the cabinet drawer
+Open bedroom doors east of a player's left hands west of the cabinet drawer on the lefts east of a back opening
+Open bedroom doors east of a back opening east of a player's left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of a player's left hands west of a cabinet drawer on the lefts east of the back opening
+Open bedroom doors east of the back opening east of a player's left hands west of a cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawer east of the backed, openings
+Open bedroom doors east of the backed, openings east of the player's left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands, on the lefts west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands, on the lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawer east of the back opening.
+Open bedroom doors east of a player's left hands on the lefts west of a cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands on the lefts west of a cabinet drawer
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawer east of the backed, opening
+Open bedroom doors east of the backed, opening east of the player's left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of a player's left hands on the left west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of a player's left hands on the left west of the cabinet drawer
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the lefts east of the backed, openings.
+Open bedroom doors east of the player's left hands on a left west of a cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands on a left west of a cabinet drawer
+Open bedroom doors east of the back opening east of a player's left hands west of the cabinet drawer on the lefts.
+Open bedroom doors east of the player's left hands on the left west of the cabinet drawers east of the back openings.
+Open bedroom doors east of the player's left hand on the lefts west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of the player's left hand on the lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the lefts east of a backed, opening
+Open bedroom doors east of a backed, opening east of the player's left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of a player's left hands west of the cabinet drawers on the left east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands west of the cabinet drawers on the left
+Open bedroom doors east of the players' left hands west of the cabinet drawer on the left east of the back openings
+Open bedroom doors east of the back openings east of the players' left hands west of the cabinet drawer on the left
+Open bedroom doors east of a player's left hands on the lefts west of a cabinet drawer east of the back opening
+Open bedroom doors east of a back opening east of a player's left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of a player's left hands on the lefts west of the cabinet drawer east of a back opening
+Open bedroom doors east of the back opening east of a player's left hands on the lefts west of a cabinet drawer
+Open bedroom doors east of a player's left hands west of the cabinet drawer on the lefts east of the back openings.
+Open bedroom doors east of the player's left hand west of the cabinet drawers on the lefts east of the back openings
+Open bedroom doors east of the back openings east of the player's left hand west of the cabinet drawers on the lefts
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the lefts east of the backed, openings
+Open bedroom doors east of the backed, openings east of the player's left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of the player's left hands on a left west of a cabinet drawer east of the back opening
+Open bedroom doors east of the player's left hands on a left west of the cabinet drawer east of a back opening
+Open bedroom doors east of the back opening east of the player's left hands on a left west of a cabinet drawer
+Open bedroom doors east of a back opening east of the player's left hands on a left west of the cabinet drawer
+Open bedroom doors east of the back openings east of the player's left hands west of a cabinet drawer on the left.
+Open bedroom doors east of the player's left hands on lefts west of the cabinet drawers east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands on lefts west of the cabinet drawers
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the lefts east of the back opening.
+Open bedroom doors east of the players' left hands west of a cabinet drawer on the lefts east of the back openings
+Open bedroom doors east of the back openings east of the players' left hands west of a cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawers east of the backed, openings.
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the lefts east of the backed, opening
+Open bedroom doors east of the backed, opening east of the player's left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of the back openings east of a player's left hands on the lefts west of the cabinet drawers.
+Open bedroom doors east of the player's left hands, on the lefts west of the cabinet drawers east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands, on the lefts west of the cabinet drawers
+Open bedroom doors east of a player's left hands west of the cabinet drawers on the left east of the back opening
+Open bedroom doors east of the back opening east of a player's left hands west of the cabinet drawers on the left
+Open bedroom doors east of the players' left hands west of the cabinet drawer on the left east of the back opening
+Open bedroom doors east of the back opening east of the players' left hands west of the cabinet drawer on the left
+Open bedroom doors east of the player's left hands west of a cabinet drawer on the left east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands west of a cabinet drawer on the left
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawer east of a backed, opening
+Open bedroom doors east of a backed, opening east of the player's left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of a player's left hands on the left west of the cabinet drawers east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands on the left west of the cabinet drawers
+Open bedroom doors east of the players' left hands on the left west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the players' left hands on the left west of the cabinet drawer
+Open bedroom doors east of the back openings east of the player's left hands on a left west of the cabinet drawers.
+Open bedroom doors east of the player's left hand west of the cabinet drawers on the lefts east of the back opening
+Open bedroom doors east of the back opening east of the player's left hand west of the cabinet drawers on the lefts
+Open bedroom doors east of the back openings east of a player's left hands west of the cabinet drawers on the lefts.
+Open bedroom doors east of the back openings east of the players' left hands west of the cabinet drawer on the lefts.
+Open bedroom doors east of a back opening east of the player's left hands west of the cabinet drawer on the left.
+Open bedroom doors east of the back opening east of the player's left hands west of a cabinet drawer on the left.
+Open bedroom doors east of a player's left hands on the lefts west of the cabinet drawer east of the back openings.
+Open bedroom doors east of the player's left hand on the lefts west of the cabinet drawers east of the back openings
+Open bedroom doors east of the back openings east of the player's left hand on the lefts west of the cabinet drawers
+Open bedroom doors east of the player's left hands on lefts west of the cabinet drawers east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands on lefts west of the cabinet drawers
+Open bedroom doors east of a player's left hands west of the cabinet drawers on the lefts east of a back opening
+Open bedroom doors east of a back opening east of a player's left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of the players' left hands west of the cabinet drawer on the lefts east of a back opening
+Open bedroom doors east of the players' left hands west of a cabinet drawer on the lefts east of the back opening
+Open bedroom doors east of the back opening east of the players' left hands west of a cabinet drawer on the lefts
+Open bedroom doors east of a back opening east of the players' left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands west of a cabinet drawer on a left east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands west of a cabinet drawer on a left
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawers east of the backed, openings
+Open bedroom doors east of the backed, openings east of the player's left hands on the lefts west of the cabinet drawers
+Open bedroom doors east of the back openings east of a player's left hands on the lefts west of the cabinet drawer.
+Open bedroom doors east of the back opening east of a player's left hands on the lefts west of the cabinet drawers.
+Open bedroom doors east of the player's left hands, on the lefts west of the cabinet drawers east of the back opening
+Open bedroom doors east of the back opening east of the player's left hands, on the lefts west of the cabinet drawers
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawers east of the back opening.
+Open bedroom doors east of the players' left hands on the lefts west of a cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the players' left hands on the lefts west of a cabinet drawer
+Open bedroom doors east of the player's left hands on a left west of the cabinet drawer east of the back openings.
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawers east of the backed, opening
+Open bedroom doors east of the backed, opening east of the player's left hands on the lefts west of the cabinet drawers
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawer on a left.
+Open bedroom doors east of a player's left hands on the left west of the cabinet drawers east of the back opening
+Open bedroom doors east of the back opening east of a player's left hands on the left west of the cabinet drawers
+Open bedroom doors east of the players' left hands on the left west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of the players' left hands on the left west of the cabinet drawer
+Open bedroom doors east of the back openings east of the player's left hands on a left west of the cabinet drawer.
+Open bedroom doors east of the back opening east of the player's left hands on a left west of the cabinet drawers.
+Open bedroom doors east of the player's left hands on the left west of a cabinet drawer east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands on the left west of a cabinet drawer
+Open bedroom doors east of players' left hands west of the cabinet drawer on the lefts east of the back openings
+Open bedroom doors east of the back openings east of players' left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of the back opening east of a player's left hands west of the cabinet drawers on the lefts.
+Open bedroom doors east of the back opening east of the players' left hands west of the cabinet drawer on the lefts.
+Open bedroom doors east of a back opening east of the player's left hands west of a cabinet drawer on the lefts.
+Open bedroom doors east of the player's left hand on the lefts west of the cabinet drawers east of the back opening
+Open bedroom doors east of the back opening east of the player's left hand on the lefts west of the cabinet drawers
+Open bedroom doors east of the player's left hands west of a cabinet drawer on the left east of the back openings.
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the lefts east of a backed, opening
+Open bedroom doors east of a backed, opening east of the player's left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of the player's left hands west of a cabinet drawer on a left east of the back opening
+Open bedroom doors east of the player's left hands west of the cabinet drawer on a left east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands west of the cabinet drawer on a left
+Open bedroom doors east of the back opening east of the player's left hands west of a cabinet drawer on a left
+Open bedroom doors east of the back opening east of a player's left hands on the lefts west of the cabinet drawer.
+Open bedroom doors east of the players' left hands west of the cabinet drawers on the left east of the back openings
+Open bedroom doors east of the back openings east of the players' left hands west of the cabinet drawers on the left
+Open bedroom doors east of the player's left hand, on the lefts west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hand, on the lefts west of the cabinet drawer
+Open bedroom doors east of a player's left hands on the lefts west of the cabinet drawers east of a back opening
+Open bedroom doors east of a back opening east of a player's left hands on the lefts west of the cabinet drawers
+Open bedroom doors east of the players' left hands on the lefts west of the cabinet drawer east of a back opening
+Open bedroom doors east of the players' left hands on the lefts west of a cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of the players' left hands on the lefts west of a cabinet drawer
+Open bedroom doors east of a back opening east of the players' left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the left east of the backed, openings.
+Open bedroom doors east of the back opening east of the player's left hands west of the cabinet drawer on a left.
+Open bedroom doors east of a player's left hands west of the cabinet drawers on the lefts east of the back openings.
+Open bedroom doors east of the players' left hands west of the cabinet drawer on the lefts east of the back openings.
+Open bedroom doors east of the back opening east of the player's left hands on a left west of the cabinet drawer.
+Open bedroom doors east of the player's left hands on a left west of the cabinet drawers east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands on a left west of the cabinet drawers
+Open bedroom doors east of players' left hands west of the cabinet drawer on the lefts east of the back opening
+Open bedroom doors east of the back opening east of players' left hands west of the cabinet drawer on the lefts
+Open bedroom doors east of a player's left hands on a left west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands on a left west of the cabinet drawer
+Open bedroom doors east of the player's left hands west of a cabinet drawer on the lefts east of the backed, openings.
+Open bedroom doors east of players' left hands on the lefts west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of players' left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawer on lefts.
+Open bedroom doors east of the back openings east of the players' left hands on the lefts west of the cabinet drawers.
+Open bedroom doors east of the player's left hands on the left west of a cabinet drawer east of the back openings.
+Open bedroom doors east of the player's left hand west of the cabinet drawer on the left east of the back openings
+Open bedroom doors east of the back openings east of the player's left hand west of the cabinet drawer on the left
+Open bedroom doors east of the players' left hands west of the cabinet drawers on the left east of the back opening
+Open bedroom doors east of the back opening east of the players' left hands west of the cabinet drawers on the left
+Open bedroom doors east of the player's left hand, on the lefts west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of the player's left hand, on the lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawers east of a backed, opening
+Open bedroom doors east of a backed, opening east of the player's left hands on the lefts west of the cabinet drawers
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the lefts east of the backed, opening.
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the left east of the backed, openings
+Open bedroom doors east of the backed, openings east of the player's left hands west of the cabinet drawer on the left
+Open bedroom doors east of the back openings east of the player's left hands on the left west of a cabinet drawer.
+Open bedroom doors east of a back opening east of the player's left hands on the left west of the cabinet drawers.
+Open bedroom doors east of the players' left hands on the left west of the cabinet drawers east of the back openings
+Open bedroom doors east of the back openings east of the players' left hands on the left west of the cabinet drawers
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the left east of the back opening.
+Open bedroom doors east of a player's left hands west of a cabinet drawer on the left east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands west of a cabinet drawer on the left
+Open bedroom doors east of the player's left hands on the left west of the cabinet drawer east of the backed, openings.
+Open bedroom doors east of the player's left hands west of the cabinet drawer on a left east of the back openings.
+Open bedroom doors east of the back openings east of the players' left hands west of the cabinet drawers on the lefts.
+Open bedroom doors east of a back opening east of the player's left hands west of the cabinet drawers on the left.
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the left east of the backed, opening
+Open bedroom doors east of the backed, opening east of the player's left hands west of the cabinet drawer on the left
+Open bedroom doors east of a player's left hands on the lefts west of the cabinet drawers east of the back openings.
+Open bedroom doors east of the players' left hands on the lefts west of the cabinet drawer east of the back openings.
+Open bedroom doors east of the player's left hand west of a cabinet drawer on the lefts east of the back openings
+Open bedroom doors east of the back openings east of the player's left hand west of a cabinet drawer on the lefts
+Open bedroom doors east of the players' left hands west of the cabinet drawers on the lefts east of a back opening
+Open bedroom doors east of a back opening east of the players' left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of a player's left hands on a left west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of a player's left hands on a left west of the cabinet drawer
+Open bedroom doors east of the back openings east of a player's left hands west of the cabinet drawer on the left.
+Open bedroom doors east of players' left hands on the lefts west of the cabinet drawer east of the back opening
+Open bedroom doors east of the back opening east of players' left hands on the lefts west of the cabinet drawer
+Open bedroom doors east of the player's left hands west of a cabinet drawer on the lefts east of the backed, openings
+Open bedroom doors east of the backed, openings east of the player's left hands west of a cabinet drawer on the lefts
+Open bedroom doors east of the back opening east of the player's left hands west of the cabinet drawer on lefts.
+Open bedroom doors east of the back openings east of the players' left hands on the lefts west of the cabinet drawer.
+Open bedroom doors east of the back opening east of the players' left hands on the lefts west of the cabinet drawers.
+Open bedroom doors east of the player's left hand west of the cabinet drawer on the left east of the back opening
+Open bedroom doors east of the back opening east of the player's left hand west of the cabinet drawer on the left
+Open bedroom doors east of the player's left hands on lefts west of a cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands on lefts west of a cabinet drawer
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the lefts east of a back opening.
+Open bedroom doors east of the player's left hands west of a cabinet drawer on the lefts east of the back opening.
+Open bedroom doors east of the player's left hands on a left west of the cabinet drawers east of the back openings.
+Open bedroom doors east of the player's left hands on the lefts west of a cabinet drawer east of the backed, openings.
+Open bedroom doors east of the back openings east of the player's left hands west of the cabinet drawers on a left.
+Open bedroom doors east of the player's left hands west of a cabinet drawer on the lefts east of the backed, opening
+Open bedroom doors east of the backed, opening east of the player's left hands west of a cabinet drawer on the lefts
+Open bedroom doors east of the player's left hands, on the lefts west of a cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hands, on the lefts west of a cabinet drawer
+Open bedroom doors east of a back opening east of the player's left hands on the left west of the cabinet drawer.
+Open bedroom doors east of the back opening east of the player's left hands on the left west of a cabinet drawer.
+Open bedroom doors east of the player's left hand on the left west of the cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hand on the left west of the cabinet drawer
+Open bedroom doors east of the players' left hands on the left west of the cabinet drawers east of the back opening
+Open bedroom doors east of the back opening east of the players' left hands on the left west of the cabinet drawers
+Open bedroom doors east of a player's left hands west of a cabinet drawer on the left east of the back opening
+Open bedroom doors east of a back opening east of a player's left hands west of the cabinet drawer on the left
+Open bedroom doors east of a player's left hands west of the cabinet drawer on the left east of a back opening
+Open bedroom doors east of the back opening east of a player's left hands west of a cabinet drawer on the left
+Open bedroom doors east of the player's left hands on the lefts west of the cabinet drawer east of the backed, opening.
+Open bedroom doors east of the player's left hands on the left west of the cabinet drawer east of the backed, openings
+Open bedroom doors east of the backed, openings east of the player's left hands on the left west of the cabinet drawer
+Open bedroom doors east of players' left hands west of the cabinet drawers on the lefts east of the back openings
+Open bedroom doors east of the back openings east of players' left hands west of the cabinet drawers on the lefts
+Open bedroom doors east of the back openings east of the player's left hand west of the cabinet drawer on the lefts.
+Open bedroom doors east of the back opening east of the players' left hands west of the cabinet drawers on the lefts.
+Open bedroom doors east of the backed, openings east of the player's left hands west of the cabinet drawer on the lefts.
+Open bedroom doors east of the player's left hands on the left west of the cabinet drawer east of the back opening.
+Open bedroom doors east of a player's left hands on the left west of a cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands on the left west of a cabinet drawer
+Open bedroom doors east of the player's left hand west of a cabinet drawer on the lefts east of the back opening
+Open bedroom doors east of the player's left hand west of the cabinet drawer on the lefts east of a back opening
+Open bedroom doors east of a back opening east of the player's left hand west of the cabinet drawer on the lefts
+Open bedroom doors east of the back opening east of the player's left hand west of a cabinet drawer on the lefts
+Open bedroom doors east of the back opening east of a player's left hands west of the cabinet drawer on the left.
+Open bedroom doors east of the player's left hands west of the cabinet drawers on a left east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands west of the cabinet drawers on a left
+Open bedroom doors east of the player's left hands on the left west of the cabinet drawer east of the backed, opening
+Open bedroom doors east of the backed, opening east of the player's left hands on the left west of the cabinet drawer
+Open bedroom doors east of the back openings east of a player's left hands west of a cabinet drawer on the lefts.
+Open bedroom doors east of the back opening east of the players' left hands on the lefts west of the cabinet drawer.
+Open bedroom doors east of the player's left hand, on the lefts west of the cabinet drawers east of the back openings
+Open bedroom doors east of the back openings east of the player's left hand, on the lefts west of the cabinet drawers
+Open bedroom doors east of the backed, opening east of the player's left hands west of the cabinet drawer on the lefts.
+Open bedroom doors east of a back opening east of the player's left hands on the lefts west of a cabinet drawer.
+Open bedroom doors east of the player's left hand on the lefts west of a cabinet drawer east of the back openings
+Open bedroom doors east of the back openings east of the player's left hand on the lefts west of a cabinet drawer
+Open bedroom doors east of the player's left hands west of the cabinet drawer on the lefts east of a backed, opening.
+Open bedroom doors east of the players' left hands on the lefts west of the cabinet drawers east of a back opening
+Open bedroom doors east of a back opening east of the players' left hands on the lefts west of the cabinet drawers
+Open bedroom doors east of the player's left hands on lefts west of a cabinet drawer east of the back opening
+Open bedroom doors east of the player's left hands on lefts west of the cabinet drawer east of a back opening
+Open bedroom doors east of a back opening east of the player's left hands on lefts west of the cabinet drawer
+Open bedroom doors east of the back opening east of the player's left hands on lefts west of a cabinet drawer
+Open bedroom doors east of the player's left hands west of the cabinet drawers on the left east of the backed, openings.
+Open bedroom doors east of a player's left hands west of the cabinet drawer on a left east of the back openings
+Open bedroom doors east of the back openings east of a player's left hands west of the cabinet drawer on a left
+Open bedroom doors east of a player's left hands west of a cabinet drawer on the lefts east of a back opening
+
+TOTAL RESULTS: 427
+
+Node                         MRS Produced    Reason                 Included in MRS    Reason
+---------------------------  --------------  ---------------------  -----------------  ---------------
+idBedroom1BackOpening_3      True            MRS fragment produced  True               Included in MRS
+idKitchCabDrawer_6           True            MRS fragment produced  True               Included in MRS
+idLivingRoomToBedroomDoor_1  True            MRS fragment produced  True               Included in MRS
+idLocalLeft_5                True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_4           True            MRS fragment produced  True               Included in MRS
+open_2                       True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idLocation_3   True            MRS composed  True               Included in MRS
+idOpenState_1  True            MRS composed  True               Included in MRS
+isEastOf_2     True            MRS composed  True               Included in MRS
+isEastOf_5     True            MRS composed  True               Included in MRS
+isWestOf_4     True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        6           1
+Nodes              Included             6        6           1
+Edges              Produced             5        5           1
+Edges              Included             5        5           1

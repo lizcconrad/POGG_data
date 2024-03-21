@@ -1,0 +1,812 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idCostumeCloset1BackOpening_subgraph.dot
+[ TOP: h3997
+  INDEX: e3994
+  RELS: < [ unknown LBL: h3996 ARG: x3848 ARG0: e3994 ]
+          [ def_udef_a_q LBL: h3993 ARG0: x3848 RSTR: h3991 BODY: h3992 ]
+          [ loc_nonsp LBL: h3936 ARG0: i3986 ARG1: x3848 ARG2: x3980 ]
+          [ loc_nonsp LBL: h3936 ARG0: i3933 ARG1: x3848 ARG2: x3927 ]
+          [ compound LBL: h3936 ARG0: e3856 ARG1: x3848 ARG2: x3850 ]
+          [ udef_q LBL: h3855 ARG0: x3850 RSTR: h3853 BODY: h3854 ]
+          [ _back_n_1 LBL: h3851 ARG0: x3850 ]
+          [ _opening_n_1 LBL: h3936 ARG0: x3848 ]
+          [ def_implicit_q LBL: h3932 ARG0: x3927 RSTR: h3930 BODY: h3931 ]
+          [ _north_a_1 LBL: h3928 ARG0: i3919 ARG1: x3927 ARG2: x3923 ]
+          [ def_udef_a_q LBL: h3926 ARG0: x3923 RSTR: h3924 BODY: h3925 ]
+          [ loc_nonsp LBL: h3888 ARG0: i3915 ARG1: x3923 ARG2: x3909 ]
+          [ _open_a_to LBL: h3888 ARG0: e3885 ARG1: x3923 ARG2: u3887 ]
+          [ _white_a_1 LBL: h3888 ARG0: i3882 ARG1: x3923 ]
+          [ compound LBL: h3888 ARG0: e3878 ARG1: x3923 ARG2: x3862 ]
+          [ udef_q LBL: h3877 ARG0: x3862 RSTR: h3875 BODY: h3876 ]
+          [ compound LBL: h3873 ARG0: e3870 ARG1: x3862 ARG2: x3866 ]
+          [ udef_q LBL: h3869 ARG0: x3866 RSTR: h3867 BODY: h3868 ]
+          [ _drama_n_1 LBL: h3865 ARG0: x3866 ]
+          [ _building_n_1 LBL: h3873 ARG0: x3862 ]
+          [ _door_n_1 LBL: h3888 ARG0: x3923 ]
+          [ def_implicit_q LBL: h3914 ARG0: x3909 RSTR: h3912 BODY: h3913 ]
+          [ _south_a_1 LBL: h3904 ARG0: i3901 ARG1: x3909 ARG2: x3889 ]
+          [ def_udef_a_q LBL: h3908 ARG0: x3889 RSTR: h3906 BODY: h3907 ]
+          [ compound LBL: h3900 ARG0: e3897 ARG1: x3889 ARG2: x3891 ]
+          [ udef_q LBL: h3896 ARG0: x3891 RSTR: h3894 BODY: h3895 ]
+          [ _costume_n_1 LBL: h3892 ARG0: x3891 ]
+          [ _closet_n_1 LBL: h3900 ARG0: x3889 ]
+          [ place_n LBL: h3904 ARG0: x3909 ]
+          [ place_n LBL: h3928 ARG0: x3927 ]
+          [ def_implicit_q LBL: h3985 ARG0: x3980 RSTR: h3983 BODY: h3984 ]
+          [ _north_a_1 LBL: h3975 ARG0: i3972 ARG1: x3980 ARG2: x3937 ]
+          [ def_udef_a_q LBL: h3979 ARG0: x3937 RSTR: h3977 BODY: h3978 ]
+          [ _on_p_loc LBL: h3960 ARG0: e3964 ARG1: x3937 ARG2: x3961 ]
+          [ def_udef_a_q LBL: h3971 ARG0: x3961 RSTR: h3969 BODY: h3970 ]
+          [ _left_n_of LBL: h3963 ARG0: x3961 ARG1: i3962 ]
+          [ poss LBL: h3960 ARG0: e3957 ARG1: x3937 ARG2: x3950 ]
+          [ compound LBL: h3960 ARG0: e3946 ARG1: x3937 ARG2: x3939 ]
+          [ udef_q LBL: h3945 ARG0: x3939 RSTR: h3943 BODY: h3944 ]
+          [ _left_n_of LBL: h3941 ARG0: x3939 ARG1: i3940 ]
+          [ _hand_n_1 LBL: h3960 ARG0: x3937 ]
+          [ def_udef_a_q LBL: h3956 ARG0: x3950 RSTR: h3954 BODY: h3955 ]
+          [ _player_n_of LBL: h3952 ARG0: x3950 ARG1: i3951 ]
+          [ place_n LBL: h3975 ARG0: x3980 ] >
+  HCONS: < h3853 qeq h3851 h3867 qeq h3865 h3875 qeq h3873 h3894 qeq h3892 h3906 qeq h3900 h3912 qeq h3904 h3924 qeq h3888 h3930 qeq h3928 h3969 qeq h3963 h3943 qeq h3941 h3954 qeq h3952 h3977 qeq h3960 h3983 qeq h3975 h3991 qeq h3936 h3997 qeq h3996 > ]
+GENERATED RESULTS ... 
+Back openings north of the open drama building white door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open drama building white door south of the costume closets
+Back openings north of the open white drama building door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open white drama building door south of the costume closets
+Back openings north of the open drama building white doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open drama building white doors south of the costume closets
+Back openings north of the open white drama building doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open white drama building doors south of the costume closets
+A back opening north of the open drama building white door south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open drama building white door south of the costume closets
+The back opening north of the open drama building white door south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open drama building white door south of the costume closets
+Backed, openings north of the open drama building white door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open drama building white door south of the costume closets
+A back opening north of the open white drama building door south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open white drama building door south of the costume closets
+Back openings north of the drama buildings open white doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the drama buildings open white doors south of the costume closets
+The back opening north of the open white drama building door south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open white drama building door south of the costume closets
+Backed, openings north of the open white drama building door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open white drama building door south of the costume closets
+A back opening north of the open drama building white doors south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open drama building white doors south of the costume closets
+The back opening north of the open drama building white doors south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open drama building white doors south of the costume closets
+Backed, openings north of the open drama building white doors south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open drama building white doors south of the costume closets
+Back openings north of the open drama building white door south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open drama building white door south of the costume closet
+Back openings north of the open drama buildings white doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open drama buildings white doors south of the costume closets
+Back openings north of the open drama building white door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the open drama building white door south of the costume closets
+Back openings north of the open drama building white door south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the open drama building white door south of the costume closets
+A back opening north of the open white drama building doors south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open white drama building doors south of the costume closets
+The back opening north of the open white drama building doors south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open white drama building doors south of the costume closets
+Back openings north of the drama buildings white open door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the drama buildings white open door south of the costume closets
+Back openings north of the open white drama building door south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open white drama building door south of the costume closet
+Back openings north of the open white drama building door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the open white drama building door south of the costume closets
+Back openings north of the white open drama building door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the white open drama building door south of the costume closets
+Back openings north of the open white drama building door south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the open white drama building door south of the costume closets
+Backed, openings north of the open white drama building doors south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open white drama building doors south of the costume closets
+Back openings north of the open drama buildings white door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open drama buildings white door south of the costume closets
+Back openings north of the open drama building white doors south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open drama building white doors south of the costume closet
+Back openings north of the open drama building white doors south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the open drama building white doors south of the costume closets
+Back openings north of the open drama building white doors south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the open drama building white doors south of the costume closets
+Back openings north of the drama buildings white open doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the drama buildings white open doors south of the costume closets
+Back openings north of the open drama building white door south of the costume closets north of the player's left hands on the lefts.
+Back openings north of an open drama building white door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of an open drama building white door south of the costume closets
+Back openings north of a drama buildings white open door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of a drama buildings white open door south of the costume closets
+Back openings north of a white open drama building door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of a white open drama building door south of the costume closets
+Back openings north of the open white drama building door south of the costume closets north of the player's left hands on the lefts.
+Back openings north of an open white drama building door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of an open white drama building door south of the costume closets
+Back openings north of the open white drama building doors south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open white drama building doors south of the costume closet
+Back openings north of the open white drama building doors south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the open white drama building doors south of the costume closets
+Back openings north of the white open drama building doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the white open drama building doors south of the costume closets
+Back openings north of the open white drama building doors south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the open white drama building doors south of the costume closets
+A back opening north of the drama buildings open white doors south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the drama buildings open white doors south of the costume closets
+The back opening north of the drama buildings open white doors south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the drama buildings open white doors south of the costume closets
+Back openings north of the open drama building white doors south of the costume closets north of the player's left hands on the lefts.
+Backed, openings north of the drama buildings open white doors south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the drama buildings open white doors south of the costume closets
+Back openings north of the drama buildings open white door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the drama buildings open white door south of the costume closets
+Back openings north of the open white drama building doors south of the costume closets north of the player's left hands on the lefts.
+A back opening north of the open drama building white door south of the costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open drama building white door south of the costume closet
+A back opening north of the open drama buildings white doors south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open drama buildings white doors south of the costume closets
+The back opening north of the open drama building white door south of the costume closet north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open drama building white door south of the costume closet
+A back opening north of the player's left hand on the lefts north of the open drama building white door south of the costume closets
+A back opening north of the open drama building white door south of the costume closets north of the player's left hand on the lefts
+The back opening north of the open drama buildings white doors south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open drama buildings white doors south of the costume closets
+The back opening north of the player's left hand on the lefts north of the open drama building white door south of the costume closets
+The back opening north of the open drama building white door south of the costume closets north of the player's left hand on the lefts
+A back opening north of the player's left hands on the left north of the open drama building white door south of the costume closets
+A back opening north of the open drama building white door south of the costume closets north of the player's left hands on the left
+The back opening north of the player's left hands on the left north of the open drama building white door south of the costume closets
+The back opening north of the open drama building white door south of the costume closets north of the player's left hands on the left
+Backed, openings north of the open drama building white door south of the costume closet north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open drama building white door south of the costume closet
+A back opening north of the player's left hands on the lefts north of the drama buildings white open door south of the costume closets
+A back opening north of the drama buildings white open door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the open drama buildings white doors south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open drama buildings white doors south of the costume closets
+Backed, openings north of the open drama building white door south of the costume closets north of the player's left hand on the lefts
+Backed, openings north of the player's left hand on the lefts north of the open drama building white door south of the costume closets
+The back opening north of the player's left hands on the lefts north of the drama buildings white open door south of the costume closets
+The back opening north of the drama buildings white open door south of the costume closets north of the player's left hands on the lefts
+Back openings north of a drama buildings open white door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of a drama buildings open white door south of the costume closets
+Backed, openings north of the open drama building white door south of the costume closets north of the player's left hands on the left
+Backed, openings north of the player's left hands on the left north of the open drama building white door south of the costume closets
+A back opening north of the player's left hands on the lefts north of the open white drama building door south of the costume closet
+A back opening north of the open white drama building door south of the costume closet north of the player's left hands on the lefts
+Back openings north of the drama buildings open white doors south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the drama buildings open white doors south of the costume closet
+The back opening north of the player's left hands on the lefts north of the open white drama building door south of the costume closet
+The back opening north of the open white drama building door south of the costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hand on the lefts north of the open white drama building door south of the costume closets
+A back opening north of the open white drama building door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the drama buildings open white doors south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the drama buildings open white doors south of the costume closets
+A back opening north of the player's left hands on the lefts north of the white open drama building door south of the costume closets
+A back opening north of the white open drama building door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the open drama building white door south of the costume closets north of a player's left hands on the lefts
+Back openings north of a player's left hands on the lefts north of the open drama building white door south of the costume closets
+The back opening north of the player's left hand on the lefts north of the open white drama building door south of the costume closets
+The back opening north of the open white drama building door south of the costume closets north of the player's left hand on the lefts
+A back opening north of the player's left hands on the left north of the open white drama building door south of the costume closets
+A back opening north of the open white drama building door south of the costume closets north of the player's left hands on the left
+The back opening north of the player's left hands on the lefts north of the white open drama building door south of the costume closets
+The back opening north of the white open drama building door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the drama buildings open white doors south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the drama buildings open white doors south of the costume closets
+The back opening north of the player's left hands on the left north of the open white drama building door south of the costume closets
+The back opening north of the open white drama building door south of the costume closets north of the player's left hands on the left
+Backed, openings north of the drama buildings white open door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the drama buildings white open door south of the costume closets
+A back opening north of the open drama buildings white door south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open drama buildings white door south of the costume closets
+Backed, openings north of the open white drama building door south of the costume closet north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open white drama building door south of the costume closet
+The back opening north of the open drama buildings white door south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open drama buildings white door south of the costume closets
+A back opening north of the open drama building white doors south of the costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open drama building white doors south of the costume closet
+Backed, openings north of the open white drama building door south of the costume closets north of the player's left hand on the lefts
+Backed, openings north of the player's left hand on the lefts north of the open white drama building door south of the costume closets
+Back openings north of the player's left hands on the lefts north of the open drama building white door south of the costume closets.
+Backed, openings north of the white open drama building door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the white open drama building door south of the costume closets
+The back opening north of the open drama building white doors south of the costume closet north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open drama building white doors south of the costume closet
+A back opening north of the open drama building white doors south of the costume closets north of the player's left hand on the lefts
+A back opening north of the player's left hand on the lefts north of the open drama building white doors south of the costume closets
+Backed, openings north of the open white drama building door south of the costume closets north of the player's left hands on the left
+Backed, openings north of the player's left hands on the left north of the open white drama building door south of the costume closets
+The back opening north of the open drama building white doors south of the costume closets north of the player's left hand on the lefts
+The back opening north of the player's left hand on the lefts north of the open drama building white doors south of the costume closets
+A back opening north of the open drama building white doors south of the costume closets north of the player's left hands on the left
+A back opening north of the player's left hands on the left north of the open drama building white doors south of the costume closets
+Backed openings north of the open drama building white door south of the costume closets north of the player's left hands on the lefts
+Backed openings north of the player's left hands on the lefts north of the open drama building white door south of the costume closets
+Back openings north of open white drama building doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of open white drama building doors south of the costume closets
+A back opening north of the drama buildings white open doors south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the drama buildings white open doors south of the costume closets
+Back openings north of the open white drama building door south of the costume closets north of a player's left hands on the lefts
+Back openings north of a player's left hands on the lefts north of the open white drama building door south of the costume closets
+The back opening north of the open drama building white doors south of the costume closets north of the player's left hands on the left
+The back opening north of the player's left hands on the left north of the open drama building white doors south of the costume closets
+A back opening north of the open drama building white door south of the costume closets north of the player's left hands on the lefts.
+A back opening north of an open drama building white door south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of an open drama building white door south of the costume closets
+The back opening north of the drama buildings white open doors south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the drama buildings white open doors south of the costume closets
+The back opening north of the open drama building white door south of the costume closets north of the player's left hands on the lefts.
+The back opening north of an open drama building white door south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of an open drama building white door south of the costume closets
+Backed, openings north of the open drama buildings white door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open drama buildings white door south of the costume closets
+A back opening north of a drama buildings white open door south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of a drama buildings white open door south of the costume closets
+The back opening north of a drama buildings white open door south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of a drama buildings white open door south of the costume closets
+Backed, openings north of the open drama building white doors south of the costume closet north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open drama building white doors south of the costume closet
+Backed, openings north of the open drama building white doors south of the costume closets north of the player's left hand on the lefts
+Backed, openings north of the player's left hand on the lefts north of the open drama building white doors south of the costume closets
+Backed, openings north of the open drama building white doors south of the costume closets north of the player's left hands on the left
+Backed, openings north of the player's left hands on the left north of the open drama building white doors south of the costume closets
+A back opening north of a white open drama building door south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of a white open drama building door south of the costume closets
+Backed, openings north of the drama buildings white open doors south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the drama buildings white open doors south of the costume closets
+Back openings north of the player's left hands on the lefts north of the open white drama building door south of the costume closets.
+Backed, openings north of the open drama building white door south of the costume closets north of the player's left hands on the lefts.
+Backed, openings north of an open drama building white door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of an open drama building white door south of the costume closets
+Back openings north of the open drama buildings white doors south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open drama buildings white doors south of the costume closet
+The back opening north of a white open drama building door south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of a white open drama building door south of the costume closets
+Back openings north of the open drama building white door south of the costume closet north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the open drama building white door south of the costume closet
+Back openings north of the open drama building white doors south of the costume closets north of a player's left hands on the lefts
+Back openings north of a player's left hands on the lefts north of the open drama building white doors south of the costume closets
+Back openings north of the open drama buildings white doors south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the open drama buildings white doors south of the costume closets
+Backed openings north of the open white drama building door south of the costume closets north of the player's left hands on the lefts
+Backed openings north of the player's left hands on the lefts north of the open white drama building door south of the costume closets
+Back openings north of the open drama building white door south of the costume closet north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the open drama building white door south of the costume closet
+Back openings north of the open drama buildings white doors south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the open drama buildings white doors south of the costume closets
+A back opening north of the open white drama building door south of the costume closets north of the player's left hands on the lefts.
+A back opening north of an open white drama building door south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of an open white drama building door south of the costume closets
+Backed, openings north of a drama buildings white open door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of a drama buildings white open door south of the costume closets
+Back openings north of the open drama building white door south of the costume closets north of the player's left hand on the left
+Back openings north of the player's left hand on the left north of the open drama building white door south of the costume closets
+Back openings north of the drama buildings open white doors south of the costume closets north of the player's left hands on the lefts.
+The back opening north of the open white drama building door south of the costume closets north of the player's left hands on the lefts.
+The back opening north of an open white drama building door south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of an open white drama building door south of the costume closets
+A back opening north of the open white drama building doors south of the costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open white drama building doors south of the costume closet
+The back opening north of the open white drama building doors south of the costume closet north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open white drama building doors south of the costume closet
+A back opening north of the open white drama building doors south of the costume closets north of the player's left hand on the lefts
+A back opening north of the player's left hand on the lefts north of the open white drama building doors south of the costume closets
+Back openings north of the drama building white open door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the drama building white open door south of the costume closets
+A back opening north of the white open drama building doors south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the white open drama building doors south of the costume closets
+Backed, openings north of a white open drama building door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of a white open drama building door south of the costume closets
+The back opening north of the open white drama building doors south of the costume closets north of the player's left hand on the lefts
+The back opening north of the player's left hand on the lefts north of the open white drama building doors south of the costume closets
+A back opening north of the open white drama building doors south of the costume closets north of the player's left hands on the left
+A back opening north of the player's left hands on the left north of the open white drama building doors south of the costume closets
+Back openings north of the drama buildings white open door south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the drama buildings white open door south of the costume closet
+The back opening north of the white open drama building doors south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the white open drama building doors south of the costume closets
+The back opening north of the open white drama building doors south of the costume closets north of the player's left hands on the left
+The back opening north of the player's left hands on the left north of the open white drama building doors south of the costume closets
+Back openings north of the player's left hands on the lefts north of the open drama building white doors south of the costume closets.
+Back openings north of the drama buildings white open door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the drama buildings white open door south of the costume closets
+Back openings north of the drama buildings white open door south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the drama buildings white open door south of the costume closets
+Backed openings north of the open drama building white doors south of the costume closets north of the player's left hands on the lefts
+Backed openings north of the player's left hands on the lefts north of the open drama building white doors south of the costume closets
+Backed, openings north of the open white drama building door south of the costume closets north of the player's left hands on the lefts.
+Backed, openings north of an open white drama building door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of an open white drama building door south of the costume closets
+Back openings north of the open white drama building door south of the costume closet north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the open white drama building door south of the costume closet
+Back openings north of the white open drama building door south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the white open drama building door south of the costume closet
+Back openings north of the open drama building white door south of a costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open drama building white door south of a costume closet
+A back opening north of the open drama building white doors south of the costume closets north of the player's left hands on the lefts.
+Back openings north of the open white drama building door south of the costume closet north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the open white drama building door south of the costume closet
+The back opening north of the open drama building white doors south of the costume closets north of the player's left hands on the lefts.
+Backed, openings north of the open white drama building doors south of the costume closet north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open white drama building doors south of the costume closet
+Back openings north of the white open drama building door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the white open drama building door south of the costume closets
+Back openings north of the open white drama building door south of the costume closets north of the player's left hand on the left
+Back openings north of the player's left hand on the left north of the open white drama building door south of the costume closets
+Backed, openings north of the open white drama building doors south of the costume closets north of the player's left hand on the lefts
+Backed, openings north of the player's left hand on the lefts north of the open white drama building doors south of the costume closets
+Back openings north of the white open drama building door south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the white open drama building door south of the costume closets
+Backed, openings north of the white open drama building doors south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the white open drama building doors south of the costume closets
+Backed, openings north of the open white drama building doors south of the costume closets north of the player's left hands on the left
+Backed, openings north of the player's left hands on the left north of the open white drama building doors south of the costume closets
+Back openings north of the open drama buildings white door south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open drama buildings white door south of the costume closet
+Back openings north of the open white drama building doors south of the costume closets north of a player's left hands on the lefts
+Back openings north of a player's left hands on the lefts north of the open white drama building doors south of the costume closets
+Back openings north of the open drama buildings white door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the open drama buildings white door south of the costume closets
+Back openings north of the open drama buildings white door south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the open drama buildings white door south of the costume closets
+Backed, openings north of the open drama building white doors south of the costume closets north of the player's left hands on the lefts.
+Back openings north of the open drama building white door south of the costume closets north of the player's left hands on the left.
+Back openings north of the open drama building white doors south of the costume closet north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the open drama building white doors south of the costume closet
+A back opening north of the player's left hands on the lefts north of the drama buildings open white door south of the costume closets
+A back opening north of the drama buildings open white door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the open drama building white doors south of the costume closet north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the open drama building white doors south of the costume closet
+The back opening north of the player's left hands on the lefts north of the drama buildings open white door south of the costume closets
+The back opening north of the drama buildings open white door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the drama buildings white open doors south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the drama buildings white open doors south of the costume closet
+Back openings north of the open white drama building door south of a costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open white drama building door south of a costume closet
+Back openings north of the open drama building white door south of the costume closet north of the player's left hands on the lefts.
+Back openings north of the open drama building white doors south of the costume closets north of the player's left hand on the left
+Back openings north of the player's left hand on the left north of the open drama building white doors south of the costume closets
+Back openings north of an open drama building white door south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of an open drama building white door south of the costume closet
+Back openings north of the open drama building white door south of the costume closets north of the players' left hands on the lefts
+Back openings north of the players' left hands on the lefts north of the open drama building white door south of the costume closets
+Back openings north of the drama buildings white open doors south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the drama buildings white open doors south of the costume closets
+Back openings north of the open drama buildings white doors south of the costume closets north of the player's left hands on the lefts.
+Back openings north of the open drama building white door south of the costume closets north of the player's left hand on the lefts.
+Back openings north of an open drama building white door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of an open drama building white door south of the costume closets
+Back openings north of a drama building white open door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of a drama building white open door south of the costume closets
+Back openings north of the drama buildings white open doors south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the drama buildings white open doors south of the costume closets
+Back openings north of the player's left hands on the lefts north of the open white drama building doors south of the costume closets.
+Back openings north of an open drama building white door south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of an open drama building white door south of the costume closets
+Back openings north of the drama building white open doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the drama building white open doors south of the costume closets
+Back openings north of a drama buildings white open door south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of a drama buildings white open door south of the costume closet
+Back openings north of a drama buildings white open door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of a drama buildings white open door south of the costume closets
+Backed openings north of the open white drama building doors south of the costume closets north of the player's left hands on the lefts
+Backed openings north of the player's left hands on the lefts north of the open white drama building doors south of the costume closets
+Back openings north of a drama buildings white open door south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of a drama buildings white open door south of the costume closets
+A back opening north of the open white drama building doors south of the costume closets north of the player's left hands on the lefts.
+Backed, openings north of the drama buildings open white door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the drama buildings open white door south of the costume closets
+The back opening north of the open white drama building doors south of the costume closets north of the player's left hands on the lefts.
+Back openings north of a white open drama building door south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of a white open drama building door south of the costume closet
+Back openings north of the open white drama building door south of the costume closets north of the player's left hands on the left.
+Back openings north of the drama buildings white open door south of the costume closets north of the player's left hands on the lefts.
+Back openings north of a white open drama building door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of a white open drama building door south of the costume closets
+Back openings north of the open drama building white doors south of a costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open drama building white doors south of a costume closet
+Back openings north of a white open drama building door south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of a white open drama building door south of the costume closets
+Back openings north of the open white drama building door south of the costume closet north of the player's left hands on the lefts.
+Back openings north of an open white drama building door south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of an open white drama building door south of the costume closet
+Back openings north of the open white drama building door south of the costume closets north of the players' left hands on the lefts
+Back openings north of the players' left hands on the lefts north of the open white drama building door south of the costume closets
+Back openings north of the open white drama building door south of the costume closets north of the player's left hand on the lefts.
+Back openings north of an open white drama building door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of an open white drama building door south of the costume closets
+Back openings north of the white open drama building door south of the costume closets north of the player's left hands on the lefts.
+Back openings north of an open white drama building door south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of an open white drama building door south of the costume closets
+Backed, openings north of the open white drama building doors south of the costume closets north of the player's left hands on the lefts.
+Back openings north of the open white drama building doors south of the costume closet north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the open white drama building doors south of the costume closet
+Back openings north of the white open drama building doors south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the white open drama building doors south of the costume closet
+Back openings north of the open white drama building doors south of the costume closet north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the open white drama building doors south of the costume closet
+Back openings north of the open drama building white door south of the costume closets north of the player's left hands on a left
+Back openings north of the player's left hands on a left north of the open drama building white door south of the costume closets
+Back openings north of the white open drama building doors south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the white open drama building doors south of the costume closets
+A back opening north of a drama buildings open white door south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of a drama buildings open white door south of the costume closets
+Back openings north of the open white drama building doors south of the costume closets north of the player's left hand on the left
+Back openings north of the player's left hand on the left north of the open white drama building doors south of the costume closets
+A back opening north of the drama buildings open white doors south of the costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the drama buildings open white doors south of the costume closet
+Back openings north of the white open drama building doors south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the white open drama building doors south of the costume closets
+Back openings north of the open drama building white doors south of the costume closets north of the player's left hands on the left.
+The back opening north of a drama buildings open white door south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of a drama buildings open white door south of the costume closets
+Back openings north of the open drama buildings white door south of the costume closets north of the player's left hands on the lefts.
+Back openings north of an open drama buildings white door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of an open drama buildings white door south of the costume closets
+The back opening north of the drama buildings open white doors south of the costume closet north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the drama buildings open white doors south of the costume closet
+A back opening north of the drama buildings open white doors south of the costume closets north of the player's left hand on the lefts
+A back opening north of the player's left hand on the lefts north of the drama buildings open white doors south of the costume closets
+A back opening north of the open drama building white door south of the costume closets north of a player's left hands on the lefts
+A back opening north of a player's left hands on the lefts north of the open drama building white door south of the costume closets
+The back opening north of the drama buildings open white doors south of the costume closets north of the player's left hand on the lefts
+The back opening north of the player's left hand on the lefts north of the drama buildings open white doors south of the costume closets
+The back opening north of the open drama building white door south of the costume closets north of a player's left hands on the lefts
+The back opening north of a player's left hands on the lefts north of the open drama building white door south of the costume closets
+A back opening north of the drama buildings open white doors south of the costume closets north of the player's left hands on the left
+A back opening north of the player's left hands on the left north of the drama buildings open white doors south of the costume closets
+Back openings north of the open drama building white doors south of the costume closet north of the player's left hands on the lefts.
+Back openings north of the open drama building white doors south of the costume closets north of the players' left hands on the lefts
+Back openings north of the players' left hands on the lefts north of the open drama building white doors south of the costume closets
+The back opening north of the drama buildings open white doors south of the costume closets north of the player's left hands on the left
+The back opening north of the player's left hands on the left north of the drama buildings open white doors south of the costume closets
+Back openings north of the open drama building white doors south of the costume closets north of the player's left hand on the lefts.
+Back openings north of the drama buildings white open doors south of the costume closets north of the player's left hands on the lefts.
+Back openings north of an open drama building white door south of the costume closets north of the player's left hands on the lefts.
+Backed, openings north of a drama buildings open white door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of a drama buildings open white door south of the costume closets
+Backed, openings north of the drama buildings open white doors south of the costume closet north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the drama buildings open white doors south of the costume closet
+Back openings north of the open white drama building doors south of a costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the open white drama building doors south of a costume closet
+A back opening north of the player's left hands on the lefts north of the open drama building white door south of the costume closets.
+Backed, openings north of the drama buildings open white doors south of the costume closets north of the player's left hand on the lefts
+Backed, openings north of the player's left hand on the lefts north of the drama buildings open white doors south of the costume closets
+Backed, openings north of the open drama building white door south of the costume closets north of a player's left hands on the lefts
+Backed, openings north of a player's left hands on the lefts north of the open drama building white door south of the costume closets
+Back openings north of a drama buildings white open door south of the costume closets north of the player's left hands on the lefts.
+Back openings north of the open white drama building door south of the costume closets north of the player's left hands on a left
+Back openings north of the player's left hands on a left north of the open white drama building door south of the costume closets
+Back openings north of open drama buildings white doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of open drama buildings white doors south of the costume closets
+The back opening north of the player's left hands on the lefts north of the open drama building white door south of the costume closets.
+Backed, openings north of the drama buildings open white doors south of the costume closets north of the player's left hands on the left
+Backed, openings north of the player's left hands on the left north of the drama buildings open white doors south of the costume closets
+A back opening north of the player's left hands on the lefts north of open white drama building doors south of the costume closets
+A back opening north of open white drama building doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the drama buildings open white door south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the drama buildings open white door south of the costume closet
+A back opening north of the open white drama building door south of the costume closets north of a player's left hands on the lefts
+A back opening north of a player's left hands on the lefts north of the open white drama building door south of the costume closets
+The back opening north of the player's left hands on the lefts north of open white drama building doors south of the costume closets
+The back opening north of open white drama building doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the drama buildings open white doors south of the costume closets north of a player's left hands on the lefts
+Back openings north of a player's left hands on the lefts north of the drama buildings open white doors south of the costume closets
+Back openings north of the drama buildings open white door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the drama buildings open white door south of the costume closets
+The back opening north of the open white drama building door south of the costume closets north of a player's left hands on the lefts
+The back opening north of a player's left hands on the lefts north of the open white drama building door south of the costume closets
+Back openings north of a white open drama building door south of the costume closets north of the player's left hands on the lefts.
+Back openings north of the drama buildings open white door south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the drama buildings open white door south of the costume closets
+Back openings north of the open white drama building doors south of the costume closets north of the player's left hands on the left.
+Backed, openings north of the player's left hands on the lefts north of the open drama building white door south of the costume closets.
+Back openings north of an open white drama building door south of the costume closets north of the player's left hands on the lefts.
+Back openings north of the open drama building white doors south of the costume closets north of the player's left hands on a left
+Back openings north of the player's left hands on a left north of the open drama building white doors south of the costume closets
+Backed, openings north of open white drama building doors south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of open white drama building doors south of the costume closets
+Back openings north of the open white drama building doors south of the costume closet north of the player's left hands on the lefts.
+A back opening north of the player's left hands on the lefts north of the open white drama building door south of the costume closets.
+Back openings north of the open white drama building doors south of the costume closets north of the players' left hands on the lefts
+Back openings north of the players' left hands on the lefts north of the open white drama building doors south of the costume closets
+Backed, openings north of the open white drama building door south of the costume closets north of a player's left hands on the lefts
+Backed, openings north of a player's left hands on the lefts north of the open white drama building door south of the costume closets
+Back openings north of the player's left hands on the lefts north of the drama buildings open white doors south of the costume closets.
+A back opening north of the player's left hands on the lefts north of the open drama buildings white doors south of the costume closet
+A back opening north of the open drama buildings white doors south of the costume closet north of the player's left hands on the lefts
+Back openings north of the open white drama building doors south of the costume closets north of the player's left hand on the lefts.
+A back opening north of the player's left hand on the lefts north of the open drama building white door south of the costume closet
+A back opening north of the open drama building white door south of the costume closet north of the player's left hand on the lefts
+The back opening north of the player's left hands on the lefts north of the open white drama building door south of the costume closets.
+Back openings north of the white open drama building doors south of the costume closets north of the player's left hands on the lefts.
+A back opening north of a player's left hands on the lefts north of the open drama building white doors south of the costume closets
+A back opening north of the open drama building white doors south of the costume closets north of a player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open drama buildings white doors south of the costume closet
+The back opening north of the open drama buildings white doors south of the costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hand on the lefts north of the open drama buildings white doors south of the costume closets
+A back opening north of the open drama buildings white doors south of the costume closets north of the player's left hand on the lefts
+The back opening north of the player's left hand on the lefts north of the open drama building white door south of the costume closet
+The back opening north of the open drama building white door south of the costume closet north of the player's left hand on the lefts
+A back opening north of the player's left hands on the left north of the open drama building white door south of the costume closet
+A back opening north of the open drama building white door south of the costume closet north of the player's left hands on the left
+The back opening north of a player's left hands on the lefts north of the open drama building white doors south of the costume closets
+The back opening north of the open drama building white doors south of the costume closets north of a player's left hands on the lefts
+Back openings north of open drama building white doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of open drama building white doors south of the costume closets
+Backed openings north of the drama buildings open white doors south of the costume closets north of the player's left hands on the lefts
+Backed openings north of the player's left hands on the lefts north of the drama buildings open white doors south of the costume closets
+The back opening north of the player's left hand on the lefts north of the open drama buildings white doors south of the costume closets
+The back opening north of the open drama buildings white doors south of the costume closets north of the player's left hand on the lefts
+A back opening north of the player's left hands on the left north of the open drama buildings white doors south of the costume closets
+A back opening north of the open drama buildings white doors south of the costume closets north of the player's left hands on the left
+The back opening north of the player's left hands on the left north of the open drama building white door south of the costume closet
+The back opening north of the open drama building white door south of the costume closet north of the player's left hands on the left
+A back opening north of the player's left hand on the left north of the open drama building white door south of the costume closets
+A back opening north of the open drama building white door south of the costume closets north of the player's left hand on the left
+A back opening north of the drama buildings open white doors south of the costume closets north of the player's left hands on the lefts.
+The back opening north of the player's left hands on the left north of the open drama buildings white doors south of the costume closets
+The back opening north of the open drama buildings white doors south of the costume closets north of the player's left hands on the left
+The back opening north of the player's left hand on the left north of the open drama building white door south of the costume closets
+The back opening north of the open drama building white door south of the costume closets north of the player's left hand on the left
+The back opening north of the drama buildings open white doors south of the costume closets north of the player's left hands on the lefts.
+A back opening north of the player's left hands on the lefts north of the drama building white open door south of the costume closets
+A back opening north of the drama building white open door south of the costume closets north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the drama building white open door south of the costume closets
+The back opening north of the drama building white open door south of the costume closets north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the drama buildings white open door south of the costume closet
+A back opening north of the drama buildings white open door south of the costume closet north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open white drama building door south of the costume closets.
+Backed, openings north of the open drama buildings white doors south of the costume closet north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open drama buildings white doors south of the costume closet
+Backed, openings north of the open drama building white door south of the costume closet north of the player's left hand on the lefts
+Backed, openings north of the player's left hand on the lefts north of the open drama building white door south of the costume closet
+The back opening north of the player's left hands on the lefts north of the drama buildings white open door south of the costume closet
+The back opening north of the drama buildings white open door south of the costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open drama building white doors south of the costume closets.
+A back opening north of the player's left hand on the lefts north of the drama buildings white open door south of the costume closets
+A back opening north of the drama buildings white open door south of the costume closets north of the player's left hand on the lefts
+Backed, openings north of the open drama building white doors south of the costume closets north of a player's left hands on the lefts
+Backed, openings north of a player's left hands on the lefts north of the open drama building white doors south of the costume closets
+Backed, openings north of the open drama buildings white doors south of the costume closets north of the player's left hand on the lefts
+Backed, openings north of the player's left hand on the lefts north of the open drama buildings white doors south of the costume closets
+Back openings north of a drama buildings open white door south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of a drama buildings open white door south of the costume closet
+The back opening north of the player's left hands on the lefts north of the open drama building white doors south of the costume closets.
+Backed, openings north of the open drama building white door south of the costume closet north of the player's left hands on the left
+Backed, openings north of the player's left hands on the left north of the open drama building white door south of the costume closet
+The back opening north of the player's left hand on the lefts north of the drama buildings white open door south of the costume closets
+The back opening north of the drama buildings white open door south of the costume closets north of the player's left hand on the lefts
+A back opening north of the player's left hands on the left north of the drama buildings white open door south of the costume closets
+A back opening north of the drama buildings white open door south of the costume closets north of the player's left hands on the left
+Backed, openings north of the open drama buildings white doors south of the costume closets north of the player's left hands on the left
+Backed, openings north of the player's left hands on the left north of the open drama buildings white doors south of the costume closets
+Back openings north of a drama buildings open white door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of a drama buildings open white door south of the costume closets
+Backed, openings north of the open drama building white door south of the costume closets north of the player's left hand on the left
+Backed, openings north of the player's left hand on the left north of the open drama building white door south of the costume closets
+The back opening north of the player's left hands on the left north of the drama buildings white open door south of the costume closets
+The back opening north of the drama buildings white open door south of the costume closets north of the player's left hands on the left
+Backed, openings north of the drama buildings open white doors south of the costume closets north of the player's left hands on the lefts.
+A back opening north of the player's left hand on the lefts north of the open white drama building door south of the costume closet
+A back opening north of the open white drama building door south of the costume closet north of the player's left hand on the lefts
+Back openings north of the drama buildings open white doors south of the costume closet north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of the drama buildings open white doors south of the costume closet
+A back opening north of the player's left hands on the lefts north of the white open drama building door south of the costume closet
+A back opening north of the white open drama building door south of the costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open drama building white door south of a costume closet
+A back opening north of the open drama building white door south of a costume closet north of the player's left hands on the lefts
+Back openings north of the open drama building white door south of the costume closet north of a player's left hands on the lefts
+Back openings north of a player's left hands on the lefts north of the open drama building white door south of the costume closet
+Back openings north of a drama buildings open white door south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of a drama buildings open white door south of the costume closets
+The back opening north of the player's left hand on the lefts north of the open white drama building door south of the costume closet
+The back opening north of the open white drama building door south of the costume closet north of the player's left hand on the lefts
+A back opening north of the open white drama building door south of the costume closet north of the player's left hands on the left
+A back opening north of the player's left hands on the left north of the open white drama building door south of the costume closet
+Back openings north of the open drama buildings white doors south of the costume closets north of a player's left hands on the lefts
+Back openings north of a player's left hands on the lefts north of the open drama buildings white doors south of the costume closets
+The back opening north of the player's left hands on the lefts north of the white open drama building door south of the costume closet
+The back opening north of the white open drama building door south of the costume closet north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open drama building white door south of a costume closet
+The back opening north of the open drama building white door south of a costume closet north of the player's left hands on the lefts
+Back openings north of the drama buildings open white doors south of the costume closet north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of the drama buildings open white doors south of the costume closet
+A back opening north of the player's left hand on the lefts north of the white open drama building door south of the costume closets
+A back opening north of the white open drama building door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the open drama building white door south of the costume closets north of a player's left hand on the lefts
+Back openings north of a player's left hand on the lefts north of the open drama building white door south of the costume closets
+The back opening north of the open white drama building door south of the costume closet north of the player's left hands on the left
+The back opening north of the player's left hands on the left north of the open white drama building door south of the costume closet
+A back opening north of the player's left hand on the left north of the open white drama building door south of the costume closets
+A back opening north of the open white drama building door south of the costume closets north of the player's left hand on the left
+The back opening north of the player's left hand on the lefts north of the white open drama building door south of the costume closets
+The back opening north of the white open drama building door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the drama buildings open white doors south of the costume closets north of the player's left hand on the left
+Back openings north of the player's left hand on the left north of the drama buildings open white doors south of the costume closets
+A back opening north of the player's left hands on the left north of the white open drama building door south of the costume closets
+A back opening north of the white open drama building door south of the costume closets north of the player's left hands on the left
+Back openings north of the open drama building white door south of the costume closets north of a player's left hands on the left
+Back openings north of a player's left hands on the left north of the open drama building white door south of the costume closets
+Backed, openings north of the drama building white open door south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the drama building white open door south of the costume closets
+Back openings north of the open white drama building doors south of the costume closets north of the player's left hands on a left
+Back openings north of the player's left hands on a left north of the open white drama building doors south of the costume closets
+The back opening north of the player's left hand on the left north of the open white drama building door south of the costume closets
+The back opening north of the open white drama building door south of the costume closets north of the player's left hand on the left
+Back openings north of the drama buildings open white door south of the costume closets north of the player's left hands on the lefts.
+The back opening north of the player's left hands on the left north of the white open drama building door south of the costume closets
+The back opening north of the white open drama building door south of the costume closets north of the player's left hands on the left
+Backed, openings north of the drama buildings white open door south of the costume closet north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the drama buildings white open door south of the costume closet
+Backed, openings north of the player's left hands on the lefts north of the open drama building white doors south of the costume closets.
+Backed, openings north of the drama buildings white open door south of the costume closets north of the player's left hand on the lefts
+Backed, openings north of the player's left hand on the lefts north of the drama buildings white open door south of the costume closets
+A back opening north of the open drama buildings white door south of the costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open drama buildings white door south of the costume closet
+A back opening north of the open white drama building doors south of the costume closets north of a player's left hands on the lefts
+A back opening north of a player's left hands on the lefts north of the open white drama building doors south of the costume closets
+Backed, openings north of the drama buildings white open door south of the costume closets north of the player's left hands on the left
+Backed, openings north of the player's left hands on the left north of the drama buildings white open door south of the costume closets
+The back opening north of the open drama buildings white door south of the costume closet north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open drama buildings white door south of the costume closet
+A back opening north of the open drama buildings white door south of the costume closets north of the player's left hand on the lefts
+A back opening north of the player's left hand on the lefts north of the open drama buildings white door south of the costume closets
+The back opening north of the open white drama building doors south of the costume closets north of a player's left hands on the lefts
+The back opening north of a player's left hands on the lefts north of the open white drama building doors south of the costume closets
+Backed, openings north of the open white drama building door south of the costume closet north of the player's left hand on the lefts
+Backed, openings north of the player's left hand on the lefts north of the open white drama building door south of the costume closet
+The back opening north of the open drama buildings white door south of the costume closets north of the player's left hand on the lefts
+The back opening north of the player's left hand on the lefts north of the open drama buildings white door south of the costume closets
+A back opening north of the open drama buildings white door south of the costume closets north of the player's left hands on the left
+A back opening north of the player's left hands on the left north of the open drama buildings white door south of the costume closets
+Backed, openings north of the white open drama building door south of the costume closet north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the white open drama building door south of the costume closet
+Backed, openings north of the open drama building white door south of a costume closet north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open drama building white door south of a costume closet
+Back openings north of the drama buildings white open door south of the costume closets north of a player's left hands on the lefts
+Back openings north of a player's left hands on the lefts north of the drama buildings white open door south of the costume closets
+A back opening north of the open drama building white door south of the costume closets north of the player's left hands on the left.
+Back openings north of the white drama buildings open door south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the white drama buildings open door south of the costume closets
+A back opening north of the open drama building white doors south of the costume closet north of the player's left hand on the lefts
+A back opening north of the player's left hand on the lefts north of the open drama building white doors south of the costume closet
+Back openings north of the player's left hands on the lefts north of the open drama buildings white doors south of the costume closets.
+Backed, openings north of the open white drama building door south of the costume closet north of the player's left hands on the left
+Backed, openings north of the player's left hands on the left north of the open white drama building door south of the costume closet
+The back opening north of the open drama buildings white door south of the costume closets north of the player's left hands on the left
+The back opening north of the player's left hands on the left north of the open drama buildings white door south of the costume closets
+Back openings north of the player's left hand on the lefts north of the open drama building white door south of the costume closets.
+Backed, openings north of the white open drama building door south of the costume closets north of the player's left hand on the lefts
+Backed, openings north of the player's left hand on the lefts north of the white open drama building door south of the costume closets
+The back opening north of the open drama building white door south of the costume closets north of the player's left hands on the left.
+The back opening north of the open drama building white doors south of the costume closet north of the player's left hand on the lefts
+The back opening north of the player's left hand on the lefts north of the open drama building white doors south of the costume closet
+Back openings north of the white drama buildings open doors south of the costume closets north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the white drama buildings open doors south of the costume closets
+A back opening north of the open drama building white doors south of the costume closet north of the player's left hands on the left
+A back opening north of the player's left hands on the left north of the open drama building white doors south of the costume closet
+Backed openings north of the open drama building white door south of the costume closet north of the player's left hands on the lefts
+Backed openings north of the player's left hands on the lefts north of the open drama building white door south of the costume closet
+Back openings north of open white drama building doors south of the costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of open white drama building doors south of the costume closet
+Backed, openings north of the open white drama building door south of the costume closets north of the player's left hand on the left
+Backed, openings north of the player's left hand on the left north of the open white drama building door south of the costume closets
+Back openings north of the player's left hands on the left north of the open drama building white door south of the costume closets.
+A back opening north of the drama buildings white open doors south of the costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the drama buildings white open doors south of the costume closet
+Backed, openings north of the white open drama building door south of the costume closets north of the player's left hands on the left
+Backed, openings north of the player's left hands on the left north of the white open drama building door south of the costume closets
+A back opening north of the open white drama building door south of a costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of the open white drama building door south of a costume closet
+Back openings north of the open white drama building door south of the costume closet north of a player's left hands on the lefts
+Back openings north of a player's left hands on the lefts north of the open white drama building door south of the costume closet
+Backed openings north of the open drama buildings white doors south of the costume closets north of the player's left hands on the lefts
+Backed openings north of the player's left hands on the lefts north of the open drama buildings white doors south of the costume closets
+The back opening north of the open drama building white doors south of the costume closet north of the player's left hands on the left
+The back opening north of the player's left hands on the left north of the open drama building white doors south of the costume closet
+A back opening north of the open drama building white door south of the costume closet north of the player's left hands on the lefts.
+A back opening north of the open drama building white doors south of the costume closets north of the player's left hand on the left
+A back opening north of the player's left hand on the left north of the open drama building white doors south of the costume closets
+A back opening north of an open drama building white door south of the costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of an open drama building white door south of the costume closet
+Backed openings north of the player's left hand on the lefts north of the open drama building white door south of the costume closets
+Backed openings north of the open drama building white door south of the costume closets north of the player's left hand on the lefts
+Back openings north of the drama buildings open white doors south of a costume closet north of the player's left hands on the lefts
+Back openings north of the player's left hands on the lefts north of the drama buildings open white doors south of a costume closet
+Back openings north of open white drama building doors south of the costume closets north of the player's left hand on the lefts
+Back openings north of the player's left hand on the lefts north of open white drama building doors south of the costume closets
+The back opening north of the drama buildings white open doors south of the costume closet north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the drama buildings white open doors south of the costume closet
+A back opening north of the open drama building white door south of the costume closets north of the players' left hands on the lefts
+A back opening north of the players' left hands on the lefts north of the open drama building white door south of the costume closets
+The back opening north of the open white drama building door south of a costume closet north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of the open white drama building door south of a costume closet
+A back opening north of the drama buildings white open doors south of the costume closets north of the player's left hand on the lefts
+A back opening north of the player's left hand on the lefts north of the drama buildings white open doors south of the costume closets
+A back opening north of the open drama buildings white doors south of the costume closets north of the player's left hands on the lefts.
+The back opening north of the open drama building white door south of the costume closet north of the player's left hands on the lefts.
+Back openings north of the open white drama building door south of the costume closets north of a player's left hand on the lefts
+Back openings north of a player's left hand on the lefts north of the open white drama building door south of the costume closets
+The back opening north of the open drama building white doors south of the costume closets north of the player's left hand on the left
+The back opening north of the player's left hand on the left north of the open drama building white doors south of the costume closets
+The back opening north of an open drama building white door south of the costume closet north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of an open drama building white door south of the costume closet
+A back opening north of the open drama building white door south of the costume closets north of the player's left hand on the lefts.
+Backed openings north of the player's left hands on the left north of the open drama building white door south of the costume closets
+Backed openings north of the open drama building white door south of the costume closets north of the player's left hands on the left
+A back opening north of the player's left hand on the lefts north of an open drama building white door south of the costume closets
+A back opening north of an open drama building white door south of the costume closets north of the player's left hand on the lefts
+Back openings north of open white drama building doors south of the costume closets north of the player's left hands on the left
+Back openings north of the player's left hands on the left north of open white drama building doors south of the costume closets
+Back openings north of the white open drama building door south of the costume closets north of a player's left hands on the lefts
+Back openings north of a player's left hands on the lefts north of the white open drama building door south of the costume closets
+The back opening north of the open drama building white door south of the costume closets north of the players' left hands on the lefts
+The back opening north of the players' left hands on the lefts north of the open drama building white door south of the costume closets
+A back opening north of the player's left hands on the lefts north of a drama building white open door south of the costume closets
+A back opening north of a drama building white open door south of the costume closets north of the player's left hands on the lefts
+The back opening north of the drama buildings white open doors south of the costume closets north of the player's left hand on the lefts
+The back opening north of the player's left hand on the lefts north of the drama buildings white open doors south of the costume closets
+The back opening north of the open drama buildings white doors south of the costume closets north of the player's left hands on the lefts.
+A back opening north of the player's left hands on the left north of the drama buildings white open doors south of the costume closets
+A back opening north of the drama buildings white open doors south of the costume closets north of the player's left hands on the left
+The back opening north of the open drama building white door south of the costume closets north of the player's left hand on the lefts.
+Backed, openings north of the open drama buildings white door south of the costume closet north of the player's left hands on the lefts
+Backed, openings north of the player's left hands on the lefts north of the open drama buildings white door south of the costume closet
+Back openings north of the open white drama building door south of the costume closets north of a player's left hands on the left
+Back openings north of a player's left hands on the left north of the open white drama building door south of the costume closets
+The back opening north of the player's left hand on the lefts north of an open drama building white door south of the costume closets
+The back opening north of an open drama building white door south of the costume closets north of the player's left hand on the lefts
+A back opening north of the player's left hands on the lefts north of the open white drama building doors south of the costume closets.
+A back opening north of the player's left hands on the left north of an open drama building white door south of the costume closets
+A back opening north of an open drama building white door south of the costume closets north of the player's left hands on the left
+A back opening north of the player's left hands on the lefts north of the drama building white open doors south of the costume closets
+A back opening north of the drama building white open doors south of the costume closets north of the player's left hands on the lefts
+Backed, openings north of the open white drama building doors south of the costume closets north of a player's left hands on the lefts
+Backed, openings north of a player's left hands on the lefts north of the open white drama building doors south of the costume closets
+The back opening north of the player's left hands on the lefts north of a drama building white open door south of the costume closets
+The back opening north of a drama building white open door south of the costume closets north of the player's left hands on the lefts
+A back opening north of a drama buildings white open door south of the costume closet north of the player's left hands on the lefts
+A back opening north of the player's left hands on the lefts north of a drama buildings white open door south of the costume closet
+The back opening north of the player's left hands on the left north of the drama buildings white open doors south of the costume closets
+The back opening north of the drama buildings white open doors south of the costume closets north of the player's left hands on the left
+The back opening north of the player's left hands on the lefts north of the open white drama building doors south of the costume closets.
+Backed, openings north of the open drama buildings white door south of the costume closets north of the player's left hand on the lefts
+Backed, openings north of the player's left hand on the lefts north of the open drama buildings white door south of the costume closets
+The back opening north of the player's left hands on the left north of an open drama building white door south of the costume closets
+The back opening north of an open drama building white door south of the costume closets north of the player's left hands on the left
+The back opening north of the player's left hands on the lefts north of the drama building white open doors south of the costume closets
+The back opening north of the drama building white open doors south of the costume closets north of the player's left hands on the lefts
+The back opening north of a drama buildings white open door south of the costume closet north of the player's left hands on the lefts
+The back opening north of the player's left hands on the lefts north of a drama buildings white open door south of the costume closet
+A back opening north of a drama buildings white open door south of the costume closets north of the player's left hand on the lefts
+A back opening north of the player's left hand on the lefts north of a drama buildings white open door south of the costume closets
+Backed, openings north of the open drama buildings white door south of the costume closets north of the player's left hands on the left
+Backed, openings north of the player's left hands on the left north of the open drama buildings white door south of the costume closets
+Back openings north of the player's left hands on the lefts north of the drama buildings white open door south of the costume closets.
+The back opening north of a drama buildings white open door south of the costume closets north of the player's left hand on the lefts
+The back opening north of the player's left hand on the lefts north of a drama buildings white open door south of the costume closets
+
+TOTAL RESULTS: 735
+
+Node                           MRS Produced    Reason                 Included in MRS    Reason
+-----------------------------  --------------  ---------------------  -----------------  ---------------
+idCostumeCloset1BackOpening_1  True            MRS fragment produced  True               Included in MRS
+idCostumeCloset_5              True            MRS fragment produced  True               Included in MRS
+idDramaBuilding1Door_2         True            MRS fragment produced  True               Included in MRS
+idPlayerLeftHand_6             True            MRS fragment produced  True               Included in MRS
+left_7                         True            MRS fragment produced  True               Included in MRS
+open_4                         True            MRS fragment produced  True               Included in MRS
+white_3                        True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idColor_1      True            MRS composed  True               Included in MRS
+idOpenState_2  True            MRS composed  True               Included in MRS
+idSide_5       True            MRS composed  True               Included in MRS
+isNorthOf_4    True            MRS composed  True               Included in MRS
+isNorthOf_6    True            MRS composed  True               Included in MRS
+isSouthOf_3    True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7        7           1
+Nodes              Included             7        7           1
+Edges              Produced             6        6           1
+Edges              Included             6        6           1

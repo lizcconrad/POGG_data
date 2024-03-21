@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idFuseSocket2_subgraph.dot
+[ TOP: h2686
+  INDEX: e2683
+  RELS: < [ unknown LBL: h2685 ARG: x2667 ARG0: e2683 ]
+          [ def_udef_a_q LBL: h2682 ARG0: x2667 RSTR: h2680 BODY: h2681 ]
+          [ compound LBL: h2678 ARG0: e2675 ARG1: x2667 ARG2: x2671 ]
+          [ udef_q LBL: h2674 ARG0: x2671 RSTR: h2672 BODY: h2673 ]
+          [ _fuse_n_1 LBL: h2670 ARG0: x2671 ]
+          [ _socket_n_1 LBL: h2678 ARG0: x2667 ] >
+  HCONS: < h2672 qeq h2670 h2680 qeq h2678 h2686 qeq h2685 > ]
+GENERATED RESULTS ... 
+Fuse sockets
+The fuse socket
+The fuse sockets
+A fuse socket
+The fuse sockets.
+Fuse socket
+Fuse sockets.
+The fuse socket.
+A fuse socket.
+Fuse socket.
+
+TOTAL RESULTS: 10
+
+Node            MRS Produced    Reason                           Included in MRS    Reason
+--------------  --------------  -------------------------------  -----------------  -------------------------------
+2_2             False           '2' has no value in the lexicon  False              '2' has no value in the lexicon
+idFuseSocket_1  True            MRS fragment produced            True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idOrdinality_1  False           Inbound to failed node  False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        2         0.5
+Nodes              Included             1        2         0.5
+Edges              Produced             0        1         0
+Edges              Included             0        1         0

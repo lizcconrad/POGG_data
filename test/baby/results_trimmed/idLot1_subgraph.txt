@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idLot1_subgraph.dot
+[ TOP: h1163
+  INDEX: e1160
+  RELS: < [ unknown LBL: h1162 ARG: x1156 ARG0: e1160 ]
+          [ def_udef_a_q LBL: h1159 ARG0: x1156 RSTR: h1157 BODY: h1158 ]
+          [ _dusty_a_1 LBL: h1151 ARG0: e1149 ARG1: x1156 ]
+          [ _lot_n_1 LBL: h1151 ARG0: x1156 ] >
+  HCONS: < h1157 qeq h1151 h1163 qeq h1162 > ]
+GENERATED RESULTS ... 
+The dusty lots
+The dusty lots.
+The dusty lot
+Dusty lots
+A dusty lot
+Dusty lots.
+The dusty lot.
+Dusty lot
+A dusty lot.
+Dusty lot.
+
+TOTAL RESULTS: 10
+
+Node     MRS Produced    Reason                 Included in MRS    Reason
+-------  --------------  ---------------------  -----------------  -------------------------
+dusty_2  True            MRS fragment produced  True               Included in MRS
+idLot_1  True            MRS fragment produced  True               Included in MRS
+true_3   True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idMaterial_1       True            MRS composed                               True               Included in MRS
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

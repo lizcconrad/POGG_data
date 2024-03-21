@@ -1,0 +1,44 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idLiquid1_subgraph.dot
+[ TOP: h474
+  INDEX: e471
+  RELS: < [ unknown LBL: h473 ARG: x417 ARG0: e471 ]
+          [ def_udef_a_q LBL: h470 ARG0: x417 RSTR: h468 BODY: h469 ]
+          [ loc_nonsp LBL: h466 ARG0: i463 ARG1: x417 ARG2: x457 ]
+          [ _strange_a_to LBL: h466 ARG0: e432 ARG1: x417 ARG2: i434 ]
+          [ _black_a_1 LBL: h466 ARG0: i429 ARG1: x417 ]
+          [ _immovable_a_1 LBL: h466 ARG0: e423 ARG1: x417 ]
+          [ _liquid_n_1 LBL: h466 ARG0: x417 ]
+          [ def_implicit_q LBL: h462 ARG0: x457 RSTR: h460 BODY: h461 ]
+          [ _east_a_1 LBL: h452 ARG0: i449 ARG1: x457 ARG2: x453 ]
+          [ def_udef_a_q LBL: h456 ARG0: x453 RSTR: h454 BODY: h455 ]
+          [ compound LBL: h437 ARG0: e445 ARG1: x453 ARG2: x438 ]
+          [ udef_q LBL: h444 ARG0: x438 RSTR: h442 BODY: h443 ]
+          [ _left_n_of LBL: h440 ARG0: x438 ARG1: i439 ]
+          [ _opening_n_1 LBL: h437 ARG0: x453 ]
+          [ place_n LBL: h452 ARG0: x457 ] >
+  HCONS: < h442 qeq h440 h454 qeq h437 h460 qeq h452 h468 qeq h466 h474 qeq h473 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                    MRS Produced    Reason                 Included in MRS    Reason
+----------------------  --------------  ---------------------  -----------------  ---------------
+black_3                 True            MRS fragment produced  True               Included in MRS
+idCavern7LeftOpening_5  True            MRS fragment produced  True               Included in MRS
+idLiquid_1              True            MRS fragment produced  True               Included in MRS
+strange_4               True            MRS fragment produced  True               Included in MRS
+yes_2                   True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason        Included in MRS    Reason
+--------------  --------------  ------------  -----------------  ---------------
+idColor_2       True            MRS composed  True               Included in MRS
+idDescriptor_3  True            MRS composed  True               Included in MRS
+idImmovable_1   True            MRS composed  True               Included in MRS
+isEastOf_4      True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             5        5           1
+Nodes              Included             5        5           1
+Edges              Produced             4        4           1
+Edges              Included             4        4           1

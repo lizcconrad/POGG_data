@@ -1,0 +1,31 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/paint8_subgraph.dot
+[ TOP: h18
+  INDEX: e15
+  RELS: < [ unknown LBL: h17 ARG: x0 ARG0: e15 ]
+          [ def_udef_a_q LBL: h14 ARG0: x0 RSTR: h12 BODY: h13 ]
+          [ _un-_a_neg LBL: h4 ARG0: i8 ARG1: x0 ]
+          [ _countable_a_1 LBL: h4 ARG0: e5 ARG1: x0 ]
+          [ _blue_a_1 LBL: h4 ARG0: i2 ARG1: x0 ]
+          [ _paint_n_1 LBL: h4 ARG0: x0 ] >
+  HCONS: < h12 qeq h4 h18 qeq h17 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+blue_2         True            MRS fragment produced  True               Included in MRS
+paint8_1       True            MRS fragment produced  True               Included in MRS
+uncountable_3  True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idArticleType_2  True            MRS composed  True               Included in MRS
+idColor_1        True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

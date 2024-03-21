@@ -1,0 +1,36 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idButtonX_subgraph.dot
+[ TOP: h1280
+  INDEX: e1277
+  RELS: < [ unknown LBL: h1279 ARG: x1273 ARG0: e1277 ]
+          [ def_udef_a_q LBL: h1276 ARG0: x1273 RSTR: h1274 BODY: h1275 ]
+          [ _button_n_1 LBL: h1272 ARG0: x1273 ] >
+  HCONS: < h1274 qeq h1272 h1280 qeq h1279 > ]
+GENERATED RESULTS ... 
+Buttons
+Button
+The button
+A button
+The buttons
+The buttons.
+Button.
+Buttons.
+A button.
+The button.
+
+TOTAL RESULTS: 10
+
+Node         MRS Produced    Reason                           Included in MRS    Reason
+-----------  --------------  -------------------------------  -----------------  -------------------------------
+1_2          False           '1' has no value in the lexicon  False              '1' has no value in the lexicon
+idButtonX_1  True            MRS fragment produced            True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idOrdinality_1  False           Inbound to failed node  False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        2         0.5
+Nodes              Included             1        2         0.5
+Edges              Produced             0        1         0
+Edges              Included             0        1         0

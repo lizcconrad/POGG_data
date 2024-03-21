@@ -1,0 +1,91 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idKidney2_subgraph.dot
+[ TOP: h3757
+  INDEX: e3754
+  RELS: < [ unknown LBL: h3756 ARG: x3734 ARG0: e3754 ]
+          [ def_udef_a_q LBL: h3753 ARG0: x3734 RSTR: h3751 BODY: h3752 ]
+          [ _on_p_loc LBL: h3742 ARG0: e3739 ARG1: x3734 ARG2: x3736 ]
+          [ def_udef_a_q LBL: h3746 ARG0: x3736 RSTR: h3744 BODY: h3745 ]
+          [ _right_n_of LBL: h3738 ARG0: x3736 ARG1: i3737 ]
+          [ _kidney_n_1 LBL: h3742 ARG0: x3734 ] >
+  HCONS: < h3744 qeq h3738 h3751 qeq h3742 h3757 qeq h3756 > ]
+GENERATED RESULTS ... 
+The kidneys on the rights
+The kidneys on the right
+The kidneys on the rights.
+A kidney on the rights
+The kidney on the rights
+Kidneys on the rights
+The kidneys on the right.
+The kidneys on a right
+A kidney on the right
+The kidney on the right
+Kidneys, on the rights
+The kidneys, on the rights
+A kidney on the rights.
+The kidney on the rights.
+The kidney, on the rights
+Kidneys on the right
+Kidney, on the rights
+The kidneys on rights.
+Kidneys on the rights.
+The kidneys on a right.
+A kidney on the right.
+The kidney on the right.
+Kidneys on a right
+A kidney, on the rights
+A kidney on a right
+The kidney on a right
+Kidneys on rights.
+The kidneys on rights
+Kidneys on the right.
+A kidney on rights.
+The kidney on rights.
+Kidneys, on the right
+Kidneys on a right.
+Kidneys on rights
+The kidneys, on the right
+A kidney on a right.
+The kidney on a right.
+The kidney, on the right
+Kidneys, on a right
+Kidney, on the right
+Kidneys, on rights
+Kidney on the rights
+The kidneys, on a right
+A kidney on rights
+The kidney on rights
+The kidney, on a right
+The kidneys, on rights
+The kidney, on rights
+Kidney, on a right
+A kidney, on the right
+Kidney, on rights
+Kidney on the right
+Kidney on a right
+A kidney, on a right
+Kidney on rights.
+Kidney on the rights.
+A kidney, on rights
+Kidney on rights
+Kidney on the right.
+Kidney on a right.
+
+TOTAL RESULTS: 60
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  -------------------------
+idKidney_1  True            MRS fragment produced  True               Included in MRS
+idPlayer_3  True            MRS fragment produced  False              Descends from failed edge
+right_2     True            MRS fragment produced  True               Included in MRS
+
+Edge         MRS Composed    Reason                               Included in MRS    Reason
+-----------  --------------  -----------------------------------  -----------------  -----------------------------------
+idOwnedBy_2  False           'idOwnedBy' has no value in lexicon  False              'idOwnedBy' has no value in lexicon
+idSide_1     True            MRS composed                         True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

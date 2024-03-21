@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idKitchen1_subgraph.dot
+[ TOP: h1640
+  INDEX: e1637
+  RELS: < [ unknown LBL: h1639 ARG: x1627 ARG0: e1637 ]
+          [ def_udef_a_q LBL: h1636 ARG0: x1627 RSTR: h1634 BODY: h1635 ]
+          [ _bare_a_of LBL: h1632 ARG0: e1629 ARG1: x1627 ARG2: u1631 ]
+          [ _kitchen_n_1 LBL: h1632 ARG0: x1627 ] >
+  HCONS: < h1634 qeq h1632 h1640 qeq h1639 > ]
+GENERATED RESULTS ... 
+The bare kitchen
+The bare kitchens
+A bare kitchen
+The bare kitchens.
+Bare kitchens
+The bare kitchen.
+Bare kitchens.
+A bare kitchen.
+Bare kitchen
+Bare kitchen.
+
+TOTAL RESULTS: 10
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  ---------------
+bare_2       True            MRS fragment produced  True               Included in MRS
+idKitchen_1  True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason        Included in MRS    Reason
+--------------  --------------  ------------  -----------------  ---------------
+idDescriptor_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

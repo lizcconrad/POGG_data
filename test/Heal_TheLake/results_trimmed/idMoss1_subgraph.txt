@@ -1,0 +1,38 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/complete/idMoss1_subgraph.dot
+[ TOP: h517
+  INDEX: e514
+  RELS: < [ unknown LBL: h516 ARG: x510 ARG0: e514 ]
+          [ def_udef_a_q LBL: h513 ARG0: x510 RSTR: h511 BODY: h512 ]
+          [ _moss_n_1 LBL: h509 ARG0: x510 ] >
+  HCONS: < h511 qeq h509 h517 qeq h516 > ]
+GENERATED RESULTS ... 
+Moss
+The mosses.
+The mosses
+A moss
+Mosses
+Moss.
+A moss.
+The moss.
+Mosses.
+The moss
+Moss.
+Moss
+
+TOTAL RESULTS: 12
+
+Node           MRS Produced    Reason                                     Included in MRS    Reason
+-------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idMoss_1       True            MRS fragment produced                      True               Included in MRS
+uncountable_2  False           'uncountable' has no value in the lexicon  False              'uncountable' has no value in the lexicon
+
+Edge             MRS Composed    Reason                  Included in MRS    Reason
+---------------  --------------  ----------------------  -----------------  ----------------------
+idArticleType_1  False           Inbound to failed node  False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        2         0.5
+Nodes              Included             1        2         0.5
+Edges              Produced             0        1         0
+Edges              Included             0        1         0

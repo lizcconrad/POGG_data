@@ -1,0 +1,11 @@
+Heal_TheCave LEXICON NOTES
+- idSpiderweb "spider web" ... i have a lot of compounds like this where i force it as a compound and it puts a space which i think is a little awkward cuz i'd spell it was spiderweb
+- idTheCave ... maybe should force "the" always but rn all quantifiers are abstract
+- ominous not in SEMI.......
+- strange ... "strange_a_to" selects wrong synopsis that has an ARG2
+- idCavern6TopOpenong ... has to be adjective "_top_a_1" ... which is inconsistent with other openings which are compounds, but "_top_n_1" selects the wrong synopsis with ARG2
+- idBoulderMoved ... state of player, skip
+- idWebTouched fails due to a bug in my prefix function... forgot to set ARG1 as index if the second element of the boolean options is the prefixed one .... -_-
+
+GRAPH NOTES
+- idCavern5 ... uncountable

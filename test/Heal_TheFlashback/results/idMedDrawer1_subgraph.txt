@@ -1,0 +1,50 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idMedDrawer1_subgraph.dot
+[ TOP: h1147
+  INDEX: e1144
+  RELS: < [ unknown LBL: h1146 ARG: x1140 ARG0: e1144 ]
+          [ def_udef_a_q LBL: h1143 ARG0: x1140 RSTR: h1141 BODY: h1142 ]
+          [ _closed_a_1 LBL: h1136 ARG0: e1137 ARG1: x1140 ]
+          [ compound LBL: h1136 ARG0: e1133 ARG1: x1140 ARG2: x1127 ]
+          [ udef_q LBL: h1132 ARG0: x1127 RSTR: h1130 BODY: h1131 ]
+          [ _medicine_n_1 LBL: h1128 ARG0: x1127 ]
+          [ _drawer_n_of LBL: h1136 ARG0: x1140 ARG1: i1125 ] >
+  HCONS: < h1130 qeq h1128 h1141 qeq h1136 h1147 qeq h1146 > ]
+GENERATED RESULTS ... 
+Closed medicine drawers
+The closed medicine drawer
+The closed medicine drawers
+Closed medicine drawers.
+A closed medicine drawer
+The closed medicine drawers.
+The closed medicine drawer.
+A closed medicine drawer.
+Closed medicine drawer
+Medicines closed drawer
+Closed medicine drawer.
+A medicines closed drawer
+Medicines closed drawer.
+The medicines closed drawer
+The medicines closed drawers.
+The medicines closed drawers
+A medicines closed drawer.
+The medicines closed drawer.
+Medicines closed drawers.
+Medicines closed drawers
+
+TOTAL RESULTS: 20
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+closed_2       True            MRS fragment produced  True               Included in MRS
+idMedDrawer_1  True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idOpenState_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

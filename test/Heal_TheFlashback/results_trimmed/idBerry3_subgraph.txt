@@ -1,0 +1,99 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idBerry3_subgraph.dot
+[ TOP: h1674
+  INDEX: e1671
+  RELS: < [ unknown LBL: h1673 ARG: x1641 ARG0: e1671 ]
+          [ def_udef_a_q LBL: h1670 ARG0: x1641 RSTR: h1668 BODY: h1669 ]
+          [ _near_p LBL: h1662 ARG0: e1659 ARG1: x1641 ARG2: x1650 ]
+          [ def_udef_a_q LBL: h1666 ARG0: x1650 RSTR: h1664 BODY: h1665 ]
+          [ _green_a_2 LBL: h1658 ARG0: i1656 ARG1: x1650 ]
+          [ _berry_n_1 LBL: h1658 ARG0: x1650 ]
+          [ _yellow_a_1 LBL: h1662 ARG0: i1647 ARG1: x1641 ]
+          [ _berry_n_1 LBL: h1662 ARG0: x1641 ] >
+  HCONS: < h1664 qeq h1658 h1668 qeq h1662 h1674 qeq h1673 > ]
+GENERATED RESULTS ... 
+A yellow berry near the green berries
+The yellow berry near the green berries
+A yellow berry near a green berry
+The yellow berry near a green berry
+The yellow berries near the green berries
+The yellow berries near a green berry
+A yellow berry near the green berry
+The yellow berry near the green berry
+Yellow berries near a green berry
+Yellow berries near the green berries
+The yellow berries near the green berry
+A yellow berry near the green berries.
+The yellow berry near the green berries.
+A yellow berry near green berries.
+The yellow berry near green berries.
+The yellow berries near the green berries.
+A yellow berry near green berries
+The yellow berries near green berries.
+The yellow berry near green berries
+The yellow berries near green berries
+Yellow berries near the green berry
+A yellow berry near a green berry.
+The yellow berry near a green berry.
+Yellow berries near the green berries.
+The yellow berries near a green berry.
+Yellow berry near the green berries
+Yellow berry near a green berry
+A yellow berry near the green berry.
+The yellow berry near the green berry.
+Yellow berries near green berries.
+Yellow berries near a green berry.
+The yellow berries near the green berry.
+Yellow berries near green berries
+Yellow berry near the green berry
+Yellow berry near the green berries.
+Yellow berries near the green berry.
+Yellow berry near a green berry.
+The yellow berries, near the green berries
+The yellow berry, near the green berries
+Yellow berry near green berries.
+Yellow berries, near the green berries
+Yellow berry near green berries
+Yellow berry near the green berry.
+Yellow berry, near the green berries
+The yellow berries, near the green berry
+The yellow berry, near the green berry
+The yellow berries, near a green berry
+The yellow berry, near a green berry
+Yellow berries, near a green berry
+Yellow berries, near the green berry
+A yellow berry, near the green berries
+Yellow berry, near a green berry
+Yellow berry, near the green berry
+A yellow berry, near the green berry
+A yellow berry, near a green berry
+The yellow berries, near green berries
+The yellow berry, near green berries
+Yellow berries, near green berries
+Yellow berry, near green berries
+A yellow berry, near green berries
+
+TOTAL RESULTS: 60
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  -------------------------
+green_6    True            MRS fragment produced  True               Included in MRS
+idBerry_1  True            MRS fragment produced  True               Included in MRS
+idBerry_4  True            MRS fragment produced  True               Included in MRS
+yellow_3   True            MRS fragment produced  True               Included in MRS
+yes_2      True            MRS fragment produced  False              Descends from failed edge
+yes_5      True            MRS fragment produced  False              Descends from failed edge
+
+Edge           MRS Composed    Reason                                 Included in MRS    Reason
+-------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idColor_2      True            MRS composed                           True               Included in MRS
+idColor_4      True            MRS composed                           True               Included in MRS
+idImmovable_1  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idImmovable_3  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+isNear_5       True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        6    1
+Nodes              Included             4        6    0.666667
+Edges              Produced             3        5    0.6
+Edges              Included             3        5    0.6

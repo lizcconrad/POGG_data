@@ -1,0 +1,74 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idDesk1_subgraph.dot
+[ TOP: h1123
+  INDEX: e1120
+  RELS: < [ unknown LBL: h1122 ARG: x1013 ARG0: e1120 ]
+          [ def_udef_a_q LBL: h1119 ARG0: x1013 RSTR: h1117 BODY: h1118 ]
+          [ loc_nonsp LBL: h1089 ARG0: i1112 ARG1: x1013 ARG2: x1106 ]
+          [ loc_nonsp LBL: h1089 ARG0: i1086 ARG1: x1013 ARG2: x1073 ]
+          [ _wooden_a_1 LBL: h1089 ARG0: e1023 ARG1: x1013 ]
+          [ _wooden_a_1 LBL: h1089 ARG0: e1020 ARG1: x1013 ]
+          [ _use_v_1 LBL: h1089 ARG0: e1015 ARG1: i1016 ARG2: x1013 ARG3: h1018 ]
+          [ _desk_n_1 LBL: h1089 ARG0: x1013 ]
+          [ def_implicit_q LBL: h1085 ARG0: x1073 RSTR: h1083 BODY: h1084 ]
+          [ _east_a_1 LBL: h1075 ARG0: i1072 ARG1: x1073 ARG2: x1026 ]
+          [ def_udef_a_q LBL: h1079 ARG0: x1026 RSTR: h1077 BODY: h1078 ]
+          [ loc_nonsp LBL: h1037 ARG0: i1068 ARG1: x1026 ARG2: x1062 ]
+          [ _on_p_loc LBL: h1037 ARG0: e1034 ARG1: x1026 ARG2: x1031 ]
+          [ def_udef_a_q LBL: h1041 ARG0: x1031 RSTR: h1039 BODY: h1040 ]
+          [ _left_n_of LBL: h1033 ARG0: x1031 ARG1: i1032 ]
+          [ _white_a_1 LBL: h1037 ARG0: i1028 ARG1: x1026 ]
+          [ _sock_n_1 LBL: h1037 ARG0: x1026 ]
+          [ def_implicit_q LBL: h1067 ARG0: x1062 RSTR: h1065 BODY: h1066 ]
+          [ _west_a_1 LBL: h1063 ARG0: i1054 ARG1: x1062 ARG2: x1042 ]
+          [ def_udef_a_q LBL: h1061 ARG0: x1042 RSTR: h1059 BODY: h1060 ]
+          [ compound LBL: h1053 ARG0: e1050 ARG1: x1042 ARG2: x1044 ]
+          [ udef_q LBL: h1049 ARG0: x1044 RSTR: h1047 BODY: h1048 ]
+          [ _living_n_1 LBL: h1045 ARG0: x1044 ]
+          [ _room_n_unit LBL: h1053 ARG0: x1042 ]
+          [ place_n LBL: h1063 ARG0: x1062 ]
+          [ place_n LBL: h1075 ARG0: x1073 ]
+          [ def_implicit_q LBL: h1111 ARG0: x1106 RSTR: h1109 BODY: h1110 ]
+          [ _east_a_1 LBL: h1101 ARG0: i1098 ARG1: x1106 ARG2: x1090 ]
+          [ def_udef_a_q LBL: h1105 ARG0: x1090 RSTR: h1103 BODY: h1104 ]
+          [ _dirty_a_1 LBL: h1094 ARG0: e1095 ARG1: x1090 ]
+          [ _white_a_1 LBL: h1094 ARG0: i1092 ARG1: x1090 ]
+          [ _pillow_n_1 LBL: h1094 ARG0: x1090 ]
+          [ place_n LBL: h1101 ARG0: x1106 ] >
+  HCONS: < h1039 qeq h1033 h1047 qeq h1045 h1059 qeq h1053 h1065 qeq h1063 h1077 qeq h1037 h1083 qeq h1075 h1103 qeq h1094 h1109 qeq h1101 h1117 qeq h1089 h1123 qeq h1122 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node            MRS Produced    Reason                 Included in MRS    Reason
+--------------  --------------  ---------------------  -----------------  ---------------
+dirty_11        True            MRS fragment produced  True               Included in MRS
+idDesk_1        True            MRS fragment produced  True               Included in MRS
+idLivingroom_8  True            MRS fragment produced  True               Included in MRS
+idLocalLeft_7   True            MRS fragment produced  True               Included in MRS
+idPillow_9      True            MRS fragment produced  True               Included in MRS
+idSock_5        True            MRS fragment produced  True               Included in MRS
+idwood_4        True            MRS fragment produced  True               Included in MRS
+used_2          True            MRS fragment produced  True               Included in MRS
+white_10        True            MRS fragment produced  True               Included in MRS
+white_6         True            MRS fragment produced  True               Included in MRS
+wooden_3        True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason        Included in MRS    Reason
+--------------  --------------  ------------  -----------------  ---------------
+idColor_4       True            MRS composed  True               Included in MRS
+idColor_8       True            MRS composed  True               Included in MRS
+idDescriptor_1  True            MRS composed  True               Included in MRS
+idDescriptor_9  True            MRS composed  True               Included in MRS
+idLocation_5    True            MRS composed  True               Included in MRS
+idMaterial_3    True            MRS composed  True               Included in MRS
+idMaterial__2   True            MRS composed  True               Included in MRS
+isEastOf_10     True            MRS composed  True               Included in MRS
+isEastOf_7      True            MRS composed  True               Included in MRS
+isWestOf_6      True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced            11       11           1
+Nodes              Included            11       11           1
+Edges              Produced            10       10           1
+Edges              Included            10       10           1

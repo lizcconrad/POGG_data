@@ -1,0 +1,21 @@
+AtomicCity Lexicon Notes
+- Can't do "Adam" ... didn't include named stuff, easy to add but wasn't considered during development
+- skipping all adam's (including hands)
+- not lexicalizing "idCurrentLevel" ... seems to always point to a button? Not sure what it means, skipping it
+- idFuse30A ... just calling it fuse, might want like "The fuse numbered 30A" but whatever
+- rip can't do ordinality or any sort of numbers... "the 2 button"
+- ShutOffValveLight ... "valve light" i guess..........
+- idOnSwitch ... skip, can't do "on" switch
+- idLockMechanism ... "with a" idk
+- Can't do "Idaho" either
+
+idMachine1_prop_idPowerControl ... breaks everything because it Looks Like an ERG predicate ... so i just took it out
+and edited the graph not to break it but it does count as a failure in the coverage
+
+GRAPH NOTES
+idAtomicCityOutside1
+    - two openings, two wolves, kind of naturally disambiguates the wolves but not rly
+idElevator1
+    - "unlighted off lights" ... REAL -_-
+idOnSwitch
+    - comes out as "the off switch" which feels like it means the switch that turns things off but it's really the switch That Is off rip gg

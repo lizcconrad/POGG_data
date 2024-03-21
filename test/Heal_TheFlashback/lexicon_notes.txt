@@ -1,0 +1,13 @@
+Heal_TheFlashback
+- "bedroom to bathroom door" ... "living room to bedroom door" ... just picking one e.g. bathroom door
+- idSinkStain ... probably more natural as "the stain in the sink" ... future work etc
+- another weird compound "flashback" has to be "flash back"
+- idBerry graphs are neat bc the color disambiguates ... finally a good example (minus the damn immovability lmao)
+
+
+GRAPH NOTES
+- idCalendar1, idCouch1, idDesk1 ... "used" ... wrong synopsis selected
+- idBed ... this is the one with the "queen bed" issue, descpitor doesn't account for compounds so it does something but it's wrong ... so basically i'm having an issue where some properties encompass too many types of composition and it's gross, my descriptor function needs to be like a wrapper that selects between like all possibilities i guess and make guesses which is unideal ... a dev could theoretically cater their data to be more specific though to alleviate this if they care
+- idChair2 ... "car black unknown keys" ... a ranker would hopefully help this
+- idBed1 ... "made" ... wrong synopsis selected
+- idWater1 ... "uncountable" smh

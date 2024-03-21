@@ -1,0 +1,28 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idLexiLeftHand_subgraph.dot
+
+
+TOTAL RESULTS: 0
+
+Node                          MRS Produced    Reason                                         Included in MRS    Reason
+----------------------------  --------------  ---------------------------------------------  -----------------  ---------------------------------------------
+closed_4                      True            MRS fragment produced                          False              Descends from failed node
+idGreenRoomBackOpeningDoor_3  True            MRS fragment produced                          False              Descends from failed node
+idLexiLeftHand_1              False           'idLexiLeftHand' has no value in the lexicon   False              'idLexiLeftHand' has no value in the lexicon
+idLexiRightHand_6             False           'idLexiRightHand' has no value in the lexicon  False              'idLexiRightHand' has no value in the lexicon
+left_2                        True            MRS fragment produced                          False              Descends from failed node
+locked_5                      True            MRS fragment produced                          False              Descends from failed node
+
+Edge             MRS Composed    Reason                     Included in MRS    Reason
+---------------  --------------  -------------------------  -----------------  -------------------------
+idLockedState_3  True            MRS composed               False              Descends from failed node
+idOpenState_2    True            MRS composed               False              Descends from failed node
+idSide_1         False           Outbound from failed node  False              Outbound from failed node
+isNorthOf_5      False           Outbound from failed node  False              Outbound from failed node
+isSouthOf_4      False           Inbound to failed node     False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        6    0.666667
+Nodes              Included             0        6    0
+Edges              Produced             2        5    0.4
+Edges              Included             0        5    0

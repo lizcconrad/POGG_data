@@ -1,0 +1,38 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idDock1_subgraph.dot
+[ TOP: h846
+  INDEX: e843
+  RELS: < [ unknown LBL: h845 ARG: x829 ARG0: e843 ]
+          [ def_udef_a_q LBL: h842 ARG0: x829 RSTR: h840 BODY: h841 ]
+          [ _dock_n_1 LBL: h830 ARG0: x829 ] >
+  HCONS: < h840 qeq h830 h846 qeq h845 > ]
+GENERATED RESULTS ... 
+Docks
+Dock
+The dock
+A dock
+The docks
+The docks.
+Dock.
+Docks.
+A dock.
+The dock.
+
+TOTAL RESULTS: 10
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  -------------------------
+idDock_1  True            MRS fragment produced  True               Included in MRS
+true_3    True            MRS fragment produced  False              Descends from failed edge
+yes_2     True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idImmovable_1      False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             1        3    0.333333
+Edges              Produced             0        2    0
+Edges              Included             0        2    0

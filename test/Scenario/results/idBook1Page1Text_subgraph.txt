@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idBook1Page1Text_subgraph.dot
+[ TOP: h372
+  INDEX: e369
+  RELS: < [ unknown LBL: h371 ARG: x351 ARG0: e369 ]
+          [ def_udef_a_q LBL: h368 ARG0: x351 RSTR: h366 BODY: h367 ]
+          [ compound LBL: h364 ARG0: e361 ARG1: x351 ARG2: x357 ]
+          [ udef_q LBL: h360 ARG0: x357 RSTR: h358 BODY: h359 ]
+          [ _page_n_1 LBL: h356 ARG0: x357 ARG1: u355 ]
+          [ _text_n_of LBL: h364 ARG0: x351 ARG1: i352 ] >
+  HCONS: < h358 qeq h356 h366 qeq h364 h372 qeq h371 > ]
+GENERATED RESULTS ... 
+Page texts
+The page texts.
+The page texts
+The page text
+Page texts.
+Page text
+A page text
+The page text.
+Page text.
+A page text.
+Page text.
+Page text
+
+TOTAL RESULTS: 12
+
+Node                MRS Produced    Reason                 Included in MRS    Reason
+------------------  --------------  ---------------------  -----------------  ---------------
+idBook1Page1Text_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

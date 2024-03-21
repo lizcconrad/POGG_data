@@ -1,0 +1,94 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idBedroomToClosetDoor_subgraph.dot
+[ TOP: h3016
+  INDEX: e3013
+  RELS: < [ unknown LBL: h3015 ARG: x3009 ARG0: e3013 ]
+          [ def_udef_a_q LBL: h3012 ARG0: x3009 RSTR: h3010 BODY: h3011 ]
+          [ _un-_a_neg LBL: h3004 ARG0: i2998 ARG1: e2999 ]
+          [ _know_v_1 LBL: h3004 ARG0: e2999 ARG1: u3002 ARG2: x3009 ]
+          [ _open_a_to LBL: h3004 ARG0: e2990 ARG1: x3009 ARG2: u2992 ]
+          [ compound LBL: h3004 ARG0: e2986 ARG1: x3009 ARG2: x2980 ]
+          [ udef_q LBL: h2985 ARG0: x2980 RSTR: h2983 BODY: h2984 ]
+          [ _closet_n_1 LBL: h2981 ARG0: x2980 ]
+          [ _door_n_1 LBL: h3004 ARG0: x3009 ] >
+  HCONS: < h2983 qeq h2981 h3010 qeq h3004 h3016 qeq h3015 > ]
+GENERATED RESULTS ... 
+The unknown open closet doors
+The open unknown closet doors
+An unknown open closet door
+The unknown open closet door
+An open unknown closet door
+The unknown open closet doors.
+Open unknown closet doors
+The open unknown closet door
+The open unknown closet doors.
+Closets open unknown door
+Open unknown closet doors.
+Unknown open closet doors
+The closets open unknown doors
+An unknown open closet door.
+The unknown open closet door.
+An open unknown closet door.
+The open unknown closet door.
+The open closets unknown doors
+Unknown open closet doors.
+A closets open unknown door
+The closets open unknown door
+Closets open unknown doors
+Closets unknown open door
+An open closets unknown door
+Open closets unknown doors
+Open unknown closet door
+The open closets unknown door
+The open closets unknown doors.
+Unknown open closet door
+A closets unknown open door
+Open closets unknown doors.
+Closets open unknown door.
+The closets open unknown doors.
+An unknown closets open door
+The closets unknown open door
+The unknown closets open door
+The unknown closets open doors
+The unknown closets open doors.
+The closets unknown open doors
+Open unknown closet door.
+An open closets unknown door.
+The open closets unknown door.
+Closets open unknown doors.
+Unknown closets open doors
+Unknown closets open doors.
+Closets unknown open doors
+Closets unknown open door.
+The closets unknown open doors.
+Unknown open closet door.
+A closets open unknown door.
+The closets open unknown door.
+An unknown closets open door.
+The unknown closets open door.
+Open closets unknown door
+Closets unknown open doors.
+A closets unknown open door.
+The closets unknown open door.
+Unknown closets open door
+Open closets unknown door.
+Unknown closets open door.
+
+TOTAL RESULTS: 60
+
+Node                     MRS Produced    Reason                 Included in MRS    Reason
+-----------------------  --------------  ---------------------  -----------------  ---------------
+idBedroomToClosetDoor_1  True            MRS fragment produced  True               Included in MRS
+open_2                   True            MRS fragment produced  True               Included in MRS
+true_3                   True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idOpenState_1      True            MRS composed  True               Included in MRS
+idUnknownObject_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

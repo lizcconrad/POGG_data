@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idWorkshop1LeftOpening_subgraph.dot
+[ TOP: h1872
+  INDEX: e1869
+  RELS: < [ unknown LBL: h1871 ARG: x1865 ARG0: e1869 ]
+          [ def_udef_a_q LBL: h1868 ARG0: x1865 RSTR: h1866 BODY: h1867 ]
+          [ compound LBL: h1864 ARG0: e1861 ARG1: x1865 ARG2: x1854 ]
+          [ udef_q LBL: h1860 ARG0: x1854 RSTR: h1858 BODY: h1859 ]
+          [ _left_n_of LBL: h1856 ARG0: x1854 ARG1: i1855 ]
+          [ _opening_n_1 LBL: h1864 ARG0: x1865 ] >
+  HCONS: < h1858 qeq h1856 h1866 qeq h1864 h1872 qeq h1871 > ]
+GENERATED RESULTS ... 
+The left opening
+The left openings
+A left opening
+The left openings.
+Left openings
+The left opening.
+Left opening
+A left opening.
+Left openings.
+Left opening.
+
+TOTAL RESULTS: 10
+
+Node                      MRS Produced    Reason                 Included in MRS    Reason
+------------------------  --------------  ---------------------  -----------------  ---------------
+idWorkshop1LeftOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

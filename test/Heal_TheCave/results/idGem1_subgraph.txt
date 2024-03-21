@@ -1,0 +1,65 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idGem1_subgraph.dot
+[ TOP: h322
+  INDEX: e319
+  RELS: < [ unknown LBL: h321 ARG: x315 ARG0: e319 ]
+          [ def_udef_a_q LBL: h318 ARG0: x315 RSTR: h316 BODY: h317 ]
+          [ _glow_v_1 LBL: h314 ARG0: e312 [ e PROG: bool ] ARG1: x315 ]
+          [ _red_a_1 LBL: h314 ARG0: i309 ARG1: x315 ]
+          [ _gem_n_1 LBL: h314 ARG0: x315 ] >
+  HCONS: < h316 qeq h314 h322 qeq h321 > ]
+GENERATED RESULTS ... 
+The red gems glowing.
+A red gem glowing.
+The glowing red gems
+Red glowing gems
+The glowing red gem
+The red glowing gems
+The red glowing gem
+A glowing red gem
+A red glowing gem
+The red gem glowing.
+Glowing red gems
+The glowing red gems.
+Red glowing gems.
+A red gem, glowing.
+The red gems glowing
+A red gem glowing
+The red glowing gems.
+Red glowing gem
+Red gems glowing.
+Red gem glowing.
+The glowing red gem.
+A glowing red gem.
+Glowing red gems.
+The red gem glowing
+The red glowing gem.
+The red gems, glowing.
+The red gem, glowing.
+Red gems, glowing.
+A red glowing gem.
+Glowing red gem
+Red gem glowing
+Red gem, glowing.
+Red glowing gem.
+Red gems glowing
+Glowing red gem.
+
+TOTAL RESULTS: 35
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  ---------------
+glowing_3  True            MRS fragment produced  True               Included in MRS
+idGem_1    True            MRS fragment produced  True               Included in MRS
+red_2      True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason        Included in MRS    Reason
+--------------  --------------  ------------  -----------------  ---------------
+idColor_1       True            MRS composed  True               Included in MRS
+idDescriptor_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

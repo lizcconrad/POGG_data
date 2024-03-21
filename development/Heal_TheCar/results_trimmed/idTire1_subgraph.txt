@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idTire1_subgraph.dot
+[ TOP: h824
+  INDEX: e821
+  RELS: < [ unknown LBL: h823 ARG: x817 ARG0: e821 ]
+          [ def_udef_a_q LBL: h820 ARG0: x817 RSTR: h818 BODY: h819 ]
+          [ _black_a_1 LBL: h816 ARG0: i814 ARG1: x817 ]
+          [ _tire_n_1 LBL: h816 ARG0: x817 ] >
+  HCONS: < h818 qeq h816 h824 qeq h823 > ]
+GENERATED RESULTS ... 
+The black tires
+The black tires.
+Black tires
+The black tire
+A black tire
+Black tires.
+Black tire
+The black tire.
+A black tire.
+Black tired
+Black tired.
+Black tire.
+
+TOTAL RESULTS: 12
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  ---------------
+black_2   True            MRS fragment produced  True               Included in MRS
+idTire_1  True            MRS fragment produced  True               Included in MRS
+
+Edge       MRS Composed    Reason        Included in MRS    Reason
+---------  --------------  ------------  -----------------  ---------------
+idColor_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

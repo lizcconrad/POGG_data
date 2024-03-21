@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idBush1_subgraph.dot
+[ TOP: h53
+  INDEX: e50
+  RELS: < [ unknown LBL: h52 ARG: x46 ARG0: e50 ]
+          [ def_udef_a_q LBL: h49 ARG0: x46 RSTR: h47 BODY: h48 ]
+          [ _green_a_2 LBL: h41 ARG0: i39 ARG1: x46 ]
+          [ _bush_n_1 LBL: h41 ARG0: x46 ] >
+  HCONS: < h47 qeq h41 h53 qeq h52 > ]
+GENERATED RESULTS ... 
+The green bushes
+Green bushes
+The green bush
+A green bush
+The green bushes.
+Green bushes.
+The green bush.
+Green bush
+A green bush.
+Green bush.
+
+TOTAL RESULTS: 10
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  -------------------------
+green_2   True            MRS fragment produced  True               Included in MRS
+idBush_1  True            MRS fragment produced  True               Included in MRS
+yes_3     True            MRS fragment produced  False              Descends from failed edge
+
+Edge           MRS Composed    Reason                                 Included in MRS    Reason
+-------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idColor_1      True            MRS composed                           True               Included in MRS
+idImmovable_2  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

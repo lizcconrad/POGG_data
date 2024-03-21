@@ -1,0 +1,33 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idBeefJerky1_subgraph.dot
+[ TOP: h784
+  INDEX: e781
+  RELS: < [ unknown LBL: h783 ARG: x777 ARG0: e781 ]
+          [ def_udef_a_q LBL: h780 ARG0: x777 RSTR: h778 BODY: h779 ]
+          [ compound LBL: h772 ARG0: e769 ARG1: x777 ARG2: x765 ]
+          [ udef_q LBL: h768 ARG0: x765 RSTR: h766 BODY: h767 ]
+          [ _beef_n_1 LBL: h764 ARG0: x765 ]
+          [ _jerky_n_1 LBL: h772 ARG0: x777 ] >
+  HCONS: < h766 qeq h764 h778 qeq h772 h784 qeq h783 > ]
+GENERATED RESULTS ... 
+The beef jerky.
+Beef jerky
+Beef jerky.
+The beef jerky
+
+TOTAL RESULTS: 4
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  -------------------------
+idBeefJerky_1  True            MRS fragment produced  True               Included in MRS
+true_2         True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idUnknownObject_1  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2         1
+Nodes              Included             1        2         0.5
+Edges              Produced             0        1         0
+Edges              Included             0        1         0

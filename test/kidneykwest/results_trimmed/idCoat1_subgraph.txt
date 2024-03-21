@@ -1,0 +1,27 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idCoat1_subgraph.dot
+[ TOP: h3672
+  INDEX: e3669
+  RELS: < [ unknown LBL: h3671 ARG: x3665 ARG0: e3669 ]
+          [ def_udef_a_q LBL: h3668 ARG0: x3665 RSTR: h3666 BODY: h3667 ]
+          [ _warm_a_1 LBL: h3661 ARG0: e3662 ARG1: x3665 ]
+          [ _coat_n_of LBL: h3661 ARG0: x3665 ARG1: i3660 ] >
+  HCONS: < h3666 qeq h3661 h3672 qeq h3671 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  ---------------
+idCoat_1  True            MRS fragment produced  True               Included in MRS
+warm_2    True            MRS fragment produced  True               Included in MRS
+
+Edge          MRS Composed    Reason        Included in MRS    Reason
+------------  --------------  ------------  -----------------  ---------------
+idMaterial_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

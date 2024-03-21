@@ -1,0 +1,50 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/complete/idBush1_subgraph.dot
+[ TOP: h136
+  INDEX: e133
+  RELS: < [ unknown LBL: h135 ARG: x114 ARG0: e133 ]
+          [ def_udef_a_q LBL: h132 ARG0: x114 RSTR: h130 BODY: h131 ]
+          [ _immovable_a_1 LBL: h118 ARG0: e123 ARG1: x114 ]
+          [ _green_a_2 LBL: h118 ARG0: i116 ARG1: x114 ]
+          [ _bush_n_1 LBL: h118 ARG0: x114 ] >
+  HCONS: < h130 qeq h118 h136 qeq h135 > ]
+GENERATED RESULTS ... 
+The green immovable bush
+A green immovable bush
+Green immovable bushes
+Immovable green bushes
+The immovable green bushes
+An immovable green bush
+The immovable green bush
+The green immovable bushes
+Immovable green bushes.
+The immovable green bushes.
+The green immovable bushes.
+Green immovable bushes.
+Green immovable bush
+Immovable green bush
+An immovable green bush.
+The immovable green bush.
+The green immovable bush.
+A green immovable bush.
+Immovable green bush.
+Green immovable bush.
+
+TOTAL RESULTS: 20
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  ---------------
+green_2   True            MRS fragment produced  True               Included in MRS
+idBush_1  True            MRS fragment produced  True               Included in MRS
+yes_3     True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idColor_1      True            MRS composed  True               Included in MRS
+idImmovable_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

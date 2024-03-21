@@ -1,0 +1,131 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheTrees/subgraphs/dot/complete/idPlayerRightHand_subgraph.dot
+[ TOP: h599
+  INDEX: e596
+  RELS: < [ unknown LBL: h598 ARG: x578 ARG0: e596 ]
+          [ def_udef_a_q LBL: h595 ARG0: x578 RSTR: h593 BODY: h594 ]
+          [ _on_p_loc LBL: h587 ARG0: e584 ARG1: x578 ARG2: x588 ]
+          [ def_udef_a_q LBL: h591 ARG0: x588 RSTR: h589 BODY: h590 ]
+          [ _right_n_of LBL: h583 ARG0: x588 ARG1: i582 ]
+          [ poss LBL: h587 ARG0: e577 ARG1: x578 ARG2: x570 ]
+          [ compound LBL: h587 ARG0: e566 ARG1: x578 ARG2: x559 ]
+          [ udef_q LBL: h565 ARG0: x559 RSTR: h563 BODY: h564 ]
+          [ _right_n_of LBL: h561 ARG0: x559 ARG1: i560 ]
+          [ _hand_n_1 LBL: h587 ARG0: x578 ]
+          [ def_udef_a_q LBL: h576 ARG0: x570 RSTR: h574 BODY: h575 ]
+          [ _player_n_of LBL: h572 ARG0: x570 ARG1: i571 ] >
+  HCONS: < h589 qeq h583 h563 qeq h561 h574 qeq h572 h593 qeq h587 h599 qeq h598 > ]
+GENERATED RESULTS ... 
+The player's right hands on the rights
+The player's right hand on the rights
+The player's right hands on the right
+The player's right hand on the right
+The player's right hands on the rights.
+A player's right hands on the rights
+The players' right hands on the rights
+The player's right hand on the rights.
+A player's right hand on the rights
+The players' right hand on the rights
+The player's right hands on the right.
+A player's right hands on the right
+The player's right hand on the right.
+The players' right hands on the right
+The player's right hands on a right
+A player's right hand on the right
+A player's right hands on the rights.
+The players' right hand on the right
+The player's right hand on a right
+Players' right hands on the rights
+The players' right hands on the rights.
+A player's right hand on the rights.
+Players' right hand on the rights
+The players' right hand on the rights.
+The player's right hands on rights.
+The player's right hand on rights.
+A player's right hands on the right.
+The players' right hands on the right.
+The player's right hands on a right.
+Players' right hands on the right
+A player's right hand on the right.
+A player's right hands on a right
+The player's right hands, on the rights
+The players' right hand on the right.
+The player's right hand on a right.
+Players' right hand on the right
+The players' right hands on a right
+A player's right hand on a right
+Players' right hands on the rights.
+The players' right hand on a right
+Players' right hand on the rights.
+The player's right hands on rights
+The player's right hand on rights
+The player's right hand, on the rights
+A player's right hands on rights.
+The players' right hands on rights.
+A player's right hand on rights.
+The players' right hand on rights.
+Players' right hands on the right.
+A player's right hands on a right.
+Players' right hand on the right.
+The players' right hands on a right.
+A player's right hands, on the rights
+Players' right hands on a right
+A player's right hand on a right.
+The players' right hands, on the rights
+The players' right hand on a right.
+Players' right hand on a right
+A player's right hands on rights
+The players' right hands on rights
+A player's right hand on rights
+The players' right hand on rights
+A player's right hand, on the rights
+Players' right hands on rights.
+The players' right hand, on the rights
+Players' right hand on rights.
+The player's right hands, on the right
+Players' right hands on a right.
+Players' right hands, on the rights
+Players' right hand on a right.
+The player's right hands, on a right
+Players' right hands on rights
+The player's right hand, on the right
+Players' right hand on rights
+The player's right hands, on rights
+Players' right hand, on the rights
+A player's right hands, on the right
+The player's right hand, on a right
+The players' right hands, on the right
+The player's right hand, on rights
+A player's right hands, on a right
+The players' right hands, on a right
+A player's right hand, on the right
+The players' right hand, on the right
+A player's right hands, on rights
+The players' right hands, on rights
+Players' right hands, on the right
+A player's right hand, on a right
+The players' right hand, on a right
+A player's right hand, on rights
+The players' right hand, on rights
+Players' right hands, on a right
+Players' right hand, on the right
+Players' right hands, on rights
+Players' right hand, on a right
+Players' right hand, on rights
+
+TOTAL RESULTS: 96
+
+Node                 MRS Produced    Reason                 Included in MRS    Reason
+-------------------  --------------  ---------------------  -----------------  ---------------
+idPlayerRightHand_1  True            MRS fragment produced  True               Included in MRS
+right_2              True            MRS fragment produced  True               Included in MRS
+
+Edge          MRS Composed    Reason        Included in MRS    Reason
+------------  --------------  ------------  -----------------  ---------------
+idLocation_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

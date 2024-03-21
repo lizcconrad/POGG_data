@@ -1,0 +1,36 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idCrystal1_subgraph.dot
+[ TOP: h337
+  INDEX: e334
+  RELS: < [ unknown LBL: h336 ARG: x328 ARG0: e334 ]
+          [ def_udef_a_q LBL: h333 ARG0: x328 RSTR: h331 BODY: h332 ]
+          [ _crystal_n_1 LBL: h329 ARG0: x328 ] >
+  HCONS: < h331 qeq h329 h337 qeq h336 > ]
+GENERATED RESULTS ... 
+Crystal
+The crystals.
+The crystals
+A crystal
+Crystals
+Crystal.
+A crystal.
+The crystal.
+Crystals.
+The crystal
+Crystal.
+Crystal
+
+TOTAL RESULTS: 12
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  ---------------
+idCrystal_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

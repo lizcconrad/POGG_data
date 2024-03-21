@@ -1,0 +1,41 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idScrewdriver1_subgraph.dot
+[ TOP: h1083
+  INDEX: e1080
+  RELS: < [ unknown LBL: h1082 ARG: x1059 ARG0: e1080 ]
+          [ def_udef_a_q LBL: h1079 ARG0: x1059 RSTR: h1077 BODY: h1078 ]
+          [ compound LBL: h1071 ARG0: e1068 ARG1: x1059 ARG2: x1062 ]
+          [ udef_q LBL: h1067 ARG0: x1062 RSTR: h1065 BODY: h1066 ]
+          [ _screw_n_1 LBL: h1063 ARG0: x1062 ]
+          [ _driver_n_of LBL: h1071 ARG0: x1059 ARG1: i1060 ] >
+  HCONS: < h1065 qeq h1063 h1077 qeq h1071 h1083 qeq h1082 > ]
+GENERATED RESULTS ... 
+Screw drivers
+The screw driver
+The screw drivers
+Screw driver
+A screw driver
+Screw drivers.
+The screw drivers.
+The screw driver.
+A screw driver.
+Screw driver.
+
+TOTAL RESULTS: 10
+
+Node             MRS Produced    Reason                                Included in MRS    Reason
+---------------  --------------  ------------------------------------  -----------------  ------------------------------------
+idScrewdriver_1  True            MRS fragment produced                 True               Included in MRS
+pointy_2         False           'pointy' has no value in the lexicon  False              'pointy' has no value in the lexicon
+true_3           True            MRS fragment produced                 False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idShape_1          False           Inbound to failed node                     False              Inbound to failed node
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        3    0.666667
+Nodes              Included             1        3    0.333333
+Edges              Produced             0        2    0
+Edges              Included             0        2    0

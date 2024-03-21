@@ -1,0 +1,38 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idHouse1_subgraph.dot
+[ TOP: h3177
+  INDEX: e3174
+  RELS: < [ unknown LBL: h3176 ARG: x3170 ARG0: e3174 ]
+          [ def_udef_a_q LBL: h3173 ARG0: x3170 RSTR: h3171 BODY: h3172 ]
+          [ _near_p LBL: h3147 ARG0: e3162 ARG1: x3170 ARG2: x3148 ]
+          [ def_udef_a_q LBL: h3169 ARG0: x3148 RSTR: h3167 BODY: h3168 ]
+          [ _immovable_a_1 LBL: h3158 ARG0: e3156 ARG1: x3148 ]
+          [ _table_n_1 LBL: h3158 ARG0: x3148 ]
+          [ _un-_a_neg LBL: h3147 ARG0: i3145 ARG1: x3170 ]
+          [ _countable_a_1 LBL: h3147 ARG0: e3142 ARG1: x3170 ]
+          [ _house_n_of LBL: h3147 ARG0: x3170 ] >
+  HCONS: < h3167 qeq h3158 h3171 qeq h3147 h3177 qeq h3176 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  -------------------------
+idHouse_1      True            MRS fragment produced  True               Included in MRS
+idTable_3      True            MRS fragment produced  True               Included in MRS
+idmetal_4      True            MRS fragment produced  False              Descends from failed edge
+uncountable_2  True            MRS fragment produced  True               Included in MRS
+yes_5          True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason                             Included in MRS    Reason
+---------------  --------------  ---------------------------------  -----------------  ---------------------------------
+idArticleType_1  True            MRS composed                       True               Included in MRS
+idImmovable_3    True            MRS composed                       True               Included in MRS
+idMaterial_2     False           Semantic functor has no ARG1 hole  False              Semantic functor has no ARG1 hole
+isNear_4         True            MRS composed                       True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             5        5        1
+Nodes              Included             4        5        0.8
+Edges              Produced             3        4        0.75
+Edges              Included             3        4        0.75

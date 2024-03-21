@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idLockFace2_subgraph.dot
+[ TOP: h1389
+  INDEX: e1386
+  RELS: < [ unknown LBL: h1388 ARG: x1382 ARG0: e1386 ]
+          [ def_udef_a_q LBL: h1385 ARG0: x1382 RSTR: h1383 BODY: h1384 ]
+          [ compound LBL: h1371 ARG0: e1378 ARG1: x1382 ARG2: x1374 ]
+          [ udef_q LBL: h1377 ARG0: x1374 RSTR: h1375 BODY: h1376 ]
+          [ _lock_n_1 LBL: h1373 ARG0: x1374 ]
+          [ _face_n_1 LBL: h1371 ARG0: x1382 ] >
+  HCONS: < h1375 qeq h1373 h1383 qeq h1371 h1389 qeq h1388 > ]
+GENERATED RESULTS ... 
+The lock faces.
+The lock face
+Lock faces
+Lock faces.
+Lock face
+A lock face
+The lock faces
+The lock face.
+A lock face.
+Lock faced.
+Lock face.
+Lock faced
+
+TOTAL RESULTS: 12
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  ---------------
+idLockFace_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

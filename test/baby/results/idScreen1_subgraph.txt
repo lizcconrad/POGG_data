@@ -1,0 +1,38 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idScreen1_subgraph.dot
+[ TOP: h2977
+  INDEX: e2974
+  RELS: < [ unknown LBL: h2976 ARG: x2970 ARG0: e2974 ]
+          [ def_udef_a_q LBL: h2973 ARG0: x2970 RSTR: h2971 BODY: h2972 ]
+          [ _un-_a_neg LBL: h2961 ARG0: i2959 ARG1: e2960 ]
+          [ _know_v_1 LBL: h2961 ARG0: e2960 ARG1: u2963 ARG2: x2970 ]
+          [ _screen_n_1 LBL: h2961 ARG0: x2970 ] >
+  HCONS: < h2971 qeq h2961 h2977 qeq h2976 > ]
+GENERATED RESULTS ... 
+The unknown screens
+Unknown screens
+The unknown screen
+An unknown screen
+The unknown screens.
+Unknown screens.
+The unknown screen.
+Unknown screen
+An unknown screen.
+Unknown screen.
+
+TOTAL RESULTS: 10
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  ---------------
+idScreen_1  True            MRS fragment produced  True               Included in MRS
+true_2      True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idUnknownObject_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

@@ -1,0 +1,129 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idSmoke1_subgraph.dot
+[ TOP: h677
+  INDEX: e674
+  RELS: < [ unknown LBL: h676 ARG: x637 ARG0: e674 ]
+          [ def_udef_a_q LBL: h673 ARG0: x637 RSTR: h671 BODY: h672 ]
+          [ loc_nonsp LBL: h638 ARG0: i666 ARG1: x637 ARG2: x660 ]
+          [ _smoke_n_1 LBL: h638 ARG0: x637 ]
+          [ def_implicit_q LBL: h665 ARG0: x660 RSTR: h663 BODY: h664 ]
+          [ _east_a_1 LBL: h661 ARG0: i652 ARG1: x660 ARG2: x643 ]
+          [ def_udef_a_q LBL: h659 ARG0: x643 RSTR: h657 BODY: h658 ]
+          [ _large_a_1 LBL: h647 ARG0: e645 ARG1: x643 ]
+          [ _bear_n_1 LBL: h647 ARG0: x643 ]
+          [ place_n LBL: h661 ARG0: x660 ] >
+  HCONS: < h657 qeq h647 h663 qeq h661 h671 qeq h638 h677 qeq h676 > ]
+GENERATED RESULTS ... 
+Smokes east of a large bear
+Smokes east of the large bear
+Smokes east of the large bears
+Smokes east of the large bears.
+Smokes east of large bears
+Smokes east of large bear
+The smokes east of a large bear
+Smokes east of a large bear.
+Smokes east of large bear.
+Smokes east of large bears.
+The smokes east of the large bear
+Smokes east of the large bear.
+The smokes east of the large bears
+The smokes east of the large bears.
+A smoke east of a large bear
+The smoke east of a large bear
+The smokes east of large bears
+The smokes east of large bear
+Smoke east of a large bear
+The smokes east of a large bear.
+A smoke east of the large bear
+The smoke east of the large bear
+The smokes east of large bear.
+The smokes east of large bears.
+Smoke east of the large bear
+A smoke east of the large bears
+The smoke east of the large bears
+The smokes, east of a large bear
+The smokes east of the large bear.
+Smokes, east of a large bear
+Smoke east of the large bears
+The smokes, east of the large bear
+A smoke east of the large bears.
+The smoke east of the large bears.
+Smokes, east of the large bear
+The smoke, east of a large bear
+The smokes, east of the large bears
+Smoke east of the large bears.
+Smoke, east of a large bear
+Smokes, east of the large bears
+A smoke east of large bears
+The smoke east of large bears
+A smoke east of large bear
+The smoke east of large bear
+Smoke east of a large bear
+A smoke east of a large bear.
+The smoke east of a large bear.
+Smoke east of large bears
+Smoke east of large bear
+Smoke, east of a large bear
+The smoke, east of the large bear
+A smoke east of large bear.
+The smoke east of large bear.
+A smoke, east of a large bear
+Smoke east of a large bear.
+Smoke, east of the large bear
+A smoke east of large bears.
+The smoke east of large bears.
+The smoke, east of the large bears
+Smoke east of large bear.
+Smoke east of large bears.
+Smoke, east of the large bears
+Smoke east of the large bear
+A smoke east of the large bear.
+The smoke east of the large bear.
+The smokes, east of large bears
+Smoke, east of the large bear
+The smokes, east of large bear
+A smoke, east of the large bear
+Smokes, east of large bears
+Smoke east of the large bear.
+Smoke east of the large bears
+Smokes, east of large bear
+Smoke, east of the large bears
+A smoke, east of the large bears
+The smoke, east of large bears
+The smoke, east of large bear
+Smoke east of the large bears.
+Smoke, east of large bears
+Smoke, east of large bear
+Smoke east of large bears
+Smoke east of large bear
+Smoke, east of large bears
+Smoke, east of large bear
+Smoke east of a large bear.
+A smoke, east of large bears
+A smoke, east of large bear
+Smoke east of large bear.
+Smoke east of large bears.
+Smoke east of the large bear.
+
+TOTAL RESULTS: 90
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  -------------------------
+idBear_3   True            MRS fragment produced  True               Included in MRS
+idSmoke_1  True            MRS fragment produced  True               Included in MRS
+large_4    True            MRS fragment produced  True               Included in MRS
+yes_2      True            MRS fragment produced  False              Descends from failed edge
+yes_5      True            MRS fragment produced  False              Descends from failed edge
+
+Edge           MRS Composed    Reason                                 Included in MRS    Reason
+-------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idImmovable_1  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idImmovable_3  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idSize_2       True            MRS composed                           True               Included in MRS
+isEastOf_4     True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             5        5         1
+Nodes              Included             3        5         0.6
+Edges              Produced             2        4         0.5
+Edges              Included             2        4         0.5

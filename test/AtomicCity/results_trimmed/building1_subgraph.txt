@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/building1_subgraph.dot
+[ TOP: h1406
+  INDEX: e1403
+  RELS: < [ unknown LBL: h1405 ARG: x1399 ARG0: e1403 ]
+          [ def_udef_a_q LBL: h1402 ARG0: x1399 RSTR: h1400 BODY: h1401 ]
+          [ _old_a_1 LBL: h1395 ARG0: e1396 ARG1: x1399 ]
+          [ _building_n_1 LBL: h1395 ARG0: x1399 ] >
+  HCONS: < h1400 qeq h1395 h1406 qeq h1405 > ]
+GENERATED RESULTS ... 
+The old building
+Old buildings
+An old building
+The old buildings
+The old buildings.
+Old building
+Old buildings.
+The old building.
+An old building.
+Old building.
+
+TOTAL RESULTS: 10
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  ---------------
+building1_1  True            MRS fragment produced  True               Included in MRS
+old_2        True            MRS fragment produced  True               Included in MRS
+
+Edge                MRS Composed    Reason        Included in MRS    Reason
+------------------  --------------  ------------  -----------------  ---------------
+oldAdjectiveType_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idCavern6_subgraph.dot
+[ TOP: h1713
+  INDEX: e1710
+  RELS: < [ unknown LBL: h1712 ARG: x1706 ARG0: e1710 ]
+          [ def_udef_a_q LBL: h1709 ARG0: x1706 RSTR: h1707 BODY: h1708 ]
+          [ _bright_a_1 LBL: h1702 ARG0: e1703 ARG1: x1706 ]
+          [ _cavern_n_1 LBL: h1702 ARG0: x1706 ] >
+  HCONS: < h1707 qeq h1702 h1713 qeq h1712 > ]
+GENERATED RESULTS ... 
+The bright cavern
+A bright cavern
+Bright caverns
+The bright caverns
+The bright caverns.
+Bright cavern
+Bright caverns.
+The bright cavern.
+A bright cavern.
+Bright cavern.
+
+TOTAL RESULTS: 10
+
+Node        MRS Produced    Reason                           Included in MRS    Reason
+----------  --------------  -------------------------------  -----------------  -------------------------------
+6_3         False           '6' has no value in the lexicon  False              '6' has no value in the lexicon
+bright_2    True            MRS fragment produced            True               Included in MRS
+idCavern_1  True            MRS fragment produced            True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idOrdinality_2  False           Inbound to failed node  False              Inbound to failed node
+idTint_1        True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        3    0.666667
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

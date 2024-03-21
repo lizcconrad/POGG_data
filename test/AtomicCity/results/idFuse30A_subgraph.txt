@@ -1,0 +1,722 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idFuse30A_subgraph.dot
+[ TOP: h2831
+  INDEX: e2828
+  RELS: < [ unknown LBL: h2830 ARG: x2707 ARG0: e2828 ]
+          [ def_udef_a_q LBL: h2827 ARG0: x2707 RSTR: h2825 BODY: h2826 ]
+          [ loc_nonsp LBL: h2715 ARG0: i2820 ARG1: x2707 ARG2: x2816 ]
+          [ loc_nonsp LBL: h2715 ARG0: i2786 ARG1: x2707 ARG2: x2780 ]
+          [ _rusty_a_1 LBL: h2715 ARG0: e2727 ARG1: x2707 ]
+          [ _red_a_1 LBL: h2715 ARG0: i2724 ARG1: x2707 ]
+          [ _un-_a_neg LBL: h2715 ARG0: i2713 ARG1: e2714 ]
+          [ _know_v_1 LBL: h2715 ARG0: e2714 ARG1: u2717 ARG2: x2707 ]
+          [ _fuse_n_1 LBL: h2715 ARG0: x2707 ]
+          [ def_implicit_q LBL: h2785 ARG0: x2780 RSTR: h2783 BODY: h2784 ]
+          [ _north_a_1 LBL: h2781 ARG0: i2772 ARG1: x2780 ARG2: x2730 ]
+          [ def_udef_a_q LBL: h2779 ARG0: x2730 RSTR: h2777 BODY: h2778 ]
+          [ loc_nonsp LBL: h2751 ARG0: i2768 ARG1: x2730 ARG2: x2762 ]
+          [ _un-_a_neg LBL: h2751 ARG0: i2749 ARG1: e2750 ]
+          [ _light_v_cause LBL: h2751 ARG0: e2750 ARG1: i2746 ARG2: x2730 ]
+          [ _off_a_1 LBL: h2751 ARG0: e2742 ARG1: x2730 ]
+          [ compound LBL: h2751 ARG0: e2738 ARG1: x2730 ARG2: x2732 ]
+          [ udef_q LBL: h2737 ARG0: x2732 RSTR: h2735 BODY: h2736 ]
+          [ _valve_n_1 LBL: h2733 ARG0: x2732 ]
+          [ _light_n_1 LBL: h2751 ARG0: x2730 ]
+          [ def_implicit_q LBL: h2767 ARG0: x2762 RSTR: h2765 BODY: h2766 ]
+          [ _east_a_1 LBL: h2763 ARG0: i2754 ARG1: x2762 ARG2: x2752 ]
+          [ def_udef_a_q LBL: h2761 ARG0: x2752 RSTR: h2759 BODY: h2760 ]
+          [ _wolf_n_1 LBL: h2753 ARG0: x2752 ]
+          [ place_n LBL: h2763 ARG0: x2762 ]
+          [ place_n LBL: h2781 ARG0: x2780 ]
+          [ def_implicit_q LBL: h2819 ARG0: x2816 RSTR: h2817 BODY: h2818 ]
+          [ _south_a_1 LBL: h2815 ARG0: i2806 ARG1: x2816 ARG2: x2810 ]
+          [ def_udef_a_q LBL: h2813 ARG0: x2810 RSTR: h2811 BODY: h2812 ]
+          [ _open_a_to LBL: h2805 ARG0: e2802 ARG1: x2810 ARG2: u2804 ]
+          [ compound LBL: h2805 ARG0: e2798 ARG1: x2810 ARG2: x2794 ]
+          [ udef_q LBL: h2797 ARG0: x2794 RSTR: h2795 BODY: h2796 ]
+          [ _front_n_1 LBL: h2793 ARG0: x2794 ]
+          [ _door_n_1 LBL: h2805 ARG0: x2810 ]
+          [ place_n LBL: h2815 ARG0: x2816 ] >
+  HCONS: < h2735 qeq h2733 h2759 qeq h2753 h2765 qeq h2763 h2777 qeq h2751 h2783 qeq h2781 h2795 qeq h2793 h2811 qeq h2805 h2817 qeq h2815 h2825 qeq h2715 h2831 qeq h2830 > ]
+GENERATED RESULTS ... 
+Red rusty unknown fuses south of an open front door north of the off unlighted valve lights east of the wolves
+Red rusty unknown fuses north of the off unlighted valve lights east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of the unlighted off valve lights east of the wolves
+Red rusty unknown fuses north of the unlighted off valve lights east of the wolves south of an open front door
+Rusty red unknown fuses north of the off unlighted valve lights east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of the off unlighted valve lights east of the wolves
+Red rusty unknown fuses north of the off unlighted valve lights east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of the off unlighted valve lights east of the wolves
+Rusty red unknown fuses north of the unlighted off valve lights east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of the unlighted off valve lights east of the wolves
+Red rusty unknown fuses north of the unlighted off valve lights east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of the unlighted off valve lights east of the wolves
+Unknown rusty red fuses north of the off unlighted valve lights east of the wolves south of an open front door
+Unknown rusty red fuses south of an open front door north of the off unlighted valve lights east of the wolves
+Unknown rusty red fuses north of the unlighted off valve lights east of the wolves south of an open front door
+Unknown rusty red fuses south of an open front door north of the unlighted off valve lights east of the wolves
+Rusty red unknown fuses north of the off unlighted valve lights east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of the off unlighted valve lights east of the wolves
+Rusty red unknown fuses south of the open front door north of the unlighted off valve lights east of the wolves
+Rusty red unknown fuses north of the unlighted off valve lights east of the wolves south of the open front door
+Red rusty unknown fuses south of an open front door north of unlighted off valve lights east of the wolves
+Red rusty unknown fuses north of unlighted off valve lights east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of the valves off unlighted lights east of the wolves
+Red rusty unknown fuses north of the valves off unlighted lights east of the wolves south of an open front door
+Unknown rusty red fuses north of the off unlighted valve lights east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of the off unlighted valve lights east of the wolves
+Red rusty unknown fuses south of an open front door north of the off unlighted valve light east of the wolves
+Red rusty unknown fuses north of the off unlighted valve light east of the wolves south of an open front door
+Unknown rusty red fuses north of the unlighted off valve lights east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of the unlighted off valve lights east of the wolves
+Red rusty unknown fuses north of off unlighted valve lights east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of off unlighted valve lights east of the wolves
+Red rusty unknown fuses south of an open front door north of the unlighted off valve light east of the wolves
+Red rusty unknown fuses north of the unlighted off valve light east of the wolves south of an open front door
+Rusty red unknown fuses north of unlighted off valve lights east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of unlighted off valve lights east of the wolves
+Red rusty unknown fuses south of the open front door north of unlighted off valve lights east of the wolves
+Red rusty unknown fuses north of unlighted off valve lights east of the wolves south of the open front door
+Rusty red unknown fuses south of an open front door north of the valves off unlighted lights east of the wolves
+Rusty red unknown fuses north of the valves off unlighted lights east of the wolves south of an open front door
+Red rusty unknown fuses north of the valves off unlighted lights east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of the valves off unlighted lights east of the wolves
+Red rusty unknown fuses north of the off unlighted valve lights east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of the off unlighted valve lights east of the wolves
+Red rusty unknown fuses north of the unlighted off valve lights east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of the unlighted off valve lights east of the wolves
+Rusty red unknown fuses north of the off unlighted valve light east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of the off unlighted valve light east of the wolves
+Red rusty unknown fuses south of the open front door north of the off unlighted valve light east of the wolves
+Red rusty unknown fuses north of the off unlighted valve light east of the wolves south of the open front door
+Rusty red unknown fuses north of off unlighted valve lights east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of off unlighted valve lights east of the wolves
+Rusty red unknown fuses north of the unlighted off valve light east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of the unlighted off valve light east of the wolves
+Red rusty unknown fuses north of off unlighted valve lights east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of off unlighted valve lights east of the wolves
+Red rusty unknown fuses south of the open front door north of the unlighted off valve light east of the wolves
+Red rusty unknown fuses north of the unlighted off valve light east of the wolves south of the open front door
+Unknown red rusty fuses north of the off unlighted valve lights east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of the off unlighted valve lights east of the wolves
+Unknown rusty red fuses south of an open front door north of unlighted off valve lights east of the wolves
+Unknown rusty red fuses north of unlighted off valve lights east of the wolves south of an open front door
+Unknown rusty red fuses north of the valves off unlighted lights east of the wolves south of an open front door
+Unknown rusty red fuses south of an open front door north of the valves off unlighted lights east of the wolves
+Unknown red rusty fuses north of the unlighted off valve lights east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of the unlighted off valve lights east of the wolves
+Red rusty unknown fuses south of an open front door north of the off unlighted valve lights east of the wolves.
+Rusty red unknown fuses north of unlighted off valve lights east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of unlighted off valve lights east of the wolves
+Unknown rusty red fuses south of an open front door north of the off unlighted valve light east of the wolves
+Unknown rusty red fuses north of the off unlighted valve light east of the wolves south of an open front door
+Rusty red unknown fuses south of the open front door north of the valves off unlighted lights east of the wolves
+Rusty red unknown fuses north of the valves off unlighted lights east of the wolves south of the open front door
+Rusty red unknown fuses north of the off unlighted valve lights east of the wolves south of the open front doors
+Rusty red unknown fuses south of the open front doors north of the off unlighted valve lights east of the wolves
+Red rusty unknown fuses south of an open front door north of the unlighted off valve lights east of the wolves.
+Unknown rusty red fuses north of off unlighted valve lights east of the wolves south of an open front door
+Unknown rusty red fuses south of an open front door north of off unlighted valve lights east of the wolves
+Unknown rusty red fuses south of an open front door north of the unlighted off valve light east of the wolves
+Unknown rusty red fuses north of the unlighted off valve light east of the wolves south of an open front door
+Rusty red unknown fuses north of the unlighted off valve lights east of the wolves south of the open front doors
+Rusty red unknown fuses south of the open front doors north of the unlighted off valve lights east of the wolves
+Rusty unknown red fuses north of the off unlighted valve lights east of the wolves south of an open front door
+Rusty unknown red fuses south of an open front door north of the off unlighted valve lights east of the wolves
+Rusty red unknown fuses north of the off unlighted valve light east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of the off unlighted valve light east of the wolves
+Red rusty unknown fuses north of an off unlighted valve light east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of an off unlighted valve light east of the wolves
+Rusty unknown red fuses north of the unlighted off valve lights east of the wolves south of an open front door
+Rusty unknown red fuses south of an open front door north of the unlighted off valve lights east of the wolves
+Rusty red unknown fuses north of off unlighted valve lights east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of off unlighted valve lights east of the wolves
+Rusty red unknown fuses north of the unlighted off valve light east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of the unlighted off valve light east of the wolves
+Red rusty unknown fuses north of an unlighted off valve light east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of an unlighted off valve light east of the wolves
+Red rusty unknown fuses north of the off valves unlighted lights east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of the off valves unlighted lights east of the wolves
+Unknown red rusty fuses north of the off unlighted valve lights east of the wolves south of the open front door
+Unknown red rusty fuses south of the open front door north of the off unlighted valve lights east of the wolves
+Red rusty unknown fuses south of an open front door north of the off unlighted valve lights east of the wolf
+Red rusty unknown fuses north of the off unlighted valve lights east of the wolf south of an open front door
+Unknown rusty red fuses north of unlighted off valve lights east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of unlighted off valve lights east of the wolves
+Unknown rusty red fuses north of the valves off unlighted lights east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of the valves off unlighted lights east of the wolves
+Unknown rusty red fuses north of the off unlighted valve lights east of the wolves south of the open front doors
+Unknown rusty red fuses south of the open front doors north of the off unlighted valve lights east of the wolves
+Red rusty unknown fuses north of unlighted off valve light east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of unlighted off valve light east of the wolves
+Unknown red rusty fuses north of the unlighted off valve lights east of the wolves south of the open front door
+Unknown red rusty fuses south of the open front door north of the unlighted off valve lights east of the wolves
+Red rusty unknown fuses south of an open front door north of the unlighted off valve lights east of the wolf
+Red rusty unknown fuses north of the unlighted off valve lights east of the wolf south of an open front door
+Red rusty unknown fuses north of the valves unlighted off lights east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of the valves unlighted off lights east of the wolves
+Unknown rusty red fuses north of the unlighted off valve lights east of the wolves south of the open front doors
+Unknown rusty red fuses south of the open front doors north of the unlighted off valve lights east of the wolves
+Rusty red unknown fuses south of an open front door north of the off unlighted valve lights east of the wolves.
+Red rusty unknown fuses south of the open front door north of the off unlighted valve lights east of the wolves.
+Unknown rusty red fuses north of the off unlighted valve light east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of the off unlighted valve light east of the wolves
+Rusty red unknown fuses south of an open front door north of the unlighted off valve lights east of the wolves.
+Red rusty unknown fuses south of the open front door north of the unlighted off valve lights east of the wolves.
+Red rusty unknown fuses south of an open front door north of the valves off unlighted light east of the wolves
+Red rusty unknown fuses north of the valves off unlighted light east of the wolves south of an open front door
+Unknown rusty red fuses south of the open front door north of off unlighted valve lights east of the wolves
+Unknown rusty red fuses north of off unlighted valve lights east of the wolves south of the open front door
+Unknown rusty red fuses north of the unlighted off valve light east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of the unlighted off valve light east of the wolves
+Red rusty unknown fuses north of off unlighted valve light east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of off unlighted valve light east of the wolves
+The red rusty unknown fuses north of the off unlighted valve lights east of the wolves south of an open front door
+The red rusty unknown fuses south of an open front door north of the off unlighted valve lights east of the wolves
+Rusty unknown red fuses north of the off unlighted valve lights east of the wolves south of the open front door
+Rusty unknown red fuses south of the open front door north of the off unlighted valve lights east of the wolves
+Rusty red unknown fuses north of an off unlighted valve light east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of an off unlighted valve light east of the wolves
+Red rusty unknown fuses south of the open front door north of an off unlighted valve light east of the wolves
+Red rusty unknown fuses north of an off unlighted valve light east of the wolves south of the open front door
+The red rusty unknown fuses north of the unlighted off valve lights east of the wolves south of an open front door
+The red rusty unknown fuses south of an open front door north of the unlighted off valve lights east of the wolves
+Rusty unknown red fuses south of the open front door north of the unlighted off valve lights east of the wolves
+Rusty unknown red fuses north of the unlighted off valve lights east of the wolves south of the open front door
+Red rusty unknown fuses north of a valves off unlighted light east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of a valves off unlighted light east of the wolves
+Rusty red unknown fuses north of an unlighted off valve light east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of an unlighted off valve light east of the wolves
+Red rusty unknown fuses north of unlighted off valve lights east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of unlighted off valve lights east of the wolves
+Red rusty unknown fuses north of an unlighted off valve light east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of an unlighted off valve light east of the wolves
+Rusty red unknown fuses north of the off valves unlighted lights east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of the off valves unlighted lights east of the wolves
+Red rusty unknown fuses north of the valves off unlighted lights east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of the valves off unlighted lights east of the wolves
+Red rusty unknown fuses north of the off valves unlighted lights east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of the off valves unlighted lights east of the wolves
+Rusty red unknown fuses north of the off unlighted valve lights east of the wolf south of an open front door
+Rusty red unknown fuses south of an open front door north of the off unlighted valve lights east of the wolf
+Red unknown rusty fuses north of the off unlighted valve lights east of the wolves south of an open front door
+Red unknown rusty fuses south of an open front door north of the off unlighted valve lights east of the wolves
+Red rusty unknown fuses south of the open front door north of the off unlighted valve lights east of the wolf
+Red rusty unknown fuses north of the off unlighted valve lights east of the wolf south of the open front door
+Unknown rusty red fuses south of an open front door north of the off unlighted valve lights east of the wolves.
+Red rusty unknown fuses south of an open front door north of the unlighted valves off lights east of the wolves
+Red rusty unknown fuses north of the unlighted valves off lights east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of unlighted off valve light east of the wolves
+Rusty red unknown fuses north of unlighted off valve light east of the wolves south of an open front door
+Red rusty unknown fuses north of unlighted off valve light east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of unlighted off valve light east of the wolves
+Rusty red unknown fuses north of the unlighted off valve lights east of the wolf south of an open front door
+Rusty red unknown fuses south of an open front door north of the unlighted off valve lights east of the wolf
+Rusty red unknown fuses north of the valves unlighted off lights east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of the valves unlighted off lights east of the wolves
+Red unknown rusty fuses north of the unlighted off valve lights east of the wolves south of an open front door
+Red unknown rusty fuses south of an open front door north of the unlighted off valve lights east of the wolves
+Red rusty unknown fuses south of the open front door north of the unlighted off valve lights east of the wolf
+Red rusty unknown fuses north of the unlighted off valve lights east of the wolf south of the open front door
+Unknown rusty red fuses south of an open front door north of the unlighted off valve lights east of the wolves.
+Red rusty unknown fuses north of the valves unlighted off lights east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of the valves unlighted off lights east of the wolves
+Red rusty unknown fuses north of the off unlighted valve light east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of the off unlighted valve light east of the wolves
+Rusty red unknown fuses south of the open front door north of the off unlighted valve lights east of the wolves.
+Red rusty unknown fuses north of the off unlighted valve lights east of the wolves south of the open front doors.
+Red rusty unknown fuses north of off unlighted valve lights east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of off unlighted valve lights east of the wolves
+Red rusty unknown fuses north of the unlighted off valve light east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of the unlighted off valve light east of the wolves
+Unknown red rusty fuses north of unlighted off valve lights east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of unlighted off valve lights east of the wolves
+Red rusty unknown fuses north of the off unlighted valve lights east of the wolves south of an open fronted door
+Red rusty unknown fuses south of an open fronted door north of the off unlighted valve lights east of the wolves
+Unknown rusty red fuses north of an off unlighted valve light east of the wolves south of an open front door
+Unknown rusty red fuses south of an open front door north of an off unlighted valve light east of the wolves
+Unknown red rusty fuses north of the valves off unlighted lights east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of the valves off unlighted lights east of the wolves
+Rusty red unknown fuses south of the open front door north of the unlighted off valve lights east of the wolves.
+Rusty red unknown fuses north of the valves off unlighted light east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of the valves off unlighted light east of the wolves
+Red rusty unknown fuses north of the unlighted off valve lights east of the wolves south of the open front doors.
+Red rusty unknown fuses south of the open front door north of the valves off unlighted light east of the wolves
+Red rusty unknown fuses north of the valves off unlighted light east of the wolves south of the open front door
+Red rusty unknown fuses north of the unlighted off valve lights east of the wolves south of an open fronted door
+Red rusty unknown fuses south of an open fronted door north of the unlighted off valve lights east of the wolves
+Unknown rusty red fuses north of an unlighted off valve light east of the wolves south of an open front door
+Unknown rusty red fuses south of an open front door north of an unlighted off valve light east of the wolves
+Rusty red unknown fuses north of off unlighted valve light east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of off unlighted valve light east of the wolves
+Unknown rusty red fuses north of the off valves unlighted lights east of the wolves south of an open front door
+Unknown rusty red fuses south of an open front door north of the off valves unlighted lights east of the wolves
+Red rusty unknown fuses north of off unlighted valve light east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of off unlighted valve light east of the wolves
+The red rusty unknown fuses north of the off unlighted valve lights east of the wolves south of the open front door
+The red rusty unknown fuses south of the open front door north of the off unlighted valve lights east of the wolves
+Red rusty unknown fuses north of the off unlighted valve lights east of a wolf south of an open front door
+Red rusty unknown fuses south of an open front door north of the off unlighted valve lights east of a wolf
+Unknown rusty red fuses south of an open front door north of the off unlighted valve lights east of the wolf
+Unknown rusty red fuses north of the off unlighted valve lights east of the wolf south of an open front door
+The rusty red unknown fuses south of an open front door north of the off unlighted valve lights east of the wolves
+The rusty red unknown fuses north of the off unlighted valve lights east of the wolves south of an open front door
+Rusty red unknown fuses north of an off unlighted valve light east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of an off unlighted valve light east of the wolves
+Unknown red rusty fuses north of the off unlighted valve light east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of the off unlighted valve light east of the wolves
+The red rusty unknown fuses south of the open front door north of the unlighted off valve lights east of the wolves
+The red rusty unknown fuses north of the unlighted off valve lights east of the wolves south of the open front door
+Red rusty unknown fuses north of the unlighted off valve lights east of a wolf south of an open front door
+Red rusty unknown fuses south of an open front door north of the unlighted off valve lights east of a wolf
+Red rusty unknown fuses south of an open front door north of unlighted off valve lights east of the wolves.
+Red rusty unknown fuses south of an open front door north of the valves off unlighted lights east of the wolves.
+Unknown rusty red fuses south of an open front door north of unlighted off valve light east of the wolves
+Unknown rusty red fuses north of unlighted off valve light east of the wolves south of an open front door
+Rusty red unknown fuses north of a valves off unlighted light east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of a valves off unlighted light east of the wolves
+Red rusty unknown fuses north of a valves off unlighted light east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of a valves off unlighted light east of the wolves
+Unknown rusty red fuses south of an open front door north of the unlighted off valve lights east of the wolf
+Unknown rusty red fuses north of the unlighted off valve lights east of the wolf south of an open front door
+Unknown rusty red fuses north of the valves unlighted off lights east of the wolves south of an open front door
+Unknown rusty red fuses south of an open front door north of the valves unlighted off lights east of the wolves
+Rusty red unknown fuses south of the open front doors north of unlighted off valve lights east of the wolves
+Rusty red unknown fuses north of unlighted off valve lights east of the wolves south of the open front doors
+Unknown red rusty fuses north of off unlighted valve lights east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of off unlighted valve lights east of the wolves
+The rusty red unknown fuses south of an open front door north of the unlighted off valve lights east of the wolves
+The rusty red unknown fuses north of the unlighted off valve lights east of the wolves south of an open front door
+Rusty red unknown fuses north of an unlighted off valve light east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of an unlighted off valve light east of the wolves
+Unknown red rusty fuses north of the unlighted off valve light east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of the unlighted off valve light east of the wolves
+Rusty red unknown fuses north of the valves off unlighted lights east of the wolves south of the open front doors
+Rusty red unknown fuses south of the open front doors north of the valves off unlighted lights east of the wolves
+Rusty red unknown fuses north of the off valves unlighted lights east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of the off valves unlighted lights east of the wolves
+Rusty red unknown fuses north of the off unlighted valve lights east of the wolf south of the open front door
+Rusty red unknown fuses south of the open front door north of the off unlighted valve lights east of the wolf
+Red unknown rusty fuses south of the open front door north of the off unlighted valve lights east of the wolves
+Red unknown rusty fuses north of the off unlighted valve lights east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of the off unlighted valve lights east of the wolves.
+Rusty red unknown fuses north of the unlighted valves off lights east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of the unlighted valves off lights east of the wolves
+Red rusty unknown fuses south of the open front door north of the unlighted valves off lights east of the wolves
+Red rusty unknown fuses north of the unlighted valves off lights east of the wolves south of the open front door
+Rusty unknown red fuses north of unlighted off valve lights east of the wolves south of an open front door
+Rusty unknown red fuses south of an open front door north of unlighted off valve lights east of the wolves
+Rusty unknown red fuses north of the valves off unlighted lights east of the wolves south of an open front door
+Rusty unknown red fuses south of an open front door north of the valves off unlighted lights east of the wolves
+Red rusty unknown fuses south of an open front door north of the off unlighted valve light east of the wolves.
+Rusty red unknown fuses north of unlighted off valve light east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of unlighted off valve light east of the wolves
+Rusty red unknown fuses north of the unlighted off valve lights east of the wolf south of the open front door
+Rusty red unknown fuses south of the open front door north of the unlighted off valve lights east of the wolf
+Rusty red unknown fuses north of the valves unlighted off lights east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of the valves unlighted off lights east of the wolves
+Red unknown rusty fuses north of the unlighted off valve lights east of the wolves south of the open front door
+Red unknown rusty fuses south of the open front door north of the unlighted off valve lights east of the wolves
+Unknown rusty red fuses south of the open front door north of the unlighted off valve lights east of the wolves.
+Unknown rusty red fuses south of an open front door north of the valves off unlighted light east of the wolves
+Unknown rusty red fuses north of the valves off unlighted light east of the wolves south of an open front door
+Rusty red unknown fuses north of the off unlighted valve light east of the wolves south of the open front doors
+Rusty red unknown fuses south of the open front doors north of the off unlighted valve light east of the wolves
+Red rusty unknown fuses south of an open front door north of off unlighted valve lights east of the wolves.
+Red rusty unknown fuses south of an open front door north of the unlighted off valve light east of the wolves.
+Unknown rusty red fuses north of off unlighted valve light east of the wolves south of an open front door
+Unknown rusty red fuses south of an open front door north of off unlighted valve light east of the wolves
+The unknown rusty red fuses south of an open front door north of the off unlighted valve lights east of the wolves
+The unknown rusty red fuses north of the off unlighted valve lights east of the wolves south of an open front door
+Rusty red unknown fuses north of the off unlighted valve lights east of the wolves south of the open front doors.
+Rusty red unknown fuses north of off unlighted valve lights east of the wolves south of the open front doors
+Rusty red unknown fuses south of the open front doors north of off unlighted valve lights east of the wolves
+Rusty red unknown fuses north of the unlighted off valve light east of the wolves south of the open front doors
+Rusty red unknown fuses south of the open front doors north of the unlighted off valve light east of the wolves
+Rusty red unknown fuses north of the off unlighted valve lights east of the wolves south of an open fronted door
+Rusty red unknown fuses south of an open fronted door north of the off unlighted valve lights east of the wolves
+Rusty unknown red fuses north of the off unlighted valve light east of the wolves south of an open front door
+Rusty unknown red fuses south of an open front door north of the off unlighted valve light east of the wolves
+Unknown red rusty fuses north of unlighted off valve lights east of the wolves south of the open front door
+Unknown red rusty fuses south of the open front door north of unlighted off valve lights east of the wolves
+Red rusty unknown fuses north of the off unlighted valve lights east of the wolves south of the open fronted door
+Red rusty unknown fuses south of the open fronted door north of the off unlighted valve lights east of the wolves
+Unknown rusty red fuses north of an off unlighted valve light east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of an off unlighted valve light east of the wolves
+The unknown rusty red fuses south of an open front door north of the unlighted off valve lights east of the wolves
+The unknown rusty red fuses north of the unlighted off valve lights east of the wolves south of an open front door
+Unknown red rusty fuses north of the valves off unlighted lights east of the wolves south of the open front door
+Unknown red rusty fuses south of the open front door north of the valves off unlighted lights east of the wolves
+Red rusty unknown fuses north of the off unlighted valve lights east of the wolves south of an open front door.
+Red rusty unknown fuses north of unlighted off valve lights east of the wolf south of an open front door
+Red rusty unknown fuses south of an open front door north of unlighted off valve lights east of the wolf
+Red rusty unknown fuses north of the valves off unlighted lights east of the wolf south of an open front door
+Red rusty unknown fuses south of an open front door north of the valves off unlighted lights east of the wolf
+Rusty red unknown fuses north of the unlighted off valve lights east of the wolves south of the open front doors.
+Unknown red rusty fuses north of the off unlighted valve lights east of the wolves south of the open front doors
+Unknown red rusty fuses south of the open front doors north of the off unlighted valve lights east of the wolves
+Rusty red unknown fuses north of the valves off unlighted light east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of the valves off unlighted light east of the wolves
+Red rusty unknown fuses north of valves off unlighted lights east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of valves off unlighted lights east of the wolves
+Unknown rusty red fuses north of a valves off unlighted light east of the wolves south of an open front door
+Unknown rusty red fuses south of an open front door north of a valves off unlighted light east of the wolves
+Rusty unknown red fuses north of off unlighted valve lights east of the wolves south of an open front door
+Rusty unknown red fuses south of an open front door north of off unlighted valve lights east of the wolves
+Rusty red unknown fuses north of the unlighted off valve lights east of the wolves south of an open fronted door
+Rusty red unknown fuses south of an open fronted door north of the unlighted off valve lights east of the wolves
+Rusty unknown red fuses north of the unlighted off valve light east of the wolves south of an open front door
+Rusty unknown red fuses south of an open front door north of the unlighted off valve light east of the wolves
+Unknown rusty red fuses north of unlighted off valve lights east of the wolves south of the open front doors
+Unknown rusty red fuses south of the open front doors north of unlighted off valve lights east of the wolves
+Red rusty unknown fuses north of the unlighted off valve lights east of the wolves south of the open fronted door
+Red rusty unknown fuses south of the open fronted door north of the unlighted off valve lights east of the wolves
+Unknown rusty red fuses north of an unlighted off valve light east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of an unlighted off valve light east of the wolves
+Unknown rusty red fuses north of the valves off unlighted lights east of the wolves south of the open front doors
+Unknown rusty red fuses south of the open front doors north of the valves off unlighted lights east of the wolves
+Rusty red unknown fuses north of off unlighted valve light east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of off unlighted valve light east of the wolves
+Red rusty unknown fuses north of the unlighted off valve lights east of the wolves south of an open front door.
+Unknown rusty red fuses north of the off valves unlighted lights east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of the off valves unlighted lights east of the wolves
+Red rusty unknown fuses north of the valves unlighted off light east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of the valves unlighted off light east of the wolves
+Rusty red unknown fuses south of an open front door north of the off unlighted valve lights east of a wolf
+Rusty red unknown fuses north of the off unlighted valve lights east of a wolf south of an open front door
+Red rusty unknown fuses north of the off unlighted valve lights east of a wolf south of the open front door
+Red rusty unknown fuses south of the open front door north of the off unlighted valve lights east of a wolf
+Unknown red rusty fuses north of the unlighted off valve lights east of the wolves south of the open front doors
+Unknown red rusty fuses south of the open front doors north of the unlighted off valve lights east of the wolves
+Unknown rusty red fuses north of the off unlighted valve lights east of the wolf south of the open front door
+Unknown rusty red fuses south of the open front door north of the off unlighted valve lights east of the wolf
+The rusty red unknown fuses south of the open front door north of the off unlighted valve lights east of the wolves
+The rusty red unknown fuses north of the off unlighted valve lights east of the wolves south of the open front door
+Unknown rusty red fuses south of an open front door north of the unlighted valves off lights east of the wolves
+Unknown rusty red fuses north of the unlighted valves off lights east of the wolves south of an open front door
+Unknown red rusty fuses south of the open front door north of the off unlighted valve light east of the wolves
+Unknown red rusty fuses north of the off unlighted valve light east of the wolves south of the open front door
+Rusty red unknown fuses south of an open front door north of the unlighted off valve lights east of a wolf
+Rusty red unknown fuses north of the unlighted off valve lights east of a wolf south of an open front door
+Rusty red unknown fuses south of an open front door north of unlighted off valve lights east of the wolves.
+Red rusty unknown fuses north of the off unlighted valve light east of the wolf south of an open front door
+Red rusty unknown fuses south of an open front door north of the off unlighted valve light east of the wolf
+Red rusty unknown fuses north of the unlighted off valve lights east of a wolf south of the open front door
+Red rusty unknown fuses south of the open front door north of the unlighted off valve lights east of a wolf
+Red rusty unknown fuses south of the open front door north of unlighted off valve lights east of the wolves.
+Rusty red unknown fuses south of an open front door north of the valves off unlighted lights east of the wolves.
+Red rusty unknown fuses south of the open front door north of the valves off unlighted lights east of the wolves.
+Unknown rusty red fuses south of the open front door north of unlighted off valve light east of the wolves
+Unknown rusty red fuses north of unlighted off valve light east of the wolves south of the open front door
+Red rusty unknown fuses north of off valves unlighted lights east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of off valves unlighted lights east of the wolves
+Rusty red unknown fuses north of a valves off unlighted light east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of a valves off unlighted light east of the wolves
+Unknown rusty red fuses north of the unlighted off valve lights east of the wolf south of the open front door
+Unknown rusty red fuses south of the open front door north of the unlighted off valve lights east of the wolf
+Unknown rusty red fuses north of the valves unlighted off lights east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of the valves unlighted off lights east of the wolves
+Red rusty unknown fuses south of the open front doors north of the off unlighted valve lights east of the wolves.
+Unknown red rusty fuses north of off unlighted valve lights east of the wolves south of the open front door
+Unknown red rusty fuses south of the open front door north of off unlighted valve lights east of the wolves
+The rusty red unknown fuses south of the open front door north of the unlighted off valve lights east of the wolves
+The rusty red unknown fuses north of the unlighted off valve lights east of the wolves south of the open front door
+Unknown rusty red fuses north of the off unlighted valve light east of the wolves south of the open front doors
+Unknown rusty red fuses south of the open front doors north of the off unlighted valve light east of the wolves
+Unknown red rusty fuses north of the unlighted off valve light east of the wolves south of the open front door
+Unknown red rusty fuses south of the open front door north of the unlighted off valve light east of the wolves
+Red rusty unknown fuses north of off unlighted valve lights east of the wolf south of an open front door
+Red rusty unknown fuses south of an open front door north of off unlighted valve lights east of the wolf
+Red rusty unknown fuses north of the unlighted off valve light east of the wolf south of an open front door
+Red rusty unknown fuses south of an open front door north of the unlighted off valve light east of the wolf
+Red rusty unknown fuses north of a valves unlighted off light east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of a valves unlighted off light east of the wolves
+A red rusty unknown fuse south of an open front door north of the off unlighted valve lights east of the wolves
+A red rusty unknown fuse north of the off unlighted valve lights east of the wolves south of an open front door
+The red rusty unknown fuse south of an open front door north of the off unlighted valve lights east of the wolves
+The red rusty unknown fuse north of the off unlighted valve lights east of the wolves south of an open front door
+Red rusty unknown fuses south of the open front doors north of the unlighted off valve lights east of the wolves.
+Unknown rusty red fuses north of the off unlighted valve lights east of the wolves south of the open front doors.
+Unknown rusty red fuses north of off unlighted valve lights east of the wolves south of the open front doors
+Unknown rusty red fuses south of the open front doors north of off unlighted valve lights east of the wolves
+The red rusty unknown fuses south of an open front door north of unlighted off valve lights east of the wolves
+The red rusty unknown fuses north of unlighted off valve lights east of the wolves south of an open front door
+Unknown rusty red fuses north of the unlighted off valve light east of the wolves south of the open front doors
+Unknown rusty red fuses south of the open front doors north of the unlighted off valve light east of the wolves
+Rusty red unknown fuses north of the unlighted valves off lights east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front door north of the unlighted valves off lights east of the wolves
+The red rusty unknown fuses south of an open front door north of the valves off unlighted lights east of the wolves
+The red rusty unknown fuses north of the valves off unlighted lights east of the wolves south of an open front door
+Rusty unknown red fuses north of unlighted off valve lights east of the wolves south of the open front door
+Rusty unknown red fuses south of the open front door north of unlighted off valve lights east of the wolves
+Unknown rusty red fuses north of the off unlighted valve lights east of the wolves south of an open fronted door
+Unknown rusty red fuses south of an open fronted door north of the off unlighted valve lights east of the wolves
+Red rusty unknown fuses north of the off valves unlighted light east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of the off valves unlighted light east of the wolves
+Rusty red unknown fuses south of an open front door north of the off unlighted valve light east of the wolves.
+Rusty unknown red fuses north of the valves off unlighted lights east of the wolves south of the open front door
+Rusty unknown red fuses south of the open front door north of the valves off unlighted lights east of the wolves
+Red rusty unknown fuses south of the open front door north of the off unlighted valve light east of the wolves.
+A red rusty unknown fuse south of an open front door north of the unlighted off valve lights east of the wolves
+A red rusty unknown fuse north of the unlighted off valve lights east of the wolves south of an open front door
+The red rusty unknown fuse south of an open front door north of the unlighted off valve lights east of the wolves
+The red rusty unknown fuse north of the unlighted off valve lights east of the wolves south of an open front door
+Rusty unknown red fuses north of the off unlighted valve lights east of the wolves south of the open front doors
+Rusty unknown red fuses south of the open front doors north of the off unlighted valve lights east of the wolves
+Unknown rusty red fuses north of the unlighted off valve lights east of the wolves south of the open front doors.
+Unknown rusty red fuses north of the valves off unlighted light east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of the valves off unlighted light east of the wolves
+Rusty red unknown fuses south of an open front door north of off unlighted valve lights east of the wolves.
+Unknown rusty red fuses north of the unlighted off valve lights east of the wolves south of an open fronted door
+Unknown rusty red fuses south of an open fronted door north of the unlighted off valve lights east of the wolves
+Rusty red unknown fuses south of an open front door north of the unlighted off valve light east of the wolves.
+Red rusty unknown fuses south of the open front door north of off unlighted valve lights east of the wolves.
+Red rusty unknown fuses north of an off unlighted valve light east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of an off unlighted valve light east of the wolves
+Red rusty unknown fuses south of the open front door north of the unlighted off valve light east of the wolves.
+Unknown rusty red fuses north of off unlighted valve light east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of off unlighted valve light east of the wolves
+The unknown rusty red fuses south of the open front door north of the off unlighted valve lights east of the wolves
+The unknown rusty red fuses north of the off unlighted valve lights east of the wolves south of the open front door
+Unknown rusty red fuses north of the off unlighted valve lights east of a wolf south of an open front door
+Unknown rusty red fuses south of an open front door north of the off unlighted valve lights east of a wolf
+Rusty unknown red fuses north of the unlighted off valve lights east of the wolves south of the open front doors
+Rusty unknown red fuses south of the open front doors north of the unlighted off valve lights east of the wolves
+The red rusty unknown fuses south of an open front door north of the off unlighted valve light east of the wolves
+The red rusty unknown fuses north of the off unlighted valve light east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of the off unlighted valve lights east of the wolves.
+Rusty red unknown fuses north of the off unlighted valve lights east of the wolves south of the open fronted door
+Rusty red unknown fuses south of the open fronted door north of the off unlighted valve lights east of the wolves
+Red rusty unknown fuses north of an unlighted off valve light east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of an unlighted off valve light east of the wolves
+Rusty unknown red fuses north of the off unlighted valve light east of the wolves south of the open front door
+Rusty unknown red fuses south of the open front door north of the off unlighted valve light east of the wolves
+Rusty red unknown fuses north of the off unlighted valve lights east of the wolves south of an open front door.
+The unknown rusty red fuses south of the open front door north of the unlighted off valve lights east of the wolves
+The unknown rusty red fuses north of the unlighted off valve lights east of the wolves south of the open front door
+Red rusty unknown fuses north of the off valves unlighted lights east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of the off valves unlighted lights east of the wolves
+Red rusty unknown fuses north of the off unlighted valve lights east of the wolves south of the open front door.
+Rusty red unknown fuses north of unlighted off valve lights east of the wolf south of an open front door
+Rusty red unknown fuses south of an open front door north of unlighted off valve lights east of the wolf
+Red unknown rusty fuses north of unlighted off valve lights east of the wolves south of an open front door
+Red unknown rusty fuses south of an open front door north of unlighted off valve lights east of the wolves
+Unknown rusty red fuses north of the unlighted off valve lights east of a wolf south of an open front door
+Unknown rusty red fuses south of an open front door north of the unlighted off valve lights east of a wolf
+Red rusty unknown fuses north of unlighted off valve lights east of the wolf south of the open front door
+Red rusty unknown fuses south of the open front door north of unlighted off valve lights east of the wolf
+Unknown rusty red fuses south of an open front door north of unlighted off valve lights east of the wolves.
+Rusty red unknown fuses north of the valves off unlighted lights east of the wolf south of an open front door
+Rusty red unknown fuses south of an open front door north of the valves off unlighted lights east of the wolf
+Red unknown rusty fuses north of the valves off unlighted lights east of the wolves south of an open front door
+Red unknown rusty fuses south of an open front door north of the valves off unlighted lights east of the wolves
+Red rusty unknown fuses north of the valves off unlighted lights east of the wolf south of the open front door
+Red rusty unknown fuses south of the open front door north of the valves off unlighted lights east of the wolf
+Unknown rusty red fuses south of an open front door north of the valves off unlighted lights east of the wolves.
+Rusty red unknown fuses north of valves off unlighted lights east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of valves off unlighted lights east of the wolves
+The red rusty unknown fuses south of an open front door north of off unlighted valve lights east of the wolves
+The red rusty unknown fuses north of off unlighted valve lights east of the wolves south of an open front door
+The red rusty unknown fuses south of an open front door north of the unlighted off valve light east of the wolves
+The red rusty unknown fuses north of the unlighted off valve light east of the wolves south of an open front door
+Red rusty unknown fuses north of valves off unlighted lights east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of valves off unlighted lights east of the wolves
+Unknown rusty red fuses north of a valves off unlighted light east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of a valves off unlighted light east of the wolves
+Red rusty unknown fuses north of the off unlighted valve lights east of the wolf south of the open front doors
+Red rusty unknown fuses south of the open front doors north of the off unlighted valve lights east of the wolf
+Unknown red rusty fuses south of an open front door north of the unlighted off valve lights east of the wolves.
+Rusty unknown red fuses north of off unlighted valve lights east of the wolves south of the open front door
+Rusty unknown red fuses south of the open front door north of off unlighted valve lights east of the wolves
+Rusty red unknown fuses north of the unlighted off valve lights east of the wolves south of the open fronted door
+Rusty red unknown fuses south of the open fronted door north of the unlighted off valve lights east of the wolves
+Rusty unknown red fuses north of the unlighted off valve light east of the wolves south of the open front door
+Rusty unknown red fuses south of the open front door north of the unlighted off valve light east of the wolves
+Red rusty unknown fuses south of an open front door north of the off unlighted valve lights east of a wolf.
+Rusty red unknown fuses north of the unlighted off valve lights east of the wolves south of an open front door.
+Red rusty unknown fuses north of the unlighted off valve lights east of the wolves south of the open front door.
+Rusty red unknown fuses north of the valves unlighted off light east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of the valves unlighted off light east of the wolves
+Red rusty unknown fuses north of the valves unlighted off light east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of the valves unlighted off light east of the wolves
+Rusty red unknown fuses north of the off unlighted valve lights east of a wolf south of the open front door
+Rusty red unknown fuses south of the open front door north of the off unlighted valve lights east of a wolf
+Red rusty unknown fuses north of unlighted off valve light east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of unlighted off valve light east of the wolves
+Red rusty unknown fuses north of the unlighted valves off light east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of the unlighted valves off light east of the wolves
+Red rusty unknown fuses north of the unlighted off valve lights east of the wolf south of the open front doors
+Red rusty unknown fuses south of the open front doors north of the unlighted off valve lights east of the wolf
+Red rusty unknown fuses north of the valves unlighted off lights east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of the valves unlighted off lights east of the wolves
+Red rusty unknown fuses south of an open front door north of the unlighted off valve lights east of a wolf.
+Unknown rusty red fuses north of the unlighted valves off lights east of the wolves south of the open front door
+Unknown rusty red fuses south of the open front door north of the unlighted valves off lights east of the wolves
+Rusty red unknown fuses north of the off unlighted valve light east of the wolf south of an open front door
+Rusty red unknown fuses south of an open front door north of the off unlighted valve light east of the wolf
+Rusty red unknown fuses north of the unlighted off valve lights east of a wolf south of the open front door
+Rusty red unknown fuses south of the open front door north of the unlighted off valve lights east of a wolf
+Rusty red unknown fuses south of the open front door north of unlighted off valve lights east of the wolves.
+Unknown red rusty fuses north of an off unlighted valve light east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of an off unlighted valve light east of the wolves
+Red unknown rusty fuses south of an open front door north of the off unlighted valve light east of the wolves
+Red unknown rusty fuses north of the off unlighted valve light east of the wolves south of an open front door
+Red rusty unknown fuses north of unlighted off valve lights east of the wolves south of the open front doors.
+Red rusty unknown fuses north of the off unlighted valve light east of the wolf south of the open front door
+Red rusty unknown fuses south of the open front door north of the off unlighted valve light east of the wolf
+Unknown rusty red fuses south of an open front door north of the off unlighted valve light east of the wolves.
+Rusty red unknown fuses south of the open front door north of the valves off unlighted lights east of the wolves.
+Red rusty unknown fuses north of the valves off unlighted lights east of the wolves south of the open front doors.
+Rusty red unknown fuses north of off valves unlighted lights east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of off valves unlighted lights east of the wolves
+Red rusty unknown fuses north of off valves unlighted lights east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of off valves unlighted lights east of the wolves
+Red rusty unknown fuses north of unlighted off valve lights east of the wolves south of an open fronted door
+Red rusty unknown fuses south of an open fronted door north of unlighted off valve lights east of the wolves
+Rusty red unknown fuses south of the open front doors north of the off unlighted valve lights east of the wolves.
+Red rusty unknown fuses north of the valves off unlighted lights east of the wolves south of an open fronted door
+Red rusty unknown fuses south of an open fronted door north of the valves off unlighted lights east of the wolves
+Rusty red unknown fuses north of off unlighted valve lights east of the wolf south of an open front door
+Rusty red unknown fuses south of an open front door north of off unlighted valve lights east of the wolf
+Rusty red unknown fuses north of the unlighted off valve light east of the wolf south of an open front door
+Rusty red unknown fuses south of an open front door north of the unlighted off valve light east of the wolf
+Red unknown rusty fuses north of off unlighted valve lights east of the wolves south of an open front door
+Red unknown rusty fuses south of an open front door north of off unlighted valve lights east of the wolves
+Red rusty unknown fuses north of off unlighted valve lights east of the wolf south of the open front door
+Red rusty unknown fuses south of the open front door north of off unlighted valve lights east of the wolf
+Unknown rusty red fuses south of an open front door north of off unlighted valve lights east of the wolves.
+Rusty red unknown fuses north of a valves unlighted off light east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of a valves unlighted off light east of the wolves
+Unknown red rusty fuses north of an unlighted off valve light east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of an unlighted off valve light east of the wolves
+Red unknown rusty fuses north of the unlighted off valve light east of the wolves south of an open front door
+Red unknown rusty fuses south of an open front door north of the unlighted off valve light east of the wolves
+Red rusty unknown fuses north of the unlighted off valve light east of the wolf south of the open front door
+Red rusty unknown fuses south of the open front door north of the unlighted off valve light east of the wolf
+Unknown rusty red fuses south of an open front door north of the unlighted off valve light east of the wolves.
+Red rusty unknown fuses north of a valves unlighted off light east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of a valves unlighted off light east of the wolves
+Unknown red rusty fuses north of the off valves unlighted lights east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of the off valves unlighted lights east of the wolves
+A red rusty unknown fuse south of the open front door north of the off unlighted valve lights east of the wolves
+A red rusty unknown fuse north of the off unlighted valve lights east of the wolves south of the open front door
+Red rusty unknown fuses south of an open front door north of the off unlighted valve lights east of the wolf.
+The red rusty unknown fuse south of the open front door north of the off unlighted valve lights east of the wolves
+The red rusty unknown fuse north of the off unlighted valve lights east of the wolves south of the open front door
+Rusty red unknown fuses south of the open front doors north of the unlighted off valve lights east of the wolves.
+Red rusty unknown fuses north of the valves off unlighted light east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of the valves off unlighted light east of the wolves
+The red rusty unknown fuses south of the open front door north of unlighted off valve lights east of the wolves
+The red rusty unknown fuses north of unlighted off valve lights east of the wolves south of the open front door
+The red rusty unknown fuses south of the open front door north of the valves off unlighted lights east of the wolves
+The red rusty unknown fuses north of the valves off unlighted lights east of the wolves south of the open front door
+Rusty unknown red fuses south of an open front door north of the off unlighted valve lights east of the wolves.
+Unknown red rusty fuses north of the off unlighted valve lights east of the wolf south of an open front door
+Unknown red rusty fuses south of an open front door north of the off unlighted valve lights east of the wolf
+Red rusty unknown fuses north of unlighted off valve lights east of a wolf south of an open front door
+Red rusty unknown fuses south of an open front door north of unlighted off valve lights east of a wolf
+The unknown red rusty fuse south of an open front door north of the off unlighted valve lights east of the wolves
+The unknown red rusty fuse north of the off unlighted valve lights east of the wolves south of an open front door
+Rusty red unknown fuses north of the off valves unlighted light east of the wolves south of an open front door
+Rusty red unknown fuses south of an open front door north of the off valves unlighted light east of the wolves
+Red rusty unknown fuses north of the valves off unlighted lights east of a wolf south of an open front door
+Red rusty unknown fuses south of an open front door north of the valves off unlighted lights east of a wolf
+Unknown rusty red fuses north of the off unlighted valve lights east of the wolves south of the open fronted door
+Unknown rusty red fuses south of the open fronted door north of the off unlighted valve lights east of the wolves
+Red rusty unknown fuses north of the off valves unlighted light east of the wolves south of the open front door
+Red rusty unknown fuses south of the open front door north of the off valves unlighted light east of the wolves
+Rusty red unknown fuses south of the open front door north of the off unlighted valve light east of the wolves.
+Red rusty unknown fuses north of unlighted valves off lights east of the wolves south of an open front door
+Red rusty unknown fuses south of an open front door north of unlighted valves off lights east of the wolves
+A rusty red unknown fuse south of an open front door north of the off unlighted valve lights east of the wolves
+A rusty red unknown fuse north of the off unlighted valve lights east of the wolves south of an open front door
+Red rusty unknown fuses north of the off unlighted valve light east of the wolves south of the open front doors.
+Red rusty unknown fuses north of off unlighted valve light east of the wolves south of the open front doors
+Red rusty unknown fuses south of the open front doors north of off unlighted valve light east of the wolves
+Unknown rusty red fuses north of the off unlighted valve lights east of the wolves south of an open front door.
+The red rusty unknown fuses south of the open front doors north of the off unlighted valve lights east of the wolves
+The red rusty unknown fuses north of the off unlighted valve lights east of the wolves south of the open front doors
+The rusty red unknown fuse south of an open front door north of the off unlighted valve lights east of the wolves
+The rusty red unknown fuse north of the off unlighted valve lights east of the wolves south of an open front door
+Unknown rusty red fuses north of unlighted off valve lights east of the wolf south of an open front door
+Unknown rusty red fuses south of an open front door north of unlighted off valve lights east of the wolf
+A red rusty unknown fuse south of the open front door north of the unlighted off valve lights east of the wolves
+A red rusty unknown fuse north of the unlighted off valve lights east of the wolves south of the open front door
+Red rusty unknown fuses south of an open front door north of the unlighted off valve lights east of the wolf.
+Red rusty unknown fuses south of an open front door north of an off unlighted valve light east of the wolves.
+Unknown rusty red fuses north of the valves off unlighted lights east of the wolf south of an open front door
+Unknown rusty red fuses south of an open front door north of the valves off unlighted lights east of the wolf
+The red rusty unknown fuse south of the open front door north of the unlighted off valve lights east of the wolves
+The red rusty unknown fuse north of the unlighted off valve lights east of the wolves south of the open front door
+The rusty red unknown fuses south of an open front door north of unlighted off valve lights east of the wolves
+The rusty red unknown fuses north of unlighted off valve lights east of the wolves south of an open front door
+Unknown red rusty fuses north of unlighted off valve light east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of unlighted off valve light east of the wolves
+Red rusty unknown fuses north of the off unlighted valve light east of the wolves south of an open fronted door
+Red rusty unknown fuses south of an open fronted door north of the off unlighted valve light east of the wolves
+The rusty red unknown fuses north of the valves off unlighted lights east of the wolves south of an open front door
+The rusty red unknown fuses south of an open front door north of the valves off unlighted lights east of the wolves
+Unknown rusty red fuses north of valves off unlighted lights east of the wolves south of an open front door
+Unknown rusty red fuses south of an open front door north of valves off unlighted lights east of the wolves
+Rusty unknown red fuses south of an open front door north of the unlighted off valve lights east of the wolves.
+Unknown red rusty fuses north of the unlighted off valve lights east of the wolf south of an open front door
+Unknown red rusty fuses south of an open front door north of the unlighted off valve lights east of the wolf
+Unknown red rusty fuses north of the valves unlighted off lights east of the wolves south of an open front door
+Unknown red rusty fuses south of an open front door north of the valves unlighted off lights east of the wolves
+The unknown red rusty fuse south of an open front door north of the unlighted off valve lights east of the wolves
+The unknown red rusty fuse north of the unlighted off valve lights east of the wolves south of an open front door
+Rusty red unknown fuses south of the open front door north of off unlighted valve lights east of the wolves.
+Rusty red unknown fuses north of an off unlighted valve light east of the wolves south of the open front doors
+Rusty red unknown fuses south of the open front doors north of an off unlighted valve light east of the wolves
+Unknown rusty red fuses north of the unlighted off valve lights east of the wolves south of the open fronted door
+Unknown rusty red fuses south of the open fronted door north of the unlighted off valve lights east of the wolves
+Red rusty unknown fuses north of off unlighted valve lights east of the wolves south of the open front doors.
+Rusty red unknown fuses south of the open front door north of the unlighted off valve light east of the wolves.
+A rusty red unknown fuse south of an open front door north of the unlighted off valve lights east of the wolves
+A rusty red unknown fuse north of the unlighted off valve lights east of the wolves south of an open front door
+Red rusty unknown fuses north of the unlighted off valve light east of the wolves south of the open front doors.
+Unknown rusty red fuses north of the unlighted off valve lights east of the wolves south of an open front door.
+The red rusty unknown fuses south of the open front doors north of the unlighted off valve lights east of the wolves
+The red rusty unknown fuses north of the unlighted off valve lights east of the wolves south of the open front doors
+The rusty red unknown fuse south of an open front door north of the unlighted off valve lights east of the wolves
+The rusty red unknown fuse north of the unlighted off valve lights east of the wolves south of an open front door
+Unknown rusty red fuses north of the valves unlighted off light east of the wolves south of an open front door
+Unknown rusty red fuses south of an open front door north of the valves unlighted off light east of the wolves
+Red rusty unknown fuses south of an open front door north of an unlighted off valve light east of the wolves.
+Red rusty unknown fuses north of off unlighted valve lights east of the wolves south of an open fronted door
+Red rusty unknown fuses south of an open fronted door north of off unlighted valve lights east of the wolves
+Unknown rusty red fuses north of the off unlighted valve lights east of a wolf south of the open front door
+Unknown rusty red fuses south of the open front door north of the off unlighted valve lights east of a wolf
+
+TOTAL RESULTS: 648
+
+Node                               MRS Produced    Reason                 Included in MRS    Reason
+---------------------------------  --------------  ---------------------  -----------------  ---------------
+idComputerRoom1FrontOpeningDoor_9  True            MRS fragment produced  True               Included in MRS
+idFuse30A_1                        True            MRS fragment produced  True               Included in MRS
+idShutoffValveLight_5              True            MRS fragment produced  True               Included in MRS
+idWolf_8                           True            MRS fragment produced  True               Included in MRS
+off_6                              True            MRS fragment produced  True               Included in MRS
+open_10                            True            MRS fragment produced  True               Included in MRS
+red_3                              True            MRS fragment produced  True               Included in MRS
+rusty_4                            True            MRS fragment produced  True               Included in MRS
+true_2                             True            MRS fragment produced  True               Included in MRS
+unlit_7                            True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idColor_2          True            MRS composed  True               Included in MRS
+idColor_4          True            MRS composed  True               Included in MRS
+idLitState_5       True            MRS composed  True               Included in MRS
+idOpenState_8      True            MRS composed  True               Included in MRS
+idTexture_3        True            MRS composed  True               Included in MRS
+idUnknownObject_1  True            MRS composed  True               Included in MRS
+isEastOf_6         True            MRS composed  True               Included in MRS
+isNorthOf_7        True            MRS composed  True               Included in MRS
+isSouthOf_9        True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced            10       10           1
+Nodes              Included            10       10           1
+Edges              Produced             9        9           1
+Edges              Included             9        9           1

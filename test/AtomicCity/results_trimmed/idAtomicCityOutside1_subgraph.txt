@@ -1,0 +1,702 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idAtomicCityOutside1_subgraph.dot
+[ TOP: h166
+  INDEX: e163
+  RELS: < [ unknown LBL: h165 ARG: x159 ARG0: e163 ]
+          [ def_udef_a_q LBL: h162 ARG0: x159 RSTR: h160 BODY: h161 ]
+          [ loc_nonsp LBL: h158 ARG0: i155 ARG1: x159 ARG2: x149 ]
+          [ loc_nonsp LBL: h158 ARG0: i105 ARG1: x159 ARG2: x101 ]
+          [ _outside_n_of LBL: h158 ARG0: x159 ARG1: i51 ]
+          [ def_implicit_q LBL: h104 ARG0: x101 RSTR: h102 BODY: h103 ]
+          [ _east_a_1 LBL: h94 ARG0: i91 ARG1: x101 ARG2: x95 ]
+          [ def_udef_a_q LBL: h98 ARG0: x95 RSTR: h96 BODY: h97 ]
+          [ loc_nonsp LBL: h57 ARG0: i87 ARG1: x95 ARG2: x83 ]
+          [ _tiny_a_1 LBL: h57 ARG0: e58 ARG1: x95 ]
+          [ _grey_a_1 LBL: h57 ARG0: i55 ARG1: x95 ]
+          [ _wolf_n_1 LBL: h57 ARG0: x95 ]
+          [ def_implicit_q LBL: h86 ARG0: x83 RSTR: h84 BODY: h85 ]
+          [ _west_a_1 LBL: h82 ARG0: i73 ARG1: x83 ARG2: x77 ]
+          [ def_udef_a_q LBL: h80 ARG0: x77 RSTR: h78 BODY: h79 ]
+          [ compound LBL: h72 ARG0: e69 ARG1: x77 ARG2: x65 ]
+          [ udef_q LBL: h68 ARG0: x65 RSTR: h66 BODY: h67 ]
+          [ _front_n_1 LBL: h64 ARG0: x65 ]
+          [ _opening_n_1 LBL: h72 ARG0: x77 ]
+          [ place_n LBL: h82 ARG0: x83 ]
+          [ place_n LBL: h94 ARG0: x101 ]
+          [ def_implicit_q LBL: h154 ARG0: x149 RSTR: h152 BODY: h153 ]
+          [ _north_a_1 LBL: h150 ARG0: i141 ARG1: x149 ARG2: x109 ]
+          [ def_udef_a_q LBL: h148 ARG0: x109 RSTR: h146 BODY: h147 ]
+          [ loc_nonsp LBL: h120 ARG0: i137 ARG1: x109 ARG2: x131 ]
+          [ compound LBL: h120 ARG0: e117 ARG1: x109 ARG2: x113 ]
+          [ udef_q LBL: h116 ARG0: x113 RSTR: h114 BODY: h115 ]
+          [ _front_n_1 LBL: h112 ARG0: x113 ]
+          [ _opening_n_1 LBL: h120 ARG0: x109 ]
+          [ def_implicit_q LBL: h136 ARG0: x131 RSTR: h134 BODY: h135 ]
+          [ _east_a_1 LBL: h126 ARG0: i123 ARG1: x131 ARG2: x121 ]
+          [ def_udef_a_q LBL: h130 ARG0: x121 RSTR: h128 BODY: h129 ]
+          [ _wolf_n_1 LBL: h122 ARG0: x121 ]
+          [ place_n LBL: h126 ARG0: x131 ]
+          [ place_n LBL: h150 ARG0: x149 ] >
+  HCONS: < h66 qeq h64 h78 qeq h72 h84 qeq h82 h96 qeq h57 h102 qeq h94 h114 qeq h112 h128 qeq h122 h134 qeq h126 h146 qeq h120 h152 qeq h150 h160 qeq h158 h166 qeq h165 > ]
+GENERATED RESULTS ... 
+Outsides east of the gray tiny wolf west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the gray tiny wolf west of the front openings
+Outsides east of the grey tiny wolf west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the grey tiny wolf west of the front openings
+Outsides east of the gray tiny wolf west of the front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the gray tiny wolf west of the front opening
+Outsides east of the grey tiny wolf west of the front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the grey tiny wolf west of the front opening
+Outsides east of the gray tiny wolf west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the gray tiny wolf west of the front openings
+Outsides east of a gray tiny wolf west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a gray tiny wolf west of the front openings
+Outsides east of the grey tiny wolf west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the grey tiny wolf west of the front openings
+Outsides east of a grey tiny wolf west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a grey tiny wolf west of the front openings
+Outsides east of the gray tiny wolf west of the front openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the gray tiny wolf west of the front openings
+Outsides east of the grey tiny wolf west of the front openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the grey tiny wolf west of the front openings
+Outsides east of the gray tiny wolf west of the front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the gray tiny wolf west of the front opening
+Outsides east of a gray tiny wolf west of the front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a gray tiny wolf west of the front opening
+Outsides east of the grey tiny wolf west of the front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the grey tiny wolf west of the front opening
+Outsides east of a grey tiny wolf west of the front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a grey tiny wolf west of the front opening
+Outsides east of the gray tiny wolf west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the gray tiny wolf west of the front opening
+Outsides east of the grey tiny wolf west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the grey tiny wolf west of the front opening
+Outsides east of a gray tiny wolf west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a gray tiny wolf west of the front openings
+Outsides east of a grey tiny wolf west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a grey tiny wolf west of the front openings
+Outsides north of the front openings east of the wolves east of a gray tiny wolf west of the front openings
+Outsides east of a gray tiny wolf west of the front openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of a grey tiny wolf west of the front openings
+Outsides east of a grey tiny wolf west of the front openings north of the front openings east of the wolves
+Outsides north of a front opening east of the wolves east of a gray tiny wolf west of the front opening
+Outsides east of a gray tiny wolf west of the front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a grey tiny wolf west of the front opening
+Outsides east of a grey tiny wolf west of the front opening north of a front opening east of the wolves
+Outsides east of a gray tiny wolf west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of a gray tiny wolf west of the front opening
+Outsides east of a grey tiny wolf west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of a grey tiny wolf west of the front opening
+Outsides east of the tiny gray wolves west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny gray wolves west of the front openings
+Outsides east of the tiny grey wolves west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny grey wolves west of the front openings
+Outsides east of the gray tiny wolves west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the gray tiny wolves west of the front openings
+Outsides east of the grey tiny wolves west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the grey tiny wolves west of the front openings
+Outsides east of the tiny gray wolves west of the front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny gray wolves west of the front opening
+Outsides east of the tiny grey wolves west of the front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny grey wolves west of the front opening
+Outsides east of the tiny gray wolves west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the tiny gray wolves west of the front openings
+Outsides east of the tiny grey wolves west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the tiny grey wolves west of the front openings
+Outsides east of the tiny gray wolves west of the front openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the tiny gray wolves west of the front openings
+Outsides east of the tiny grey wolves west of the front openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the tiny grey wolves west of the front openings
+Outsides east of the grey tiny wolves west of the front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the grey tiny wolves west of the front opening
+Outsides east of the gray tiny wolves west of the front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the gray tiny wolves west of the front opening
+Outsides east of the tiny gray wolf west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny gray wolf west of the front openings
+Outsides east of the tiny grey wolf west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny grey wolf west of the front openings
+Outsides east of the gray tiny wolves west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the gray tiny wolves west of the front openings
+Outsides east of the grey tiny wolves west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the grey tiny wolves west of the front openings
+Outsides east of the tiny gray wolves west of the front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the tiny gray wolves west of the front opening
+Outsides east of the tiny grey wolves west of the front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the tiny grey wolves west of the front opening
+Outsides east of the gray tiny wolves west of the front openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the gray tiny wolves west of the front openings
+Outsides east of the grey tiny wolves west of the front openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the grey tiny wolves west of the front openings
+Outsides east of the tiny gray wolves west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the tiny gray wolves west of the front opening
+Outsides east of the tiny grey wolves west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the tiny grey wolves west of the front opening
+Outsides east of the tiny gray wolf west of the front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny gray wolf west of the front opening
+Outsides east of the tiny grey wolf west of the front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny grey wolf west of the front opening
+Outsides east of the grey tiny wolves west of the front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the grey tiny wolves west of the front opening
+Outsides east of the gray tiny wolves west of the front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the gray tiny wolves west of the front opening
+Outsides east of a tiny gray wolf west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a tiny gray wolf west of the front openings
+Outsides east of the tiny gray wolf west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the tiny gray wolf west of the front openings
+Outsides east of a tiny grey wolf west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a tiny grey wolf west of the front openings
+Outsides east of the tiny grey wolf west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the tiny grey wolf west of the front openings
+Outsides east of the grey tiny wolves west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the grey tiny wolves west of the front opening
+Outsides east of the gray tiny wolves west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the gray tiny wolves west of the front opening
+Outsides east of the tiny gray wolf west of the front openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the tiny gray wolf west of the front openings
+Outsides east of the tiny grey wolf west of the front openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the tiny grey wolf west of the front openings
+Outsides north of the front opening east of the wolves east of the grey tiny wolf west of a front opening
+Outsides east of the grey tiny wolf west of a front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the gray tiny wolf west of a front opening
+Outsides east of the gray tiny wolf west of a front opening north of the front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the tiny gray wolf west of the front opening
+Outsides east of the tiny gray wolf west of the front opening north of a front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a tiny gray wolf west of the front opening
+Outsides east of a tiny gray wolf west of the front opening north of the front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the tiny grey wolf west of the front opening
+Outsides east of the tiny grey wolf west of the front opening north of a front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a tiny grey wolf west of the front opening
+Outsides east of a tiny grey wolf west of the front opening north of the front opening east of the wolves
+Outsides east of the tiny gray wolf west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the tiny gray wolf west of the front opening
+Outsides east of the tiny grey wolf west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the tiny grey wolf west of the front opening
+Outsides east of a tiny gray wolf west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a tiny gray wolf west of the front openings
+Outsides east of a tiny grey wolf west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a tiny grey wolf west of the front openings
+Outsides north of the front openings east of the wolves east of a tiny gray wolf west of the front openings
+Outsides east of a tiny gray wolf west of the front openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of a tiny grey wolf west of the front openings
+Outsides east of a tiny grey wolf west of the front openings north of the front openings east of the wolves
+Outsides north of a front opening east of the wolves east of the grey tiny wolf west of a front opening
+Outsides east of a grey tiny wolf west of a front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a grey tiny wolf west of a front opening
+Outsides east of the grey tiny wolf west of a front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the gray tiny wolf west of a front opening
+Outsides east of a gray tiny wolf west of a front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a gray tiny wolf west of a front opening
+Outsides east of the gray tiny wolf west of a front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a tiny gray wolf west of the front opening
+Outsides east of a tiny gray wolf west of the front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a tiny grey wolf west of the front opening
+Outsides east of a tiny grey wolf west of the front opening north of a front opening east of the wolves
+Outsides east of the grey tiny wolf west of a front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the grey tiny wolf west of a front opening
+Outsides east of the gray tiny wolf west of a front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the gray tiny wolf west of a front opening
+Outsides east of a tiny gray wolf west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of a tiny gray wolf west of the front opening
+Outsides east of a tiny grey wolf west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of a tiny grey wolf west of the front opening
+Outsides north of the front opening east of the wolves east of the gray tiny wolf west of the front openings.
+Outsides north of the front opening east of the wolves east of the grey tiny wolf west of the front openings.
+Outsides east of a grey tiny wolf west of a front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a grey tiny wolf west of a front opening
+Outsides east of a gray tiny wolf west of a front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a gray tiny wolf west of a front opening
+Outsides east of a grey tiny wolf west of a front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of a grey tiny wolf west of a front opening
+Outsides east of a gray tiny wolf west of a front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of a gray tiny wolf west of a front opening
+Outsides north of a front opening east of the wolves east of the gray tiny wolf west of the front openings.
+Outsides north of the front opening east of the wolves east of a gray tiny wolf west of the front openings.
+Outsides north of a front opening east of the wolves east of the grey tiny wolf west of the front openings.
+Outsides north of the front opening east of the wolves east of a grey tiny wolf west of the front openings.
+Outsides north of the front openings east of the wolves east of the gray tiny wolf west of the front openings.
+Outsides north of the front openings east of the wolves east of the grey tiny wolf west of the front openings.
+Outsides north of the front opening east of the wolves east of the tiny gray wolves west of a front opening
+Outsides east of the tiny gray wolves west of a front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny grey wolves west of a front opening
+Outsides east of the tiny grey wolves west of a front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of tiny gray wolves west of the front openings
+Outsides east of tiny gray wolves west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of tiny grey wolves west of the front openings
+Outsides east of tiny grey wolves west of the front openings north of the front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a gray tiny wolf west of the front openings.
+Outsides north of a front opening east of the wolves east of a grey tiny wolf west of the front openings.
+Outsides north of the front openings east of the wolves east of a gray tiny wolf west of the front openings.
+Outsides north of the front openings east of the wolves east of a grey tiny wolf west of the front openings.
+Outsides north of the front opening east of the wolves east of the grey tiny wolves west of a front opening
+Outsides east of the grey tiny wolves west of a front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the gray tiny wolves west of a front opening
+Outsides east of the gray tiny wolves west of a front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of tiny gray wolves west of the front opening
+Outsides east of tiny gray wolves west of the front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of tiny grey wolves west of the front opening
+Outsides east of tiny grey wolves west of the front opening north of the front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the tiny gray wolves west of a front opening
+Outsides east of the tiny gray wolves west of a front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the tiny grey wolves west of a front opening
+Outsides east of the tiny grey wolves west of a front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of tiny gray wolves west of the front openings
+Outsides east of tiny gray wolves west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of tiny grey wolves west of the front openings
+Outsides east of tiny grey wolves west of the front openings north of a front opening east of the wolves
+Outsides north of the front openings east of the wolves east of the tiny gray wolves west of a front opening
+Outsides east of the tiny gray wolves west of a front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the tiny grey wolves west of a front opening
+Outsides east of the tiny grey wolves west of a front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of tiny gray wolves west of the front openings
+Outsides east of tiny gray wolves west of the front openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of tiny grey wolves west of the front openings
+Outsides east of tiny grey wolves west of the front openings north of the front openings east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny gray wolves west of the front openings.
+Outsides north of the front opening east of the wolves east of the tiny grey wolves west of the front openings.
+Outsides north of the front opening east of the wolves east of the tiny gray wolf west of a front opening
+Outsides east of the tiny gray wolf west of a front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny grey wolf west of a front opening
+Outsides east of the tiny grey wolf west of a front opening north of the front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the grey tiny wolves west of a front opening
+Outsides east of the grey tiny wolves west of a front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the gray tiny wolves west of a front opening
+Outsides east of the gray tiny wolves west of a front opening north of a front opening east of the wolves
+The outsides east of the gray tiny wolf west of the front openings north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the gray tiny wolf west of the front openings
+The outsides east of the grey tiny wolf west of the front openings north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the grey tiny wolf west of the front openings
+Outsides north of a front opening east of the wolves east of tiny gray wolves west of the front opening
+Outsides east of tiny gray wolves west of the front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of tiny grey wolves west of the front opening
+Outsides east of tiny grey wolves west of the front opening north of a front opening east of the wolves
+Outsides north of the front openings east of the wolves east of the grey tiny wolves west of a front opening
+Outsides east of the grey tiny wolves west of a front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the gray tiny wolves west of a front opening
+Outsides east of the gray tiny wolves west of a front opening north of the front openings east of the wolves
+Outsides north of the front opening east of the wolves east of the gray tiny wolves west of the front openings.
+Outsides north of the front opening east of the wolves east of the grey tiny wolves west of the front openings.
+Outsides north of the front openings east of the wolves east of tiny gray wolves west of the front opening
+Outsides east of tiny gray wolves west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of tiny grey wolves west of the front opening
+Outsides east of tiny grey wolves west of the front opening north of the front openings east of the wolves
+Outsides north of a front opening east of the wolves east of the tiny gray wolves west of the front openings.
+Outsides north of a front opening east of the wolves east of the tiny grey wolves west of the front openings.
+Outsides north of the front openings east of the wolves east of the tiny gray wolves west of the front openings.
+Outsides north of the front openings east of the wolves east of the tiny grey wolves west of the front openings.
+Outsides north of a front opening east of the wolves east of the tiny gray wolf west of a front opening
+Outsides east of a tiny gray wolf west of a front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a tiny gray wolf west of a front opening
+Outsides east of the tiny gray wolf west of a front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the tiny grey wolf west of a front opening
+Outsides east of a tiny grey wolf west of a front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a tiny grey wolf west of a front opening
+Outsides east of the tiny grey wolf west of a front opening north of a front opening east of the wolves
+The outsides east of the gray tiny wolf west of the front opening north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the gray tiny wolf west of the front opening
+The outsides east of the grey tiny wolf west of the front opening north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the grey tiny wolf west of the front opening
+Outsides north of the front openings east of the wolves east of the tiny gray wolf west of a front opening
+Outsides east of the tiny gray wolf west of a front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the tiny grey wolf west of a front opening
+Outsides east of the tiny grey wolf west of a front opening north of the front openings east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny gray wolf west of the front openings.
+Outsides north of the front opening east of the wolves east of the tiny grey wolf west of the front openings.
+The outsides east of the gray tiny wolf west of the front openings north of a front opening east of the wolves
+The outsides north of the front opening east of the wolves east of a gray tiny wolf west of the front openings
+The outsides east of a gray tiny wolf west of the front openings north of the front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the gray tiny wolf west of the front openings
+The outsides east of the grey tiny wolf west of the front openings north of a front opening east of the wolves
+The outsides north of the front opening east of the wolves east of a grey tiny wolf west of the front openings
+The outsides east of a grey tiny wolf west of the front openings north of the front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the grey tiny wolf west of the front openings
+Outsides north of a front opening east of the wolves east of the gray tiny wolves west of the front openings.
+Outsides north of a front opening east of the wolves east of the grey tiny wolves west of the front openings.
+The outsides east of the gray tiny wolf west of the front openings north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the gray tiny wolf west of the front openings
+The outsides east of the grey tiny wolf west of the front openings north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the grey tiny wolf west of the front openings
+Outsides north of the front openings east of the wolves east of the gray tiny wolves west of the front openings.
+Outsides north of the front openings east of the wolves east of the grey tiny wolves west of the front openings.
+Outsides north of the front opening east of the wolves east of gray tiny wolves west of the front openings
+Outsides east of gray tiny wolves west of the front openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of grey tiny wolves west of the front openings
+Outsides east of grey tiny wolves west of the front openings north of the front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a tiny gray wolf west of a front opening
+Outsides east of a tiny gray wolf west of a front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a tiny grey wolf west of a front opening
+Outsides east of a tiny grey wolf west of a front opening north of a front opening east of the wolves
+The outsides east of the gray tiny wolf west of the front opening north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the gray tiny wolf west of the front opening
+The outsides east of a gray tiny wolf west of the front opening north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of a gray tiny wolf west of the front opening
+The outsides east of the grey tiny wolf west of the front opening north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the grey tiny wolf west of the front opening
+The outsides east of a grey tiny wolf west of the front opening north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of a grey tiny wolf west of the front opening
+Outsides north of the front openings east of the wolves east of a tiny gray wolf west of a front opening
+Outsides east of a tiny gray wolf west of a front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of a tiny grey wolf west of a front opening
+Outsides east of a tiny grey wolf west of a front opening north of the front openings east of the wolves
+The outsides east of the gray tiny wolf west of the front opening north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the gray tiny wolf west of the front opening
+The outsides east of the grey tiny wolf west of the front opening north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the grey tiny wolf west of the front opening
+Outsides north of a front opening east of the wolves east of the tiny gray wolf west of the front openings.
+Outsides north of the front opening east of the wolves east of a tiny gray wolf west of the front openings.
+Outsides north of a front opening east of the wolves east of the tiny grey wolf west of the front openings.
+Outsides north of the front opening east of the wolves east of a tiny grey wolf west of the front openings.
+The outsides east of a gray tiny wolf west of the front openings north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of a gray tiny wolf west of the front openings
+The outsides east of a grey tiny wolf west of the front openings north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of a grey tiny wolf west of the front openings
+Outsides north of the front opening east of the wolves east of gray tiny wolves west of the front opening
+Outsides east of gray tiny wolves west of the front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of grey tiny wolves west of the front opening
+Outsides east of grey tiny wolves west of the front opening north of the front opening east of the wolves
+Outsides east of the gray tiny wolf west of the front openings north of the front opening east of the wolves.
+Outsides east of the grey tiny wolf west of the front openings north of the front opening east of the wolves.
+Outsides north of the front openings east of the wolves east of the tiny gray wolf west of the front openings.
+Outsides north of the front openings east of the wolves east of the tiny grey wolf west of the front openings.
+The outsides east of a gray tiny wolf west of the front openings north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of a gray tiny wolf west of the front openings
+The outsides east of a grey tiny wolf west of the front openings north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of a grey tiny wolf west of the front openings
+Outsides north of the front opening east of the wolves east of the grey tiny wolf west of the fronted, openings.
+Outsides north of the front opening east of the wolves east of the gray tiny wolf west of the fronted, openings.
+Outsides north of a front opening east of the wolves east of gray tiny wolves west of the front openings
+Outsides east of gray tiny wolves west of the front openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of grey tiny wolves west of the front openings
+Outsides east of grey tiny wolves west of the front openings north of a front opening east of the wolves
+Outsides north of the front openings east of the wolves east of gray tiny wolves west of the front openings
+Outsides east of gray tiny wolves west of the front openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of grey tiny wolves west of the front openings
+Outsides east of grey tiny wolves west of the front openings north of the front openings east of the wolves
+The outsides east of a gray tiny wolf west of the front opening north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of a gray tiny wolf west of the front opening
+The outsides east of a grey tiny wolf west of the front opening north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of a grey tiny wolf west of the front opening
+Outsides east of the gray tiny wolf west of the front opening north of the front opening east of the wolves.
+Outsides east of the grey tiny wolf west of the front opening north of the front opening east of the wolves.
+The outsides east of a gray tiny wolf west of the front opening north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of a gray tiny wolf west of the front opening
+The outsides east of a grey tiny wolf west of the front opening north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of a grey tiny wolf west of the front opening
+Outsides north of a front opening east of the wolves east of a tiny gray wolf west of the front openings.
+Outsides north of a front opening east of the wolves east of a tiny grey wolf west of the front openings.
+Outsides north of the front opening east of the wolves east of the gray tiny wolf west of the fronted, openings
+Outsides east of the gray tiny wolf west of the fronted, openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the grey tiny wolf west of the fronted, openings
+Outsides east of the grey tiny wolf west of the fronted, openings north of the front opening east of the wolves
+Outsides north of a front opening east of the wolves east of gray tiny wolves west of the front opening
+Outsides east of gray tiny wolves west of the front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of grey tiny wolves west of the front opening
+Outsides east of grey tiny wolves west of the front opening north of a front opening east of the wolves
+Outsides east of the gray tiny wolf west of the front openings north of a front opening east of the wolves.
+Outsides east of a gray tiny wolf west of the front openings north of the front opening east of the wolves.
+Outsides east of the grey tiny wolf west of the front openings north of a front opening east of the wolves.
+Outsides east of a grey tiny wolf west of the front openings north of the front opening east of the wolves.
+Outsides north of the front openings east of the wolves east of a tiny gray wolf west of the front openings.
+Outsides north of the front openings east of the wolves east of a tiny grey wolf west of the front openings.
+The outsides east of the tiny gray wolves west of the front openings north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the tiny gray wolves west of the front openings
+The outsides east of the tiny grey wolves west of the front openings north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the tiny grey wolves west of the front openings
+Outsides north of the front opening east of the wolves east of the grey tiny wolf west of the front opening.
+Outsides north of the front opening east of the wolves east of the gray tiny wolf west of the front opening.
+Outsides north of a front opening east of the wolves east of the grey tiny wolf west of the fronted, openings.
+Outsides north of the front opening east of the wolves east of a grey tiny wolf west of the fronted, openings.
+Outsides north of a front opening east of the wolves east of the gray tiny wolf west of the fronted, openings.
+Outsides north of the front opening east of the wolves east of a gray tiny wolf west of the fronted, openings.
+Outsides north of the front openings east of the wolves east of gray tiny wolves west of the front opening
+Outsides east of gray tiny wolves west of the front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of grey tiny wolves west of the front opening
+Outsides east of grey tiny wolves west of the front opening north of the front openings east of the wolves
+Outsides east of the gray tiny wolf west of the front openings north of the front openings east of the wolves.
+Outsides east of the grey tiny wolf west of the front openings north of the front openings east of the wolves.
+Outsides north of the front opening east of the wolves east of the gray tiny wolf west of the fronted, opening
+Outsides east of the gray tiny wolf west of the fronted, opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the grey tiny wolf west of the fronted, opening
+Outsides east of the grey tiny wolf west of the fronted, opening north of the front opening east of the wolves
+Outsides north of the front openings east of the wolves east of the grey tiny wolf west of the fronted, openings.
+Outsides north of the front openings east of the wolves east of the gray tiny wolf west of the fronted, openings.
+The outsides east of the gray tiny wolves west of the front openings north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the gray tiny wolves west of the front openings
+The outsides east of the grey tiny wolves west of the front openings north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the grey tiny wolves west of the front openings
+Outsides east of a gray tiny wolf west of the front opening north of the front opening east of the wolves.
+Outsides east of the gray tiny wolf west of the front opening north of a front opening east of the wolves.
+Outsides east of a grey tiny wolf west of the front opening north of the front opening east of the wolves.
+Outsides east of the grey tiny wolf west of the front opening north of a front opening east of the wolves.
+The outsides east of the tiny gray wolves west of the front opening north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the tiny gray wolves west of the front opening
+The outsides east of the tiny grey wolves west of the front opening north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the tiny grey wolves west of the front opening
+Outsides north of a front opening east of the wolves east of the gray tiny wolf west of the fronted, openings
+Outsides east of the gray tiny wolf west of the fronted, openings north of a front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a gray tiny wolf west of the fronted, openings
+Outsides east of a gray tiny wolf west of the fronted, openings north of the front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the grey tiny wolf west of the fronted, openings
+Outsides east of the grey tiny wolf west of the fronted, openings north of a front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a grey tiny wolf west of the fronted, openings
+Outsides east of a grey tiny wolf west of the fronted, openings north of the front opening east of the wolves
+Outsides east of the gray tiny wolf west of the front opening north of the front openings east of the wolves.
+Outsides east of the grey tiny wolf west of the front opening north of the front openings east of the wolves.
+Outsides east of a gray tiny wolf west of the front openings north of a front opening east of the wolves.
+Outsides east of a grey tiny wolf west of the front openings north of a front opening east of the wolves.
+The outsides east of the tiny gray wolves west of the front openings north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the tiny gray wolves west of the front openings
+The outsides east of the tiny grey wolves west of the front openings north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the tiny grey wolves west of the front openings
+Outsides north of the front opening east of the wolves east of a grey tiny wolf west of the front opening.
+Outsides north of a front opening east of the wolves east of the grey tiny wolf west of the front opening.
+Outsides north of the front opening east of the wolves east of a gray tiny wolf west of the front opening.
+Outsides north of a front opening east of the wolves east of the gray tiny wolf west of the front opening.
+Outsides north of the front opening east of the wolf east of the gray tiny wolf west of the front openings
+Outsides east of the gray tiny wolf west of the front openings north of the front opening east of the wolf
+Outsides north of the front opening east of the wolf east of the grey tiny wolf west of the front openings
+Outsides east of the grey tiny wolf west of the front openings north of the front opening east of the wolf
+Outsides north of the front openings east of the wolves east of the gray tiny wolf west of the fronted, openings
+Outsides east of the gray tiny wolf west of the fronted, openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the grey tiny wolf west of the fronted, openings
+Outsides east of the grey tiny wolf west of the fronted, openings north of the front openings east of the wolves
+Outsides north of a front opening east of the wolves east of a grey tiny wolf west of the fronted, openings.
+Outsides north of a front opening east of the wolves east of a gray tiny wolf west of the fronted, openings.
+Outsides north of the fronted, openings east of the wolves east of the gray tiny wolf west of the front openings
+Outsides east of the gray tiny wolf west of the front openings north of the fronted, openings east of the wolves
+Outsides north of the fronted, openings east of the wolves east of the grey tiny wolf west of the front openings
+Outsides east of the grey tiny wolf west of the front openings north of the fronted, openings east of the wolves
+Outsides east of a gray tiny wolf west of the front openings north of the front openings east of the wolves.
+Outsides east of a grey tiny wolf west of the front openings north of the front openings east of the wolves.
+The outsides east of the tiny gray wolves west of the front openings north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the tiny gray wolves west of the front openings
+The outsides east of the tiny grey wolves west of the front openings north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the tiny grey wolves west of the front openings
+Outsides north of a front opening east of the wolves east of the gray tiny wolf west of the fronted, opening
+Outsides east of a gray tiny wolf west of the fronted, opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a gray tiny wolf west of the fronted, opening
+Outsides east of the gray tiny wolf west of the fronted, opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the grey tiny wolf west of the fronted, opening
+Outsides east of a grey tiny wolf west of the fronted, opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a grey tiny wolf west of the fronted, opening
+Outsides east of the grey tiny wolf west of the fronted, opening north of a front opening east of the wolves
+Outsides north of the front openings east of the wolves east of the grey tiny wolf west of the front opening.
+Outsides north of the front openings east of the wolves east of the gray tiny wolf west of the front opening.
+Outsides north of the front openings east of the wolves east of a grey tiny wolf west of the fronted, openings.
+Outsides north of the front openings east of the wolves east of a gray tiny wolf west of the fronted, openings.
+Outsides north of the front openings east of the wolves east of the gray tiny wolf west of the fronted, opening
+Outsides east of the gray tiny wolf west of the fronted, opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the grey tiny wolf west of the fronted, opening
+Outsides east of the grey tiny wolf west of the fronted, opening north of the front openings east of the wolves
+Outsides north of the fronted, opening east of the wolves east of the gray tiny wolf west of the front openings
+Outsides east of the gray tiny wolf west of the front openings north of the fronted, opening east of the wolves
+Outsides north of the fronted, opening east of the wolves east of the grey tiny wolf west of the front openings
+Outsides east of the grey tiny wolf west of the front openings north of the fronted, opening east of the wolves
+The outsides east of the grey tiny wolves west of the front opening north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the grey tiny wolves west of the front opening
+The outsides east of the gray tiny wolves west of the front opening north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the gray tiny wolves west of the front opening
+Outsides north of the front opening east of the wolves east of tiny gray wolves west of a front opening
+Outsides east of tiny gray wolves west of a front opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of tiny grey wolves west of a front opening
+Outsides east of tiny grey wolves west of a front opening north of the front opening east of the wolves
+The outsides east of the tiny gray wolf west of the front openings north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the tiny gray wolf west of the front openings
+The outsides east of the tiny grey wolf west of the front openings north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the tiny grey wolf west of the front openings
+Outsides north of the front opening east of the wolves east of the gray tiny wolf west of a fronted, opening
+Outsides east of the gray tiny wolf west of a fronted, opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the grey tiny wolf west of a fronted, opening
+Outsides east of the grey tiny wolf west of a fronted, opening north of the front opening east of the wolves
+The outsides east of the gray tiny wolves west of the front openings north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the gray tiny wolves west of the front openings
+The outsides east of the grey tiny wolves west of the front openings north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the grey tiny wolves west of the front openings
+Outsides east of a gray tiny wolf west of the front opening north of a front opening east of the wolves.
+Outsides east of a grey tiny wolf west of the front opening north of a front opening east of the wolves.
+The outsides east of the tiny gray wolves west of the front opening north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the tiny gray wolves west of the front opening
+The outsides east of the tiny grey wolves west of the front opening north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the tiny grey wolves west of the front opening
+Outsides north of the front opening east of the wolf east of the gray tiny wolf west of the front opening
+Outsides east of the gray tiny wolf west of the front opening north of the front opening east of the wolf
+Outsides north of the front opening east of the wolf east of the grey tiny wolf west of the front opening
+Outsides east of the grey tiny wolf west of the front opening north of the front opening east of the wolf
+The outsides east of the gray tiny wolves west of the front openings north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the gray tiny wolves west of the front openings
+The outsides east of the grey tiny wolves west of the front openings north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the grey tiny wolves west of the front openings
+Outsides north of a front opening east of the wolves east of a gray tiny wolf west of the fronted, openings
+Outsides east of a gray tiny wolf west of the fronted, openings north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a grey tiny wolf west of the fronted, openings
+Outsides east of a grey tiny wolf west of the fronted, openings north of a front opening east of the wolves
+Outsides north of the fronted, openings east of the wolves east of the gray tiny wolf west of the front opening
+Outsides east of the gray tiny wolf west of the front opening north of the fronted, openings east of the wolves
+Outsides north of the fronted, openings east of the wolves east of the grey tiny wolf west of the front opening
+Outsides east of the grey tiny wolf west of the front opening north of the fronted, openings east of the wolves
+Outsides east of a gray tiny wolf west of the front opening north of the front openings east of the wolves.
+Outsides east of a grey tiny wolf west of the front opening north of the front openings east of the wolves.
+The outsides east of the tiny gray wolves west of the front opening north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the tiny gray wolves west of the front opening
+The outsides east of the tiny grey wolves west of the front opening north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the tiny grey wolves west of the front opening
+Outsides north of a front opening east of the wolves east of a grey tiny wolf west of the front opening.
+Outsides north of a front opening east of the wolves east of a gray tiny wolf west of the front opening.
+Outsides north of a front opening east of the wolf east of the gray tiny wolf west of the front openings
+Outsides east of the gray tiny wolf west of the front openings north of a front opening east of the wolf
+Outsides north of the front opening east of the wolf east of a gray tiny wolf west of the front openings
+Outsides east of a gray tiny wolf west of the front openings north of the front opening east of the wolf
+Outsides north of a front opening east of the wolf east of the grey tiny wolf west of the front openings
+Outsides east of the grey tiny wolf west of the front openings north of a front opening east of the wolf
+Outsides north of the front opening east of the wolf east of a grey tiny wolf west of the front openings
+Outsides east of a grey tiny wolf west of the front openings north of the front opening east of the wolf
+Outsides north of the front openings east of the wolves east of a gray tiny wolf west of the fronted, openings
+Outsides east of a gray tiny wolf west of the fronted, openings north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of a grey tiny wolf west of the fronted, openings
+Outsides east of a grey tiny wolf west of the fronted, openings north of the front openings east of the wolves
+Outsides north of the fronted, openings east of the wolves east of a gray tiny wolf west of the front openings
+Outsides east of a gray tiny wolf west of the front openings north of the fronted, openings east of the wolves
+Outsides north of the fronted, openings east of the wolves east of a grey tiny wolf west of the front openings
+Outsides east of a grey tiny wolf west of the front openings north of the fronted, openings east of the wolves
+Outsides east of the tiny gray wolves west of the front openings north of the front opening east of the wolves.
+Outsides east of the tiny grey wolves west of the front openings north of the front opening east of the wolves.
+Outsides north of a front opening east of the wolves east of a gray tiny wolf west of the fronted, opening
+Outsides east of a gray tiny wolf west of the fronted, opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of a grey tiny wolf west of the fronted, opening
+Outsides east of a grey tiny wolf west of the fronted, opening north of a front opening east of the wolves
+Outsides north of the front openings east of the wolves east of a grey tiny wolf west of the front opening.
+Outsides north of the front openings east of the wolves east of a gray tiny wolf west of the front opening.
+Outsides north of the fronted, opening east of the wolves east of the gray tiny wolf west of the front opening
+Outsides east of the gray tiny wolf west of the front opening north of the fronted, opening east of the wolves
+Outsides north of the fronted, opening east of the wolves east of the grey tiny wolf west of the front opening
+Outsides east of the grey tiny wolf west of the front opening north of the fronted, opening east of the wolves
+Outsides north of the front openings east of the wolf east of the gray tiny wolf west of the front openings
+Outsides east of the gray tiny wolf west of the front openings north of the front openings east of the wolf
+Outsides north of the front openings east of the wolf east of the grey tiny wolf west of the front openings
+Outsides east of the grey tiny wolf west of the front openings north of the front openings east of the wolf
+Outsides north of the front opening east of the wolves east of the tiny gray wolves west of the fronted, openings.
+Outsides north of the front opening east of the wolves east of the tiny grey wolves west of the fronted, openings.
+The outsides east of the tiny gray wolf west of the front opening north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the tiny gray wolf west of the front opening
+The outsides east of the tiny grey wolf west of the front opening north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of the tiny grey wolf west of the front opening
+Outsides north of the front openings east of the wolves east of a gray tiny wolf west of the fronted, opening
+Outsides east of a gray tiny wolf west of the fronted, opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of a grey tiny wolf west of the fronted, opening
+Outsides east of a grey tiny wolf west of the fronted, opening north of the front openings east of the wolves
+Outsides north of the fronted, opening east of the wolves east of a gray tiny wolf west of the front openings
+Outsides east of a gray tiny wolf west of the front openings north of the fronted, opening east of the wolves
+Outsides north of a fronted, opening east of the wolves east of the gray tiny wolf west of the front openings
+Outsides east of the gray tiny wolf west of the front openings north of a fronted, opening east of the wolves
+Outsides north of the fronted, opening east of the wolves east of a grey tiny wolf west of the front openings
+Outsides east of a grey tiny wolf west of the front openings north of the fronted, opening east of the wolves
+Outsides north of a fronted, opening east of the wolves east of the grey tiny wolf west of the front openings
+Outsides east of the grey tiny wolf west of the front openings north of a fronted, opening east of the wolves
+The outsides east of the grey tiny wolves west of the front opening north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the grey tiny wolves west of the front opening
+The outsides east of the gray tiny wolves west of the front opening north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the gray tiny wolves west of the front opening
+Outsides north of a front opening east of the wolves east of tiny gray wolves west of a front opening
+Outsides east of tiny gray wolves west of a front opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of tiny grey wolves west of a front opening
+Outsides east of tiny grey wolves west of a front opening north of a front opening east of the wolves
+The outsides east of a tiny gray wolf west of the front openings north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of a tiny gray wolf west of the front openings
+The outsides east of the tiny gray wolf west of the front openings north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the tiny gray wolf west of the front openings
+The outsides east of a tiny grey wolf west of the front openings north of the front opening east of the wolves
+The outsides north of the front opening east of the wolves east of a tiny grey wolf west of the front openings
+The outsides east of the tiny grey wolf west of the front openings north of a front opening east of the wolves
+The outsides north of a front opening east of the wolves east of the tiny grey wolf west of the front openings
+Outsides east of the gray tiny wolf west of the front openings north of the fronted openings east of the wolves
+Outsides north of the fronted openings east of the wolves east of the gray tiny wolf west of the front openings
+Outsides east of the grey tiny wolf west of the front openings north of the fronted openings east of the wolves
+Outsides north of the fronted openings east of the wolves east of the grey tiny wolf west of the front openings
+The outsides east of the grey tiny wolves west of the front opening north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the grey tiny wolves west of the front opening
+The outsides east of the gray tiny wolves west of the front opening north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the gray tiny wolves west of the front opening
+Outsides east of the gray tiny wolf west of a fronted, opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the gray tiny wolf west of a fronted, opening
+Outsides east of the grey tiny wolf west of a fronted, opening north of a front opening east of the wolves
+Outsides north of a front opening east of the wolves east of the grey tiny wolf west of a fronted, opening
+Outsides east of a gray tiny wolf west of a fronted, opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a gray tiny wolf west of a fronted, opening
+Outsides east of a grey tiny wolf west of a fronted, opening north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of a grey tiny wolf west of a fronted, opening
+Outsides east of tiny gray wolves west of a front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of tiny gray wolves west of a front opening
+Outsides east of tiny grey wolves west of a front opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of tiny grey wolves west of a front opening
+The outsides east of the tiny gray wolf west of the front openings north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the tiny gray wolf west of the front openings
+The outsides east of the tiny grey wolf west of the front openings north of the front openings east of the wolves
+The outsides north of the front openings east of the wolves east of the tiny grey wolf west of the front openings
+Outsides north of the front opening east of the wolves east of tiny gray wolves west of the front openings.
+Outsides north of the front opening east of the wolves east of tiny grey wolves west of the front openings.
+Outsides east of the gray tiny wolves west of the front openings north of the front opening east of the wolves.
+Outsides east of the grey tiny wolves west of the front openings north of the front opening east of the wolves.
+Outsides north of the front openings east of the wolves east of the gray tiny wolf west of a fronted, opening
+Outsides east of the gray tiny wolf west of a fronted, opening north of the front openings east of the wolves
+Outsides north of the front openings east of the wolves east of the grey tiny wolf west of a fronted, opening
+Outsides east of the grey tiny wolf west of a fronted, opening north of the front openings east of the wolves
+Outsides north of a front opening east of the wolf east of the gray tiny wolf west of the front opening
+Outsides east of a gray tiny wolf west of the front opening north of the front opening east of the wolf
+Outsides north of the front opening east of the wolf east of a gray tiny wolf west of the front opening
+Outsides east of the gray tiny wolf west of the front opening north of a front opening east of the wolf
+Outsides north of a front opening east of the wolf east of the grey tiny wolf west of the front opening
+Outsides east of a grey tiny wolf west of the front opening north of the front opening east of the wolf
+Outsides north of the front opening east of the wolf east of a grey tiny wolf west of the front opening
+Outsides east of the grey tiny wolf west of the front opening north of a front opening east of the wolf
+Outsides north of the fronted, openings east of the wolves east of a gray tiny wolf west of the front opening
+Outsides east of a gray tiny wolf west of the front opening north of the fronted, openings east of the wolves
+Outsides north of the fronted, openings east of the wolves east of a grey tiny wolf west of the front opening
+Outsides east of a grey tiny wolf west of the front opening north of the fronted, openings east of the wolves
+Outsides north of the front opening east of the wolves east of the gray tiny wolves west of the fronted, openings.
+Outsides north of the front opening east of the wolves east of the grey tiny wolves west of the fronted, openings.
+Outsides east of the tiny gray wolves west of the front opening north of the front opening east of the wolves.
+Outsides east of the tiny grey wolves west of the front opening north of the front opening east of the wolves.
+Outsides north of the front openings east of the wolf east of the gray tiny wolf west of the front opening
+Outsides east of the gray tiny wolf west of the front opening north of the front openings east of the wolf
+Outsides north of the front openings east of the wolf east of the grey tiny wolf west of the front opening
+Outsides east of the grey tiny wolf west of the front opening north of the front openings east of the wolf
+Outsides north of the fronted opening east of the wolves east of the gray tiny wolf west of the front openings
+Outsides east of the gray tiny wolf west of the front openings north of the fronted opening east of the wolves
+Outsides north of the fronted opening east of the wolves east of the grey tiny wolf west of the front openings
+Outsides east of the grey tiny wolf west of the front openings north of the fronted opening east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny gray wolves west of the fronted, openings
+Outsides east of the tiny gray wolves west of the fronted, openings north of the front opening east of the wolves
+Outsides north of the front opening east of the wolves east of the tiny grey wolves west of the fronted, openings
+Outsides east of the tiny grey wolves west of the fronted, openings north of the front opening east of the wolves
+Outsides north of a front opening east of the wolf east of a gray tiny wolf west of the front openings
+Outsides east of a gray tiny wolf west of the front openings north of a front opening east of the wolf
+Outsides north of a front opening east of the wolf east of a grey tiny wolf west of the front openings
+Outsides east of a grey tiny wolf west of the front openings north of a front opening east of the wolf
+Outsides east of the tiny gray wolves west of the front openings north of a front opening east of the wolves.
+Outsides east of the tiny grey wolves west of the front openings north of a front opening east of the wolves.
+
+TOTAL RESULTS: 634
+
+Node                         MRS Produced    Reason                 Included in MRS    Reason
+---------------------------  --------------  ---------------------  -----------------  ---------------
+grey_3                       True            MRS fragment produced  True               Included in MRS
+idAtomicCityOutside_1        True            MRS fragment produced  True               Included in MRS
+idLongHallwayFrontOpening_6  True            MRS fragment produced  True               Included in MRS
+idMachineRoomFrontOpening_5  True            MRS fragment produced  True               Included in MRS
+idWolf_2                     True            MRS fragment produced  True               Included in MRS
+idWolf_7                     True            MRS fragment produced  True               Included in MRS
+tiny_4                       True            MRS fragment produced  True               Included in MRS
+
+Edge         MRS Composed    Reason        Included in MRS    Reason
+-----------  --------------  ------------  -----------------  ---------------
+idColor_1    True            MRS composed  True               Included in MRS
+idSize_2     True            MRS composed  True               Included in MRS
+isEastOf_4   True            MRS composed  True               Included in MRS
+isEastOf_5   True            MRS composed  True               Included in MRS
+isNorthOf_6  True            MRS composed  True               Included in MRS
+isWestOf_3   True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7        7           1
+Nodes              Included             7        7           1
+Edges              Produced             6        6           1
+Edges              Included             6        6           1

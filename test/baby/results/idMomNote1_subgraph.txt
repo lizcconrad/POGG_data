@@ -1,0 +1,44 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idMomNote1_subgraph.dot
+[ TOP: h1972
+  INDEX: e1969
+  RELS: < [ unknown LBL: h1971 ARG: x1965 ARG0: e1969 ]
+          [ def_udef_a_q LBL: h1968 ARG0: x1965 RSTR: h1966 BODY: h1967 ]
+          [ loc_nonsp LBL: h1907 ARG0: i1961 ARG1: x1965 ARG2: x1948 ]
+          [ _un-_a_neg LBL: h1907 ARG0: i1924 ARG1: e1927 ]
+          [ _know_v_1 LBL: h1907 ARG0: e1927 ARG1: u1928 ARG2: x1965 ]
+          [ poss LBL: h1907 ARG0: e1914 ARG1: x1965 ARG2: x1908 ]
+          [ _note_n_1 LBL: h1907 ARG0: x1965 ARG1: h1906 ]
+          [ def_udef_a_q LBL: h1913 ARG0: x1908 RSTR: h1911 BODY: h1912 ]
+          [ _mom_n_1 LBL: h1909 ARG0: x1908 ]
+          [ def_implicit_q LBL: h1960 ARG0: x1948 RSTR: h1958 BODY: h1959 ]
+          [ _south_a_1 LBL: h1956 ARG0: i1947 ARG1: x1948 ARG2: x1935 ]
+          [ def_udef_a_q LBL: h1954 ARG0: x1935 RSTR: h1952 BODY: h1953 ]
+          [ compound LBL: h1946 ARG0: e1943 ARG1: x1935 ARG2: x1937 ]
+          [ udef_q LBL: h1942 ARG0: x1937 RSTR: h1940 BODY: h1941 ]
+          [ _front_n_1 LBL: h1938 ARG0: x1937 ]
+          [ _opening_n_1 LBL: h1946 ARG0: x1935 ]
+          [ place_n LBL: h1956 ARG0: x1948 ] >
+  HCONS: < h1911 qeq h1909 h1940 qeq h1938 h1952 qeq h1946 h1958 qeq h1956 h1966 qeq h1907 h1972 qeq h1971 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                                        MRS Produced    Reason                 Included in MRS    Reason
+------------------------------------------  --------------  ---------------------  -----------------  -------------------------
+idBackyardDoor1idLivingRoom1FrontOpening_4  True            MRS fragment produced  True               Included in MRS
+idMomNote_1                                 True            MRS fragment produced  True               Included in MRS
+idMom_2                                     True            MRS fragment produced  False              Descends from failed edge
+true_3                                      True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason                               Included in MRS    Reason
+-----------------  --------------  -----------------------------------  -----------------  -----------------------------------
+idOwnedBy_1        False           'idOwnedBy' has no value in lexicon  False              'idOwnedBy' has no value in lexicon
+idUnknownObject_2  True            MRS composed                         True               Included in MRS
+isSouthOf_3        True            MRS composed                         True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4    1
+Nodes              Included             3        4    0.75
+Edges              Produced             2        3    0.666667
+Edges              Included             2        3    0.666667

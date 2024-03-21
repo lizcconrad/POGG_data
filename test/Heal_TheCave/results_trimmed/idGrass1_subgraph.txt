@@ -1,0 +1,45 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idGrass1_subgraph.dot
+[ TOP: h2098
+  INDEX: e2095
+  RELS: < [ unknown LBL: h2097 ARG: x2091 ARG0: e2095 ]
+          [ def_udef_a_q LBL: h2094 ARG0: x2091 RSTR: h2092 BODY: h2093 ]
+          [ loc_nonsp LBL: h2059 ARG0: i2087 ARG1: x2091 ARG2: x2074 ]
+          [ _green_a_2 LBL: h2059 ARG0: i2057 ARG1: x2091 ]
+          [ _grass_n_1 LBL: h2059 ARG0: x2091 ]
+          [ def_implicit_q LBL: h2086 ARG0: x2074 RSTR: h2084 BODY: h2085 ]
+          [ _north_a_1 LBL: h2076 ARG0: i2073 ARG1: x2074 ARG2: x2064 ]
+          [ def_udef_a_q LBL: h2080 ARG0: x2064 RSTR: h2078 BODY: h2079 ]
+          [ _strange_a_to LBL: h2068 ARG0: e2069 ARG1: x2064 ARG2: i2071 ]
+          [ _black_a_1 LBL: h2068 ARG0: i2066 ARG1: x2064 ]
+          [ _liquid_n_1 LBL: h2068 ARG0: x2064 ]
+          [ place_n LBL: h2076 ARG0: x2074 ] >
+  HCONS: < h2078 qeq h2068 h2084 qeq h2076 h2092 qeq h2059 h2098 qeq h2097 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node           MRS Produced    Reason                                     Included in MRS    Reason
+-------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+black_6        True            MRS fragment produced                      True               Included in MRS
+green_2        True            MRS fragment produced                      True               Included in MRS
+idGrass_1      True            MRS fragment produced                      True               Included in MRS
+idLiquid_5     True            MRS fragment produced                      True               Included in MRS
+strange_7      True            MRS fragment produced                      True               Included in MRS
+uncountable_4  False           'uncountable' has no value in the lexicon  False              'uncountable' has no value in the lexicon
+yes_3          True            MRS fragment produced                      False              Descends from failed edge
+
+Edge             MRS Composed    Reason                                 Included in MRS    Reason
+---------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idArticleType_3  False           Inbound to failed node                 False              Inbound to failed node
+idColor_1        True            MRS composed                           True               Included in MRS
+idColor_4        True            MRS composed                           True               Included in MRS
+idDescriptor_5   True            MRS composed                           True               Included in MRS
+idImmovable_2    False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+isNorthOf_6      True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        7    0.857143
+Nodes              Included             5        7    0.714286
+Edges              Produced             4        6    0.666667
+Edges              Included             4        6    0.666667

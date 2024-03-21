@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idLab1_subgraph.dot
+[ TOP: h2094
+  INDEX: e2091
+  RELS: < [ unknown LBL: h2093 ARG: x2082 ARG0: e2091 ]
+          [ def_udef_a_q LBL: h2090 ARG0: x2082 RSTR: h2088 BODY: h2089 ]
+          [ _white_a_1 LBL: h2086 ARG0: i2084 ARG1: x2082 ]
+          [ _lab_n_1 LBL: h2086 ARG0: x2082 ] >
+  HCONS: < h2088 qeq h2086 h2094 qeq h2093 > ]
+GENERATED RESULTS ... 
+The white labs
+White labs
+The white lab
+A white lab
+The white labs.
+White labs.
+The white lab.
+White lab
+A white lab.
+White lab.
+
+TOTAL RESULTS: 10
+
+Node     MRS Produced    Reason                 Included in MRS    Reason
+-------  --------------  ---------------------  -----------------  ---------------
+idLab_1  True            MRS fragment produced  True               Included in MRS
+white_2  True            MRS fragment produced  True               Included in MRS
+
+Edge       MRS Composed    Reason        Included in MRS    Reason
+---------  --------------  ------------  -----------------  ---------------
+idColor_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

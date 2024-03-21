@@ -1,0 +1,54 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idTent1_subgraph.dot
+[ TOP: h3816
+  INDEX: e3813
+  RELS: < [ unknown LBL: h3815 ARG: e3737 ARG0: e3813 ]
+          [ def_udef_a_q LBL: h3812 ARG0: e3737 RSTR: h3810 BODY: h3811 ]
+          [ loc_nonsp LBL: h3735 ARG0: i3805 ARG1: e3737 ARG2: x3801 ]
+          [ _un-_a_neg LBL: h3735 ARG0: i3736 ARG1: e3737 ]
+          [ _usual_a_for LBL: h3735 ARG0: i3732 ARG1: e3737 ARG2: i3734 ]
+          [ _tent_n_1 LBL: h3735 ARG0: e3737 ]
+          [ def_implicit_q LBL: h3804 ARG0: x3801 RSTR: h3802 BODY: h3803 ]
+          [ _east_a_1 LBL: h3800 ARG0: i3791 ARG1: x3801 ARG2: x3743 ]
+          [ def_udef_a_q LBL: h3798 ARG0: x3743 RSTR: h3796 BODY: h3797 ]
+          [ loc_nonsp LBL: h3790 ARG0: i3787 ARG1: x3743 ARG2: x3781 ]
+          [ _screen_n_1 LBL: h3790 ARG0: x3743 ]
+          [ def_implicit_q LBL: h3786 ARG0: x3781 RSTR: h3784 BODY: h3785 ]
+          [ _north_a_1 LBL: h3776 ARG0: i3773 ARG1: x3781 ARG2: x3770 ]
+          [ def_udef_a_q LBL: h3780 ARG0: x3770 RSTR: h3778 BODY: h3779 ]
+          [ poss LBL: h3750 ARG0: e3769 ARG1: x3770 ARG2: x3765 ]
+          [ compound LBL: h3750 ARG0: e3758 ARG1: x3770 ARG2: x3751 ]
+          [ udef_q LBL: h3757 ARG0: x3751 RSTR: h3755 BODY: h3756 ]
+          [ _right_n_of LBL: h3753 ARG0: x3751 ARG1: i3752 ]
+          [ _hand_n_1 LBL: h3750 ARG0: x3770 ]
+          [ def_udef_a_q LBL: h3768 ARG0: x3765 RSTR: h3766 BODY: h3767 ]
+          [ _player_n_of LBL: h3764 ARG0: x3765 ARG1: i3763 ]
+          [ place_n LBL: h3776 ARG0: x3781 ]
+          [ place_n LBL: h3800 ARG0: x3801 ] >
+  HCONS: < h3755 qeq h3753 h3766 qeq h3764 h3778 qeq h3750 h3784 qeq h3776 h3796 qeq h3790 h3802 qeq h3800 h3810 qeq h3735 h3816 qeq h3815 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                 MRS Produced    Reason                 Included in MRS    Reason
+-------------------  --------------  ---------------------  -----------------  -------------------------
+idPlayerRightHand_6  True            MRS fragment produced  True               Included in MRS
+idScreen_4           True            MRS fragment produced  True               Included in MRS
+idTent_1             True            MRS fragment produced  True               Included in MRS
+true_3               True            MRS fragment produced  False              Descends from failed edge
+true_5               True            MRS fragment produced  False              Descends from failed edge
+unusual_2            True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idShape_1          True            MRS composed                               True               Included in MRS
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+idUnknownObject_3  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isEastOf_5         True            MRS composed                               True               Included in MRS
+isNorthOf_4        True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        6    1
+Nodes              Included             4        6    0.666667
+Edges              Produced             3        5    0.6
+Edges              Included             3        5    0.6

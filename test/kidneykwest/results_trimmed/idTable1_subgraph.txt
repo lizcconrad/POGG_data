@@ -1,0 +1,36 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idTable1_subgraph.dot
+[ TOP: h4009
+  INDEX: e4006
+  RELS: < [ unknown LBL: h4008 ARG: x3998 ARG0: e4006 ]
+          [ def_udef_a_q LBL: h4005 ARG0: x3998 RSTR: h4003 BODY: h4004 ]
+          [ _table_n_1 LBL: h3999 ARG0: x3998 ] >
+  HCONS: < h4003 qeq h3999 h4009 qeq h4008 > ]
+GENERATED RESULTS ... 
+Tables
+Table
+The table
+A table
+The tables
+The tables.
+Table.
+Tables.
+A table.
+The table.
+
+TOTAL RESULTS: 10
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  -------------------------
+idTable_1   True            MRS fragment produced  True               Included in MRS
+idmarble_2  True            MRS fragment produced  False              Descends from failed edge
+
+Edge          MRS Composed    Reason                             Included in MRS    Reason
+------------  --------------  ---------------------------------  -----------------  ---------------------------------
+idMaterial_1  False           Semantic functor has no ARG1 hole  False              Semantic functor has no ARG1 hole
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2         1
+Nodes              Included             1        2         0.5
+Edges              Produced             0        1         0
+Edges              Included             0        1         0

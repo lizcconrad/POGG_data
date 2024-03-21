@@ -1,0 +1,173 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idGreenRoomFrontOpening_subgraph.dot
+[ TOP: h752
+  INDEX: e749
+  RELS: < [ unknown LBL: h751 ARG: x725 ARG0: e749 ]
+          [ def_udef_a_q LBL: h748 ARG0: x725 RSTR: h746 BODY: h747 ]
+          [ _open_a_to LBL: h744 ARG0: e741 ARG1: x725 ARG2: u743 ]
+          [ _short_a_of LBL: h744 ARG0: e737 ARG1: x725 ARG2: u739 ]
+          [ compound LBL: h744 ARG0: e733 ARG1: x725 ARG2: x729 ]
+          [ udef_q LBL: h732 ARG0: x729 RSTR: h730 BODY: h731 ]
+          [ _front_n_1 LBL: h728 ARG0: x729 ]
+          [ _opening_n_1 LBL: h744 ARG0: x725 ] >
+  HCONS: < h730 qeq h728 h746 qeq h744 h752 qeq h751 > ]
+GENERATED RESULTS ... 
+The short open front opening
+A short open front opening
+An open short front opening
+The open short front opening
+The short open front openings
+Fronts open short opening
+The open short front openings
+Fronts short open opening
+Short open front opening
+Short open front openings
+The fronted open short openings
+A fronts open short opening
+The short open front openings.
+An open fronts short opening
+The fronts open short opening
+The open fronts short opening
+The open fronts short openings
+The open fronts short openings.
+The short open fronted opening
+The fronts open short openings
+Open short front openings
+The fronted open short opening
+Open short front opening
+A fronts short open opening
+The open fronted short openings
+A short open fronted opening
+The fronts short open opening
+A fronted open short opening
+Open fronts short openings
+Open fronts short openings.
+The open short front openings.
+The fronts short open openings
+The short fronts open opening
+The short fronts open openings
+The short fronts open openings.
+The short open fronted, openings.
+Fronts open short openings
+An open fronted short opening
+An open short fronted opening
+The fronts open short openings.
+The open fronted short opening
+The fronted open short openings.
+The open short fronted opening
+The short open fronted, openings
+Fronts open short opening.
+The short open fronted, opening
+Fronted open short openings
+The short open front opening.
+The short open fronted openings
+Open fronted short openings
+Short fronts open openings
+Short fronts open openings.
+A short fronts open opening
+Short open front openings.
+The short fronted open openings
+An open fronts short opening.
+The short open fronted openings.
+A short open fronted, opening
+The open fronts short opening.
+A short open front opening.
+Fronts short open openings
+The fronted short open openings
+Short fronted open openings
+The fronts short open openings.
+Fronts short open opening.
+Open short front openings.
+Fronts open short openings.
+The open fronted short openings.
+Short open fronted, openings.
+The open short fronted, openings.
+The short fronted open opening
+An open short fronted, opening
+An open short front opening.
+Short open fronted, openings
+The open short fronted, openings
+The open short fronted, opening
+The open short front opening.
+The open short fronted openings
+Short open fronted openings
+The short open fronted, opening.
+Fronted short open openings
+The fronted short open opening
+A fronts open short opening.
+Open short fronted, openings.
+A short fronted open opening
+The short fronts open opening.
+The open short fronted openings.
+Short open fronted openings.
+Fronted open short openings.
+Open fronted short openings.
+Fronts short open openings.
+The fronts open short opening.
+Open short fronted, openings
+A short open fronted, opening.
+The fronted open short opening.
+A fronted short open opening
+Open short fronted openings
+The short fronted open openings.
+A short fronts open opening.
+Short open fronted opening
+Open short fronted openings.
+A fronted open short opening.
+The fronted short open openings.
+The short open fronted opening.
+Short fronted open openings.
+An open short fronted, opening.
+A fronts short open opening.
+The open short fronted, opening.
+The fronts short open opening.
+An open fronted short opening.
+Open fronts short opening
+The open fronted short opening.
+A short open fronted opening.
+Fronted short open openings.
+Fronted open short opening
+Short fronts open opening
+Open short fronted opening
+An open short fronted opening.
+Short open fronted, opening
+The open short fronted opening.
+Open fronted short opening
+Short open front opening.
+The short fronted open opening.
+Short fronted open opening
+The fronted short open opening.
+A short fronted open opening.
+Open fronts short opening.
+A fronted short open opening.
+Open short fronted, opening
+Short open fronted, opening.
+Fronted short open opening
+Open short front opening.
+Short fronts open opening.
+Short open fronted opening.
+Fronted open short opening.
+Open short fronted, opening.
+Open fronted short opening.
+Open short fronted opening.
+Short fronted open opening.
+Fronted short open opening.
+
+TOTAL RESULTS: 140
+
+Node                       MRS Produced    Reason                 Included in MRS    Reason
+-------------------------  --------------  ---------------------  -----------------  ---------------
+idGreenRoomFrontOpening_1  True            MRS fragment produced  True               Included in MRS
+open_3                     True            MRS fragment produced  True               Included in MRS
+short_2                    True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idHeight_1     True            MRS composed  True               Included in MRS
+idOpenState_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

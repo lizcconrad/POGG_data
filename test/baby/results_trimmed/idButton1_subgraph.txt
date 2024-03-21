@@ -1,0 +1,38 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idButton1_subgraph.dot
+[ TOP: h1851
+  INDEX: e1848
+  RELS: < [ unknown LBL: h1850 ARG: x1844 ARG0: e1848 ]
+          [ def_udef_a_q LBL: h1847 ARG0: x1844 RSTR: h1845 BODY: h1846 ]
+          [ _button_n_1 LBL: h1839 ARG0: x1844 ] >
+  HCONS: < h1845 qeq h1839 h1851 qeq h1850 > ]
+GENERATED RESULTS ... 
+Buttons
+Button
+The button
+A button
+The buttons
+The buttons.
+Button.
+Buttons.
+A button.
+The button.
+
+TOTAL RESULTS: 10
+
+Node        MRS Produced    Reason                           Included in MRS    Reason
+----------  --------------  -------------------------------  -----------------  -------------------------------
+1_2         False           '1' has no value in the lexicon  False              '1' has no value in the lexicon
+idButton_1  True            MRS fragment produced            True               Included in MRS
+true_3      True            MRS fragment produced            False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idOrdinality_1     False           Inbound to failed node                     False              Inbound to failed node
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        3    0.666667
+Nodes              Included             1        3    0.333333
+Edges              Produced             0        2    0
+Edges              Included             0        2    0

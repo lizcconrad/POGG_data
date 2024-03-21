@@ -1,0 +1,123 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/complete/idDeer1_subgraph.dot
+[ TOP: h554
+  INDEX: e551
+  RELS: < [ unknown LBL: h553 ARG: x536 ARG0: e551 ]
+          [ def_udef_a_q LBL: h550 ARG0: x536 RSTR: h548 BODY: h549 ]
+          [ _bleed_v_1 LBL: h537 ARG0: e544 [ e PROG: bool ] ARG1: x536 ]
+          [ _bloody_a_1 LBL: h537 ARG0: e541 ARG1: x536 ]
+          [ _brown_a_1 LBL: h537 ARG0: i538 ARG1: x536 ]
+          [ _deer_n_1 LBL: h537 ARG0: x536 ] >
+  HCONS: < h548 qeq h537 h554 qeq h553 > ]
+GENERATED RESULTS ... 
+A brown bloody deer bleeding.
+A brown bloody deer bleeding
+The brown bloody deer bleeding.
+A bloody brown deer bleeding.
+The brown bloody deer bleeding
+A bloody brown deer bleeding
+The bloody brown bleeding deer
+The bloody brown deer bleeding.
+The bleeding brown bloody deer
+A bloody brown bleeding deer
+A bleeding brown bloody deer
+A bloody brown deer, bleeding.
+The bloody brown deer bleeding
+Brown bloody deer bleeding.
+The bloody brown deer bleeding.
+Bloody brown deer bleeding.
+The brown bloody bleeding deer
+The bleeding bloody brown deer
+A brown bloody bleeding deer
+Bloody brown deer, bleeding.
+A bleeding bloody brown deer
+The bloody brown bleeding deer.
+The bloody brown deer bleeding
+The brown bleeding bloody deer
+The bloody bleeding brown deer
+The brown bloody deer bleeding.
+A brown bloody deer, bleeding.
+The bloody brown deer, bleeding.
+Bleeding bloody brown deer.
+The bloody brown deer, bleeding.
+The bloody brown bleeding deer
+A brown bleeding bloody deer
+A bloody bleeding brown deer
+The bleeding brown bloody deer.
+Bloody brown bleeding deer.
+Brown bloody deer bleeding
+Brown bloody bleeding deer.
+Bloody brown bleeding deer
+The bleeding bloody brown deer.
+Bleeding bloody brown deer
+Bloody brown deer bleeding.
+The bloody brown bleeding deer.
+Bloody brown bleeding deer
+The bleeding brown bloody deer
+Bleeding brown bloody deer.
+Bloody brown deer bleeding
+The brown bloody deer bleeding
+Brown bloody bleeding deer
+Brown bloody bleeding deer
+Bleeding brown bloody deer
+Brown bloody deer, bleeding.
+A bloody brown bleeding deer.
+The bleeding bloody brown deer
+The bloody bleeding brown deer.
+The bleeding brown bloody deer.
+Bleeding brown bloody deer
+The brown bloody bleeding deer.
+The bleeding bloody brown deer.
+A bleeding brown bloody deer.
+The bloody bleeding brown deer
+Bloody brown deer, bleeding.
+Bleeding bloody brown deer
+Bloody bleeding brown deer.
+The brown bloody deer, bleeding.
+A bleeding bloody brown deer.
+The brown bloody bleeding deer
+The brown bloody deer, bleeding.
+The bloody bleeding brown deer.
+Bloody bleeding brown deer
+The brown bloody bleeding deer.
+A bloody bleeding brown deer.
+The brown bleeding bloody deer.
+Brown bleeding bloody deer
+Brown bloody deer bleeding.
+A brown bloody bleeding deer.
+Brown bleeding bloody deer.
+Brown bloody deer, bleeding.
+Bloody brown deer bleeding
+Bloody bleeding brown deer
+The brown bleeding bloody deer
+Brown bleeding bloody deer
+The brown bleeding bloody deer.
+Bloody brown bleeding deer.
+A brown bleeding bloody deer.
+Bleeding bloody brown deer.
+Brown bloody bleeding deer.
+Bleeding brown bloody deer.
+Brown bloody deer bleeding
+Bloody bleeding brown deer.
+Brown bleeding bloody deer.
+
+TOTAL RESULTS: 90
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  ---------------
+bleeding_4  True            MRS fragment produced  True               Included in MRS
+bloody_3    True            MRS fragment produced  True               Included in MRS
+brown_2     True            MRS fragment produced  True               Included in MRS
+idDeer_1    True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idColor_1        True            MRS composed  True               Included in MRS
+idDescriptor_2   True            MRS composed  True               Included in MRS
+idDescriptor__3  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4           1
+Nodes              Included             4        4           1
+Edges              Produced             3        3           1
+Edges              Included             3        3           1

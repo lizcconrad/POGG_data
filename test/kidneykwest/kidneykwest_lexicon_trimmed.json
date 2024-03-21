@@ -1,0 +1,494 @@
+{
+    "entityTypes": {
+        "idApple": "_apple_n_1",
+        "idBagOfChips": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_bag_n_of",
+                "modifier": "_chip_n_1"
+            }
+        },
+        "idBanner": "_banner_n_1",
+        "idBarn": "_barn_n_1",
+        "idBarn1Door": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_barn_n_1"
+            }
+        },
+        "idBarn1RightOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_right_n_of"
+            }
+        },
+        "idBarrel": "_barrel_n_1",
+        "idBoat": "_boat_n_1",
+        "idBody": "_body_n_1",
+        "idButtonX": "_button_n_1",
+        "idButtonY": "_button_n_1",
+        "idButtonZ": "_button_n_1",
+        "idCabin": "_cabin_n_1",
+        "idCabin1Door": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_cabin_n_1"
+            }
+        },
+        "idCabin1FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idCabinet": "_cabinet_n_1",
+        "idCaptain": "_captain_n_of",
+        "idCaptainsChair": {
+            "composition": "possessive",
+            "predicates": {
+                "head": "_chair_n_1",
+                "modifier": "_captain_n_of"
+            }
+        },
+        "idCarrot": "_carrot_n_1",
+        "idCastle": "_castle_n_1",
+        "idCattleWranglerCostume": "",
+        "idChip": "_chip_n_1",
+        "idCoat": "_coat_n_of",
+        "idCostumeCloset": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_closet_n_1",
+                "modifier": "_costume_n_1"
+            }
+        },
+        "idCostumeCloset1BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idCup": "_cup_n_1",
+        "idDog": "_dog_n_1",
+        "idDramaBuilding": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_building_n_1",
+                "modifier": "_drama_n_1"
+            }
+        },
+        "idDramaBuilding1Door": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": {
+                    "composition": "compound",
+                    "predicates":{
+                        "head": "_building_n_1",
+                        "modifier": "_drama_n_1"
+                    }
+                }
+            }
+        },
+        "idDramaBuilding1FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idDrawer": "_drawer_n_of",
+        "idDuct": "_duct_n_1",
+        "idDuct1Flap": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_flap_n_1",
+                "modifier": "_duct_n_1"
+            }
+        },
+        "idDuct1Opening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_duct_n_1"
+            }
+        },
+        "idFairyWorld": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_world_n_of",
+                "modifier": "_fairy_n_1"
+            }
+        },
+        "idFairyWorldLobby": "_lobby_n_1",
+        "idFairyWorldLobby1BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idFairyWorldLobby1FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idFairyWorldLobby1LeftOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idFairyWorldLobby1RightOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_right_n_of"
+            }
+        },
+        "idGastricFold": "_fold_n_1",
+        "idGiftBox": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_box_n_of",
+                "modifier": "_gift_n_of-to"
+            }
+        },
+        "idGoggles": "_goggle_n_1",
+        "idHamburger": "_hamburger_n_1",
+        "idHelm": "_helm_n_1",
+        "idKelly": "",
+        "idKidney": "_kidney_n_1",
+        "idKnightCostume": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_costume_n_1",
+                "modifier": "_knight_n_1"
+            }
+        },
+        "idLab": "_lab_n_1",
+        "idLab1BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idLab1Door": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_lab_n_1"
+            }
+        },
+        "idLabel": "_label_n_1",
+        "idLabel1Text": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_text_n_of",
+                "modifier": "_label_n_1"
+            }
+        },
+        "idLargeIntestine": "_intestine_n_1",
+        "idLargeIntestine1FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idMachine": "_machine_n_1",
+        "idMachine1_prop_idPowerControl": "",
+        "idMachineDoor": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_machine_n_1"
+            }
+        },
+        "idMachineDoorHandle": "_handle_n_1",
+        "idMachineFrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idMachineNote": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_note_n_1",
+                "modifier": "_machine_n_1"
+            }
+        },
+        "idOnSwitch": "",
+        "idPail": "_pail_n_1",
+        "idPhosphateCrystal_idApple": "_apple_n_1",
+        "idPhosphateCrystal_idCarrot": "_carrot_n_1",
+        "idPhosphateCrystal_idChip": "_chip_n_1",
+        "idPhosphateCrystal_idHamburger": "_hamburger_n_1",
+        "idPill": "_pill_n_1",
+        "idPlayer": "_player_n_of",
+        "idPlayerLeftHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_left_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerRightHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_right_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPyloricSphincter": "",
+        "idScientistCostume": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_costume_n_1",
+                "modifier": "_scientist_n_1"
+            }
+        },
+        "idScubaDiverCostume": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_costume_n_1",
+                "modifier": {
+                    "composition": "compound",
+                    "predicates":{
+                        "head": "_diver_n_1",
+                        "modifier": "_scuba_n_1"
+                    }
+                }
+            }
+        },
+        "idSmallIntestine": "_intestine_n_1",
+        "idSmallIntestine1BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idSmallIntestine1FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idStick": "_stick_n_1",
+        "idStomach": "_stomach_n_1",
+        "idStomach1BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idStomach1FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idTable": "_table_n_1",
+        "idThroat": "_throat_n_1",
+        "idThroat1BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idThroatSphincter": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_sphincter_n_1",
+                "modifier": "_throat_n_1"
+            }
+        },
+        "idThrone": "_throne_n_1",
+        "idThroneRoom": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_room_n_unit",
+                "modifier": "_throne_n_1"
+            }
+        },
+        "idThroneRoom1Door": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": {
+                    "composition": "compound",
+                    "predicates":{
+                        "head": "_room_n_unit",
+                        "modifier": "_throne_n_1"
+                    }
+                }
+            }
+        },
+        "idThroneRoom1LeftOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idTorch": "_torch_n_1",
+        "idValve": "_valve_n_1",
+        "idVilli": "",
+        "idWorld": "_world_n_of"
+    },
+    "propertyValues": {
+        "0": "",
+        "1": "",
+        "2": "",
+        "3": "",
+        "black": "_black_a_1",
+        "blue": "_blue_a_1",
+        "brown": "_brown_a_1",
+        "ceramic": "_ceramic_a_1",
+        "closed": "_closed_a_1",
+        "gastric": "_gastric_a_1",
+        "gold": "_gold_a_1",
+        "grey": "_grey_a_1",
+        "happy": "_happy_a_with",
+        "idThing": "",
+        "idiron": "_iron_n_1",
+        "idleather": "_leather_n_1",
+        "idmarble": "_marble_n_1",
+        "idmetal": "_metal_n_1",
+        "idpotato": "_potato_n_1",
+        "idwood": "_wooden_a_1",
+        "large": "_large_a_1",
+        "left": "_left_n_of",
+        "locked": "_lock_v_cause",
+        "low": "_low_a_on",
+        "magic": "_magic_a_1",
+        "off": "_off_a_1",
+        "open": "_open_a_to",
+        "orange": "_orange_a_1",
+        "plastic": "_plastic_a_1",
+        "pyloric": "",
+        "red": "_red_a_1",
+        "right": "_right_n_of",
+        "salty": "_salty_a_1",
+        "shiny": "_shiny_a_1",
+        "small": "_small_a_1",
+        "true": "_true_a_of",
+        "upper": "_upper_a_1",
+        "warm": "_warm_a_1",
+        "white": "_white_a_1",
+        "yes": "_true_a_of"
+    },
+    "properties": {
+        "idColor": "adjective",
+        "idOpenState": "adjective",
+        "idBinderTakenTurns": "",
+        "idTurnsSinceFood": "",
+        "idMapY": "",
+        "idSide": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_on_p_loc"
+            }
+        },
+        "idInterestingObject": "",
+        "idMaterial": "descriptor",
+        "idImmovable": "",
+        "idOwnedBy": "",
+        "idOrdinality": "",
+        "idVerticalArrangement": "adjective",
+        "idUnknownObject": "",
+        "idSaltiness": "adjective",
+        "idTrait": "adjective",
+        "idPowerControl": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_with_p"
+            }
+        },
+        "idButtonsPushed": "",
+        "idPowerState": "adjective",
+        "idEatingFoodTurnsRemaining": "",
+        "idEmotion": "adjective",
+        "idLockedState": "descriptor",
+        "idSize": "adjective",
+        "isBeneath": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_beneath_p"
+            }
+        },
+        "isEastOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_east_a_1"
+            }
+        },
+        "isInsideOf": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_inside+of_p"
+            }
+        },
+        "isNear": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_near_p"
+            }
+        },
+        "isNorthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_north_a_1"
+            }
+        },
+        "isSouthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_south_a_1"
+            }
+        },
+        "isWestOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_west_a_1"
+            }
+        }
+    }
+}

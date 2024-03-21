@@ -1,0 +1,62 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idKnightCostume1_subgraph.dot
+[ TOP: h3827
+  INDEX: e3824
+  RELS: < [ unknown LBL: h3826 ARG: x3820 ARG0: e3824 ]
+          [ def_udef_a_q LBL: h3823 ARG0: x3820 RSTR: h3821 BODY: h3822 ]
+          [ _gold_a_1 LBL: h3812 ARG0: i3813 ARG1: x3820 ]
+          [ compound LBL: h3812 ARG0: e3809 ARG1: x3820 ARG2: x3803 ]
+          [ udef_q LBL: h3808 ARG0: x3803 RSTR: h3806 BODY: h3807 ]
+          [ _knight_n_1 LBL: h3804 ARG0: x3803 ]
+          [ _costume_n_1 LBL: h3812 ARG0: x3820 ] >
+  HCONS: < h3806 qeq h3804 h3821 qeq h3812 h3827 qeq h3826 > ]
+GENERATED RESULTS ... 
+The gold knight costumes
+The gold knight costume
+Gold knight costumes
+A gold knight costume
+The gold knight costumes.
+Gold knight costumes.
+The knight gold costume
+A knight gold costume
+The gold knight costume.
+A gold knight costume.
+The knight gold costumes.
+Knight gold costume
+Knight gold costumes.
+Knights gold costume
+Gold knight costume
+The knight gold costumes
+The knight gold costume.
+Knight gold costumes
+A knights gold costume
+A knight gold costume.
+The knights gold costume
+Knights gold costume.
+The knights gold costumes.
+Knight gold costume.
+Gold knight costume.
+Knights gold costumes.
+The knights gold costumes
+A knights gold costume.
+The knights gold costume.
+Knights gold costumes
+
+TOTAL RESULTS: 30
+
+Node               MRS Produced    Reason                 Included in MRS    Reason
+-----------------  --------------  ---------------------  -----------------  -------------------------
+gold_2             True            MRS fragment produced  True               Included in MRS
+idKnightCostume_1  True            MRS fragment produced  True               Included in MRS
+true_3             True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idColor_1          True            MRS composed                               True               Included in MRS
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

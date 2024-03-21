@@ -1,0 +1,806 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idCavern5_subgraph.dot
+[ TOP: h256
+  INDEX: e253
+  RELS: < [ unknown LBL: h255 ARG: x138 ARG0: e253 ]
+          [ def_udef_a_q LBL: h252 ARG0: x138 RSTR: h250 BODY: h251 ]
+          [ loc_nonsp LBL: h142 ARG0: i245 ARG1: x138 ARG2: x239 ]
+          [ loc_nonsp LBL: h142 ARG0: i222 ARG1: x138 ARG2: x209 ]
+          [ _cold_a_1 LBL: h142 ARG0: e140 ARG1: x138 ]
+          [ _cavern_n_1 LBL: h142 ARG0: x138 ]
+          [ def_implicit_q LBL: h221 ARG0: x209 RSTR: h219 BODY: h220 ]
+          [ _north_a_1 LBL: h211 ARG0: i208 ARG1: x209 ARG2: x164 ]
+          [ def_udef_a_q LBL: h215 ARG0: x164 RSTR: h213 BODY: h214 ]
+          [ loc_nonsp LBL: h155 ARG0: i204 ARG1: x164 ARG2: x198 ]
+          [ _on_p_loc LBL: h155 ARG0: e170 ARG1: x164 ARG2: x174 ]
+          [ def_udef_a_q LBL: h177 ARG0: x174 RSTR: h175 BODY: h176 ]
+          [ _right_n_of LBL: h169 ARG0: x174 ARG1: i168 ]
+          [ poss LBL: h155 ARG0: e163 ARG1: x164 ARG2: x156 ]
+          [ compound LBL: h155 ARG0: e152 ARG1: x164 ARG2: x148 ]
+          [ udef_q LBL: h151 ARG0: x148 RSTR: h149 BODY: h150 ]
+          [ _right_n_of LBL: h147 ARG0: x148 ARG1: i146 ]
+          [ _hand_n_1 LBL: h155 ARG0: x164 ]
+          [ def_udef_a_q LBL: h162 ARG0: x156 RSTR: h160 BODY: h161 ]
+          [ _player_n_of LBL: h158 ARG0: x156 ARG1: i157 ]
+          [ def_implicit_q LBL: h203 ARG0: x198 RSTR: h201 BODY: h202 ]
+          [ _south_a_1 LBL: h199 ARG0: i190 ARG1: x198 ARG2: x194 ]
+          [ def_udef_a_q LBL: h197 ARG0: x194 RSTR: h195 BODY: h196 ]
+          [ compound LBL: h189 ARG0: e186 ARG1: x194 ARG2: x182 ]
+          [ udef_q LBL: h185 ARG0: x182 RSTR: h183 BODY: h184 ]
+          [ _back_n_1 LBL: h181 ARG0: x182 ]
+          [ _opening_n_1 LBL: h189 ARG0: x194 ]
+          [ place_n LBL: h199 ARG0: x198 ]
+          [ place_n LBL: h211 ARG0: x209 ]
+          [ def_implicit_q LBL: h244 ARG0: x239 RSTR: h242 BODY: h243 ]
+          [ _east_a_1 LBL: h234 ARG0: i231 ARG1: x239 ARG2: x235 ]
+          [ def_udef_a_q LBL: h238 ARG0: x235 RSTR: h236 BODY: h237 ]
+          [ _green_a_2 LBL: h227 ARG0: i228 ARG1: x235 ]
+          [ _grass_n_1 LBL: h227 ARG0: x235 ]
+          [ place_n LBL: h234 ARG0: x239 ] >
+  HCONS: < h175 qeq h169 h149 qeq h147 h160 qeq h158 h183 qeq h181 h195 qeq h189 h201 qeq h199 h213 qeq h155 h219 qeq h211 h236 qeq h227 h242 qeq h234 h250 qeq h142 h256 qeq h255 > ]
+GENERATED RESULTS ... 
+Cold caverns north of the player's right hands south of the back openings on the rights east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of the back openings on the rights
+Cold caverns north of the player's right hands south of the back opening on the rights east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of the back opening on the rights
+Cold caverns north of the player's right hands on the rights south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on the rights south of the back openings
+Cold caverns north of the player's right hands on the rights south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on the rights south of the back opening
+Cold caverns north of the player's right hands south of the back openings on the rights east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of the back openings on the rights
+Cold caverns north of the player's right hands south of the back opening on the rights east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of the back opening on the rights
+Cold caverns north of the player's right hands on the rights south of the back openings east of a green grass
+Cold caverns east of a green grass north of the player's right hands on the rights south of the back openings
+Cold caverns north of the player's right hands on the rights south of the back opening east of a green grass
+Cold caverns east of a green grass north of the player's right hands on the rights south of the back opening
+Cold caverns north of the player's right hands south of the back openings on the right east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of the back openings on the right
+Cold caverns north of the player's right hands south of the back opening on the right east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of the back opening on the right
+Cold caverns north of the player's right hands on the right south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on the right south of the back openings
+Cold caverns east of the green grasses north of the player's right hands south of the back openings on the rights.
+Cold caverns north of the player's right hands south of a back opening on the rights east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of a back opening on the rights
+Cold caverns north of the player's right hands south of the back openings on the rights east of the green grass
+Cold caverns east of the green grass north of the player's right hands south of the back openings on the rights
+Cold caverns north of the player's right hands on the right south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on the right south of the back opening
+Cold caverns east of the green grasses north of the player's right hands south of the back opening on the rights.
+Cold caverns north of the player's right hands on the rights south of a back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on the rights south of a back opening
+Cold caverns north of the player's right hands south of the back opening on the rights east of the green grass
+Cold caverns east of the green grass north of the player's right hands south of the back opening on the rights
+Cold caverns north of the player's right hands south of the back openings on the right east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of the back openings on the right
+Cold caverns north of the player's right hands on the rights south of the back openings east of the green grass
+Cold caverns east of the green grass north of the player's right hands on the rights south of the back openings
+Cold caverns north of the player's right hands south of the back opening on the right east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of the back opening on the right
+Cold caverns north of the player's right hands on the rights south of the back opening east of the green grass
+Cold caverns east of the green grass north of the player's right hands on the rights south of the back opening
+Cold caverns east of the green grasses north of the player's right hands on the rights south of the back openings.
+Cold caverns north of the player's right hands on the right south of the back openings east of a green grass
+Cold caverns east of a green grass north of the player's right hands on the right south of the back openings
+Cold caverns east of a green grass north of the player's right hands south of the back openings on the rights.
+Cold caverns north of a player's right hands south of the back openings on the rights east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands south of the back openings on the rights
+Cold caverns north of the player's right hands south of a back opening on the rights east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of a back opening on the rights
+Cold caverns north of the player's right hands south of the back openings on the rights east of the green grasses.
+Cold caverns north of the player's right hands on the right south of the back opening east of a green grass
+Cold caverns east of a green grass north of the player's right hands on the right south of the back opening
+Cold caverns north of the player's right hands south of the back openings on the rights east of a green grass.
+Cold caverns east of a green grass north of the player's right hands south of the back opening on the rights.
+Cold caverns north of a player's right hands south of the back opening on the rights east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands south of the back opening on the rights
+Cold caverns north of a player's right hands on the rights south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands on the rights south of the back openings
+Cold caverns north of the player's right hands on the rights south of a back opening east of a green grass
+Cold caverns east of a green grass north of the player's right hands on the rights south of a back opening
+Cold caverns north of the player's right hands south of the back opening on the rights east of the green grasses.
+Cold caverns north of the player's right hands on a right south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on a right south of the back openings
+Cold caverns north of the player's right hands south of the back opening on the rights east of a green grass.
+Cold caverns north of the player's right hands on the rights south of the back openings east of the green grasses.
+Cold caverns north of the player's right hands on the rights south of the back openings east of a green grass.
+Cold caverns north of a player's right hands on the rights south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands on the rights south of the back opening
+Cold caverns north of the player's right hands on a right south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on a right south of the back opening
+Cold caverns east of the green grasses north of the player's right hands south of the back openings on the right.
+Cold caverns north of the player's right hands on the rights south of the back opening east of the green grasses.
+Cold caverns north of the players' right hands south of the back openings on the rights east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands south of the back openings on the rights
+Cold caverns east of a green grass north of the player's right hands on the rights south of the back openings.
+Cold caverns north of the player's right hands on the rights south of the back opening east of a green grass.
+Cold caverns north of the player's right hands south of a back opening on the right east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of a back opening on the right
+Cold caverns north of a player's right hands south of the back openings on the rights east of a green grass
+Cold caverns east of a green grass north of a player's right hands south of the back openings on the rights
+Cold caverns east of the green grasses north of the player's right hands south of the back opening on the right.
+Cold caverns north of the player's right hands south of the back openings on the right east of the green grass
+Cold caverns east of the green grass north of the player's right hands south of the back openings on the right
+Cold caverns north of the players' right hands south of the back opening on the rights east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands south of the back opening on the rights
+A cold cavern north of the player's right hands south of the back openings on the rights east of the green grasses
+A cold cavern east of the green grasses north of the player's right hands south of the back openings on the rights
+Cold caverns north of the player's right hands south of the back openings on a right east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of the back openings on a right
+The cold cavern north of the player's right hands south of the back openings on the rights east of the green grasses
+The cold cavern east of the green grasses north of the player's right hands south of the back openings on the rights
+Cold caverns north of the players' right hands on the rights south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands on the rights south of the back openings
+Cold caverns north of a player's right hands south of the back opening on the rights east of a green grass
+Cold caverns east of a green grass north of a player's right hands south of the back opening on the rights
+Cold caverns north of the player's right hands on the right south of a back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on the right south of a back opening
+Cold caverns north of a player's right hands on the rights south of the back openings east of a green grass
+Cold caverns east of a green grass north of a player's right hands on the rights south of the back openings
+Cold caverns north of the player's right hands south of the back opening on the right east of the green grass
+Cold caverns east of the green grass north of the player's right hands south of the back opening on the right
+Cold caverns east of the green grasses north of the player's right hands south of a back opening on the rights.
+A cold cavern east of the green grasses north of the player's right hands south of the back opening on the rights
+A cold cavern north of the player's right hands south of the back opening on the rights east of the green grasses
+Cold caverns north of the player's right hands south of the back opening on a right east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of the back opening on a right
+The cold caverns north of the player's right hands south of the back openings on the rights east of the green grasses
+The cold caverns east of the green grasses north of the player's right hands south of the back openings on the rights
+Cold caverns north of the player's right hands on the right south of the back openings east of the green grass
+Cold caverns east of the green grass north of the player's right hands on the right south of the back openings
+The cold cavern east of the green grasses north of the player's right hands south of the back opening on the rights
+The cold cavern north of the player's right hands south of the back opening on the rights east of the green grasses
+Cold caverns north of the player's right hands on a right south of the back openings east of a green grass
+Cold caverns east of a green grass north of the player's right hands on a right south of the back openings
+Cold caverns east of the green grass north of the player's right hands south of the back openings on the rights.
+Cold caverns north of the players' right hands on the rights south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands on the rights south of the back opening
+A cold cavern east of the green grasses north of the player's right hands on the rights south of the back openings
+A cold cavern north of the player's right hands on the rights south of the back openings east of the green grasses
+The cold cavern east of the green grasses north of the player's right hands on the rights south of the back openings
+The cold cavern north of the player's right hands on the rights south of the back openings east of the green grasses
+Cold caverns north of the player's right hands south of a back opening on the rights east of the green grass
+Cold caverns east of the green grass north of the player's right hands south of a back opening on the rights
+Cold caverns north of a player's right hands on the rights south of the back opening east of a green grass
+Cold caverns east of a green grass north of a player's right hands on the rights south of the back opening
+The cold caverns east of the green grasses north of the player's right hands south of the back opening on the rights
+The cold caverns north of the player's right hands south of the back opening on the rights east of the green grasses
+Cold caverns north of the player's right hands on the right south of the back opening east of the green grass
+Cold caverns east of the green grass north of the player's right hands on the right south of the back opening
+Cold caverns north of the player's right hands on a right south of the back opening east of a green grass
+Cold caverns east of a green grass north of the player's right hands on a right south of the back opening
+Cold caverns east of a green grass north of the player's right hands south of the back openings on the right.
+Cold caverns north of the player's right hands south of the back openings on the rights east of the green grass.
+Cold caverns east of the green grasses north of the player's right hands on the right south of the back openings.
+Cold caverns east of the green grass north of the player's right hands south of the back opening on the rights.
+A cold cavern east of the green grasses north of the player's right hands on the rights south of the back opening
+A cold cavern north of the player's right hands on the rights south of the back opening east of the green grasses
+Cold caverns north of the players' right hands south of the back openings on the rights east of a green grass
+Cold caverns east of a green grass north of the players' right hands south of the back openings on the rights
+The cold caverns east of the green grasses north of the player's right hands on the rights south of the back openings
+The cold caverns north of the player's right hands on the rights south of the back openings east of the green grasses
+The cold cavern east of the green grasses north of the player's right hands on the rights south of the back opening
+The cold cavern north of the player's right hands on the rights south of the back opening east of the green grasses
+Cold caverns north of a player's right hands south of the back openings on the right east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands south of the back openings on the right
+Cold caverns north of the player's right hands south of a back opening on the right east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of a back opening on the right
+Cold caverns north of the player's right hands on the rights south of a back opening east of the green grass
+Cold caverns east of the green grass north of the player's right hands on the rights south of a back opening
+Cold caverns north of the player's right hand south of the back openings on the rights east of the green grasses
+Cold caverns east of the green grasses north of the player's right hand south of the back openings on the rights
+Cold caverns north of the player's right hands south of the backed, openings on the rights east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of the backed, openings on the rights
+Cold caverns east of a green grass north of the player's right hands south of the back opening on the right.
+Cold caverns north of the player's right hands south of the back openings on the right east of the green grasses.
+Cold caverns north of the player's right hands south of the back opening on the rights east of the green grass.
+Cold caverns north of the player's right hands on rights south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on rights south of the back openings
+Cold caverns east of the green grasses north of the player's right hands on the rights south of the backed, openings.
+Cold caverns north of the players' right hands south of the back opening on the rights east of a green grass
+Cold caverns east of a green grass north of the players' right hands south of the back opening on the rights
+A cold cavern east of a green grass north of the player's right hands south of the back openings on the rights
+A cold cavern north of the player's right hands south of the back openings on the rights east of a green grass
+The cold caverns east of the green grasses north of the player's right hands on the rights south of the back opening
+The cold caverns north of the player's right hands on the rights south of the back opening east of the green grasses
+Cold caverns north of the player's right hands south of the back openings on a right east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of the back openings on a right
+Cold caverns north of the player's right hands south of the back openings on the right east of a green grass.
+The cold cavern east of a green grass north of the player's right hands south of the back openings on the rights
+The cold cavern north of the player's right hands south of the back openings on the rights east of a green grass
+Cold caverns north of the player's right hands south of the backed, opening on the rights east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of the backed, opening on the rights
+Cold caverns north of the player's right hands on the rights south of the back openings east of the green grass.
+Cold caverns north of the player's right hands, on the rights south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands, on the rights south of the back openings
+Cold caverns north of a player's right hands south of the back opening on the right east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands south of the back opening on the right
+Cold caverns north of the players' right hands on the rights south of the back openings east of a green grass
+Cold caverns east of a green grass north of the players' right hands on the rights south of the back openings
+Cold caverns north of a player's right hands on the right south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands on the right south of the back openings
+Cold caverns north of the player's right hand south of the back opening on the rights east of the green grasses
+Cold caverns east of the green grasses north of the player's right hand south of the back opening on the rights
+Cold caverns north of the player's right hands on the right south of a back opening east of a green grass
+Cold caverns east of a green grass north of the player's right hands on the right south of a back opening
+Cold caverns east of the green grasses north of a player's right hands south of the back openings on the rights.
+Cold caverns north of the player's right hands south of the back opening on the right east of the green grasses.
+Cold caverns east of a green grass north of the player's right hands south of a back opening on the rights.
+Cold caverns north of the player's right hand on the rights south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of the player's right hand on the rights south of the back openings
+Cold caverns north of the player's right hands on rights south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on rights south of the back opening
+Cold caverns north of a player's right hands south of a back opening on the rights east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands south of a back opening on the rights
+Cold caverns east of the green grass north of the player's right hands on the rights south of the back openings.
+Cold caverns north of the player's right hands on the rights south of the backed, openings east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on the rights south of the backed, openings
+A cold cavern east of a green grass north of the player's right hands south of the back opening on the rights
+A cold cavern north of the player's right hands south of the back opening on the rights east of a green grass
+Cold caverns north of the player's right hands south of the back opening on a right east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of the back opening on a right
+Cold caverns north of the player's right hands south of the back opening on the right east of a green grass.
+The cold caverns east of a green grass north of the player's right hands south of the back openings on the rights
+The cold caverns north of the player's right hands south of the back openings on the rights east of a green grass
+The cold cavern east of a green grass north of the player's right hands south of the back opening on the rights
+The cold cavern north of the player's right hands south of the back opening on the rights east of a green grass
+Cold caverns north of the player's right hands on the right south of the back openings east of the green grasses.
+Cold caverns north of the player's right hands on the rights south of the back opening east of the green grass.
+Cold caverns north of the player's right hands, on the rights south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands, on the rights south of the back opening
+Cold caverns east of the green grasses north of the player's right hands on the rights south of the back opening.
+Cold caverns north of the players' right hands on the rights south of the back opening east of a green grass
+Cold caverns east of a green grass north of the players' right hands on the rights south of the back opening
+A cold cavern east of a green grass north of the player's right hands on the rights south of the back openings
+A cold cavern north of the player's right hands on the rights south of the back openings east of a green grass
+Cold caverns north of the player's right hands on the right south of the back openings east of a green grass.
+Cold caverns north of a player's right hands south of the back openings on the rights east of the green grass
+Cold caverns east of the green grass north of a player's right hands south of the back openings on the rights
+The cold cavern east of a green grass north of the player's right hands on the rights south of the back openings
+The cold cavern north of the player's right hands on the rights south of the back openings east of a green grass
+Cold caverns north of the player's right hands on the rights south of the backed, opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on the rights south of the backed, opening
+Cold caverns north of the player's right hands south of a back opening on the rights east of the green grasses.
+Cold caverns north of a player's right hands on the right south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands on the right south of the back opening
+Cold caverns east of the green grasses north of a player's right hands south of the back opening on the rights.
+Cold caverns north of the player's right hands south of a back opening on the rights east of a green grass.
+Cold caverns north of the player's right hand on the rights south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hand on the rights south of the back opening
+Cold caverns north of the player's right hands south of a backed, opening on the rights east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of a backed, opening on the rights
+The cold caverns east of a green grass north of the player's right hands south of the back opening on the rights
+The cold caverns north of the player's right hands south of the back opening on the rights east of a green grass
+Cold caverns north of the player's right hands on the right south of the back opening east of the green grasses.
+Cold caverns north of the players' right hands south of the back openings on the right east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands south of the back openings on the right
+Cold caverns east of a green grass north of the player's right hands on the right south of the back openings.
+Cold caverns north of a player's right hands on the rights south of a back opening east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands on the rights south of a back opening
+Cold caverns north of the player's right hands south of the back openings on the rights east of green grasses.
+A cold cavern east of a green grass north of the player's right hands on the rights south of the back opening
+A cold cavern north of the player's right hands on the rights south of the back opening east of a green grass
+Cold caverns north of the player's right hands on the right south of the back opening east of a green grass.
+Cold caverns north of a player's right hands south of the back opening on the rights east of the green grass
+Cold caverns east of the green grass north of a player's right hands south of the back opening on the rights
+The cold caverns east of a green grass north of the player's right hands on the rights south of the back openings
+The cold caverns north of the player's right hands on the rights south of the back openings east of a green grass
+The cold cavern east of a green grass north of the player's right hands on the rights south of the back opening
+The cold cavern north of the player's right hands on the rights south of the back opening east of a green grass
+Cold caverns north of a player's right hands south of the back openings on the right east of a green grass
+Cold caverns east of a green grass north of a player's right hands south of the back openings on the right
+Cold caverns north of a player's right hands on the rights south of the back openings east of the green grass
+Cold caverns east of the green grass north of a player's right hands on the rights south of the back openings
+Cold caverns north of the player's right hands on a right south of a back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on a right south of a back opening
+Cold caverns north of the player's right hands on the rights south of a back opening east of the green grasses.
+Cold caverns north of the player's right hand south of the back openings on the rights east of a green grass
+Cold caverns east of a green grass north of the player's right hand south of the back openings on the rights
+Cold caverns north of the player's right hands south of the backed, openings on the rights east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of the backed, openings on the rights
+Cold caverns north of the player's right hands on the rights south of a back opening east of a green grass.
+Cold caverns north of the player's right hands on a right south of the back openings east of the green grass
+Cold caverns east of the green grass north of the player's right hands on a right south of the back openings
+Cold caverns north of the players' right hands south of the back opening on the right east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands south of the back opening on the right
+A cold cavern east of the green grasses north of the player's right hands south of the back openings on the right
+A cold cavern north of the player's right hands south of the back openings on the right east of the green grasses
+Cold caverns north of the player's right hands on rights south of the back openings east of a green grass
+Cold caverns east of a green grass north of the player's right hands on rights south of the back openings
+Cold caverns north of the player's right hands on the rights south of a backed, opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on the rights south of a backed, opening
+The cold cavern east of the green grasses north of the player's right hands south of the back openings on the right
+The cold cavern north of the player's right hands south of the back openings on the right east of the green grasses
+Cold caverns north of the player's right hands south of the back opening on the rights east of green grasses.
+Cold caverns east of a green grass north of the player's right hands on the rights south of the backed, openings.
+The cold caverns north of the player's right hands on the rights south of the back opening east of a green grass
+The cold caverns east of a green grass north of the player's right hands on the rights south of the back opening
+Cold caverns north of the player's right hands south of the backed, opening on the rights east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of the backed, opening on the rights
+Cold caverns north of the player's right hands, on the rights south of the back openings east of a green grass
+Cold caverns east of a green grass north of the player's right hands, on the rights south of the back openings
+Cold caverns north of the players' right hands on the right south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands on the right south of the back openings
+Cold caverns north of a player's right hands south of the back opening on the right east of a green grass
+Cold caverns east of a green grass north of a player's right hands south of the back opening on the right
+Cold caverns north of the player's right hands on the rights south of the back openings east of green grasses.
+Cold caverns north of a player's right hands on the rights south of the back opening east of the green grass
+Cold caverns east of the green grass north of a player's right hands on the rights south of the back opening
+Cold caverns east of the green grasses north of the players' right hands south of the back openings on the rights.
+Cold caverns east of the green grasses north of the player's right hands south of a back opening on the right.
+Cold caverns east of the green grasses north of a player's right hands on the rights south of the back openings.
+Cold caverns north of a player's right hands on the right south of the back openings east of a green grass
+Cold caverns east of a green grass north of a player's right hands on the right south of the back openings
+Cold caverns north of the players' right hands south of a back opening on the rights east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands south of a back opening on the rights
+Cold caverns north of the player's right hand south of the back opening on the rights east of a green grass
+Cold caverns east of a green grass north of the player's right hand south of the back opening on the rights
+Cold caverns east of a green grass north of a player's right hands south of the back openings on the rights.
+Cold caverns north of the player's right hands on a right south of the back opening east of the green grass
+Cold caverns east of the green grass north of the player's right hands on a right south of the back opening
+Cold caverns east of the green grass north of the player's right hands south of the back openings on the right.
+Cold caverns north of the player's right hand on the rights south of the back openings east of a green grass
+Cold caverns east of a green grass north of the player's right hand on the rights south of the back openings
+A cold cavern east of the green grasses north of the player's right hands south of the back opening on the right
+A cold cavern north of the player's right hands south of the back opening on the right east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on a right south of the back openings.
+Cold caverns north of the player's right hands on rights south of the back opening east of a green grass
+Cold caverns east of a green grass north of the player's right hands on rights south of the back opening
+Cold caverns north of a player's right hands south of a back opening on the rights east of a green grass
+Cold caverns east of a green grass north of a player's right hands south of a back opening on the rights
+The cold caverns north of the player's right hands south of the back openings on the right east of the green grasses
+The cold caverns east of the green grasses north of the player's right hands south of the back openings on the right
+The cold cavern east of the green grasses north of the player's right hands south of the back opening on the right
+The cold cavern north of the player's right hands south of the back opening on the right east of the green grasses
+Cold caverns north of the players' right hands south of the back openings on the rights east of the green grass
+Cold caverns east of the green grass north of the players' right hands south of the back openings on the rights
+Cold caverns north of the player's right hands on the rights south of the backed, openings east of a green grass
+Cold caverns east of a green grass north of the player's right hands on the rights south of the backed, openings
+Cold caverns east of the green grasses north of the player's right hands south of the back openings on a right.
+Cold caverns north of the player's right hands, on the rights south of the back opening east of a green grass
+Cold caverns east of a green grass north of the player's right hands, on the rights south of the back opening
+Cold caverns north of the players' right hands on the right south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands on the right south of the back opening
+A cold cavern east of the green grasses north of the player's right hands on the right south of the back openings
+A cold cavern north of the player's right hands on the right south of the back openings east of the green grasses
+Cold caverns east of a green grass north of the player's right hands on the rights south of the back opening.
+The cold cavern east of the green grasses north of the player's right hands on the right south of the back openings
+The cold cavern north of the player's right hands on the right south of the back openings east of the green grasses
+Cold caverns north of the player's right hands on the rights south of the back opening east of green grasses.
+Cold caverns north of players' right hands south of the back openings on the rights east of the green grasses
+Cold caverns east of the green grasses north of players' right hands south of the back openings on the rights
+Cold caverns east of the green grasses north of the players' right hands south of the back opening on the rights.
+A cold cavern east of the green grasses north of the player's right hands south of the back openings on the rights.
+Cold caverns north of the player's right hands south of a back opening on the right east of the green grass
+Cold caverns east of the green grass north of the player's right hands south of a back opening on the right
+Cold caverns north of a player's right hands south of the back openings on the rights east of the green grasses.
+Cold caverns north of the player's right hands on the rights south of the backed, opening east of a green grass
+Cold caverns east of a green grass north of the player's right hands on the rights south of the backed, opening
+The cold cavern east of the green grasses north of the player's right hands south of the back openings on the rights.
+Cold caverns north of a player's right hands on the right south of the back opening east of a green grass
+Cold caverns east of a green grass north of a player's right hands on the right south of the back opening
+A cold cavern east of the green grasses north of the player's right hands south of a back opening on the rights
+A cold cavern north of the player's right hands south of a back opening on the rights east of the green grasses
+Cold caverns north of the player's right hands south of a back opening on a right east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of a back opening on a right
+Cold caverns north of a player's right hands south of the back openings on the rights east of a green grass.
+The cold cavern east of the green grasses north of the player's right hands south of a back opening on the rights
+The cold cavern north of the player's right hands south of a back opening on the rights east of the green grasses
+Cold caverns east of a green grass north of a player's right hands south of the back opening on the rights.
+Cold caverns east of the green grass north of the player's right hands south of the back opening on the right.
+Cold caverns north of the player's right hand, on the rights south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of the player's right hand, on the rights south of the back openings
+Cold caverns north of the players' right hands on the rights south of a back opening east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands on the rights south of a back opening
+Cold caverns north of the player's right hand on the rights south of the back opening east of a green grass
+Cold caverns east of a green grass north of the player's right hand on the rights south of the back opening
+The cold caverns north of the player's right hands south of the back opening on the right east of the green grasses
+The cold caverns east of the green grasses north of the player's right hands south of the back opening on the right
+Cold caverns north of the players' right hands south of the back opening on the rights east of the green grass
+Cold caverns east of the green grass north of the players' right hands south of the back opening on the rights
+Cold caverns north of the player's right hands south of a backed, opening on the rights east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of a backed, opening on the rights
+A cold cavern east of the green grass north of the player's right hands south of the back openings on the rights
+A cold cavern north of the player's right hands south of the back openings on the rights east of the green grass
+Cold caverns east of the green grasses north of the player's right hands south of the back opening on a right.
+Cold caverns north of the player's right hands south of the back openings on a right east of the green grass
+Cold caverns east of the green grass north of the player's right hands south of the back openings on a right
+Cold caverns north of the player's right hands south of the back openings on the right east of the green grass.
+The cold cavern east of the green grass north of the player's right hands south of the back openings on the rights
+The cold cavern north of the player's right hands south of the back openings on the rights east of the green grass
+A cold cavern east of the green grasses north of the player's right hands on the right south of the back opening
+A cold cavern north of the player's right hands on the right south of the back opening east of the green grasses
+Cold caverns north of the players' right hands south of the back openings on the right east of a green grass
+Cold caverns east of a green grass north of the players' right hands south of the back openings on the right
+Cold caverns north of a player's right hands on the rights south of a back opening east of a green grass
+Cold caverns east of a green grass north of a player's right hands on the rights south of a back opening
+The cold caverns north of the player's right hands on the right south of the back openings east of the green grasses
+The cold caverns east of the green grasses north of the player's right hands on the right south of the back openings
+The cold cavern east of the green grasses north of the player's right hands on the right south of the back opening
+The cold cavern north of the player's right hands on the right south of the back opening east of the green grasses
+Cold caverns north of the players' right hands on the rights south of the back openings east of the green grass
+Cold caverns east of the green grass north of the players' right hands on the rights south of the back openings
+Cold caverns north of players' right hands south of the back opening on the rights east of the green grasses
+Cold caverns east of the green grasses north of players' right hands south of the back opening on the rights
+A cold cavern east of the green grasses north of the player's right hands south of the back opening on the rights.
+Cold caverns north of a player's right hands south of the back opening on the rights east of the green grasses.
+The cold caverns east of the green grasses north of the player's right hands south of the back openings on the rights.
+The cold cavern east of the green grasses north of the player's right hands south of the back opening on the rights.
+Cold caverns north of a player's right hands on a right south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands on a right south of the back openings
+Cold caverns north of players' right hands on the rights south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of players' right hands on the rights south of the back openings
+Cold caverns east of the green grasses north of the player's right hands south of the back openings on rights.
+The cold caverns north of the player's right hands south of a back opening on the rights east of the green grasses
+The cold caverns east of the green grasses north of the player's right hands south of a back opening on the rights
+Cold caverns north of a player's right hands south of the back opening on the rights east of a green grass.
+Cold caverns north of the player's right hands on the right south of a back opening east of the green grass
+Cold caverns east of the green grass north of the player's right hands on the right south of a back opening
+Cold caverns north of the player's right hands on a right south of a back opening east of a green grass
+Cold caverns east of a green grass north of the player's right hands on a right south of a back opening
+Cold caverns north of a player's right hands on the rights south of the back openings east of the green grasses.
+Cold caverns north of the player's right hand south of the back openings on the right east of the green grasses
+Cold caverns east of the green grasses north of the player's right hand south of the back openings on the right
+Cold caverns north of the player's right hand, on the rights south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hand, on the rights south of the back opening
+Cold caverns east of the green grass north of the player's right hands south of a back opening on the rights.
+A cold cavern east of the green grasses north of the player's right hands on the rights south of a back opening
+A cold cavern north of the player's right hands on the rights south of a back opening east of the green grasses
+Cold caverns north of the player's right hands south of the backed, openings on the right east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of the backed, openings on the right
+Cold caverns north of a player's right hands on the rights south of the back openings east of a green grass.
+The cold cavern east of the green grasses north of the player's right hands on the rights south of a back opening
+The cold cavern north of the player's right hands on the rights south of a back opening east of the green grasses
+A cold cavern east of the green grass north of the player's right hands south of the back opening on the rights
+A cold cavern north of the player's right hands south of the back opening on the rights east of the green grass
+Cold caverns north of the player's right hands south of the back opening on a right east of the green grass
+Cold caverns east of the green grass north of the player's right hands south of the back opening on a right
+Cold caverns north of the player's right hands south of the back opening on the right east of the green grass.
+The cold caverns north of the player's right hands south of the back openings on the rights east of the green grass
+The cold caverns east of the green grass north of the player's right hands south of the back openings on the rights
+The cold cavern east of the green grass north of the player's right hands south of the back opening on the rights
+The cold cavern north of the player's right hands south of the back opening on the rights east of the green grass
+Cold caverns north of the player's right hands on a right south of the back openings east of the green grasses.
+Cold caverns east of the green grasses north of the player's right hands on the right south of the backed, openings.
+Cold caverns north of the players' right hands south of the back opening on the right east of a green grass
+Cold caverns east of a green grass north of the players' right hands south of the back opening on the right
+A cold cavern east of a green grass north of the player's right hands south of the back openings on the right
+A cold cavern north of the player's right hands south of the back openings on the right east of a green grass
+The cold caverns north of the player's right hands on the right south of the back opening east of the green grasses
+The cold caverns east of the green grasses north of the player's right hands on the right south of the back opening
+Cold caverns north of the players' right hands on the rights south of the back opening east of the green grass
+Cold caverns east of the green grass north of the players' right hands on the rights south of the back opening
+Cold caverns north of the player's right hands on the rights south of a backed, opening east of a green grass
+Cold caverns east of a green grass north of the player's right hands on the rights south of a backed, opening
+The cold cavern east of a green grass north of the player's right hands south of the back openings on the right
+The cold cavern north of the player's right hands south of the back openings on the right east of a green grass
+A cold cavern east of the green grass north of the player's right hands on the rights south of the back openings
+A cold cavern north of the player's right hands on the rights south of the back openings east of the green grass
+Cold caverns north of the player's right hands south of the backed, opening on the right east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of the backed, opening on the right
+Cold caverns north of the player's right hands on the right south of the back openings east of the green grass.
+The cold cavern east of the green grass north of the player's right hands on the rights south of the back openings
+The cold cavern north of the player's right hands on the rights south of the back openings east of the green grass
+Cold caverns north of the player's right hands on a right south of the back openings east of a green grass.
+Cold caverns north of the player's right hands south of the back openings on the rights east of green grasses
+Cold caverns east of green grasses north of the player's right hands south of the back openings on the rights
+The cold caverns east of the green grasses north of the player's right hands south of the back opening on the rights.
+Cold caverns east of the green grasses north of the players' right hands on the rights south of the back openings.
+Cold caverns north of the players' right hands on the right south of the back openings east of a green grass
+Cold caverns east of a green grass north of the players' right hands on the right south of the back openings
+Cold caverns north of a player's right hands on a right south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands on a right south of the back opening
+Cold caverns east of the green grasses north of a player's right hands south of the back openings on the right.
+Cold caverns north of players' right hands on the rights south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of players' right hands on the rights south of the back opening
+Cold caverns east of the green grasses north of the player's right hands south of the back opening on rights.
+Cold caverns east of a green grass north of the players' right hands south of the back openings on the rights.
+Cold caverns east of a green grass north of the player's right hands south of a back opening on the right.
+Cold caverns north of a player's right hands on the rights south of the back opening east of the green grasses.
+Cold caverns north of the player's right hands south of a back opening on the rights east of the green grass.
+Cold caverns north of the player's right hand south of the back opening on the right east of the green grasses
+Cold caverns east of the green grasses north of the player's right hand south of the back opening on the right
+Cold caverns east of a green grass north of a player's right hands on the rights south of the back openings.
+Cold caverns north of the players' right hands south of a back opening on the rights east of a green grass
+Cold caverns east of a green grass north of the players' right hands south of a back opening on the rights
+The cold caverns north of the player's right hands on the rights south of a back opening east of the green grasses
+The cold caverns east of the green grasses north of the player's right hands on the rights south of a back opening
+Cold caverns north of a player's right hands on the rights south of the back opening east of a green grass.
+Cold caverns north of the player's right hands south of the back openings on the rights east of green grass
+Cold caverns east of green grass north of the player's right hands south of the back openings on the rights
+The cold caverns east of the green grass north of the player's right hands south of the back opening on the rights
+The cold caverns north of the player's right hands south of the back opening on the rights east of the green grass
+Cold caverns north of the player's right hand on the right south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of the player's right hand on the right south of the back openings
+Cold caverns north of the player's right hands on a right south of the back opening east of the green grasses.
+Cold caverns north of a player's right hands south of a back opening on the right east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands south of a back opening on the right
+Cold caverns east of the green grasses north of the player's right hands on the rights south of the backed, opening.
+Cold caverns east of the green grass north of the player's right hands on the right south of the back openings.
+Cold caverns north of the player's right hands on the right south of the backed, openings east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on the right south of the backed, openings
+A cold cavern east of a green grass north of the player's right hands south of the back opening on the right
+A cold cavern north of the player's right hands south of the back opening on the right east of a green grass
+Cold caverns east of a green grass north of the player's right hands on a right south of the back openings.
+Cold caverns east of the green grasses north of the player's right hand south of the back openings on the rights.
+The cold caverns east of a green grass north of the player's right hands south of the back openings on the right
+The cold caverns north of the player's right hands south of the back openings on the right east of a green grass
+The cold cavern east of a green grass north of the player's right hands south of the back opening on the right
+The cold cavern north of the player's right hands south of the back opening on the right east of a green grass
+A cold cavern east of the green grass north of the player's right hands on the rights south of the back opening
+A cold cavern north of the player's right hands on the rights south of the back opening east of the green grass
+Cold caverns north of the player's right hands on the right south of the back opening east of the green grass.
+The cold caverns east of the green grass north of the player's right hands on the rights south of the back openings
+The cold caverns north of the player's right hands on the rights south of the back openings east of the green grass
+Cold caverns north of the players' right hands south of the back openings on the rights east of the green grasses.
+Cold caverns east of a green grass north of the player's right hands south of the back openings on a right.
+The cold cavern east of the green grass north of the player's right hands on the rights south of the back opening
+The cold cavern north of the player's right hands on the rights south of the back opening east of the green grass
+Cold caverns north of the player's right hands on a right south of the back opening east of a green grass.
+Cold caverns east of the green grasses north of the player's right hands south of the backed, openings on the rights.
+Cold caverns north of the player's right hands south of the back opening on the rights east of green grasses
+Cold caverns east of green grasses north of the player's right hands south of the back opening on the rights
+Cold caverns east of the green grasses north of the player's right hands on the right south of the back opening.
+A cold cavern east of the green grasses north of the player's right hands on the rights south of the back openings.
+Cold caverns north of the players' right hands on the right south of the back opening east of a green grass
+Cold caverns east of a green grass north of the players' right hands on the right south of the back opening
+Cold caverns north of the player's right hand south of a back opening on the rights east of the green grasses
+Cold caverns east of the green grasses north of the player's right hand south of a back opening on the rights
+A cold cavern east of a green grass north of the player's right hands on the right south of the back openings
+A cold cavern north of the player's right hands on the right south of the back openings east of a green grass
+The cold cavern east of the green grasses north of the player's right hands on the rights south of the back openings.
+Cold caverns north of the player's right hands south of the back openings on the rights east of green grass.
+Cold caverns east of the green grasses north of a player's right hands south of the back opening on the right.
+Cold caverns north of a player's right hands south of the back openings on the right east of the green grass
+Cold caverns east of the green grass north of a player's right hands south of the back openings on the right
+The cold cavern east of a green grass north of the player's right hands on the right south of the back openings
+The cold cavern north of the player's right hands on the right south of the back openings east of a green grass
+Cold caverns north of the player's right hands on the right south of the backed, opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on the right south of the backed, opening
+Cold caverns north of the players' right hands south of the back openings on the rights east of a green grass.
+Cold caverns north of players' right hands south of the back openings on the rights east of a green grass
+Cold caverns east of a green grass north of players' right hands south of the back openings on the rights
+Cold caverns east of a green grass north of the players' right hands south of the back opening on the rights.
+A cold cavern east of a green grass north of the player's right hands south of the back openings on the rights.
+Cold caverns north of the player's right hands on the rights south of the back openings east of green grasses
+Cold caverns east of green grasses north of the player's right hands on the rights south of the back openings
+Cold caverns north of the player's right hands south of a back opening on the right east of the green grasses.
+The cold cavern east of a green grass north of the player's right hands south of the back openings on the rights.
+Cold caverns east of the green grasses north of the player's right hands south of the backed, opening on the rights.
+A cold cavern east of the green grasses north of a player's right hands south of the back openings on the rights
+A cold cavern north of a player's right hands south of the back openings on the rights east of the green grasses
+Cold caverns north of the player's right hands on rights south of a back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on rights south of a back opening
+Cold caverns north of a player's right hands south of the back openings on a right east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands south of the back openings on a right
+The cold cavern east of the green grasses north of a player's right hands south of the back openings on the rights
+The cold cavern north of a player's right hands south of the back openings on the rights east of the green grasses
+Cold caverns north of the player's right hand south of the back openings on the rights east of the green grass
+Cold caverns east of the green grass north of the player's right hand south of the back openings on the rights
+A cold cavern east of a green grass north of the player's right hands south of a back opening on the rights
+A cold cavern north of the player's right hands south of a back opening on the rights east of a green grass
+Cold caverns north of the player's right hands south of the back opening on the rights east of green grass
+Cold caverns east of green grass north of the player's right hands south of the back opening on the rights
+Cold caverns north of the player's right hands south of a back opening on a right east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of a back opening on a right
+Cold caverns north of the player's right hands south of a back opening on the right east of a green grass.
+The cold cavern east of a green grass north of the player's right hands south of a back opening on the rights
+The cold cavern north of the player's right hands south of a back opening on the rights east of a green grass
+Cold caverns north of the player's right hands south of the backed, openings on the rights east of the green grass
+Cold caverns east of the green grass north of the player's right hands south of the backed, openings on the rights
+Cold caverns north of the player's right hands on the rights south of a back opening east of the green grass.
+Cold caverns north of the player's right hands, on the rights south of a back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands, on the rights south of a back opening
+Cold caverns north of the player's right hand on the right south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hand on the right south of the back opening
+Cold caverns east of the green grasses north of the player's right hands on the rights south of a back opening.
+Cold caverns north of the player's right hand, on the rights south of the back openings east of a green grass
+Cold caverns east of a green grass north of the player's right hand, on the rights south of the back openings
+Cold caverns north of the player's right hands south of a backed, opening on the right east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands south of a backed, opening on the right
+Cold caverns north of the players' right hands on the rights south of a back opening east of a green grass
+Cold caverns east of a green grass north of the players' right hands on the rights south of a back opening
+Cold caverns north of the player's right hands on the rights south of the back openings east of green grass
+Cold caverns east of green grass north of the player's right hands on the rights south of the back openings
+Cold caverns north of the player's right hands on rights south of the back openings east of the green grass
+Cold caverns east of the green grass north of the player's right hands on rights south of the back openings
+Cold caverns east of the green grasses north of the player's right hand south of the back opening on the rights.
+The cold caverns east of a green grass north of the player's right hands south of the back opening on the right
+The cold caverns north of the player's right hands south of the back opening on the right east of a green grass
+Cold caverns east of the green grass north of the player's right hands on the rights south of the backed, openings.
+The cold caverns east of the green grass north of the player's right hands on the rights south of the back opening
+The cold caverns north of the player's right hands on the rights south of the back opening east of the green grass
+Cold caverns north of the players' right hands south of the back opening on the rights east of the green grasses.
+Cold caverns east of a green grass north of the player's right hands south of the back opening on a right.
+A cold cavern north of the player's right hands south of the back openings on the rights east of the green grasses.
+Cold caverns north of the player's right hands south of the back openings on a right east of the green grasses.
+Cold caverns north of the player's right hands south of the backed, opening on the rights east of the green grass
+Cold caverns east of the green grass north of the player's right hands south of the backed, opening on the rights
+Cold caverns north of a player's right hands on the right south of a back opening east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands on the right south of a back opening
+The cold cavern north of the player's right hands south of the back openings on the rights east of the green grasses.
+Cold caverns north of the player's right hands, on the rights south of the back openings east of the green grass
+Cold caverns east of the green grass north of the player's right hands, on the rights south of the back openings
+Cold caverns north of the player's right hands south of the back openings on the right east of green grasses.
+The cold caverns east of the green grasses north of the player's right hands on the rights south of the back openings.
+A cold cavern north of the player's right hands on the right south of the back opening east of a green grass
+A cold cavern east of a green grass north of the player's right hands on the right south of the back opening
+Cold caverns north of the players' right hands on a right south of the back openings east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands on a right south of the back openings
+Cold caverns north of the player's right hands south of the back opening on the rights east of green grass.
+Cold caverns north of a player's right hands south of the back opening on the right east of the green grass
+Cold caverns east of the green grass north of a player's right hands south of the back opening on the right
+The cold caverns east of a green grass north of the player's right hands on the right south of the back openings
+The cold caverns north of the player's right hands on the right south of the back openings east of a green grass
+The cold cavern north of the player's right hands on the right south of the back opening east of a green grass
+The cold cavern east of a green grass north of the player's right hands on the right south of the back opening
+Cold caverns north of the players' right hands south of the back opening on the rights east of a green grass.
+Cold caverns east of the green grasses north of a player's right hands south of a back opening on the rights.
+A cold cavern north of the player's right hands south of the back openings on the rights east of a green grass.
+Cold caverns north of players' right hands south of the back opening on the rights east of a green grass
+Cold caverns east of a green grass north of players' right hands south of the back opening on the rights
+Cold caverns north of the players' right hands on the rights south of the back openings east of the green grasses.
+Cold caverns north of the player's right hands south of the back openings on a right east of a green grass.
+A cold cavern east of a green grass north of the player's right hands south of the back opening on the rights.
+The cold cavern north of the player's right hands south of the back openings on the rights east of a green grass.
+Cold caverns north of the player's right hands on the rights south of the back opening east of green grasses
+Cold caverns east of green grasses north of the player's right hands on the rights south of the back opening
+The cold caverns east of a green grass north of the player's right hands south of the back openings on the rights.
+The cold cavern east of a green grass north of the player's right hands south of the back opening on the rights.
+Cold caverns north of the player's right hand on the rights south of a back opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hand on the rights south of a back opening
+A cold cavern north of a player's right hands south of the back opening on the rights east of the green grasses
+A cold cavern east of the green grasses north of a player's right hands south of the back opening on the rights
+Cold caverns north of the player's right hands on the rights south of the back openings east of green grass.
+Cold caverns north of a player's right hands south of the back opening on a right east of the green grasses
+Cold caverns east of the green grasses north of a player's right hands south of the back opening on a right
+The cold caverns east of the green grasses north of a player's right hands south of the back openings on the rights
+The cold caverns north of a player's right hands south of the back openings on the rights east of the green grasses
+Cold caverns north of a player's right hands on the right south of the back openings east of the green grass
+Cold caverns east of the green grass north of a player's right hands on the right south of the back openings
+The cold cavern north of a player's right hands south of the back opening on the rights east of the green grasses
+The cold cavern east of the green grasses north of a player's right hands south of the back opening on the rights
+Cold caverns north of a player's right hands on a right south of the back openings east of a green grass
+Cold caverns east of a green grass north of a player's right hands on a right south of the back openings
+Cold caverns north of the players' right hands on the rights south of the back openings east of a green grass.
+Cold caverns north of the player's right hand south of the back opening on the rights east of the green grass
+Cold caverns east of the green grass north of the player's right hand south of the back opening on the rights
+Cold caverns north of players' right hands on the rights south of the back openings east of a green grass
+Cold caverns east of a green grass north of players' right hands on the rights south of the back openings
+Cold caverns east of a green grass north of the player's right hands south of the back openings on rights.
+The cold caverns east of a green grass north of the player's right hands south of a back opening on the rights
+The cold caverns north of the player's right hands south of a back opening on the rights east of a green grass
+Cold caverns north of the player's right hands on the right south of a back opening east of the green grasses.
+Cold caverns east of the green grass north of a player's right hands south of the back openings on the rights.
+Cold caverns east of the green grasses north of the player's right hands on the rights south of a backed, opening.
+A cold cavern north of a player's right hands on the rights south of the back openings east of the green grasses
+A cold cavern east of the green grasses north of a player's right hands on the rights south of the back openings
+Cold caverns north of the player's right hand south of the back openings on the right east of a green grass
+Cold caverns east of a green grass north of the player's right hand south of the back openings on the right
+Cold caverns north of the player's right hand, on the rights south of the back opening east of a green grass
+Cold caverns east of a green grass north of the player's right hand, on the rights south of the back opening
+The cold cavern north of a player's right hands on the rights south of the back openings east of the green grasses
+The cold cavern east of the green grasses north of a player's right hands on the rights south of the back openings
+Cold caverns north of the player's right hand on the rights south of the back openings east of the green grass
+Cold caverns east of the green grass north of the player's right hand on the rights south of the back openings
+A cold cavern north of the player's right hands on the rights south of a back opening east of a green grass
+A cold cavern east of a green grass north of the player's right hands on the rights south of a back opening
+Cold caverns north of the player's right hands on the rights south of the back opening east of green grass
+Cold caverns east of green grass north of the player's right hands on the rights south of the back opening
+Cold caverns north of the player's right hands on rights south of the back opening east of the green grass
+Cold caverns east of the green grass north of the player's right hands on rights south of the back opening
+Cold caverns north of the player's right hands south of the backed, openings on the right east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of the backed, openings on the right
+Cold caverns north of the player's right hands on the right south of a back opening east of a green grass.
+Cold caverns north of a player's right hands south of a back opening on the rights east of the green grass
+Cold caverns east of the green grass north of a player's right hands south of a back opening on the rights
+The cold cavern north of the player's right hands on the rights south of a back opening east of a green grass
+The cold cavern east of a green grass north of the player's right hands on the rights south of a back opening
+Cold caverns north of the player's right hands on the rights south of the backed, openings east of the green grass
+Cold caverns east of the green grass north of the player's right hands on the rights south of the backed, openings
+A cold cavern north of the player's right hands south of the back opening on the rights east of the green grasses.
+Cold caverns east of the green grasses north of the player's right hands on rights south of the back openings.
+Cold caverns north of the player's right hands south of the back opening on a right east of the green grasses.
+The cold caverns north of the player's right hands south of the back openings on the rights east of the green grasses.
+The cold cavern north of the player's right hands south of the back opening on the rights east of the green grasses.
+Cold caverns north of the player's right hands, on the rights south of the back opening east of the green grass
+Cold caverns east of the green grass north of the player's right hands, on the rights south of the back opening
+Cold caverns north of the player's right hands on the right south of a backed, opening east of the green grasses
+Cold caverns east of the green grasses north of the player's right hands on the right south of a backed, opening
+Cold caverns north of the player's right hands south of the back opening on the right east of green grasses.
+Cold caverns east of a green grass north of the player's right hands on the right south of the backed, openings.
+Cold caverns north of the players' right hands on a right south of the back opening east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands on a right south of the back opening
+Cold caverns east of the green grasses north of the players' right hands south of the back openings on the right.
+Cold caverns east of the green grass north of the player's right hands on the rights south of the back opening.
+A cold cavern north of the player's right hands on a right south of the back openings east of the green grasses
+A cold cavern east of the green grasses north of the player's right hands on a right south of the back openings
+The cold caverns north of the player's right hands on the right south of the back opening east of a green grass
+The cold caverns east of a green grass north of the player's right hands on the right south of the back opening
+The cold cavern north of the player's right hands on a right south of the back openings east of the green grasses
+The cold cavern east of the green grasses north of the player's right hands on a right south of the back openings
+A cold cavern north of the player's right hands south of the back opening on the rights east of a green grass.
+Cold caverns east of the green grasses north of the player's right hands, on the rights south of the back openings.
+Cold caverns north of the player's right hands south of the backed, opening on the right east of a green grass
+Cold caverns east of a green grass north of the player's right hands south of the backed, opening on the right
+Cold caverns north of the players' right hands on the rights south of the back opening east of the green grasses.
+Cold caverns east of the green grasses north of the player's right hands south of a backed, opening on the rights.
+Cold caverns north of the player's right hands south of the back opening on a right east of a green grass.
+A cold cavern north of the player's right hands on the rights south of the back openings east of the green grasses.
+The cold caverns north of the player's right hands south of the back openings on the rights east of a green grass.
+The cold cavern north of the player's right hands south of the back opening on the rights east of a green grass.
+Cold caverns north of the player's right hands on the rights south of the backed, opening east of the green grass
+Cold caverns east of the green grass north of the player's right hands on the rights south of the backed, opening
+The cold cavern north of the player's right hands on the rights south of the back openings east of the green grasses.
+The cold caverns east of a green grass north of the player's right hands south of the back opening on the rights.
+Cold caverns east of a green grass north of the players' right hands on the rights south of the back openings.
+Cold caverns north of the player's right hands on the right south of the back openings east of green grasses.
+Cold caverns north of the player's right hands on the rights south of the back opening east of green grass.
+The cold caverns north of a player's right hands south of the back opening on the rights east of the green grasses
+The cold caverns east of the green grasses north of a player's right hands south of the back opening on the rights
+Cold caverns north of a player's right hands on the right south of the back opening east of the green grass
+Cold caverns east of the green grass north of a player's right hands on the right south of the back opening
+Cold caverns north of a player's right hands on a right south of the back opening east of a green grass
+Cold caverns east of a green grass north of a player's right hands on a right south of the back opening
+Cold caverns east of a green grass north of a player's right hands south of the back openings on the right.
+Cold caverns north of the players' right hands on the rights south of the back opening east of a green grass.
+A cold cavern north of the player's right hands on the rights south of the back openings east of a green grass.
+Cold caverns north of players' right hands on the rights south of the back opening east of a green grass
+Cold caverns east of a green grass north of players' right hands on the rights south of the back opening
+Cold caverns east of a green grass north of the player's right hands south of the back opening on rights.
+Cold caverns north of a player's right hands south of the back openings on the rights east of the green grass.
+The cold cavern north of the player's right hands on the rights south of the back openings east of a green grass.
+Cold caverns east of the green grasses north of a player's right hands on the right south of the back openings.
+Cold caverns east of the green grass north of a player's right hands south of the back opening on the rights.
+A cold cavern north of a player's right hands on the rights south of the back opening east of the green grasses
+A cold cavern east of the green grasses north of a player's right hands on the rights south of the back opening
+Cold caverns north of the players' right hands south of a back opening on the right east of the green grasses
+Cold caverns east of the green grasses north of the players' right hands south of a back opening on the right
+Cold caverns north of the player's right hand south of the back opening on the right east of a green grass
+Cold caverns east of a green grass north of the player's right hand south of the back opening on the right
+The cold caverns north of a player's right hands on the rights south of the back openings east of the green grasses
+The cold caverns east of the green grasses north of a player's right hands on the rights south of the back openings
+The cold cavern north of a player's right hands on the rights south of the back opening east of the green grasses
+The cold cavern east of the green grasses north of a player's right hands on the rights south of the back opening
+Cold caverns north of the player's right hands south of a back opening on the rights east of green grasses.
+Cold caverns north of the player's right hand on the rights south of the back opening east of the green grass
+Cold caverns east of the green grass north of the player's right hand on the rights south of the back opening
+The cold caverns north of the player's right hands on the rights south of a back opening east of a green grass
+The cold caverns east of a green grass north of the player's right hands on the rights south of a back opening
+Cold caverns north of the player's right hands south of a backed, opening on the rights east of the green grass
+Cold caverns east of the green grass north of the player's right hands south of a backed, opening on the rights
+
+TOTAL RESULTS: 732
+
+Node                    MRS Produced    Reason                                     Included in MRS    Reason
+----------------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+5_3                     False           '5' has no value in the lexicon            False              '5' has no value in the lexicon
+cold_2                  True            MRS fragment produced                      True               Included in MRS
+green_9                 True            MRS fragment produced                      True               Included in MRS
+idCavern4BackOpening_7  True            MRS fragment produced                      True               Included in MRS
+idCavern_1              True            MRS fragment produced                      True               Included in MRS
+idGrass_8               True            MRS fragment produced                      True               Included in MRS
+idPlayerRightHand_5     True            MRS fragment produced                      True               Included in MRS
+ominous_4               False           'ominous' has no value in the lexicon      False              'ominous' has no value in the lexicon
+right_6                 True            MRS fragment produced                      True               Included in MRS
+uncountable_10          False           'uncountable' has no value in the lexicon  False              'uncountable' has no value in the lexicon
+
+Edge             MRS Composed    Reason                  Included in MRS    Reason
+---------------  --------------  ----------------------  -----------------  ----------------------
+idArticleType_8  False           Inbound to failed node  False              Inbound to failed node
+idColor_7        True            MRS composed            True               Included in MRS
+idDescriptor_3   False           Inbound to failed node  False              Inbound to failed node
+idDescriptor__1  True            MRS composed            True               Included in MRS
+idLocation_4     True            MRS composed            True               Included in MRS
+idOrdinality_2   False           Inbound to failed node  False              Inbound to failed node
+isEastOf_9       True            MRS composed            True               Included in MRS
+isNorthOf_6      True            MRS composed            True               Included in MRS
+isSouthOf_5      True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7       10    0.7
+Nodes              Included             7       10    0.7
+Edges              Produced             6        9    0.666667
+Edges              Included             6        9    0.666667

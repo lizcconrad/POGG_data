@@ -1,160 +1,377 @@
 {
     "entityTypes": {
-        "building1": "",
-        "dust6": "",
+        "building1": "_building_n_1",
+        "dust6": "_dust_n_1",
         "idAdam": "",
         "idAdamLeftHand": "",
         "idAdamRightHand": "",
-        "idAtomicCityOutside": "",
-        "idAtomicCityOutside1BackOpening": "",
-        "idBeefJerky": "",
-        "idButtonX": "",
-        "idButtonY": "",
-        "idButtonZ": "",
-        "idCandyBar": "",
-        "idCardKey": "",
-        "idComputerRoom": "",
-        "idComputerRoom1BackOpening": "",
-        "idComputerRoom1FrontOpening": "",
-        "idComputerRoom1FrontOpeningDoor": "",
-        "idControlPanel": "",
-        "idDesk": "",
-        "idDrawer": "",
-        "idElevator": "",
-        "idElevator1FrontOpening": "",
-        "idElevatorDoor": "",
-        "idElevatorOpening": "",
-        "idElevatorSlot": "",
-        "idElevatorSlotFacePlate": "",
-        "idFuse": "",
-        "idFuse30A": "",
-        "idFuseBox": "",
-        "idFusePackage": "",
-        "idFuseSocket": "",
+        "idAtomicCityOutside": "_outside_n_of",
+        "idAtomicCityOutside1BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idBeefJerky": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_jerky_n_1",
+                "modifier": "_beef_n_1"
+            }
+        },
+        "idButtonX": "_button_n_1",
+        "idButtonY": "_button_n_1",
+        "idButtonZ": "_button_n_1",
+        "idCandyBar": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_bar_n_1",
+                "modifier": "_candy_n_1"
+            }
+        },
+        "idCardKey": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_card_n_1",
+                "modifier": "_key_n_1"
+            }
+        },
+        "idComputerRoom": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_room_n_unit",
+                "modifier": "_computer_n_1"
+            }
+        },
+        "idComputerRoom1BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idComputerRoom1FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idComputerRoom1FrontOpeningDoor": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idControlPanel": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_panel_n_of",
+                "modifier": "_control_n_of"
+            }
+        },
+        "idDesk": "_desk_n_1",
+        "idDrawer": "_drawer_n_of",
+        "idElevator": "_elevator_n_1",
+        "idElevator1FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idElevatorDoor": "_door_n_1",
+        "idElevatorOpening": "_opening_n_1",
+        "idElevatorSlot": "_slot_n_1",
+        "idElevatorSlotFacePlate": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_plate_n_of",
+                "modifier": "_face_n_1"
+            }
+        },
+        "idFuse": "_fuse_n_1",
+        "idFuse30A": "_fuse_n_1",
+        "idFuseBox": {
+            "composition": "compound",
+            "predicates": {
+            "head": "_box_n_of",
+            "modifier": "_fuse_n_1"
+            }
+        },
+        "idFusePackage": {
+            "composition": "compound",
+            "predicates": {
+            "head": "_package_n_of",
+            "modifier": "_fuse_n_1"
+            }
+        },
+        "idFuseSocket": {
+            "composition": "compound",
+            "predicates": {
+            "head": "_socket_n_1",
+            "modifier": "_fuse_n_1"
+            }
+        },
         "idIdaho": "",
-        "idKeyBlue": "",
-        "idLongHallway": "",
-        "idLongHallwayBackOpening": "",
-        "idLongHallwayBackOpeningDoor": "",
-        "idLongHallwayFrontOpening": "",
-        "idLongHallwayFrontOpeningDoor": "",
-        "idLongHallwayFrontOpeningDoorKeyhole": "",
-        "idLongHallwayLeftOpening": "",
-        "idLongHallwayLeftOpeningDoor": "",
-        "idMachine": "",
-        "idMachine1_prop_idPowerControl": "",
-        "idMachineRoom": "",
-        "idMachineRoomFrontOpening": "",
-        "idOffice": "",
-        "idOffice1RightOpening": "",
+        "idKeyBlue": "_key_n_1",
+        "idLongHallway": "_hallway_n_1",
+        "idLongHallwayBackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idLongHallwayBackOpeningDoor": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idLongHallwayFrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idLongHallwayFrontOpeningDoor": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idLongHallwayFrontOpeningDoorKeyhole": {
+            "composition": "compound",
+            "predicates": {
+            "head": "_hole_n_1",
+            "modifier": "_key_n_1"
+            }
+        },
+        "idLongHallwayLeftOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idLongHallwayLeftOpeningDoor": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idMachine": "_machine_n_1",
+        "id_Machine1_prop_idPowerControl": "",
+        "idPowerControl": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_with_p"
+            }
+        },
+        "idMachineRoom": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_room_n_unit",
+                "modifier": "_machine_n_1"
+            }
+        },
+        "idMachineRoomFrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idOffice": "_office_n_of",
+        "idOffice1RightOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_right_n_of"
+            }
+        },
         "idOnSwitch": "",
-        "idPipe": "",
-        "idPipeSideOpening": "",
-        "idPipeTopOpening": "",
-        "idShutoff": "",
-        "idShutoffValveLight": "",
-        "idSideFlap": "",
-        "idSideFlapHandle": "",
-        "idWolf": "",
-        "idWorld": "",
-        "light1": "",
-        "paint8": ""
+        "idPipe": "_pipe_n_1",
+        "idPipeSideOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_side_n_1"
+            }
+        },
+        "idPipeTopOpening": {
+            "composition": "adjective",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_top_a_1"
+            }
+        },
+        "idShutoff": "_valve_n_1",
+        "idShutoffValveLight": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_light_n_1",
+                "modifier": "_valve_n_1"
+            }
+        },
+        "idSideFlap": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_flap_n_1",
+                "modifier": "_side_n_1"
+            }
+        },
+        "idSideFlapHandle": "_handle_n_1",
+        "idWolf": "_wolf_n_1",
+        "idWorld": "_world_n_of",
+        "light1": "_light_n_1",
+        "paint8": "_paint_n_1"
     },
     "propertyValues": {
         "1": "",
         "2": "",
         "3": "",
         "4": "",
-        "black": "",
-        "blue": "",
-        "brown": "",
-        "closed": "",
-        "green": "",
-        "grey": "",
-        "idButton": "",
-        "idLongHallwayFrontOpeningDoorLock": "",
-        "idaluminum": "",
-        "left": "",
-        "locked": "",
-        "off": "",
-        "old": "",
-        "open": "",
-        "red": "",
-        "right": "",
-        "rusty": "",
-        "small": "",
-        "tiny": "",
-        "true": "",
-        "uncountable": "",
-        "unlit": "",
-        "white": "",
-        "yes": ""
+        "black": "_black_a_1",
+        "blue": "_blue_a_1",
+        "brown": "_brown_a_1",
+        "closed": "_closed_a_1",
+        "green": "_green_a_2",
+        "grey": "_grey_a_1",
+        "idButton": "_button_n_1",
+        "idLongHallwayFrontOpeningDoorLock": "_lock_n_1",
+        "idaluminum": "_aluminum_n_1",
+        "left": "_left_n_of",
+        "locked": "_lock_v_cause",
+        "off": "_off_a_1",
+        "old": "_old_a_1",
+        "open": "_open_a_to",
+        "red": "_red_a_1",
+        "right": "_right_n_of",
+        "rusty": "_rusty_a_1",
+        "small": "_small_a_1",
+        "tiny": "_tiny_a_1",
+        "true": "_true_a_of",
+        "uncountable": {
+            "composition": "prefix",
+            "predicates": {
+                "head": "_countable_a_1",
+                "modifier": "_un-_a_neg"
+            }
+        },
+        "unlit": {
+            "composition": "prefix",
+            "predicates": {
+                "head": "_light_v_cause",
+                "modifier": "_un-_a_neg"
+            }
+        },
+        "white": "_white_a_1",
+        "yes": "_true_a_of"
     },
     "properties": {
-        "idOpenState": "",
-        "idLockMechanism": "",
-        "idColor": "",
-        "idSide": "",
-        "idUnknownObject": "",
-        "idMaterial": "",
-        "idImmovable": "",
-        "idTexture": "",
-        "idOrdinality": "",
-        "idPowerControl": "",
-        "idPowerState": "",
-        "idLitState": "",
-        "idSize": "",
-        "idCurrentLevel": "",
-        "oldAdjectiveType": "",
-        "idLockedState": "",
-        "idArticleType": "",
-        "isBeneath": {
-            "composition": "",
+        "idOpenState": "adjective",
+        "idLockMechanism": {
+            "composition": "preposition",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_with_p"
+            }
+        },
+        "idColor": "adjective",
+        "idSide": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_on_p_loc"
+            }
+        },
+        "idUnknownObject": {
+            "composition": "boolean",
+            "property_predicate": {
+                "predicate_type": "boolean_pass_part_ssement",
+                "predicate_label": [["_un-_a_neg", "_know_v_1"], "_know_v_1"]
+            }
+        },
+        "idMaterial": "compound",
+        "idImmovable": {
+            "composition": "boolean",
+            "property_predicate": {
+                "predicate_type": "boolean_adjective_ssement",
+                "predicate_label": ["_immovable_a_1", "_movable_a_1"]
+            }
+        },
+        "idTexture": "adjective",
+        "idOrdinality": "ord",
+        "idPowerControl": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_with_p"
+            }
+        },
+        "idPowerState": "adjective",
+        "idLitState": "descriptor",
+        "idSize": "adjective",
+        "idCurrentLevel": "",
+        "oldAdjectiveType": "adjective",
+        "idLockedState": "descriptor",
+        "idArticleType": "descriptor",
+        "isBeneath": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_beneath_p"
             }
         },
         "isEastOf": {
-            "composition": "",
+            "composition": "relative_direction",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_east_a_1"
             }
         },
         "isInsideOf": {
-            "composition": "",
+            "composition": "preposition",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_inside+of_p"
             }
         },
         "isNear": {
-            "composition": "",
+            "composition": "preposition",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_near_p"
             }
         },
         "isNorthOf": {
-            "composition": "",
+            "composition": "relative_direction",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_north_a_1"
             }
         },
         "isSouthOf": {
-            "composition": "",
+            "composition": "relative_direction",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_south_a_1"
             }
         },
         "isWestOf": {
-            "composition": "",
+            "composition": "relative_direction",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_west_a_1"
             }
         }
     }

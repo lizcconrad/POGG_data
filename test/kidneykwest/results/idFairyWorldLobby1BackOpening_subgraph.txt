@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idFairyWorldLobby1BackOpening_subgraph.dot
+[ TOP: h3925
+  INDEX: e3922
+  RELS: < [ unknown LBL: h3924 ARG: x3918 ARG0: e3922 ]
+          [ def_udef_a_q LBL: h3921 ARG0: x3918 RSTR: h3919 BODY: h3920 ]
+          [ compound LBL: h3917 ARG0: e3914 ARG1: x3918 ARG2: x3910 ]
+          [ udef_q LBL: h3913 ARG0: x3910 RSTR: h3911 BODY: h3912 ]
+          [ _back_n_1 LBL: h3909 ARG0: x3910 ]
+          [ _opening_n_1 LBL: h3917 ARG0: x3918 ] >
+  HCONS: < h3911 qeq h3909 h3919 qeq h3917 h3925 qeq h3924 > ]
+GENERATED RESULTS ... 
+The back openings
+The back opening
+A back opening
+The back openings.
+Back openings.
+Back openings
+Back opening
+The back opening.
+A back opening.
+The backed, openings.
+Backed, opening
+The backed, openings
+Backed, openings.
+The backed, opening
+A backed, opening
+Backed, openings
+The backed opening
+Back opening.
+Backed openings
+Backed, opening.
+The backed, opening.
+A backed opening
+A backed, opening.
+The backed openings
+The backed openings.
+Backed openings.
+Backed opening
+The backed opening.
+A backed opening.
+Backed opening.
+
+TOTAL RESULTS: 30
+
+Node                             MRS Produced    Reason                 Included in MRS    Reason
+-------------------------------  --------------  ---------------------  -----------------  ---------------
+idFairyWorldLobby1BackOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

@@ -1,0 +1,59 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idTent1Door_subgraph.dot
+[ TOP: h554
+  INDEX: e551
+  RELS: < [ unknown LBL: h553 ARG: x547 ARG0: e551 ]
+          [ def_udef_a_q LBL: h550 ARG0: x547 RSTR: h548 BODY: h549 ]
+          [ _un-_a_neg LBL: h508 ARG0: i506 ARG1: e509 ]
+          [ _know_v_1 LBL: h508 ARG0: e509 ARG1: u510 ARG2: x547 ]
+          [ _open_a_to LBL: h508 ARG0: e498 ARG1: x547 ARG2: u500 ]
+          [ _door_n_1 LBL: h508 ARG0: x547 ] >
+  HCONS: < h548 qeq h508 h554 qeq h553 > ]
+GENERATED RESULTS ... 
+The open unknown doors
+An open unknown door
+The open unknown door
+Open unknown doors
+An unknown open door
+The unknown open door
+The unknown open doors
+The open unknown doors.
+The unknown open doors.
+Open unknown doors.
+An open unknown door.
+The open unknown door.
+An unknown open door.
+Unknown open doors
+The unknown open door.
+Open unknown door
+Unknown open doors.
+Unknown open door
+Open unknown door.
+Unknown open door.
+
+TOTAL RESULTS: 20
+
+Node               MRS Produced    Reason                                    Included in MRS    Reason
+-----------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+green_5            True            MRS fragment produced                     False              Descends from failed node
+idBaby1LeftHand_7  True            MRS fragment produced                     False              Descends from failed node
+idGoButton_4       False           'idGoButton' has no value in the lexicon  False              'idGoButton' has no value in the lexicon
+idTent1Door_1      True            MRS fragment produced                     True               Included in MRS
+open_2             True            MRS fragment produced                     True               Included in MRS
+true_3             True            MRS fragment produced                     True               Included in MRS
+true_6             True            MRS fragment produced                     False              Descends from failed node
+
+Edge               MRS Composed    Reason                     Included in MRS    Reason
+-----------------  --------------  -------------------------  -----------------  -------------------------
+idColor_3          False           Outbound from failed node  False              Outbound from failed node
+idOpenState_1      True            MRS composed               True               Included in MRS
+idUnknownObject_2  True            MRS composed               True               Included in MRS
+idUnknownObject_4  False           Outbound from failed node  False              Outbound from failed node
+isEastOf_5         False           Outbound from failed node  False              Outbound from failed node
+isNorthOf_6        False           Inbound to failed node     False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        7    0.857143
+Nodes              Included             3        7    0.428571
+Edges              Produced             2        6    0.333333
+Edges              Included             2        6    0.333333

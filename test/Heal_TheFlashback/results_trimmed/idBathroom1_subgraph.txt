@@ -1,0 +1,100 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idBathroom1_subgraph.dot
+[ TOP: h2158
+  INDEX: e2155
+  RELS: < [ unknown LBL: h2157 ARG: x2119 ARG0: e2155 ]
+          [ def_udef_a_q LBL: h2154 ARG0: x2119 RSTR: h2152 BODY: h2153 ]
+          [ loc_nonsp LBL: h2150 ARG0: i2147 ARG1: x2119 ARG2: x2141 ]
+          [ _messy_a_1 LBL: h2150 ARG0: e2121 ARG1: x2119 ]
+          [ _bathroom_n_1 LBL: h2150 ARG0: x2119 ]
+          [ def_implicit_q LBL: h2146 ARG0: x2141 RSTR: h2144 BODY: h2145 ]
+          [ _west_a_1 LBL: h2142 ARG0: i2133 ARG1: x2141 ARG2: x2137 ]
+          [ def_udef_a_q LBL: h2140 ARG0: x2137 RSTR: h2138 BODY: h2139 ]
+          [ _closed_a_1 LBL: h2126 ARG0: e2130 ARG1: x2137 ]
+          [ _drawer_n_of LBL: h2126 ARG0: x2137 ARG1: i2125 ]
+          [ place_n LBL: h2142 ARG0: x2141 ] >
+  HCONS: < h2138 qeq h2126 h2144 qeq h2142 h2152 qeq h2150 h2158 qeq h2157 > ]
+GENERATED RESULTS ... 
+The messy bathrooms west of a closed drawer
+The messy bathrooms west of the closed drawers
+The messy bathrooms west of a closed drawer.
+The messy bathrooms west of the closed drawer
+The messy bathrooms west of the closed drawers.
+The messy bathrooms west of the closed drawer.
+A messy bathroom west of a closed drawer
+The messy bathroom west of a closed drawer
+Messy bathrooms west of a closed drawer
+A messy bathroom west of the closed drawers
+The messy bathroom west of the closed drawers
+Messy bathrooms west of the closed drawers
+A messy bathroom west of a closed drawer.
+The messy bathroom west of a closed drawer.
+The messy bathrooms west of closed drawers
+Messy bathrooms west of a closed drawer.
+A messy bathroom west of the closed drawer
+The messy bathroom west of the closed drawer
+The messy bathrooms west of closed drawers.
+Messy bathrooms west of the closed drawer
+A messy bathroom west of the closed drawers.
+The messy bathroom west of the closed drawers.
+Messy bathrooms west of the closed drawers.
+A messy bathroom west of the closed drawer.
+The messy bathroom west of the closed drawer.
+Messy bathrooms west of the closed drawer.
+A messy bathroom west of closed drawers
+The messy bathroom west of closed drawers
+Messy bathroom west of a closed drawer
+A messy bathroom west of closed drawers.
+The messy bathroom west of closed drawers.
+Messy bathrooms west of closed drawers
+Messy bathrooms west of closed drawers.
+Messy bathroom west of the closed drawers
+Messy bathroom west of a closed drawer.
+Messy bathroom west of the closed drawer
+Messy bathroom west of the closed drawers.
+Messy bathroom west of the closed drawer.
+Messy bathroom west of closed drawers
+Messy bathroom west of closed drawers.
+The messy bathrooms, west of a closed drawer
+The messy bathroom, west of a closed drawer
+Messy bathrooms, west of a closed drawer
+The messy bathrooms, west of the closed drawers
+The messy bathroom, west of the closed drawers
+Messy bathrooms, west of the closed drawers
+Messy bathroom, west of a closed drawer
+The messy bathrooms, west of the closed drawer
+The messy bathroom, west of the closed drawer
+Messy bathrooms, west of the closed drawer
+Messy bathroom, west of the closed drawers
+A messy bathroom, west of a closed drawer
+A messy bathroom, west of the closed drawers
+Messy bathroom, west of the closed drawer
+A messy bathroom, west of the closed drawer
+The messy bathrooms, west of closed drawers
+The messy bathroom, west of closed drawers
+Messy bathrooms, west of closed drawers
+Messy bathroom, west of closed drawers
+A messy bathroom, west of closed drawers
+
+TOTAL RESULTS: 60
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  -------------------------
+closed_5      True            MRS fragment produced  True               Included in MRS
+false_4       True            MRS fragment produced  False              Descends from failed edge
+idBathroom_1  True            MRS fragment produced  True               Included in MRS
+idDrawer_3    True            MRS fragment produced  True               Included in MRS
+messy_2       True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason                                 Included in MRS    Reason
+--------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idDescriptor_1  True            MRS composed                           True               Included in MRS
+idImmovable_2   False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idOpenState_3   True            MRS composed                           True               Included in MRS
+isWestOf_4      True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             5        5        1
+Nodes              Included             4        5        0.8
+Edges              Produced             3        4        0.75
+Edges              Included             3        4        0.75

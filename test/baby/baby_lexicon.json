@@ -1,87 +1,387 @@
 {
     "entityTypes": {
-        "idBaby": "",
-        "idBaby1LeftHand": "",
-        "idBaby1RightHand": "",
-        "idBabyCarSeat": "",
-        "idBackyard": "",
-        "idBackyardDoor": "",
-        "idBackyardDoor1Key": "",
-        "idBackyardDoor1idBackyard1idSouthOfOpening": "",
-        "idBackyardDoor1idLivingRoom1FrontOpening": "",
-        "idBed": "",
-        "idBedroom": "",
-        "idBedroom1LeftOpening": "",
-        "idBedroom1RightOpening": "",
-        "idBedroomToClosetDoor": "",
-        "idButton": "",
-        "idCar": "",
+        "idBaby": "_baby_n_1",
+        "idBaby1LeftHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_left_n_of"
+                    }
+                },
+                "modifier": "_baby_n_1"
+            }
+        },
+        "idBaby1RightHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_right_n_of"
+                    }
+                },
+                "modifier": "_baby_n_1"
+            }
+        },
+        "idBabyCarSeat":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_seat_n_1",
+                "modifier": "_car_n_1"
+            }
+        },
+        "idBackyard": "_backyard_n_1",
+        "idBackyardDoor": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_backyard_n_1"
+            }
+        },
+        "idBackyardDoor1Key": "_key_n_1",
+        "idBackyardDoor1idBackyard1idSouthOfOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_south_n_of"
+            }
+        },
+        "idBackyardDoor1idLivingRoom1FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idBed": "_bed_n_1",
+        "idBedroom": "_bedroom_n_1",
+        "idBedroom1LeftOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idBedroom1RightOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_right_n_of"
+            }
+        },
+        "idBedroomToClosetDoor": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_closet_n_1"
+            }
+        },
+        "idButton": "_button_n_1",
+        "idCar": "_car_n_1",
         "idCar1_prop_idPowerControl": "",
-        "idCardKey": "",
-        "idCardReader": "",
-        "idCardReaderWorkshop": "",
-        "idCloset": "",
-        "idCloset1LeftOpening": "",
-        "idCloset1RightOpening": "",
-        "idClosetToWorkshopDoor": "",
-        "idCouch": "",
-        "idCrib": "",
-        "idDaycare": "",
-        "idDiaperBag": "",
-        "idDock": "",
-        "idDogDoor": "",
-        "idDriverSeat": "",
-        "idDriversSideFrontDoor": "",
-        "idDriversSideFrontDoorInsideOpening": "",
-        "idDriversSideFrontDoorOutsideOpening": "",
-        "idDriveway": "",
-        "idEndRoom": "",
-        "idFrontDoor": "",
-        "idFrontDoor1idLivingRoom1BackOpening": "",
-        "idFrontDoor1idPorch1idNorthOfOpening": "",
+        "idCardKey": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_card_n_1",
+                "modifier": "_key_n_1"
+            }
+        },
+        "idCardReader": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_reader_n_of",
+                "modifier": "_card_n_1"
+            }
+        },
+        "idCardReaderWorkshop": "_workshop_n_1",
+        "idCloset": "_closet_n_1",
+        "idCloset1LeftOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idCloset1RightOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_right_n_of"
+            }
+        },
+        "idClosetToWorkshopDoor": "_door_n_1",
+        "idCouch": "_couch_n_1",
+        "idCrib": "_crib_n_1",
+        "idDaycare": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_care_n_1",
+                "modifier": "_day_n_of"
+            }
+        },
+        "idDiaperBag": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_bag_n_of",
+                "modifier": "_diaper_n_1"
+            }
+        },
+        "idDock": "_dock_n_1",
+        "idDogDoor": "_door_n_1",
+        "idDriverSeat": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_seat_n_1",
+                "modifier": "_driver_n_of"
+            }
+        },
+        "idDriversSideFrontDoor": "_door_n_1",
+        "idDriversSideFrontDoorInsideOpening": {
+            "composition": "adjective",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_inside_a_1"
+            }
+        },
+        "idDriversSideFrontDoorOutsideOpening": {
+            "composition": "adjective",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_outside_a_1"
+            }
+        },
+        "idDriveway": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_way_n_of",
+                "modifier": "_drive_n_1"
+            }
+        },
+        "idEndRoom": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_room_n_unit",
+                "modifier": "_end_n_of"
+            }
+        },
+        "idFrontDoor": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idFrontDoor1idLivingRoom1BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idFrontDoor1idPorch1idNorthOfOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_north_n_of"
+            }
+        },
         "idGoButton": "",
-        "idHouse": "",
-        "idKitchen": "",
-        "idKitchen1RightOpening": "",
-        "idLab": "",
-        "idLivingRoom": "",
-        "idLivingRoom1LeftOpening": "",
-        "idLivingRoom1RightOpening": "",
-        "idLivingRoomToBedroomDoor": "",
-        "idLivingRoomToKitchenDoor": "",
-        "idLot": "",
-        "idMom": "",
-        "idMomNote": "",
-        "idMonitor": "",
+        "idHouse": "_house_n_of",
+        "idKitchen": "_kitchen_n_1",
+        "idKitchen1RightOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_right_n_of"
+            }
+        },
+        "idLab": "_lab_n_1",
+        "idLivingRoom": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_room_n_unit",
+                "modifier": "_living_n_1"
+            }
+        },
+        "idLivingRoom1LeftOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idLivingRoom1RightOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_right_n_of"
+            }
+        },
+        "idLivingRoomToBedroomDoor": "_door_n_1",
+        "idLivingRoomToKitchenDoor": "_door_n_1",
+        "idLot": "_lot_n_1",
+        "idMom": "_mom_n_1",
+        "idMomNote": {
+            "composition": "possessive",
+            "predicates": {
+                "head": "_note_n_1",
+                "modifier": "_mom_n_1"
+            }
+        },
+        "idMonitor": "_monitor_n_1",
         "idPacifier": "",
-        "idPassengerSeat": "",
-        "idPassengersSideFrontDoor": "",
-        "idPassengersSideFrontDoorInsideOpening": "",
-        "idPassengersSideFrontDoorOutsideOpening": "",
-        "idPlayer": "",
-        "idPlayerBackside": "",
-        "idPlayerLeftHand": "",
-        "idPlayerRightHand": "",
-        "idPorch": "",
-        "idScreen": "",
-        "idScreen1Text": "",
-        "idScrewdriver": "",
-        "idSidewalk": "",
-        "idSign": "",
-        "idSign1Text": "",
-        "idStartButton": "",
-        "idTable": "",
-        "idTent": "",
-        "idTent1Door": "",
-        "idTent1DoorInsideOpening": "",
-        "idTent1DoorOutsideOpening": "",
-        "idThief": "",
-        "idWorker": "",
-        "idWorker1LeftHand": "",
-        "idWorker1RightHand": "",
-        "idWorkshop": "",
-        "idWorkshop1LeftOpening": "",
-        "idWorld": ""
+        "idPassengerSeat": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_seat_n_1",
+                "modifier": "_passenger_n_1"
+            }
+        },
+        "idPassengersSideFrontDoor": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idPassengersSideFrontDoorInsideOpening": {
+            "composition": "adjective",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_inside_a_1"
+            }
+        },
+        "idPassengersSideFrontDoorOutsideOpening": {
+            "composition": "adjective",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_outside_a_1"
+            }
+        },
+        "idPlayer": "_player_n_of",
+        "idPlayerBackside": {
+            "composition": "possessive",
+            "predicates": {
+                "head": "_backside_n_1",
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerLeftHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_left_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerRightHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_right_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPorch": "_porch_n_1",
+        "idScreen": "_screen_n_1",
+        "idScreen1Text":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_text_n_of",
+                "modifier": "_screen_n_1"
+            }
+        },
+        "idScrewdriver": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_driver_n_of",
+                "modifier": "_screw_n_1"
+            }
+        },
+        "idSidewalk": "_sidewalk_n_1",
+        "idSign": "_sign_n_of",
+        "idSign1Text":  {
+            "composition": "compound",
+            "predicates": {
+                "head": "_text_n_of",
+                "modifier": "_sign_n_of"
+            }
+        },
+        "idStartButton": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_button_n_1",
+                "modifier": "_start_n_1"
+            }
+        },
+        "idTable": "_table_n_1",
+        "idTent": "_tent_n_1",
+        "idTent1Door": "_door_n_1",
+        "idTent1DoorInsideOpening": {
+            "composition": "adjective",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_inside_a_1"
+            }
+        },
+        "idTent1DoorOutsideOpening": {
+            "composition": "adjective",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_outside_a_1"
+            }
+        },
+        "idThief": "_thief_n_1",
+        "idWorker": "_worker_n_1",
+        "idWorker1LeftHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_left_n_of"
+                    }
+                },
+                "modifier": "_worker_n_1"
+            }
+        },
+        "idWorker1RightHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_right_n_of"
+                    }
+                },
+                "modifier": "_worker_n_1"
+            }
+        },
+        "idWorkshop": "_workshop_n_1",
+        "idWorkshop1LeftOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idWorld": "_world_n_of"
     },
     "propertyValues": {
         "\"There are doors to [the, sayName(idKitchen1)], [the, sayName(idBackyard1)] (with [a, sayName(idDogDoor1)] installed), [the, sayName(idBedroom1)] and [the, sayName(idPorch1)].{p}\"": "",
@@ -92,104 +392,158 @@
         "1": "",
         "2": "",
         "babyDoNothing": "",
-        "blue": "",
-        "closed": "",
-        "dusty": "",
-        "false": "",
-        "green": "",
-        "idBackyardDoor1Lock": "",
-        "idDriver": "",
-        "idFrontDoor1Lock": "",
-        "idLocalFront": "",
-        "idLocalLeft": "",
+        "blue": "_blue_a_1",
+        "closed": "_closed_a_1",
+        "dusty": "_dusty_a_1",
+        "false": "_false_a_1",
+        "green": "_green_a_2",
+        "idBackyardDoor1Lock": "_lock_n_1",
+        "idDriver": "_driver_n_of",
+        "idFrontDoor1Lock": "_lock_n_1",
+        "idLocalFront": "_front_n_1",
+        "idLocalLeft": "_left_n_of",
         "idNone": "",
         "idPassenger": "",
-        "idmetal": "",
+        "idmetal": "_metal_n_1",
         "left": "",
-        "locked": "",
-        "modern": "",
-        "off": "",
-        "open": "",
+        "locked": "_lock_v_cause",
+        "modern": "_modern_a_1",
+        "off": "_off_a_1",
+        "open": "_open_a_to",
         "pointy": "",
-        "right": "",
-        "small": "",
-        "true": "",
-        "uncountable": "",
+        "right": "_right_n_of",
+        "small": "_small_a_1",
+        "true": "_true_a_of",
+        "uncountable": {
+            "composition": "prefix",
+            "predicates": {
+                "head": "_countable_a_1",
+                "modifier": "_un-_a_neg"
+            }
+        },
         "unlocked": "",
-        "unusual": "",
-        "yes": ""
+        "unusual": {
+            "composition": "prefix",
+            "predicates": {
+                "head": "_usual_a_for",
+                "modifier": "_un-_a_neg"
+            }
+        },
+        "yes": "_true_a_of"
     },
     "properties": {
-        "idLocation": "",
-        "idLocation_": "",
+        "idLocation": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_on_p_loc"
+            }
+        },
+        "idLocation_": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_on_p_loc"
+            }
+        },
         "idCarSide": "",
         "idOwnedBy": "",
-        "idOpenState": "",
-        "idUnknownObject": "",
-        "idLockMechanism": "",
+        "idOpenState": "adjective",
+        "idUnknownObject": {
+            "composition": "boolean",
+            "property_predicate": {
+                "predicate_type": "boolean_pass_part_ssement",
+                "predicate_label": [["_un-_a_neg", "_know_v_1"], "_know_v_1"]
+            }
+        },
+        "idLockMechanism": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_with_p"
+            }
+        },
         "idDirectionDescription": "",
-        "idImmovable": "",
+        "idImmovable": {
+            "composition": "boolean",
+            "property_predicate": {
+                "predicate_type": "boolean_adjective_ssement",
+                "predicate_label": ["_immovable_a_1", "_movable_a_1"]
+            }
+        },
         "idPowerControl": "",
-        "idPowerState": "",
-        "idMaterial": "",
-        "idSize": "",
+        "idPowerState": "adjective",
+        "idMaterial": "adjective",
+        "idSize": "adjective",
         "idTask": "",
         "idCrawlingRoom": "",
         "idCryTurns": "",
-        "idSeen": "",
-        "idSide": "",
-        "idColor": "",
-        "idOrdinality": "",
-        "idShape": "",
-        "idArticleType": "",
-        "idLockedState": "",
-        "isBeneath": {
-            "composition": "",
+        "idSeen": {
+            "composition": "boolean",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "boolean_pass_part_ssement",
+                "predicate_label": [["_un-_a_neg", "_see_v_1"], "_see_v_1"]
+            }
+        },
+        "idSide": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_on_p_loc"
+            }
+        },
+        "idColor": "adjective",
+        "idOrdinality": "",
+        "idShape": "adjective",
+        "idArticleType": "descriptor",
+        "idLockedState": "descriptor",
+        "isBeneath": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_beneath_p"
             }
         },
         "isEastOf": {
-            "composition": "",
+            "composition": "relative_direction",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_east_a_1"
             }
         },
         "isInsideOf": {
-            "composition": "",
+            "composition": "preposition",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_inside+of_p"
             }
         },
         "isNear": {
-            "composition": "",
+            "composition": "preposition",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_near_p"
             }
         },
         "isNorthOf": {
-            "composition": "",
+            "composition": "relative_direction",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_north_a_1"
             }
         },
         "isSouthOf": {
-            "composition": "",
+            "composition": "relative_direction",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_south_a_1"
             }
         },
         "isWestOf": {
-            "composition": "",
+            "composition": "relative_direction",
             "property_predicate": {
-                "predicate_type": "",
-                "predicate_label": ""
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_west_a_1"
             }
         }
     }

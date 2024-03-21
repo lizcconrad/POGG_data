@@ -1,0 +1,35 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idPassengersSideFrontDoorOutsideOpening_subgraph.dot
+[ TOP: h3373
+  INDEX: e3370
+  RELS: < [ unknown LBL: h3372 ARG: x3361 ARG0: e3370 ]
+          [ def_udef_a_q LBL: h3369 ARG0: x3361 RSTR: h3367 BODY: h3368 ]
+          [ _outside_a_1 LBL: h3365 ARG0: e3363 ARG1: x3361 ]
+          [ _opening_n_1 LBL: h3365 ARG0: x3361 ] >
+  HCONS: < h3367 qeq h3365 h3373 qeq h3372 > ]
+GENERATED RESULTS ... 
+The outside openings
+The outside opening
+Outside openings
+An outside opening
+The outside openings.
+Outside openings.
+The outside opening.
+Outside opening
+An outside opening.
+Outside opening.
+
+TOTAL RESULTS: 10
+
+Node                                       MRS Produced    Reason                 Included in MRS    Reason
+-----------------------------------------  --------------  ---------------------  -----------------  ---------------
+idPassengersSideFrontDoorOutsideOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

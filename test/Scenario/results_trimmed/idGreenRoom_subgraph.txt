@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idGreenRoom_subgraph.dot
+[ TOP: h595
+  INDEX: e592
+  RELS: < [ unknown LBL: h594 ARG: x588 ARG0: e592 ]
+          [ def_udef_a_q LBL: h591 ARG0: x588 RSTR: h589 BODY: h590 ]
+          [ _green_a_2 LBL: h587 ARG0: i585 ARG1: x588 ]
+          [ _room_n_unit LBL: h587 ARG0: x588 ] >
+  HCONS: < h589 qeq h587 h595 qeq h594 > ]
+GENERATED RESULTS ... 
+The green rooms
+Green rooms
+The green room
+A green room
+The green rooms.
+Green rooms.
+The green room.
+Green room
+A green room.
+Green room.
+
+TOTAL RESULTS: 10
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+green_2        True            MRS fragment produced  True               Included in MRS
+idGreenRoom_1  True            MRS fragment produced  True               Included in MRS
+
+Edge       MRS Composed    Reason        Included in MRS    Reason
+---------  --------------  ------------  -----------------  ---------------
+idColor_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

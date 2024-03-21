@@ -1,0 +1,26 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idAdamLeftHand_subgraph.dot
+
+
+TOTAL RESULTS: 0
+
+Node              MRS Produced    Reason                                        Included in MRS    Reason
+----------------  --------------  --------------------------------------------  -----------------  --------------------------------------------
+idAdamLeftHand_1  False           'idAdamLeftHand' has no value in the lexicon  False              'idAdamLeftHand' has no value in the lexicon
+idButton_4        True            MRS fragment produced                         False              Descends from failed edge
+idElevator_3      True            MRS fragment produced                         False              Descends from failed node
+idFuseSocket_5    True            MRS fragment produced                         False              Descends from failed node
+left_2            True            MRS fragment produced                         False              Descends from failed node
+
+Edge              MRS Composed    Reason                                    Included in MRS    Reason
+----------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+idCurrentLevel_2  False           'idCurrentLevel' has no value in lexicon  False              'idCurrentLevel' has no value in lexicon
+idSide_1          False           Outbound from failed node                 False              Outbound from failed node
+isNorthOf_4       False           Outbound from failed node                 False              Outbound from failed node
+isSouthOf_3       True            MRS composed                              False              Descends from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        5        0.8
+Nodes              Included             0        5        0
+Edges              Produced             1        4        0.25
+Edges              Included             0        4        0

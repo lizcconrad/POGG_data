@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idClearing1_subgraph.dot
+[ TOP: h714
+  INDEX: e711
+  RELS: < [ unknown LBL: h713 ARG: x707 ARG0: e711 ]
+          [ def_udef_a_q LBL: h710 ARG0: x707 RSTR: h708 BODY: h709 ]
+          [ _grassy_a_1 LBL: h703 ARG0: e704 ARG1: x707 ]
+          [ _clearing_n_1 LBL: h703 ARG0: x707 ] >
+  HCONS: < h708 qeq h703 h714 qeq h713 > ]
+GENERATED RESULTS ... 
+The grassy clearings
+Grassy clearings
+The grassy clearing
+The grassy clearings.
+A grassy clearing
+Grassy clearings.
+Grassy clearing
+The grassy clearing.
+A grassy clearing.
+Grassy clearing.
+
+TOTAL RESULTS: 10
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  ---------------
+grassy_2      True            MRS fragment produced  True               Included in MRS
+idClearing_1  True            MRS fragment produced  True               Included in MRS
+
+Edge            MRS Composed    Reason        Included in MRS    Reason
+--------------  --------------  ------------  -----------------  ---------------
+idDescriptor_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

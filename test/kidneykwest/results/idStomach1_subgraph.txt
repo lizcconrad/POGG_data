@@ -1,0 +1,38 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idStomach1_subgraph.dot
+[ TOP: h3733
+  INDEX: e3730
+  RELS: < [ unknown LBL: h3732 ARG: x3726 ARG0: e3730 ]
+          [ def_udef_a_q LBL: h3729 ARG0: x3726 RSTR: h3727 BODY: h3728 ]
+          [ _stomach_n_1 LBL: h3725 ARG0: x3726 ] >
+  HCONS: < h3727 qeq h3725 h3733 qeq h3732 > ]
+GENERATED RESULTS ... 
+Stomach
+A stomach
+Stomached.
+Stomached
+The stomach
+The stomaches
+Stomach.
+The stomaches.
+A stomach.
+The stomach.
+Stomaches.
+Stomaches
+Stomach.
+Stomach
+
+TOTAL RESULTS: 14
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  ---------------
+idStomach_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

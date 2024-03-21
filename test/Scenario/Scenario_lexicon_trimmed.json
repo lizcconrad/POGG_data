@@ -1,0 +1,274 @@
+{
+    "entityTypes": {
+        "idBook": "_book_n_of",
+        "idBook1Page1": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_page_n_1",
+                "modifier": "_book_n_of"
+            }
+        },
+        "idBook1Page1Text": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_text_n_of",
+                "modifier": "_page_n_1"
+            }
+        },
+        "idBook1Page2": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_page_n_1",
+                "modifier": "_book_n_of"
+            }
+        },
+        "idBook1Page2Text": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_text_n_of",
+                "modifier": "_page_n_1"
+            }
+        },
+        "idBook1Page3": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_page_n_1",
+                "modifier": "_book_n_of"
+            }
+        },
+        "idBook1Page3Torn": "",
+        "idBook1Page3TornText": "",
+        "idCrystal": "_crystal_n_1",
+        "idDarkCave": "_cave_n_1",
+        "idDarkCaveFrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idDiamond": "_diamond_n_1",
+        "idEntrancecave": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_entrance_n_1",
+                "modifier": "_cave_n_1"
+            }
+        },
+        "idEntrancecaveBackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idFlashlight": "_flashlight_n_1",
+        "idFlashlight1Switch": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_switch_n_1",
+                "modifier": "_flashlight_n_1"
+            }
+        },
+        "idFlashlight1_prop_idPowerControl": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_with_p"
+            }
+        },
+        "idFlashlight2_prop_idPowerControl": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_with_p"
+            }
+        },
+        "idFlashlightHandle": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_handle_n_1",
+                "modifier": "_flashlight_n_1"
+            }
+        },
+        "idGreenRoom": "_room_n_unit",
+        "idGreenRoomBackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idGreenRoomBackOpeningDoor": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_door_n_1",
+                "modifier": {
+                    "composition": "adjective",
+                    "predicates":{
+                        "head": "_room_n_unit",
+                        "modifier": "_green_a_2"
+                    }
+                }
+            }
+        },
+        "idGreenRoomBackOpeningDoorKeyhole": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_hole_n_1",
+                "modifier": "_key_n_1"
+            }
+        },
+        "idGreenRoomFrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idKey": "_key_n_1",
+        "idKeyhole": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_hole_n_1",
+                "modifier": "_key_n_1"
+            }
+        },
+        "idLexi": "",
+        "idLexiLeftHand": "",
+        "idLexiRightHand": "",
+        "idLight": "_light_n_1",
+        "idLock": "_lock_n_1",
+        "idLockFace": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_face_n_1",
+                "modifier": "_lock_n_1"
+            }
+        },
+        "idMachine": "_machine_n_1",
+        "idMachine1_prop_idPowerControl": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_control_n_of",
+                "modifier": "_power_n_1"
+            }
+        },
+        "idOnSwitch": "",
+        "idPlage": "",
+        "idPlageBackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idPlageFrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idRock": "_rock_n_1",
+        "idSafe": "_safe_n_1",
+        "idTable": "_table_n_1",
+        "idWorld": "_world_n_of"
+    },
+    "propertyValues": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "blue": "_blue_a_1",
+        "closed": "_closed_a_1",
+        "dark": "_dark_a_1",
+        "green": "_green_a_2",
+        "idFlashlight2Switch": "_switch_n_1",
+        "left": "_left_n_of",
+        "lit": "_light_v_cause",
+        "locked": "_lock_v_cause",
+        "medium": "_medium_a_1",
+        "off": "_off_a_1",
+        "on": "",
+        "open": "_open_a_to",
+        "orange": "_orange_a_1",
+        "purple": "_purple_a_1",
+        "red": "_red_a_1",
+        "right": "_right_n_of",
+        "rough": "_rough_a_1",
+        "short": "_short_a_of",
+        "smooth": "_smooth_a_1",
+        "tall": "_tall_a_1",
+        "true": "_true_a_of",
+        "unlit": {
+            "composition": "prefix",
+            "predicates": {
+                "head": "_light_v_cause",
+                "modifier": "_un-_a_neg"
+            }
+        },
+        "unlocked": {
+            "composition": "prefix",
+            "predicates": {
+                "head": "_lock_v_cause",
+                "modifier": "_un-_a_neg"
+            }
+        },
+        "yellow": "_yellow_a_1"
+    },
+    "properties": {
+        "idHeight": "adjective",
+        "idOpenState": "adjective",
+        "idOrdinality": "",
+        "idLockedState": "descriptor",
+        "idColor": "adjective",
+        "idTone": "adjective",
+        "idCardinality": "",
+        "idUnknownObject": "",
+        "idPowerState": "adjective",
+        "idLitState": "descriptor",
+        "idPowerControl": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_with_p"
+            }
+        },
+        "idTexture": "adjective",
+        "idSide":  {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_on_p_loc"
+            }
+        },
+        "isInsideOf": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_inside+of_p"
+            }
+        },
+        "isNear": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_near_p"
+            }
+        },
+        "isNorthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_north_a_1"
+            }
+        },
+        "isSouthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_south_a_1"
+            }
+        }
+    }
+}

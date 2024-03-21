@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idScreen1Text_subgraph.dot
+[ TOP: h2791
+  INDEX: e2788
+  RELS: < [ unknown LBL: h2790 ARG: x2771 ARG0: e2788 ]
+          [ def_udef_a_q LBL: h2787 ARG0: x2771 RSTR: h2785 BODY: h2786 ]
+          [ compound LBL: h2783 ARG0: e2780 ARG1: x2771 ARG2: x2774 ]
+          [ udef_q LBL: h2779 ARG0: x2774 RSTR: h2777 BODY: h2778 ]
+          [ _screen_n_1 LBL: h2775 ARG0: x2774 ]
+          [ _text_n_of LBL: h2783 ARG0: x2771 ARG1: i2772 ] >
+  HCONS: < h2777 qeq h2775 h2785 qeq h2783 h2791 qeq h2790 > ]
+GENERATED RESULTS ... 
+Screen texts
+Screen texts.
+Screen text
+The screen texts.
+The screen texts
+The screen text
+A screen text
+Screen text.
+The screen text.
+A screen text.
+Screen text.
+Screen text
+
+TOTAL RESULTS: 12
+
+Node             MRS Produced    Reason                 Included in MRS    Reason
+---------------  --------------  ---------------------  -----------------  ---------------
+idScreen1Text_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

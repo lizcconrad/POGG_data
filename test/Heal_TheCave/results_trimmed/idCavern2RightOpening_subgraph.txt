@@ -1,0 +1,100 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idCavern2RightOpening_subgraph.dot
+[ TOP: h300
+  INDEX: e297
+  RELS: < [ unknown LBL: h299 ARG: x257 ARG0: e297 ]
+          [ def_udef_a_q LBL: h296 ARG0: x257 RSTR: h294 BODY: h295 ]
+          [ loc_nonsp LBL: h269 ARG0: i289 ARG1: x257 ARG2: x276 ]
+          [ compound LBL: h269 ARG0: e266 ARG1: x257 ARG2: x262 ]
+          [ udef_q LBL: h265 ARG0: x262 RSTR: h263 BODY: h264 ]
+          [ _right_n_of LBL: h261 ARG0: x262 ARG1: i260 ]
+          [ _opening_n_1 LBL: h269 ARG0: x257 ]
+          [ def_implicit_q LBL: h288 ARG0: x276 RSTR: h286 BODY: h287 ]
+          [ _west_a_1 LBL: h284 ARG0: i275 ARG1: x276 ARG2: x270 ]
+          [ def_udef_a_q LBL: h282 ARG0: x270 RSTR: h280 BODY: h281 ]
+          [ _original_a_1 LBL: h274 ARG0: e272 ARG1: x270 ]
+          [ _cavern_n_1 LBL: h274 ARG0: x270 ]
+          [ place_n LBL: h284 ARG0: x276 ] >
+  HCONS: < h263 qeq h261 h280 qeq h274 h286 qeq h284 h294 qeq h269 h300 qeq h299 > ]
+GENERATED RESULTS ... 
+The right openings west of the original caverns
+The right openings west of the original cavern
+The right openings west of an original cavern
+A right opening west of the original caverns
+The right opening west of the original caverns
+A right opening west of the original cavern
+The right opening west of the original cavern
+A right opening west of an original cavern
+The right opening west of an original cavern
+Right openings west of the original caverns
+Right openings west of the original cavern
+Right openings west of an original cavern
+The right openings west of the original caverns.
+The right openings west of original caverns
+A right opening west of the original caverns.
+The right opening west of the original caverns.
+A right opening west of original caverns
+The right opening west of original caverns
+Right openings west of the original caverns.
+The right openings west of original caverns.
+Right openings west of original caverns
+Right opening west of the original caverns
+The right openings west of the original cavern.
+Right opening west of the original cavern
+The right openings west of an original cavern.
+Right opening west of an original cavern
+A right opening west of original caverns.
+The right opening west of original caverns.
+A right opening west of the original cavern.
+The right opening west of the original cavern.
+A right opening west of an original cavern.
+The right opening west of an original cavern.
+Right openings west of original caverns.
+Right openings west of the original cavern.
+Right openings west of an original cavern.
+Right opening west of the original caverns.
+Right opening west of original caverns
+Right opening west of original caverns.
+The right openings, west of the original caverns
+Right openings, west of the original caverns
+The right opening, west of the original caverns
+Right opening west of the original cavern.
+The right openings, west of the original cavern
+Right openings, west of the original cavern
+Right opening west of an original cavern.
+The right opening, west of the original cavern
+The right openings, west of an original cavern
+Right openings, west of an original cavern
+The right opening, west of an original cavern
+Right opening, west of the original caverns
+Right opening, west of the original cavern
+Right opening, west of an original cavern
+A right opening, west of the original caverns
+A right opening, west of the original cavern
+A right opening, west of an original cavern
+The right openings, west of original caverns
+Right openings, west of original caverns
+The right opening, west of original caverns
+Right opening, west of original caverns
+A right opening, west of original caverns
+
+TOTAL RESULTS: 60
+
+Node                     MRS Produced    Reason                           Included in MRS    Reason
+-----------------------  --------------  -------------------------------  -----------------  -------------------------------
+1_3                      False           '1' has no value in the lexicon  False              '1' has no value in the lexicon
+idCavern2RightOpening_1  True            MRS fragment produced            True               Included in MRS
+idCavern_2               True            MRS fragment produced            True               Included in MRS
+original_4               True            MRS fragment produced            True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idDescriptor_2  True            MRS composed            True               Included in MRS
+idOrdinality_1  False           Inbound to failed node  False              Inbound to failed node
+isWestOf_3      True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        4    0.75
+Nodes              Included             3        4    0.75
+Edges              Produced             2        3    0.666667
+Edges              Included             2        3    0.666667

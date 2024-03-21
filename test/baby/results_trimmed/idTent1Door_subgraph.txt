@@ -1,0 +1,47 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idTent1Door_subgraph.dot
+[ TOP: h493
+  INDEX: e490
+  RELS: < [ unknown LBL: h492 ARG: x486 ARG0: e490 ]
+          [ def_udef_a_q LBL: h489 ARG0: x486 RSTR: h487 BODY: h488 ]
+          [ _open_a_to LBL: h447 ARG0: e448 ARG1: x486 ARG2: u450 ]
+          [ _door_n_1 LBL: h447 ARG0: x486 ] >
+  HCONS: < h487 qeq h447 h493 qeq h492 > ]
+GENERATED RESULTS ... 
+The open door
+The open doors
+An open door
+The open doors.
+Open doors
+The open door.
+Open doors.
+An open door.
+Open door
+Open door.
+
+TOTAL RESULTS: 10
+
+Node               MRS Produced    Reason                                    Included in MRS    Reason
+-----------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+green_5            True            MRS fragment produced                     False              Descends from failed node
+idBaby1LeftHand_7  True            MRS fragment produced                     False              Descends from failed node
+idGoButton_4       False           'idGoButton' has no value in the lexicon  False              'idGoButton' has no value in the lexicon
+idTent1Door_1      True            MRS fragment produced                     True               Included in MRS
+open_2             True            MRS fragment produced                     True               Included in MRS
+true_3             True            MRS fragment produced                     False              Descends from failed edge
+true_6             True            MRS fragment produced                     False              Descends from failed node
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idColor_3          False           Outbound from failed node                  False              Outbound from failed node
+idOpenState_1      True            MRS composed                               True               Included in MRS
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+idUnknownObject_4  False           Outbound from failed node                  False              Outbound from failed node
+isEastOf_5         False           Outbound from failed node                  False              Outbound from failed node
+isNorthOf_6        False           Inbound to failed node                     False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        7    0.857143
+Nodes              Included             2        7    0.285714
+Edges              Produced             1        6    0.166667
+Edges              Included             1        6    0.166667

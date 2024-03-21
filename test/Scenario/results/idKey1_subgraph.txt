@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idKey1_subgraph.dot
+[ TOP: h350
+  INDEX: e347
+  RELS: < [ unknown LBL: h349 ARG: x343 ARG0: e347 ]
+          [ def_udef_a_q LBL: h346 ARG0: x343 RSTR: h344 BODY: h345 ]
+          [ _red_a_1 LBL: h339 ARG0: i340 ARG1: x343 ]
+          [ _key_n_1 LBL: h339 ARG0: x343 ] >
+  HCONS: < h344 qeq h339 h350 qeq h349 > ]
+GENERATED RESULTS ... 
+The red keys
+The red keys.
+The red key
+Red keys
+Red keys.
+A red key
+The red key.
+A red key.
+Red key
+Red key.
+
+TOTAL RESULTS: 10
+
+Node     MRS Produced    Reason                 Included in MRS    Reason
+-------  --------------  ---------------------  -----------------  ---------------
+idKey_1  True            MRS fragment produced  True               Included in MRS
+red_2    True            MRS fragment produced  True               Included in MRS
+
+Edge       MRS Composed    Reason        Included in MRS    Reason
+---------  --------------  ------------  -----------------  ---------------
+idColor_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

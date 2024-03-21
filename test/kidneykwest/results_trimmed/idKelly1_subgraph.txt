@@ -1,0 +1,24 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idKelly1_subgraph.dot
+
+
+TOTAL RESULTS: 0
+
+Node       MRS Produced    Reason                                 Included in MRS    Reason
+---------  --------------  -------------------------------------  -----------------  -------------------------------------
+closed_2   True            MRS fragment produced                  False              Descends from failed node
+idKelly_1  False           'idKelly' has no value in the lexicon  False              'idKelly' has no value in the lexicon
+plastic_4  True            MRS fragment produced                  False              Descends from failed node
+true_3     True            MRS fragment produced                  False              Descends from failed node
+
+Edge               MRS Composed    Reason                     Included in MRS    Reason
+-----------------  --------------  -------------------------  -----------------  -------------------------
+idMaterial_3       False           Outbound from failed node  False              Outbound from failed node
+idOpenState_1      False           Outbound from failed node  False              Outbound from failed node
+idUnknownObject_2  False           Outbound from failed node  False              Outbound from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        4        0.75
+Nodes              Included             0        4        0
+Edges              Produced             0        3        0
+Edges              Included             0        3        0

@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idDrawer2_subgraph.dot
+[ TOP: h1884
+  INDEX: e1881
+  RELS: < [ unknown LBL: h1883 ARG: x1871 ARG0: e1881 ]
+          [ def_udef_a_q LBL: h1880 ARG0: x1871 RSTR: h1878 BODY: h1879 ]
+          [ _closed_a_1 LBL: h1873 ARG0: e1874 ARG1: x1871 ]
+          [ _drawer_n_of LBL: h1873 ARG0: x1871 ARG1: i1872 ] >
+  HCONS: < h1878 qeq h1873 h1884 qeq h1883 > ]
+GENERATED RESULTS ... 
+The closed drawers
+Closed drawers
+The closed drawer
+Closed drawers.
+A closed drawer
+The closed drawers.
+The closed drawer.
+A closed drawer.
+Closed drawer
+Closed drawer.
+
+TOTAL RESULTS: 10
+
+Node        MRS Produced    Reason                           Included in MRS    Reason
+----------  --------------  -------------------------------  -----------------  -------------------------------
+2_3         False           '2' has no value in the lexicon  False              '2' has no value in the lexicon
+closed_2    True            MRS fragment produced            True               Included in MRS
+idDrawer_1  True            MRS fragment produced            True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idOpenState_1   True            MRS composed            True               Included in MRS
+idOrdinality_2  False           Inbound to failed node  False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        3    0.666667
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

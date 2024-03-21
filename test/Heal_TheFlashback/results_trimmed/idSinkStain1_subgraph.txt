@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idSinkStain1_subgraph.dot
+[ TOP: h465
+  INDEX: e462
+  RELS: < [ unknown LBL: h464 ARG: x446 ARG0: e462 ]
+          [ def_udef_a_q LBL: h461 ARG0: x446 RSTR: h459 BODY: h460 ]
+          [ compound LBL: h457 ARG0: e454 ARG1: x446 ARG2: x448 ]
+          [ udef_q LBL: h453 ARG0: x448 RSTR: h451 BODY: h452 ]
+          [ _sink_n_1 LBL: h449 ARG0: x448 ]
+          [ _stain_n_1 LBL: h457 ARG0: x446 ] >
+  HCONS: < h451 qeq h449 h459 qeq h457 h465 qeq h464 > ]
+GENERATED RESULTS ... 
+Sink stains
+The sink stain
+The sink stains
+A sink stain
+The sink stains.
+Sink stain
+Sink stains.
+The sink stain.
+A sink stain.
+Sink stain.
+
+TOTAL RESULTS: 10
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+idSinkStain_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

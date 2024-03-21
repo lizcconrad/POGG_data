@@ -1,0 +1,60 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idMachineRoom_subgraph.dot
+[ TOP: h2141
+  INDEX: e2138
+  RELS: < [ unknown LBL: h2140 ARG: x2119 ARG0: e2138 ]
+          [ def_udef_a_q LBL: h2137 ARG0: x2119 RSTR: h2135 BODY: h2136 ]
+          [ _red_a_1 LBL: h2120 ARG0: i2131 ARG1: x2119 ]
+          [ compound LBL: h2120 ARG0: e2127 ARG1: x2119 ARG2: x2123 ]
+          [ udef_q LBL: h2126 ARG0: x2123 RSTR: h2124 BODY: h2125 ]
+          [ _machine_n_1 LBL: h2122 ARG0: x2123 ]
+          [ _room_n_unit LBL: h2120 ARG0: x2119 ] >
+  HCONS: < h2124 qeq h2122 h2135 qeq h2120 h2141 qeq h2140 > ]
+GENERATED RESULTS ... 
+The red machine rooms
+Red machine rooms
+The red machine room
+A red machine room
+Red machine rooms.
+The red machine rooms.
+The machine red room
+The red machine room.
+A machine red room
+The machine red rooms
+A red machine room.
+Red machine room
+The machine red rooms.
+Machine red room
+Machine red rooms.
+Machine red rooms
+Machines red room
+The machine red room.
+The machines red rooms
+Red machine room.
+A machines red room
+A machine red room.
+The machines red room
+Machines red room.
+The machines red rooms.
+Machine red room.
+Machines red rooms
+Machines red rooms.
+A machines red room.
+The machines red room.
+
+TOTAL RESULTS: 30
+
+Node             MRS Produced    Reason                 Included in MRS    Reason
+---------------  --------------  ---------------------  -----------------  ---------------
+idMachineRoom_1  True            MRS fragment produced  True               Included in MRS
+red_2            True            MRS fragment produced  True               Included in MRS
+
+Edge       MRS Composed    Reason        Included in MRS    Reason
+---------  --------------  ------------  -----------------  ---------------
+idColor_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

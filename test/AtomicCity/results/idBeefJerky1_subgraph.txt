@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idBeefJerky1_subgraph.dot
+[ TOP: h823
+  INDEX: e820
+  RELS: < [ unknown LBL: h822 ARG: x816 ARG0: e820 ]
+          [ def_udef_a_q LBL: h819 ARG0: x816 RSTR: h817 BODY: h818 ]
+          [ _un-_a_neg LBL: h790 ARG0: i805 ARG1: e806 ]
+          [ _know_v_1 LBL: h790 ARG0: e806 ARG1: u809 ARG2: x816 ]
+          [ compound LBL: h790 ARG0: e797 ARG1: x816 ARG2: x793 ]
+          [ udef_q LBL: h796 ARG0: x793 RSTR: h794 BODY: h795 ]
+          [ _beef_n_1 LBL: h792 ARG0: x793 ]
+          [ _jerky_n_1 LBL: h790 ARG0: x816 ] >
+  HCONS: < h794 qeq h792 h817 qeq h790 h823 qeq h822 > ]
+GENERATED RESULTS ... 
+The unknown beef jerky.
+Unknown beef jerky
+The unknown beef jerky
+Unknown beef jerky.
+The beefs unknown jerky
+The beefs unknown jerky.
+Beefs unknown jerky
+Beefs unknown jerky.
+
+TOTAL RESULTS: 8
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+idBeefJerky_1  True            MRS fragment produced  True               Included in MRS
+true_2         True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idUnknownObject_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

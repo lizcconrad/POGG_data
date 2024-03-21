@@ -1,0 +1,644 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idElevatorOpening_subgraph.dot
+[ TOP: h488
+  INDEX: e485
+  RELS: < [ unknown LBL: h487 ARG: x481 ARG0: e485 ]
+          [ def_udef_a_q LBL: h484 ARG0: x481 RSTR: h482 BODY: h483 ]
+          [ loc_nonsp LBL: h406 ARG0: i477 ARG1: x481 ARG2: x471 ]
+          [ loc_nonsp LBL: h406 ARG0: i403 ARG1: x481 ARG2: x390 ]
+          [ _opening_n_1 LBL: h406 ARG0: x481 ]
+          [ def_implicit_q LBL: h402 ARG0: x390 RSTR: h400 BODY: h401 ]
+          [ _south_a_1 LBL: h398 ARG0: i389 ARG1: x390 ARG2: x377 ]
+          [ def_udef_a_q LBL: h396 ARG0: x377 RSTR: h394 BODY: h395 ]
+          [ compound LBL: h378 ARG0: e385 ARG1: x377 ARG2: x379 ]
+          [ udef_q LBL: h384 ARG0: x379 RSTR: h382 BODY: h383 ]
+          [ _back_n_1 LBL: h380 ARG0: x379 ]
+          [ _opening_n_1 LBL: h378 ARG0: x377 ]
+          [ place_n LBL: h398 ARG0: x390 ]
+          [ def_implicit_q LBL: h476 ARG0: x471 RSTR: h474 BODY: h475 ]
+          [ _north_a_1 LBL: h472 ARG0: i463 ARG1: x471 ARG2: x467 ]
+          [ def_udef_a_q LBL: h470 ARG0: x467 RSTR: h468 BODY: h469 ]
+          [ loc_nonsp LBL: h428 ARG0: i459 ARG1: x467 ARG2: x446 ]
+          [ _with_p LBL: h428 ARG0: e425 ARG1: x467 ARG2: x429 ]
+          [ def_udef_a_q LBL: h432 ARG0: x429 RSTR: h430 BODY: h431 ]
+          [ compound LBL: h414 ARG0: e421 ARG1: x429 ARG2: x415 ]
+          [ udef_q LBL: h420 ARG0: x415 RSTR: h418 BODY: h419 ]
+          [ _face_n_1 LBL: h416 ARG0: x415 ]
+          [ _plate_n_of LBL: h414 ARG0: x429 ARG1: i413 ]
+          [ _closed_a_1 LBL: h428 ARG0: e409 ARG1: x467 ]
+          [ _door_n_1 LBL: h428 ARG0: x467 ]
+          [ def_implicit_q LBL: h458 ARG0: x446 RSTR: h456 BODY: h457 ]
+          [ _south_a_1 LBL: h454 ARG0: i445 ARG1: x446 ARG2: x449 ]
+          [ def_udef_a_q LBL: h452 ARG0: x449 RSTR: h450 BODY: h451 ]
+          [ compound LBL: h434 ARG0: e441 ARG1: x449 ARG2: x437 ]
+          [ udef_q LBL: h440 ARG0: x437 RSTR: h438 BODY: h439 ]
+          [ _front_n_1 LBL: h436 ARG0: x437 ]
+          [ _door_n_1 LBL: h434 ARG0: x449 ]
+          [ place_n LBL: h454 ARG0: x446 ]
+          [ place_n LBL: h472 ARG0: x471 ] >
+  HCONS: < h382 qeq h380 h394 qeq h378 h400 qeq h398 h418 qeq h416 h430 qeq h414 h438 qeq h436 h450 qeq h434 h456 qeq h454 h468 qeq h428 h474 qeq h472 h482 qeq h406 h488 qeq h487 > ]
+GENERATED RESULTS ... 
+Openings north of the closed door with the face plates south of the front doors south of the back openings
+Openings south of the back openings north of the closed door with the face plates south of the front doors
+Openings north of the closed door with the face plates south of the front door south of the back openings
+Openings south of the back openings north of the closed door with the face plates south of the front door
+Openings north of the closed door with the face plates south of the front doors south of the back opening
+Openings south of the back opening north of the closed door with the face plates south of the front doors
+Openings north of a closed door with the face plates south of the front doors south of the back openings
+Openings south of the back openings north of a closed door with the face plates south of the front doors
+Openings north of the closed door with the face plates south of the front door south of the back opening
+Openings south of the back opening north of the closed door with the face plates south of the front door
+Openings north of a closed door with the face plates south of the front doors south of the back opening
+Openings south of the back openings north of a closed door with the face plates south of the front door
+Openings north of a closed door with the face plates south of the front door south of the back openings
+Openings south of the back opening north of a closed door with the face plates south of the front doors
+Openings north of a closed door with the face plates south of the front door south of the back opening
+Openings south of the back opening north of a closed door with the face plates south of the front door
+Openings north of the closed door with the face plate south of the front doors south of the back openings
+Openings south of the back openings north of the closed door with the face plate south of the front doors
+Openings north of the closed door with the face plate south of the front door south of the back openings
+Openings south of the back openings north of the closed door with the face plate south of the front door
+Openings north of the closed door with the face plate south of the front doors south of the back opening
+Openings south of the back opening north of the closed door with the face plate south of the front doors
+Openings north of a closed door with the face plate south of the front doors south of the back openings
+Openings south of the back openings north of a closed door with the face plate south of the front doors
+Openings north of the closed door with the face plate south of the front door south of the back opening
+Openings south of the back opening north of the closed door with the face plate south of the front door
+Openings north of a closed door with the face plate south of the front door south of the back openings
+Openings south of the back openings north of a closed door with the face plate south of the front door
+Openings north of a closed door with the face plate south of the front doors south of the back opening
+Openings south of the back opening north of a closed door with the face plate south of the front doors
+Openings north of the closed door with a face plate south of the front doors south of the back openings
+Openings south of the back openings north of the closed door with a face plate south of the front doors
+Openings north of the closed door with the face plates south of a front door south of the back openings
+Openings south of the back openings north of the closed door with the face plates south of a front door
+Openings north of the closed door with the face plates south of the front doors south of a back opening
+Openings south of a back opening north of the closed door with the face plates south of the front doors
+Openings north of the closed door south of the front doors with the face plates south of the back openings
+Openings south of the back openings north of the closed door south of the front doors with the face plates
+Openings north of a closed door with the face plate south of the front door south of the back opening
+Openings south of the back opening north of a closed door with the face plate south of the front door
+Openings north of the closed door with a face plate south of the front doors south of the back opening
+Openings south of the back opening north of the closed door with a face plate south of the front doors
+Openings north of the closed door with a face plate south of the front door south of the back openings
+Openings south of the back openings north of the closed door with a face plate south of the front door
+Openings north of a closed door with a face plate south of the front doors south of the back openings
+Openings south of the back openings north of a closed door with a face plate south of the front doors
+Openings north of the closed door with the face plates south of the front door south of a back opening
+Openings south of the back opening north of the closed door with the face plates south of a front door
+Openings north of the closed door with the face plates south of a front door south of the back opening
+Openings south of a back opening north of the closed door with the face plates south of the front door
+Openings north of the closed door south of the front doors with the face plates south of the back opening
+Openings south of the back opening north of the closed door south of the front doors with the face plates
+Openings north of the closed door south of the front door with the face plates south of the back openings
+Openings south of the back openings north of the closed door south of the front door with the face plates
+Openings north of a closed door with the face plates south of a front door south of the back openings
+Openings south of the back openings north of a closed door with the face plates south of a front door
+Openings north of a closed door with the face plates south of the front doors south of a back opening
+Openings south of a back opening north of a closed door with the face plates south of the front doors
+Openings north of a closed door south of the front doors with the face plates south of the back openings
+Openings south of the back openings north of a closed door south of the front doors with the face plates
+Openings south of the back opening north of the closed door with a face plate south of the front door
+Openings north of the closed door with a face plate south of the front door south of the back opening
+Openings south of the back openings north of the closed door south of the front doors with the face plates.
+Openings north of the closed door with the face plates south of the front doors south of the back openings.
+Openings south of the back openings north of the closed door with the face plates south of the front doors.
+Openings north of a closed door with a face plate south of the front door south of the back openings
+Openings south of the back openings north of a closed door with a face plate south of the front door
+Openings north of a closed door with a face plate south of the front doors south of the back opening
+Openings south of the back opening north of a closed door with a face plate south of the front doors
+Openings north of the closed doors with the face plates south of the front doors south of the back openings
+Openings south of the back openings north of the closed doors with the face plates south of the front doors
+Openings north of the closed door south of the front door with the face plates south of the back opening
+Openings south of the back opening north of the closed door south of the front door with the face plates
+Openings north of a closed door with the face plates south of the front door south of a back opening
+Openings south of the back opening north of a closed door with the face plates south of a front door
+Openings north of a closed door with the face plates south of a front door south of the back opening
+Openings south of a back opening north of a closed door with the face plates south of the front door
+Openings north of a closed door south of the front doors with the face plates south of the back opening
+Openings south of the back opening north of a closed door south of the front doors with the face plates
+Openings north of a closed door south of the front door with the face plates south of the back openings
+Openings south of the back openings north of a closed door south of the front door with the face plates
+Openings south of the back opening north of the closed door south of the front doors with the face plates.
+Openings south of the back openings north of the closed door south of the front door with the face plates.
+Openings north of the closed door with the face plates south of the front door south of the back openings.
+Openings south of the back opening north of the closed door with the face plates south of the front doors.
+Openings north of a closed door with a face plate south of the front door south of the back opening
+Openings south of the back opening north of a closed door with a face plate south of the front door
+Openings south of the back openings north of a closed door south of the front doors with the face plates.
+Openings north of a closed door with the face plates south of the front doors south of the back openings.
+Openings south of the back openings north of a closed door with the face plates south of the front doors.
+Openings north of the closed doors with the face plates south of the front doors south of the back opening
+Openings north of the closed doors with the face plates south of the front door south of the back openings
+Openings south of the back opening north of the closed doors with the face plates south of the front doors
+Openings south of the back openings north of the closed doors with the face plates south of the front door
+Openings north of a closed door south of the front door with the face plates south of the back opening
+Openings south of the back opening north of a closed door south of the front door with the face plates
+Openings south of the back opening north of the closed door south of the front door with the face plates.
+Openings south of the back opening north of a closed door south of the front doors with the face plates.
+Openings south of the back openings north of a closed door south of the front door with the face plates.
+Openings north of a closed door with the face plates south of the front door south of the back openings.
+Openings south of the back opening north of a closed door with the face plates south of the front doors.
+Openings north of the closed doors with the face plates south of the front door south of the back opening
+Openings south of the back opening north of the closed doors with the face plates south of the front door
+Openings north of the closed door south of the front doors with a face plate south of the back openings
+Openings south of the back openings north of the closed door south of the front doors with a face plate
+Openings south of the back opening north of a closed door south of the front door with the face plates.
+Openings north of the closed door with the faced, plates south of the front doors south of the back openings
+Openings south of the back openings north of the closed door with the faced, plates south of the front doors
+Openings north of the closed door with the face plate south of a front door south of the back openings
+Openings south of the back openings north of the closed door with the face plate south of a front door
+Openings north of the closed door with the face plate south of the front doors south of a back opening
+Openings south of a back opening north of the closed door with the face plate south of the front doors
+Openings north of the closed door south of the front doors with the face plate south of the back openings
+Openings south of the back openings north of the closed door south of the front doors with the face plate
+Openings south of the back openings north of the closed door south of the front doors with the faced, plates.
+Openings north of the closed door south of the front doors with a face plate south of the back opening
+Openings south of the back opening north of the closed door south of the front doors with a face plate
+Openings north of the closed door south of the front door with a face plate south of the back openings
+Openings south of the back openings north of the closed door south of the front door with a face plate
+Openings north of a closed door south of the front doors with a face plate south of the back openings
+Openings south of the back openings north of a closed door south of the front doors with a face plate
+Openings south of the back openings north of the closed door south of the front doors with a face plate.
+Openings north of the closed door with the faced, plates south of the front doors south of the back opening
+Openings south of the back opening north of the closed door with the faced, plates south of the front doors
+Openings north of the closed door with the faced, plates south of the front door south of the back openings
+Openings south of the back openings north of the closed door with the faced, plates south of the front door
+Openings south of the back openings north of the closed door with face plates south of the front doors
+Openings north of the closed door with face plates south of the front doors south of the back openings
+Openings north of the closed door with the face plate south of the front door south of a back opening
+Openings south of a back opening north of the closed door with the face plate south of the front door
+Openings north of the closed door with the face plate south of a front door south of the back opening
+Openings south of the back opening north of the closed door with the face plate south of a front door
+Openings north of the closed door south of the front door with the face plate south of the back openings
+Openings south of the back openings north of the closed door south of the front door with the face plate
+Openings north of the closed door south of the front doors with the face plate south of the back opening
+Openings south of the back opening north of the closed door south of the front doors with the face plate
+Openings north of a closed door with the faced, plates south of the front doors south of the back openings
+Openings south of the back openings north of a closed door with the faced, plates south of the front doors
+Openings south of the back opening north of the closed door south of the front doors with the faced, plates.
+Openings south of the back openings north of the closed door south of the front door with the faced, plates.
+Openings south of the back openings north of a closed door with the face plate south of a front door
+Openings north of a closed door with the face plate south of the front doors south of a back opening
+Openings north of a closed door with the face plate south of a front door south of the back openings
+Openings south of a back opening north of a closed door with the face plate south of the front doors
+Openings north of a closed door south of the front doors with the face plate south of the back openings
+Openings south of the back openings north of a closed door south of the front doors with the face plate
+Openings north of the closed door south of the front door with a face plate south of the back opening
+Openings south of the back opening north of the closed door south of the front door with a face plate
+Openings south of the back openings north of the closed door south of the front doors with the face plate.
+Openings south of the back openings north of a closed door south of the front doors with the faced, plates.
+Openings north of the closed door with the face plate south of the front doors south of the back openings.
+Openings south of the back openings north of the closed door with the face plate south of the front doors.
+Openings north of a closed door south of the front door with a face plate south of the back openings
+Openings south of the back opening north of a closed door south of the front doors with a face plate
+Openings north of a closed door south of the front doors with a face plate south of the back opening
+Openings south of the back openings north of a closed door south of the front door with a face plate
+Openings south of the back opening north of the closed door south of the front doors with a face plate.
+Openings south of the back openings north of the closed door south of the front door with a face plate.
+Openings north of the closed door with the faced, plates south of the front door south of the back opening
+Openings south of the back opening north of the closed door with the faced, plates south of the front door
+Openings north of the closed door with face plates south of the front door south of the back openings
+Openings south of the back openings north of the closed door with face plates south of the front door
+Openings north of the closed door with face plates south of the front doors south of the back opening
+Openings south of the back opening north of the closed door with face plates south of the front doors
+Openings south of the back openings north of a closed door south of the front doors with a face plate.
+Openings north of the closed doors with the face plate south of the front doors south of the back openings
+Openings south of the back openings north of the closed doors with the face plate south of the front doors
+Openings north of the closed door south of the front door with the face plate south of the back opening
+Openings south of the back opening north of the closed door south of the front door with the face plate
+Openings north of a closed door with the faced, plates south of the front doors south of the back opening
+Openings south of the back openings north of a closed door with the faced, plates south of the front door
+Openings north of a closed door with the faced, plates south of the front door south of the back openings
+Openings south of the back opening north of a closed door with the faced, plates south of the front doors
+Openings south of the back opening north of the closed door south of the front door with the faced, plates.
+Openings north of a closed door with face plates south of the front doors south of the back openings
+Openings south of the back openings north of a closed door with face plates south of the front doors
+Openings north of a closed door with the face plate south of a front door south of the back opening
+Openings south of a back opening north of a closed door with the face plate south of the front door
+Openings north of a closed door with the face plate south of the front door south of a back opening
+Openings south of the back opening north of a closed door with the face plate south of a front door
+Openings north of a closed door south of the front door with the face plate south of the back openings
+Openings north of a closed door south of the front doors with the face plate south of the back opening
+Openings south of the back openings north of a closed door south of the front door with the face plate
+Openings south of the back opening north of a closed door south of the front doors with the face plate
+Openings south of the back openings north of the closed door south of the front door with the face plate.
+Openings south of the back opening north of the closed door south of the front doors with the face plate.
+Openings south of the back openings north of a closed door south of the front door with the faced, plates.
+Openings south of the back opening north of a closed door south of the front doors with the faced, plates.
+Openings north of the closed door with a face plate south of a front door south of the back openings
+Openings south of a back opening north of the closed door with a face plate south of the front doors
+Openings north of the closed door with a face plate south of the front doors south of a back opening
+Openings south of the back openings north of the closed door with a face plate south of a front door
+Openings north of the closed door with the face plate south of the front door south of the back openings.
+Openings south of the back opening north of the closed door with the face plate south of the front doors.
+Openings north of a closed door south of the front door with a face plate south of the back opening
+Openings south of the back opening north of a closed door south of the front door with a face plate
+Openings south of the back openings north of a closed door south of the front doors with the face plate.
+Openings south of the back opening north of the closed door south of the front door with a face plate.
+Openings south of the back openings north of a closed door with the face plate south of the front doors.
+Openings north of a closed door with the face plate south of the front doors south of the back openings.
+The opening north of the closed door with the face plates south of the front doors south of the back openings
+The opening south of the back openings north of the closed door with the face plates south of the front doors
+Openings north of the closed door with face plates south of the front door south of the back opening
+Openings south of the back opening north of the closed door with face plates south of the front door
+Openings south of the back opening north of a closed door south of the front doors with a face plate.
+Openings south of the back openings north of a closed door south of the front door with a face plate.
+Openings north of the closed door with the face plates south of a front door south of a back opening
+Openings south of a back opening north of the closed door with the face plates south of a front door
+Openings north of the closed doors with the face plate south of the front door south of the back openings
+Openings south of the back openings north of the closed doors with the face plate south of the front door
+Openings north of the closed doors with the face plate south of the front doors south of the back opening
+Openings south of the back opening north of the closed doors with the face plate south of the front doors
+Openings north of the closed door south of a front door with the face plates south of the back openings
+Openings south of the back openings north of the closed door south of a front door with the face plates
+Openings north of the closed door south of the front doors with the face plates south of a back opening
+Openings south of a back opening north of the closed door south of the front doors with the face plates
+Openings north of a closed door with the faced, plates south of the front door south of the back opening
+Openings south of the back opening north of a closed door with the faced, plates south of the front door
+Openings north of a closed door with face plates south of the front door south of the back openings
+Openings south of the back opening north of a closed door with face plates south of the front doors
+Openings north of a closed door with face plates south of the front doors south of the back opening
+Openings south of the back openings north of a closed door with face plates south of the front door
+Openings north of a closed door south of the front door with the face plate south of the back opening
+Openings south of the back opening north of a closed door south of the front door with the face plate
+Openings south of the back opening north of the closed door south of the front door with the face plate.
+Openings south of the back opening north of a closed door south of the front door with the faced, plates.
+Openings north of the closed door with a face plate south of a front door south of the back opening
+Openings south of the back opening north of the closed door with a face plate south of a front door
+Openings north of the closed door with a face plate south of the front door south of a back opening
+Openings south of a back opening north of the closed door with a face plate south of the front door
+Openings south of the back openings north of a closed door south of the front door with the face plate.
+Openings south of the back opening north of a closed door south of the front doors with the face plate.
+Openings north of a closed door with a face plate south of a front door south of the back openings
+Openings south of the back openings north of a closed door with a face plate south of a front door
+Openings north of a closed door with a face plate south of the front doors south of a back opening
+Openings south of a back opening north of a closed door with a face plate south of the front doors
+Openings north of a closed door with the face plate south of the front door south of the back openings.
+Openings south of the back opening north of a closed door with the face plate south of the front doors.
+The opening north of the closed door with the face plates south of the front door south of the back openings
+The opening south of the back openings north of the closed door with the face plates south of the front door
+The opening north of the closed door with the face plates south of the front doors south of the back opening
+The opening south of the back opening north of the closed door with the face plates south of the front doors
+Openings north of the closed door with the face plates south of the front doors south of the backed, openings.
+Openings south of the back openings north of the closed door with the face plates south of the fronted, doors.
+Openings south of the back opening north of a closed door south of the front door with a face plate.
+Openings north of the closed doors with the face plate south of the front door south of the back opening
+Openings south of the back opening north of the closed doors with the face plate south of the front door
+Openings north of the closed door south of the front door with the face plates south of a back opening
+Openings south of the back opening north of the closed door south of a front door with the face plates
+Openings north of the closed door south of a front door with the face plates south of the back opening
+Openings south of a back opening north of the closed door south of the front door with the face plates
+Openings north of the closed door with a face plate south of the front doors south of the back openings.
+Openings south of the back openings north of the closed door with a face plate south of the front doors.
+The opening north of a closed door with the face plates south of the front doors south of the back openings
+The opening south of the back openings north of a closed door with the face plates south of the front doors
+Openings north of a closed door with face plates south of the front door south of the back opening
+Openings south of the back opening north of a closed door with face plates south of the front door
+Openings north of a closed door with the face plates south of a front door south of a back opening
+Openings south of a back opening north of a closed door with the face plates south of a front door
+Openings north of a closed door south of the front doors with the face plates south of a back opening
+Openings south of a back opening north of a closed door south of the front doors with the face plates
+Openings north of a closed door south of a front door with the face plates south of the back openings
+Openings south of the back openings north of a closed door south of a front door with the face plates
+Openings north of the closed door with faced plates south of the front doors south of the back openings
+Openings south of the back openings north of the closed door with faced plates south of the front doors
+Openings north of the closed doors with a face plate south of the front doors south of the back openings
+Openings south of the back openings north of the closed doors with a face plate south of the front doors
+Openings south of the back openings north of the closed door south of a front door with the face plates.
+Openings south of a back opening north of the closed door south of the front doors with the face plates.
+Openings north of the closed door with the face plates south of a front door south of the back openings.
+Openings south of a back opening north of the closed door with the face plates south of the front doors.
+Openings north of the closed door south of the front doors with the faced, plates south of the back openings
+Openings south of the back openings north of the closed door south of the front doors with the faced, plates
+The openings north of the closed door with the face plates south of the front doors south of the back openings
+The openings south of the back openings north of the closed door with the face plates south of the front doors
+Openings north of the closed door south of the front doors with the face plates south of the back openings.
+Openings south of the back opening north of a closed door south of the front door with the face plate.
+Openings north of a closed door with a face plate south of a front door south of the back opening
+Openings south of the back opening north of a closed door with a face plate south of a front door
+Openings north of a closed door with a face plate south of the front door south of a back opening
+Openings south of a back opening north of a closed door with a face plate south of the front door
+The opening north of the closed door with the face plates south of the front door south of the back opening
+The opening south of the back opening north of the closed door with the face plates south of the front door
+Openings north of the closed door with the face plates south of the front door south of the backed, openings.
+Openings south of the back opening north of the closed door with the face plates south of the fronted, doors.
+Openings south of the backed, openings north of the closed door with the face plates south of the front doors
+Openings north of the closed door with the face plates south of the front doors south of the backed, openings
+Openings south of the back openings north of the closed door with the face plates south of the fronted, doors
+Openings north of the closed door with the face plates south of the fronted, doors south of the back openings
+Openings south of the back openings north of the closed doors with the face plates south of a front door
+Openings north of the closed doors with the face plates south of the front doors south of a back opening
+Openings north of the closed doors with the face plates south of a front door south of the back openings
+Openings south of a back opening north of the closed doors with the face plates south of the front doors
+Openings north of the closed doors south of the front doors with the face plates south of the back openings
+Openings south of the back openings north of the closed doors south of the front doors with the face plates
+Openings north of the closed door with a face plate south of the front door south of the back openings.
+Openings south of the back opening north of the closed door with a face plate south of the front doors.
+The opening north of a closed door with the face plates south of the front doors south of the back opening
+The opening south of the back openings north of a closed door with the face plates south of the front door
+The opening north of a closed door with the face plates south of the front door south of the back openings
+The opening south of the back opening north of a closed door with the face plates south of the front doors
+Openings north of the closed door with the face plates south of the front doors south of the back opening.
+Openings south of the back openings north of the closed door with the face plates south of the front door.
+Openings north of a closed door with the face plates south of the front doors south of the backed, openings.
+Openings south of the back openings north of a closed door with the face plates south of the fronted, doors.
+Openings south of the back openings north of the closed door south of the front doors with the faced, plate.
+Openings north of a closed door south of a front door with the face plates south of the back opening
+Openings south of a back opening north of a closed door south of the front door with the face plates
+Openings north of a closed door south of the front door with the face plates south of a back opening
+Openings south of the back opening north of a closed door south of a front door with the face plates
+Openings north of the closed door with the faced, plate south of the front doors south of the back openings
+Openings south of the back openings north of the closed door with the faced, plate south of the front doors
+Openings north of a closed door with a face plate south of the front doors south of the back openings.
+Openings south of the back openings north of a closed door with a face plate south of the front doors.
+Openings north of the closed door with the face plates south of the fronted, door south of the back openings
+Openings south of the back openings north of the closed door with the face plates south of the fronted, door
+Openings north of the closed door with the face plates south of the front doors south of the backed, opening
+Openings south of the backed, opening north of the closed door with the face plates south of the front doors
+Openings north of the closed door with faced plates south of the front door south of the back openings
+Openings south of the back opening north of the closed door with faced plates south of the front doors
+Openings north of the closed door with faced plates south of the front doors south of the back opening
+Openings south of the back openings north of the closed door with faced plates south of the front door
+Openings north of the closed doors with a face plate south of the front door south of the back openings
+Openings north of the closed doors with a face plate south of the front doors south of the back opening
+Openings south of the back openings north of the closed doors with a face plate south of the front door
+Openings south of the back opening north of the closed doors with a face plate south of the front doors
+Openings south of the back opening north of the closed door south of a front door with the face plates.
+Openings south of a back opening north of the closed door south of the front door with the face plates.
+Openings north of the closed door south of the front doors with the faced, plates south of the back opening
+Openings south of the back openings north of the closed door south of the front door with the faced, plates
+Openings north of the closed door south of the front door with the faced, plates south of the back openings
+Openings south of the back opening north of the closed door south of the front doors with the faced, plates
+The openings north of the closed door with the face plates south of the front door south of the back openings
+The openings south of the back opening north of the closed door with the face plates south of the front doors
+The openings north of the closed door with the face plates south of the front doors south of the back opening
+The openings south of the back openings north of the closed door with the face plates south of the front door
+Openings north of the closed door south of the front door with the face plates south of the back openings.
+Openings north of a closed door with faced plates south of the front doors south of the back openings
+Openings south of the back openings north of a closed door with faced plates south of the front doors
+An opening north of the closed door with the face plates south of the front doors south of the back openings
+An opening south of the back openings north of the closed door with the face plates south of the front doors
+Openings south of the back openings north of a closed door south of a front door with the face plates.
+Openings south of a back opening north of a closed door south of the front doors with the face plates.
+Openings north of a closed door with the face plates south of a front door south of the back openings.
+Openings south of a back opening north of a closed door with the face plates south of the front doors.
+Openings north of a closed door south of the front doors with the faced, plates south of the back openings
+Openings south of the back openings north of a closed door south of the front doors with the faced, plates
+The openings north of a closed door with the face plates south of the front doors south of the back openings
+The openings south of the back openings north of a closed door with the face plates south of the front doors
+Openings north of a closed door south of the front doors with the face plates south of the back openings.
+Openings north of the closed door with the face plates south of the front door south of the backed, openings
+Openings south of the backed, openings north of the closed door with the face plates south of the front door
+Openings north of the closed door with the face plates south of the fronted, doors south of the back opening
+Openings south of the back opening north of the closed door with the face plates south of the fronted, doors
+Openings north of the closed doors with the face plates south of the front door south of a back opening
+Openings south of a back opening north of the closed doors with the face plates south of the front door
+Openings north of the closed doors with the face plates south of a front door south of the back opening
+Openings south of the back opening north of the closed doors with the face plates south of a front door
+Openings north of the closed doors south of the front doors with the face plates south of the back opening
+Openings north of the closed doors south of the front door with the face plates south of the back openings
+Openings south of the back opening north of the closed doors south of the front doors with the face plates
+Openings south of the back openings north of the closed doors south of the front door with the face plates
+The opening north of a closed door with the face plates south of the front door south of the back opening
+The opening south of the back opening north of a closed door with the face plates south of the front door
+Openings north of the closed door with the face plates south of the front door south of the back opening.
+Openings south of the back opening north of the closed door with the face plates south of the front door.
+Openings north of a closed door with the face plates south of the front door south of the backed, openings.
+Openings south of the back opening north of a closed door with the face plates south of the fronted, doors.
+Openings south of the back opening north of the closed door south of the front doors with the faced, plate.
+Openings south of the back openings north of the closed door south of the front door with the faced, plate.
+Openings north of the closed door with faced, plates south of the front doors south of the back openings
+Openings south of the back openings north of the closed door with faced, plates south of the front doors
+Openings north of a closed door with the face plates south of the front doors south of the backed, openings
+Openings south of the backed, openings north of a closed door with the face plates south of the front doors
+Openings north of a closed door with the face plates south of the fronted, doors south of the back openings
+Openings south of the back openings north of a closed door with the face plates south of the fronted, doors
+Openings north of the closed door with face plate south of the front doors south of the back openings
+Openings south of the back openings north of the closed door with face plate south of the front doors
+Openings north of the closed door with the faced, plate south of the front doors south of the back opening
+Openings south of the back opening north of the closed door with the faced, plate south of the front doors
+Openings north of the closed door with the faced, plate south of the front door south of the back openings
+Openings south of the back openings north of the closed door with the faced, plate south of the front door
+Openings north of a closed door with a face plate south of the front door south of the back openings.
+Openings south of the back opening north of a closed door with a face plate south of the front doors.
+Openings north of the closed door with the face plates south of the front door south of the backed, opening
+Openings north of the closed door with the face plates south of the fronted, door south of the back opening
+Openings south of the back opening north of the closed door with the face plates south of the fronted, door
+Openings south of the backed, opening north of the closed door with the face plates south of the front door
+Openings north of the closed door with faced plates south of the front door south of the back opening
+Openings south of the back opening north of the closed door with faced plates south of the front door
+Openings south of the back openings north of the closed door south of the front doors with a faced, plate.
+Openings north of a closed door with the face plates south of the front doors south of the back opening.
+Openings south of the back openings north of a closed door with the face plates south of the front door.
+Openings north of the closed doors with a face plate south of the front door south of the back opening
+Openings south of the back opening north of the closed doors with a face plate south of the front door
+Openings south of the back openings north of a closed door south of the front doors with the faced, plate.
+Openings north of the closed door with a faced, plate south of the front doors south of the back openings
+Openings south of the back openings north of the closed door with a faced, plate south of the front doors
+Openings south of the back openings north of the closed doors south of the front doors with the face plates.
+Openings north of the closed doors with the face plates south of the front doors south of the back openings.
+Openings south of the back openings north of the closed doors with the face plates south of the front doors.
+Openings north of the closed door south of the front door with the faced, plates south of the back opening
+Openings south of the back opening north of the closed door south of the front door with the faced, plates
+Openings north of a closed door with the faced, plate south of the front doors south of the back openings
+Openings south of the back openings north of a closed door with the faced, plate south of the front doors
+The openings north of the closed door with the face plates south of the front door south of the back opening
+The openings south of the back opening north of the closed door with the face plates south of the front door
+Openings north of a closed door with the face plates south of the fronted, door south of the back openings
+Openings south of the back openings north of a closed door with the face plates south of the fronted, door
+Openings north of a closed door with the face plates south of the front doors south of the backed, opening
+Openings south of the backed, opening north of a closed door with the face plates south of the front doors
+Openings north of a closed door with faced plates south of the front doors south of the back opening
+Openings south of the back opening north of a closed door with faced plates south of the front doors
+Openings north of a closed door with faced plates south of the front door south of the back openings
+Openings south of the back openings north of a closed door with faced plates south of the front door
+Openings north of the closed door with a faced plate south of the front doors south of the back openings
+Openings south of the back openings north of the closed door with a faced plate south of the front doors
+An opening north of the closed door with the face plates south of the front door south of the back openings
+An opening south of the back openings north of the closed door with the face plates south of the front door
+An opening north of the closed door with the face plates south of the front doors south of the back opening
+An opening south of the back opening north of the closed door with the face plates south of the front doors
+Openings south of the back opening north of a closed door south of a front door with the face plates.
+Openings south of a back opening north of a closed door south of the front door with the face plates.
+Openings north of a closed door south of the front doors with the faced, plates south of the back opening
+Openings south of the back openings north of a closed door south of the front door with the faced, plates
+Openings north of a closed door south of the front door with the faced, plates south of the back openings
+Openings south of the back opening north of a closed door south of the front doors with the faced, plates
+The openings north of a closed door with the face plates south of the front doors south of the back opening
+The openings south of the back openings north of a closed door with the face plates south of the front door
+The openings north of a closed door with the face plates south of the front door south of the back openings
+The openings south of the back opening north of a closed door with the face plates south of the front doors
+Openings north of a closed door south of the front door with the face plates south of the back openings.
+Openings north of the closed doors south of the front door with the face plates south of the back opening
+Openings south of the back opening north of the closed doors south of the front door with the face plates
+An opening north of a closed door with the face plates south of the front doors south of the back openings
+An opening south of the back openings north of a closed door with the face plates south of the front doors
+Openings south of the back opening north of the closed door south of the front door with the faced, plate.
+Openings north of the closed door with faced, plates south of the front door south of the back openings
+Openings north of the closed door with faced, plates south of the front doors south of the back opening
+Openings south of the back openings north of the closed door with faced, plates south of the front door
+Openings south of the back opening north of the closed door with faced, plates south of the front doors
+Openings north of the closed door with the face plates south of a fronted, door south of the back openings
+Openings south of the back openings north of the closed door with the face plates south of a fronted, door
+Openings north of the closed door with the face plates south of the front doors south of a backed, opening
+Openings south of a backed, opening north of the closed door with the face plates south of the front doors
+Openings north of a closed door with the face plates south of the fronted, doors south of the back opening
+Openings south of the backed, openings north of a closed door with the face plates south of the front door
+Openings north of a closed door with the face plates south of the front door south of the backed, openings
+Openings south of the back opening north of a closed door with the face plates south of the fronted, doors
+Openings north of the closed door with face plate south of the front doors south of the back opening
+Openings south of the back opening north of the closed door with face plate south of the front doors
+Openings north of the closed door with face plate south of the front door south of the back openings
+Openings south of the back openings north of the closed door with face plate south of the front door
+Openings south of the back openings north of the closed door south of the front doors with face plates.
+Openings north of the closed door with the faced, plate south of the front door south of the back opening
+Openings south of the back opening north of the closed door with the faced, plate south of the front door
+Openings south of the back openings north of the closed door south of the front door with a faced, plate.
+Openings south of the back opening north of the closed door south of the front doors with a faced, plate.
+Openings north of the closed door with face plate south of the front doors south of the back openings
+Openings south of the back openings north of the closed door with face plate south of the front doors
+Openings north of a closed door with the face plates south of the front door south of the back opening.
+Openings south of the back opening north of a closed door with the face plates south of the front door.
+Openings south of the back openings north of a closed door south of the front door with the faced, plate.
+Openings south of the back opening north of a closed door south of the front doors with the faced, plate.
+Openings north of a closed door with faced, plates south of the front doors south of the back openings
+Openings south of the back openings north of a closed door with faced, plates south of the front doors
+Openings north of the closed door with a faced, plate south of the front doors south of the back opening
+Openings south of the back opening north of the closed door with a faced, plate south of the front doors
+Openings north of the closed door with a faced, plate south of the front door south of the back openings
+Openings south of the back openings north of the closed door with a faced, plate south of the front door
+Openings south of the back opening north of the closed doors south of the front doors with the face plates.
+Openings south of the back openings north of the closed doors south of the front door with the face plates.
+Openings north of the closed doors with the face plates south of the front door south of the back openings.
+Openings south of the back opening north of the closed doors with the face plates south of the front doors.
+Openings north of the closed door south of a front door with a face plate south of the back openings
+Openings south of a back opening north of the closed door south of the front doors with a face plate
+Openings north of the closed door south of the front doors with a face plate south of a back opening
+Openings south of the back openings north of the closed door south of a front door with a face plate
+Openings north of a closed door with face plate south of the front doors south of the back openings
+Openings south of the back openings north of a closed door with face plate south of the front doors
+Openings north of a closed door with the faced, plate south of the front doors south of the back opening
+Openings south of the back opening north of a closed door with the faced, plate south of the front doors
+Openings north of a closed door with the faced, plate south of the front door south of the back openings
+Openings south of the back openings north of a closed door with the faced, plate south of the front door
+Openings north of a closed door with the face plates south of the fronted, door south of the back opening
+Openings south of the back opening north of a closed door with the face plates south of the fronted, door
+Openings north of a closed door with the face plates south of the front door south of the backed, opening
+Openings south of the backed, opening north of a closed door with the face plates south of the front door
+Openings north of a closed door with faced plates south of the front door south of the back opening
+Openings south of the back opening north of a closed door with faced plates south of the front door
+Openings south of the back openings north of a closed door south of the front doors with a faced, plate.
+Openings north of the closed door with a faced plate south of the front doors south of the back opening
+Openings north of the closed door with a faced plate south of the front door south of the back openings
+Openings south of the back opening north of the closed door with a faced plate south of the front doors
+Openings south of the back openings north of the closed door with a faced plate south of the front door
+Openings north of a closed door with a faced, plate south of the front doors south of the back openings
+Openings south of the back openings north of a closed door with a faced, plate south of the front doors
+An opening north of the closed door with the face plates south of the front door south of the back opening
+An opening south of the back opening north of the closed door with the face plates south of the front door
+Openings north of a closed door south of the front door with the faced, plates south of the back opening
+Openings south of the back opening north of a closed door south of the front door with the faced, plates
+The openings north of a closed door with the face plates south of the front door south of the back opening
+The openings south of the back opening north of a closed door with the face plates south of the front door
+Openings north of the closed door with the faced, plates south of a front door south of the back openings
+Openings south of the back openings north of the closed door with the faced, plates south of a front door
+Openings north of the closed door with the faced, plates south of the front doors south of a back opening
+Openings south of a back opening north of the closed door with the faced, plates south of the front doors
+Openings north of a closed door with a faced plate south of the front doors south of the back openings
+Openings south of the back openings north of a closed door with a faced plate south of the front doors
+An opening north of a closed door with the face plates south of the front doors south of the back opening
+An opening south of the back openings north of a closed door with the face plates south of the front door
+An opening north of a closed door with the face plates south of the front door south of the back openings
+An opening south of the back opening north of a closed door with the face plates south of the front doors
+The opening north of the closed door with the face plate south of the front doors south of the back openings
+The opening south of the back openings north of the closed door with the face plate south of the front doors
+Openings north of the closed door with the face plate south of a front door south of a back opening
+Openings south of a back opening north of the closed door with the face plate south of a front door
+Openings north of the closed door with faced, plates south of the front door south of the back opening
+Openings south of the back opening north of the closed door with faced, plates south of the front door
+Openings north of the closed door with the face plates south of a fronted, door south of the back opening
+Openings south of the back opening north of the closed door with the face plates south of a fronted, door
+Openings north of the closed door with the face plates south of the front door south of a backed, opening
+Openings south of a backed, opening north of the closed door with the face plates south of the front door
+Openings north of the closed door south of a front door with the face plate south of the back openings
+Openings north of the closed door south of the front doors with the face plate south of a back opening
+Openings south of a back opening north of the closed door south of the front doors with the face plate
+Openings south of the back openings north of the closed door south of a front door with the face plate
+Openings north of the closed door with face plate south of the front door south of the back opening
+Openings south of the back opening north of the closed door with face plate south of the front door
+Openings south of the back openings north of the closed door south of the front door with face plates.
+Openings south of the back opening north of the closed door south of the front doors with face plates.
+Openings south of a back opening north of the closed door south of the front doors with the faced, plates.
+Openings south of the back openings north of the closed door south of a front door with the faced, plates.
+Openings south of the back opening north of the closed door south of the front door with a faced, plate.
+Openings north of the closed door with face plate south of the front door south of the back openings
+Openings south of the back opening north of the closed door with face plate south of the front doors
+Openings north of the closed door with face plate south of the front doors south of the back opening
+Openings south of the back openings north of the closed door with face plate south of the front door
+Openings south of the back opening north of a closed door south of the front door with the faced, plate.
+Openings north of a closed door with faced, plates south of the front doors south of the back opening
+Openings south of the back opening north of a closed door with faced, plates south of the front doors
+Openings north of a closed door with faced, plates south of the front door south of the back openings
+Openings south of the back openings north of a closed door with faced, plates south of the front door
+Openings north of a closed door with the face plates south of a fronted, door south of the back openings
+Openings south of the back openings north of a closed door with the face plates south of a fronted, door
+Openings north of a closed door with the face plates south of the front doors south of a backed, opening
+Openings south of a backed, opening north of a closed door with the face plates south of the front doors
+Openings north of the closed door with a faced, plate south of the front door south of the back opening
+Openings south of the back opening north of the closed door with a faced, plate south of the front door
+Openings south of the back opening north of the closed doors south of the front door with the face plates.
+Openings north of the closed door south of a front door with a face plate south of the back opening
+Openings south of the back opening north of the closed door south of a front door with a face plate
+Openings north of the closed door south of the front door with a face plate south of a back opening
+Openings south of a back opening north of the closed door south of the front door with a face plate
+Openings north of a closed door with face plate south of the front door south of the back openings
+Openings south of the back openings north of a closed door with face plate south of the front door
+Openings north of a closed door with face plate south of the front doors south of the back opening
+Openings south of the back opening north of a closed door with face plate south of the front doors
+Openings south of the back openings north of a closed door south of the front doors with face plates.
+Openings north of a closed door with the faced, plate south of the front door south of the back opening
+Openings south of the back opening north of a closed door with the faced, plate south of the front door
+Openings south of the back openings north of a closed door south of the front door with a faced, plate.
+Openings south of the back opening north of a closed door south of the front doors with a faced, plate.
+Openings north of a closed door with face plate south of the front doors south of the back openings
+Openings south of the back openings north of a closed door with face plate south of the front doors
+Openings north of the closed door with a faced plate south of the front door south of the back opening
+Openings south of the back opening north of the closed door with a faced plate south of the front door
+Openings north of a closed door with a faced, plate south of the front door south of the back openings
+Openings south of the back openings north of a closed door with a faced, plate south of the front door
+Openings north of a closed door with a faced, plate south of the front doors south of the back opening
+Openings south of the back opening north of a closed door with a faced, plate south of the front doors
+Openings north of a closed door south of the front doors with a face plate south of a back opening
+Openings south of the back openings north of a closed door south of a front door with a face plate
+Openings north of a closed door south of a front door with a face plate south of the back openings
+Openings south of a back opening north of a closed door south of the front doors with a face plate
+Openings south of the back openings north of the closed door south of a front door with a face plate.
+Openings south of a back opening north of the closed door south of the front doors with a face plate.
+
+TOTAL RESULTS: 577
+
+Node                               MRS Produced    Reason                                    Included in MRS    Reason
+---------------------------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+closed_5                           True            MRS fragment produced                     True               Included in MRS
+idComputerRoom1BackOpening_2       True            MRS fragment produced                     True               Included in MRS
+idComputerRoom1FrontOpeningDoor_7  True            MRS fragment produced                     True               Included in MRS
+idElevatorDoor_4                   True            MRS fragment produced                     True               Included in MRS
+idElevatorOpening_1                True            MRS fragment produced                     True               Included in MRS
+idElevatorSlotFacePlate_6          True            MRS fragment produced                     True               Included in MRS
+idOnSwitch_3                       False           'idOnSwitch' has no value in the lexicon  False              'idOnSwitch' has no value in the lexicon
+
+Edge               MRS Composed    Reason                  Included in MRS    Reason
+-----------------  --------------  ----------------------  -----------------  ----------------------
+idLockMechanism_4  True            MRS composed            True               Included in MRS
+idOpenState_3      True            MRS composed            True               Included in MRS
+isNorthOf_1        False           Inbound to failed node  False              Inbound to failed node
+isNorthOf_6        True            MRS composed            True               Included in MRS
+isSouthOf_2        True            MRS composed            True               Included in MRS
+isSouthOf_5        True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        7    0.857143
+Nodes              Included             6        7    0.857143
+Edges              Produced             5        6    0.833333
+Edges              Included             5        6    0.833333

@@ -1,0 +1,30 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/complete/idBlood1_subgraph.dot
+[ TOP: h1178
+  INDEX: e1175
+  RELS: < [ unknown LBL: h1177 ARG: x1171 ARG0: e1175 ]
+          [ def_udef_a_q LBL: h1174 ARG0: x1171 RSTR: h1172 BODY: h1173 ]
+          [ _blood_n_1 LBL: h1170 ARG0: x1171 ] >
+  HCONS: < h1172 qeq h1170 h1178 qeq h1177 > ]
+GENERATED RESULTS ... 
+Blood
+The blood.
+Blood.
+The blood
+
+TOTAL RESULTS: 4
+
+Node           MRS Produced    Reason                                     Included in MRS    Reason
+-------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idBlood_1      True            MRS fragment produced                      True               Included in MRS
+uncountable_2  False           'uncountable' has no value in the lexicon  False              'uncountable' has no value in the lexicon
+
+Edge             MRS Composed    Reason                  Included in MRS    Reason
+---------------  --------------  ----------------------  -----------------  ----------------------
+idArticleType_1  False           Inbound to failed node  False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        2         0.5
+Nodes              Included             1        2         0.5
+Edges              Produced             0        1         0
+Edges              Included             0        1         0

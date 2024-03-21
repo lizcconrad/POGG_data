@@ -1,0 +1,314 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idDesk1_subgraph.dot
+[ TOP: h1273
+  INDEX: e1270
+  RELS: < [ unknown LBL: h1272 ARG: x1143 ARG0: e1270 ]
+          [ def_udef_a_q LBL: h1269 ARG0: x1143 RSTR: h1267 BODY: h1268 ]
+          [ loc_nonsp LBL: h1205 ARG0: i1262 ARG1: x1143 ARG2: x1256 ]
+          [ loc_nonsp LBL: h1205 ARG0: i1202 ARG1: x1143 ARG2: x1189 ]
+          [ _desk_n_1 LBL: h1205 ARG0: x1143 ]
+          [ def_implicit_q LBL: h1201 ARG0: x1189 RSTR: h1199 BODY: h1200 ]
+          [ _east_a_1 LBL: h1197 ARG0: i1188 ARG1: x1189 ARG2: x1151 ]
+          [ def_udef_a_q LBL: h1195 ARG0: x1151 RSTR: h1193 BODY: h1194 ]
+          [ loc_nonsp LBL: h1156 ARG0: i1184 ARG1: x1151 ARG2: x1171 ]
+          [ _grey_a_1 LBL: h1156 ARG0: i1154 ARG1: x1151 ]
+          [ _office_n_of LBL: h1156 ARG0: x1151 ARG1: i1152 ]
+          [ def_implicit_q LBL: h1183 ARG0: x1171 RSTR: h1181 BODY: h1182 ]
+          [ _west_a_1 LBL: h1173 ARG0: i1170 ARG1: x1171 ARG2: x1157 ]
+          [ def_udef_a_q LBL: h1177 ARG0: x1157 RSTR: h1175 BODY: h1176 ]
+          [ compound LBL: h1158 ARG0: e1166 ARG1: x1157 ARG2: x1159 ]
+          [ udef_q LBL: h1165 ARG0: x1159 RSTR: h1163 BODY: h1164 ]
+          [ _right_n_of LBL: h1161 ARG0: x1159 ARG1: i1160 ]
+          [ _opening_n_1 LBL: h1158 ARG0: x1157 ]
+          [ place_n LBL: h1173 ARG0: x1171 ]
+          [ place_n LBL: h1197 ARG0: x1189 ]
+          [ def_implicit_q LBL: h1261 ARG0: x1256 RSTR: h1259 BODY: h1260 ]
+          [ _north_a_1 LBL: h1251 ARG0: i1248 ARG1: x1256 ARG2: x1252 ]
+          [ def_udef_a_q LBL: h1255 ARG0: x1252 RSTR: h1253 BODY: h1254 ]
+          [ loc_nonsp LBL: h1220 ARG0: i1244 ARG1: x1252 ARG2: x1231 ]
+          [ _un-_a_neg LBL: h1220 ARG0: i1225 ARG1: e1226 ]
+          [ _light_v_cause LBL: h1220 ARG0: e1226 ARG1: i1222 ARG2: x1252 ]
+          [ _off_a_1 LBL: h1220 ARG0: e1218 ARG1: x1252 ]
+          [ compound LBL: h1220 ARG0: e1214 ARG1: x1252 ARG2: x1210 ]
+          [ udef_q LBL: h1213 ARG0: x1210 RSTR: h1211 BODY: h1212 ]
+          [ _valve_n_1 LBL: h1209 ARG0: x1210 ]
+          [ _light_n_1 LBL: h1220 ARG0: x1252 ]
+          [ def_implicit_q LBL: h1243 ARG0: x1231 RSTR: h1241 BODY: h1242 ]
+          [ _south_a_1 LBL: h1233 ARG0: i1230 ARG1: x1231 ARG2: x1228 ]
+          [ def_udef_a_q LBL: h1237 ARG0: x1228 RSTR: h1235 BODY: h1236 ]
+          [ _fuse_n_1 LBL: h1229 ARG0: x1228 ]
+          [ place_n LBL: h1233 ARG0: x1231 ]
+          [ place_n LBL: h1251 ARG0: x1256 ] >
+  HCONS: < h1163 qeq h1161 h1175 qeq h1158 h1181 qeq h1173 h1193 qeq h1156 h1199 qeq h1197 h1211 qeq h1209 h1235 qeq h1229 h1241 qeq h1233 h1253 qeq h1220 h1259 qeq h1251 h1267 qeq h1205 h1273 qeq h1272 > ]
+GENERATED RESULTS ... 
+Desks north of the off unlighted valve lights south of the fuses east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuses
+Desks north of the off unlighted valve lights south of the fuses east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuses
+Desks north of the unlighted off valve lights south of the fuses east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuses
+Desks north of the unlighted off valve lights south of the fuses east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuses
+Desks north of the off unlighted valve lights south of the fuse east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuse
+Desks north of the off unlighted valve lights south of the fuse east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuse
+Desks east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuse
+Desks north of the unlighted off valve lights south of the fuse east of the gray offices west of the right openings
+Desks east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuse
+Desks north of the unlighted off valve lights south of the fuse east of the grey offices west of the right openings
+Desks east of the gray offices west of the right opening north of the off unlighted valve lights south of the fuses
+Desks north of the off unlighted valve lights south of the fuses east of the gray offices west of the right opening
+Desks east of the grey offices west of the right opening north of the off unlighted valve lights south of the fuses
+Desks north of the off unlighted valve lights south of the fuses east of the grey offices west of the right opening
+Desks east of the gray offices west of the right opening north of the unlighted off valve lights south of the fuses
+Desks north of the unlighted off valve lights south of the fuses east of the gray offices west of the right opening
+Desks east of the grey offices west of the right opening north of the unlighted off valve lights south of the fuses
+Desks north of the unlighted off valve lights south of the fuses east of the grey offices west of the right opening
+Desks east of the gray offices west of the right opening north of the off unlighted valve lights south of the fuse
+Desks north of the off unlighted valve lights south of the fuse east of the gray offices west of the right opening
+Desks east of the grey offices west of the right opening north of the off unlighted valve lights south of the fuse
+Desks north of the off unlighted valve lights south of the fuse east of the grey offices west of the right opening
+Desks north of the unlighted off valve lights south of the fuse east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of the unlighted off valve lights south of the fuse
+Desks north of the unlighted off valve lights south of the fuse east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of the unlighted off valve lights south of the fuse
+Desks east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuses.
+Desks east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuses.
+Desks north of unlighted off valve lights south of the fuses east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of unlighted off valve lights south of the fuses
+Desks north of unlighted off valve lights south of the fuses east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of unlighted off valve lights south of the fuses
+Desks north of the off unlighted valve lights south of a fuse east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of the off unlighted valve lights south of a fuse
+Desks north of the off unlighted valve lights south of a fuse east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of the off unlighted valve lights south of a fuse
+Desks north of the valves off unlighted lights south of the fuses east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of the valves off unlighted lights south of the fuses
+Desks north of the valves off unlighted lights south of the fuses east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of the valves off unlighted lights south of the fuses
+Desks east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuses.
+Desks east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuses.
+Desks north of the unlighted off valve lights south of a fuse east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of the unlighted off valve lights south of a fuse
+Desks north of the unlighted off valve lights south of a fuse east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of the unlighted off valve lights south of a fuse
+Desks east of the gray offices west of the right openings north of the off unlighted valve light south of the fuses
+Desks north of the off unlighted valve light south of the fuses east of the gray offices west of the right openings
+Desks east of the grey offices west of the right openings north of the off unlighted valve light south of the fuses
+Desks north of the off unlighted valve light south of the fuses east of the grey offices west of the right openings
+Desks north of the off unlighted valve lights south of the fuses east of the gray offices west of a right opening
+Desks east of the gray offices west of a right opening north of the off unlighted valve lights south of the fuses
+Desks north of the off unlighted valve lights south of the fuses east of the grey offices west of a right opening
+Desks east of the grey offices west of a right opening north of the off unlighted valve lights south of the fuses
+Desks north of off unlighted valve lights south of the fuses east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of off unlighted valve lights south of the fuses
+Desks north of off unlighted valve lights south of the fuses east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of off unlighted valve lights south of the fuses
+Desks north of the unlighted off valve light south of the fuses east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of the unlighted off valve light south of the fuses
+Desks north of the unlighted off valve light south of the fuses east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of the unlighted off valve light south of the fuses
+Desks north of the unlighted off valve lights south of the fuses east of the gray offices west of a right opening
+Desks east of the gray offices west of a right opening north of the unlighted off valve lights south of the fuses
+Desks north of the unlighted off valve lights south of the fuses east of the grey offices west of a right opening
+Desks east of the grey offices west of a right opening north of the unlighted off valve lights south of the fuses
+Desks north of the off unlighted valve lights south of the fuses east of the gray offices west of the right openings.
+Desks north of the off unlighted valve lights south of the fuses east of the grey offices west of the right openings.
+Desks north of the unlighted off valve lights south of the fuses east of the gray offices west of the right openings.
+Desks north of the unlighted off valve lights south of the fuses east of the grey offices west of the right openings.
+Desks north of unlighted off valve lights south of the fuse east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of unlighted off valve lights south of the fuse
+Desks north of unlighted off valve lights south of the fuse east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of unlighted off valve lights south of the fuse
+Desks north of the valves off unlighted lights south of the fuse east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of the valves off unlighted lights south of the fuse
+Desks north of the valves off unlighted lights south of the fuse east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of the valves off unlighted lights south of the fuse
+Desks east of the gray offices west of the right opening north of the off unlighted valve lights south of the fuses.
+Desks east of the grey offices west of the right opening north of the off unlighted valve lights south of the fuses.
+Desks north of unlighted off valve lights south of the fuses east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of unlighted off valve lights south of the fuses
+Desks north of unlighted off valve lights south of the fuses east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of unlighted off valve lights south of the fuses
+Desks north of the off unlighted valve lights south of a fuse east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of the off unlighted valve lights south of a fuse
+Desks north of the off unlighted valve lights south of a fuse east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of the off unlighted valve lights south of a fuse
+Desks north of the valves off unlighted lights south of the fuses east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of the valves off unlighted lights south of the fuses
+Desks north of the valves off unlighted lights south of the fuses east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of the valves off unlighted lights south of the fuses
+Desks east of the gray offices west of the right opening north of the unlighted off valve lights south of the fuses.
+Desks east of the grey offices west of the right opening north of the unlighted off valve lights south of the fuses.
+Desks north of the off unlighted valve light south of the fuse east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of the off unlighted valve light south of the fuse
+Desks north of the off unlighted valve light south of the fuse east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of the off unlighted valve light south of the fuse
+Desks north of the unlighted off valve lights south of a fuse east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of the unlighted off valve lights south of a fuse
+Desks north of the unlighted off valve lights south of a fuse east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of the unlighted off valve lights south of a fuse
+Desks east of the gray offices west of a right opening north of the off unlighted valve lights south of the fuse
+Desks north of the off unlighted valve lights south of the fuse east of the gray offices west of a right opening
+Desks east of the grey offices west of a right opening north of the off unlighted valve lights south of the fuse
+Desks north of the off unlighted valve lights south of the fuse east of the grey offices west of a right opening
+Desks east of the gray offices west of the right openings north of off unlighted valve lights south of the fuse
+Desks north of off unlighted valve lights south of the fuse east of the gray offices west of the right openings
+Desks east of the grey offices west of the right openings north of off unlighted valve lights south of the fuse
+Desks north of off unlighted valve lights south of the fuse east of the grey offices west of the right openings
+Desks north of the unlighted off valve light south of the fuse east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of the unlighted off valve light south of the fuse
+Desks north of the unlighted off valve light south of the fuse east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of the unlighted off valve light south of the fuse
+Desks north of the off unlighted valve light south of the fuses east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of the off unlighted valve light south of the fuses
+Desks north of the off unlighted valve light south of the fuses east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of the off unlighted valve light south of the fuses
+Desks north of the unlighted off valve lights south of the fuse east of the gray offices west of a right opening
+Desks east of the gray offices west of a right opening north of the unlighted off valve lights south of the fuse
+Desks north of the unlighted off valve lights south of the fuse east of the grey offices west of a right opening
+Desks east of the grey offices west of a right opening north of the unlighted off valve lights south of the fuse
+Desks north of the off unlighted valve lights south of the fuse east of the gray offices west of the right openings.
+Desks north of the off unlighted valve lights south of the fuse east of the grey offices west of the right openings.
+Desks north of off unlighted valve lights south of the fuses east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of off unlighted valve lights south of the fuses
+Desks north of off unlighted valve lights south of the fuses east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of off unlighted valve lights south of the fuses
+Desks north of the unlighted off valve light south of the fuses east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of the unlighted off valve light south of the fuses
+Desks north of the unlighted off valve light south of the fuses east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of the unlighted off valve light south of the fuses
+Desks north of the unlighted off valve lights south of the fuse east of the gray offices west of the right openings.
+Desks north of the unlighted off valve lights south of the fuse east of the grey offices west of the right openings.
+A desk north of the off unlighted valve lights south of the fuses east of the gray offices west of the right openings
+A desk east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuses
+A desk north of the off unlighted valve lights south of the fuses east of the grey offices west of the right openings
+A desk east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuses
+The desk north of the off unlighted valve lights south of the fuses east of the gray offices west of the right openings
+The desk east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuses
+The desk north of the off unlighted valve lights south of the fuses east of the grey offices west of the right openings
+The desk east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuses
+Desks north of unlighted off valve lights south of the fuse east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of unlighted off valve lights south of the fuse
+Desks north of unlighted off valve lights south of the fuse east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of unlighted off valve lights south of the fuse
+A desk north of the unlighted off valve lights south of the fuses east of the gray offices west of the right openings
+A desk east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuses
+A desk north of the unlighted off valve lights south of the fuses east of the grey offices west of the right openings
+A desk east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuses
+Desks north of the valves off unlighted lights south of the fuse east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of the valves off unlighted lights south of the fuse
+Desks north of the valves off unlighted lights south of the fuse east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of the valves off unlighted lights south of the fuse
+The desk north of the unlighted off valve lights south of the fuses east of the gray offices west of the right openings
+The desk east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuses
+The desk north of the unlighted off valve lights south of the fuses east of the grey offices west of the right openings
+The desk east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuses
+Desks east of the gray offices west of the right openings north of the off unlighted valve lights south of a fuse.
+Desks east of the grey offices west of the right openings north of the off unlighted valve lights south of a fuse.
+Desks north of the off unlighted valve lights south of the fuses east of gray offices west of the right openings
+Desks east of gray offices west of the right openings north of the off unlighted valve lights south of the fuses
+Desks north of the off unlighted valve lights south of the fuses east of grey offices west of the right openings
+Desks east of grey offices west of the right openings north of the off unlighted valve lights south of the fuses
+Desks east of the gray offices west of the right openings north of the unlighted off valve lights south of a fuse.
+Desks east of the grey offices west of the right openings north of the unlighted off valve lights south of a fuse.
+Desks north of the unlighted off valve lights south of the fuses east of gray offices west of the right openings
+Desks east of gray offices west of the right openings north of the unlighted off valve lights south of the fuses
+Desks north of the unlighted off valve lights south of the fuses east of grey offices west of the right openings
+Desks east of grey offices west of the right openings north of the unlighted off valve lights south of the fuses
+Desks north of the off unlighted valve light south of the fuse east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of the off unlighted valve light south of the fuse
+Desks north of the off unlighted valve light south of the fuse east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of the off unlighted valve light south of the fuse
+The desks north of the off unlighted valve lights south of the fuses east of the gray offices west of the right openings
+The desks east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuses
+The desks north of the off unlighted valve lights south of the fuses east of the grey offices west of the right openings
+The desks east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuses
+Desks north of off unlighted valve lights south of the fuse east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of off unlighted valve lights south of the fuse
+Desks north of off unlighted valve lights south of the fuse east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of off unlighted valve lights south of the fuse
+Desks east of the gray offices west of the right openings north of unlighted off valve lights south of the fuses.
+Desks east of the grey offices west of the right openings north of unlighted off valve lights south of the fuses.
+Desks north of the unlighted off valve light south of the fuse east of the gray offices west of the right opening
+Desks east of the gray offices west of the right opening north of the unlighted off valve light south of the fuse
+Desks north of the unlighted off valve light south of the fuse east of the grey offices west of the right opening
+Desks east of the grey offices west of the right opening north of the unlighted off valve light south of the fuse
+The desks north of the unlighted off valve lights south of the fuses east of the gray offices west of the right openings
+The desks east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuses
+The desks north of the unlighted off valve lights south of the fuses east of the grey offices west of the right openings
+The desks east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuses
+Desks east of the gray offices west of the right openings north of the valves off unlighted lights south of the fuses.
+Desks east of the grey offices west of the right openings north of the valves off unlighted lights south of the fuses.
+Desks east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuse.
+Desks east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuse.
+Desks north of an off unlighted valve light south of the fuses east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of an off unlighted valve light south of the fuses
+Desks north of an off unlighted valve light south of the fuses east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of an off unlighted valve light south of the fuses
+Desks north of unlighted off valve lights south of a fuse east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of unlighted off valve lights south of a fuse
+Desks north of unlighted off valve lights south of a fuse east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of unlighted off valve lights south of a fuse
+Desks north of the valves off unlighted lights south of a fuse east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of the valves off unlighted lights south of a fuse
+Desks north of the valves off unlighted lights south of a fuse east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of the valves off unlighted lights south of a fuse
+Desks east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuse.
+Desks east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuse.
+Desks north of an unlighted off valve light south of the fuses east of the gray offices west of the right openings
+Desks east of the gray offices west of the right openings north of an unlighted off valve light south of the fuses
+Desks north of an unlighted off valve light south of the fuses east of the grey offices west of the right openings
+Desks east of the grey offices west of the right openings north of an unlighted off valve light south of the fuses
+A desk north of the off unlighted valve lights south of the fuse east of the gray offices west of the right openings
+A desk east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuse
+A desk north of the off unlighted valve lights south of the fuse east of the grey offices west of the right openings
+A desk east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuse
+Desks east of the gray offices west of the right openings north of the off valves unlighted lights south of the fuses
+Desks north of the off valves unlighted lights south of the fuses east of the gray offices west of the right openings
+Desks east of the grey offices west of the right openings north of the off valves unlighted lights south of the fuses
+Desks north of the off valves unlighted lights south of the fuses east of the grey offices west of the right openings
+The desk north of the off unlighted valve lights south of the fuse east of the gray offices west of the right openings
+The desk east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuse
+The desk north of the off unlighted valve lights south of the fuse east of the grey offices west of the right openings
+The desk east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuse
+Desks east of the gray office west of the right openings north of the off unlighted valve lights south of the fuses
+Desks north of the off unlighted valve lights south of the fuses east of the gray office west of the right openings
+Desks east of the grey office west of the right openings north of the off unlighted valve lights south of the fuses
+Desks north of the off unlighted valve lights south of the fuses east of the grey office west of the right openings
+Desks east of the gray offices west of the right openings north of the off unlighted valve light south of the fuses.
+Desks east of the grey offices west of the right openings north of the off unlighted valve light south of the fuses.
+
+TOTAL RESULTS: 238
+
+Node                     MRS Produced    Reason                 Included in MRS    Reason
+-----------------------  --------------  ---------------------  -----------------  -------------------------
+grey_5                   True            MRS fragment produced  True               Included in MRS
+idDesk_1                 True            MRS fragment produced  True               Included in MRS
+idFuse30A_10             True            MRS fragment produced  True               Included in MRS
+idOffice1RightOpening_6  True            MRS fragment produced  True               Included in MRS
+idOffice_4               True            MRS fragment produced  True               Included in MRS
+idShutoffValveLight_7    True            MRS fragment produced  True               Included in MRS
+idaluminum_2             True            MRS fragment produced  False              Descends from failed edge
+off_8                    True            MRS fragment produced  True               Included in MRS
+unlit_9                  True            MRS fragment produced  True               Included in MRS
+yes_3                    True            MRS fragment produced  False              Descends from failed edge
+
+Edge           MRS Composed    Reason                                       Included in MRS    Reason
+-------------  --------------  -------------------------------------------  -----------------  -------------------------------------------
+idColor_3      True            MRS composed                                 True               Included in MRS
+idColor_6      True            MRS composed                                 True               Included in MRS
+idImmovable_2  False           'idImmovable' has no value in lexicon        False              'idImmovable' has no value in lexicon
+idLitState_7   True            MRS composed                                 True               Included in MRS
+idMaterial_1   False           No legitimate composition type for compound  False              No legitimate composition type for compound
+isEastOf_5     True            MRS composed                                 True               Included in MRS
+isNorthOf_9    True            MRS composed                                 True               Included in MRS
+isSouthOf_8    True            MRS composed                                 True               Included in MRS
+isWestOf_4     True            MRS composed                                 True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced            10       10    1
+Nodes              Included             8       10    0.8
+Edges              Produced             7        9    0.777778
+Edges              Included             7        9    0.777778

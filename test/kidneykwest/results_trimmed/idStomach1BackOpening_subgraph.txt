@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idStomach1BackOpening_subgraph.dot
+[ TOP: h737
+  INDEX: e734
+  RELS: < [ unknown LBL: h736 ARG: x730 ARG0: e734 ]
+          [ def_udef_a_q LBL: h733 ARG0: x730 RSTR: h731 BODY: h732 ]
+          [ compound LBL: h729 ARG0: e726 ARG1: x730 ARG2: x720 ]
+          [ udef_q LBL: h725 ARG0: x720 RSTR: h723 BODY: h724 ]
+          [ _back_n_1 LBL: h721 ARG0: x720 ]
+          [ _opening_n_1 LBL: h729 ARG0: x730 ] >
+  HCONS: < h723 qeq h721 h731 qeq h729 h737 qeq h736 > ]
+GENERATED RESULTS ... 
+The back openings
+The back opening
+A back opening
+The back openings.
+Back openings.
+Back openings
+Back opening
+The back opening.
+A back opening.
+The backed, openings.
+Backed, opening
+The backed, openings
+Backed, openings.
+The backed, opening
+A backed, opening
+Backed, openings
+The backed opening
+Back opening.
+Backed openings
+Backed, opening.
+The backed, opening.
+A backed opening
+A backed, opening.
+The backed openings
+The backed openings.
+Backed openings.
+Backed opening
+The backed opening.
+A backed opening.
+Backed opening.
+
+TOTAL RESULTS: 30
+
+Node                     MRS Produced    Reason                 Included in MRS    Reason
+-----------------------  --------------  ---------------------  -----------------  ---------------
+idStomach1BackOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

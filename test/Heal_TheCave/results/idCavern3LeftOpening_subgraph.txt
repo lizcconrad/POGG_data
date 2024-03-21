@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idCavern3LeftOpening_subgraph.dot
+[ TOP: h1384
+  INDEX: e1381
+  RELS: < [ unknown LBL: h1383 ARG: x1364 ARG0: e1381 ]
+          [ def_udef_a_q LBL: h1380 ARG0: x1364 RSTR: h1378 BODY: h1379 ]
+          [ compound LBL: h1365 ARG0: e1373 ARG1: x1364 ARG2: x1366 ]
+          [ udef_q LBL: h1372 ARG0: x1366 RSTR: h1370 BODY: h1371 ]
+          [ _left_n_of LBL: h1368 ARG0: x1366 ARG1: i1367 ]
+          [ _opening_n_1 LBL: h1365 ARG0: x1364 ] >
+  HCONS: < h1370 qeq h1368 h1378 qeq h1365 h1384 qeq h1383 > ]
+GENERATED RESULTS ... 
+The left opening
+The left openings
+A left opening
+The left openings.
+Left openings
+The left opening.
+Left opening
+A left opening.
+Left openings.
+Left opening.
+
+TOTAL RESULTS: 10
+
+Node                    MRS Produced    Reason                 Included in MRS    Reason
+----------------------  --------------  ---------------------  -----------------  ---------------
+idCavern3LeftOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

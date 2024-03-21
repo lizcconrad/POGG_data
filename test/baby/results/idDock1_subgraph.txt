@@ -1,0 +1,51 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idDock1_subgraph.dot
+[ TOP: h1001
+  INDEX: e998
+  RELS: < [ unknown LBL: h1000 ARG: x967 ARG0: e998 ]
+          [ def_udef_a_q LBL: h997 ARG0: x967 RSTR: h995 BODY: h996 ]
+          [ _un-_a_neg LBL: h985 ARG0: i983 ARG1: e984 ]
+          [ _know_v_1 LBL: h985 ARG0: e984 ARG1: u987 ARG2: x967 ]
+          [ _immovable_a_1 LBL: h985 ARG0: e973 ARG1: x967 ]
+          [ _dock_n_1 LBL: h985 ARG0: x967 ] >
+  HCONS: < h995 qeq h985 h1001 qeq h1000 > ]
+GENERATED RESULTS ... 
+The immovable unknown docks
+Immovable unknown docks
+An immovable unknown dock
+The immovable unknown dock
+An unknown immovable dock
+The unknown immovable dock
+The unknown immovable docks
+Unknown immovable docks
+The immovable unknown docks.
+Immovable unknown docks.
+Immovable unknown dock
+The unknown immovable docks.
+An immovable unknown dock.
+The immovable unknown dock.
+An unknown immovable dock.
+Unknown immovable dock
+The unknown immovable dock.
+Unknown immovable docks.
+Immovable unknown dock.
+Unknown immovable dock.
+
+TOTAL RESULTS: 20
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  ---------------
+idDock_1  True            MRS fragment produced  True               Included in MRS
+true_3    True            MRS fragment produced  True               Included in MRS
+yes_2     True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idImmovable_1      True            MRS composed  True               Included in MRS
+idUnknownObject_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

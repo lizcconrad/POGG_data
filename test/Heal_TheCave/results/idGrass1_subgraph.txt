@@ -1,0 +1,48 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idGrass1_subgraph.dot
+[ TOP: h2162
+  INDEX: e2159
+  RELS: < [ unknown LBL: h2161 ARG: x2155 ARG0: e2159 ]
+          [ def_udef_a_q LBL: h2158 ARG0: x2155 RSTR: h2156 BODY: h2157 ]
+          [ loc_nonsp LBL: h2108 ARG0: i2151 ARG1: x2155 ARG2: x2147 ]
+          [ _un-_a_neg LBL: h2108 ARG0: i2125 ARG1: x2155 ]
+          [ _countable_a_1 LBL: h2108 ARG0: e2122 ARG1: x2155 ]
+          [ _immovable_a_1 LBL: h2108 ARG0: e2116 ARG1: x2155 ]
+          [ _green_a_2 LBL: h2108 ARG0: i2109 ARG1: x2155 ]
+          [ _grass_n_1 LBL: h2108 ARG0: x2155 ]
+          [ def_implicit_q LBL: h2150 ARG0: x2147 RSTR: h2148 BODY: h2149 ]
+          [ _north_a_1 LBL: h2140 ARG0: i2137 ARG1: x2147 ARG2: x2128 ]
+          [ def_udef_a_q LBL: h2144 ARG0: x2128 RSTR: h2142 BODY: h2143 ]
+          [ _strange_a_to LBL: h2136 ARG0: e2133 ARG1: x2128 ARG2: i2135 ]
+          [ _black_a_1 LBL: h2136 ARG0: i2130 ARG1: x2128 ]
+          [ _liquid_n_1 LBL: h2136 ARG0: x2128 ]
+          [ place_n LBL: h2140 ARG0: x2147 ] >
+  HCONS: < h2142 qeq h2136 h2148 qeq h2140 h2156 qeq h2108 h2162 qeq h2161 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+black_6        True            MRS fragment produced  True               Included in MRS
+green_2        True            MRS fragment produced  True               Included in MRS
+idGrass_1      True            MRS fragment produced  True               Included in MRS
+idLiquid_5     True            MRS fragment produced  True               Included in MRS
+strange_7      True            MRS fragment produced  True               Included in MRS
+uncountable_4  True            MRS fragment produced  True               Included in MRS
+yes_3          True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idArticleType_3  True            MRS composed  True               Included in MRS
+idColor_1        True            MRS composed  True               Included in MRS
+idColor_4        True            MRS composed  True               Included in MRS
+idDescriptor_5   True            MRS composed  True               Included in MRS
+idImmovable_2    True            MRS composed  True               Included in MRS
+isNorthOf_6      True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7        7           1
+Nodes              Included             7        7           1
+Edges              Produced             6        6           1
+Edges              Included             6        6           1

@@ -1,0 +1,53 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idLabel1_subgraph.dot
+[ TOP: h4463
+  INDEX: e4460
+  RELS: < [ unknown LBL: h4462 ARG: x4383 ARG0: e4460 ]
+          [ def_udef_a_q LBL: h4459 ARG0: x4383 RSTR: h4457 BODY: h4458 ]
+          [ loc_nonsp LBL: h4405 ARG0: i4452 ARG1: x4383 ARG2: x4439 ]
+          [ loc_nonsp LBL: h4405 ARG0: i4402 ARG1: x4383 ARG2: x4389 ]
+          [ _label_n_1 LBL: h4405 ARG0: x4383 ARG1: x4384 ]
+          [ def_implicit_q LBL: h4401 ARG0: x4389 RSTR: h4399 BODY: h4400 ]
+          [ _south_a_1 LBL: h4391 ARG0: i4388 ARG1: x4389 ARG2: x4392 ]
+          [ def_udef_a_q LBL: h4395 ARG0: x4392 RSTR: h4393 BODY: h4394 ]
+          [ _button_n_1 LBL: h4387 ARG0: x4392 ]
+          [ place_n LBL: h4391 ARG0: x4389 ]
+          [ def_implicit_q LBL: h4451 ARG0: x4439 RSTR: h4449 BODY: h4450 ]
+          [ _west_a_1 LBL: h4441 ARG0: i4438 ARG1: x4439 ARG2: x4442 ]
+          [ def_udef_a_q LBL: h4445 ARG0: x4442 RSTR: h4443 BODY: h4444 ]
+          [ loc_nonsp LBL: h4437 ARG0: i4434 ARG1: x4442 ARG2: x4430 ]
+          [ compound LBL: h4437 ARG0: e4414 ARG1: x4442 ARG2: x4408 ]
+          [ udef_q LBL: h4413 ARG0: x4408 RSTR: h4411 BODY: h4412 ]
+          [ _throne_n_1 LBL: h4409 ARG0: x4408 ]
+          [ _room_n_unit LBL: h4437 ARG0: x4442 ]
+          [ def_implicit_q LBL: h4433 ARG0: x4430 RSTR: h4431 BODY: h4432 ]
+          [ _east_a_1 LBL: h4423 ARG0: i4420 ARG1: x4430 ARG2: x4424 ]
+          [ def_udef_a_q LBL: h4427 ARG0: x4424 RSTR: h4425 BODY: h4426 ]
+          [ _dog_n_1 LBL: h4419 ARG0: x4424 ]
+          [ place_n LBL: h4423 ARG0: x4430 ]
+          [ place_n LBL: h4441 ARG0: x4439 ] >
+  HCONS: < h4393 qeq h4387 h4399 qeq h4391 h4411 qeq h4409 h4425 qeq h4419 h4431 qeq h4423 h4443 qeq h4437 h4449 qeq h4441 h4457 qeq h4405 h4463 qeq h4462 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node            MRS Produced    Reason                           Included in MRS    Reason
+--------------  --------------  -------------------------------  -----------------  -------------------------------
+3_3             False           '3' has no value in the lexicon  False              '3' has no value in the lexicon
+idButtonZ_2     True            MRS fragment produced            True               Included in MRS
+idDog_5         True            MRS fragment produced            True               Included in MRS
+idLabel_1       True            MRS fragment produced            True               Included in MRS
+idThroneRoom_4  True            MRS fragment produced            True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idOrdinality_1  False           Inbound to failed node  False              Inbound to failed node
+isEastOf_3      True            MRS composed            True               Included in MRS
+isSouthOf_2     True            MRS composed            True               Included in MRS
+isWestOf_4      True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        5        0.8
+Nodes              Included             4        5        0.8
+Edges              Produced             3        4        0.75
+Edges              Included             3        4        0.75

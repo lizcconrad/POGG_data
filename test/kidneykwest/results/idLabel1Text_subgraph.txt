@@ -1,0 +1,27 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idLabel1Text_subgraph.dot
+[ TOP: h21
+  INDEX: e18
+  RELS: < [ unknown LBL: h20 ARG: x0 ARG0: e18 ]
+          [ def_udef_a_q LBL: h17 ARG0: x0 RSTR: h15 BODY: h16 ]
+          [ compound LBL: h2 ARG0: e10 ARG1: x0 ARG2: x6 ]
+          [ udef_q LBL: h9 ARG0: x6 RSTR: h7 BODY: h8 ]
+          [ _label_n_1 LBL: h5 ARG0: x6 ARG1: x4 ]
+          [ _text_n_of LBL: h2 ARG0: x0 ARG1: i1 ] >
+  HCONS: < h7 qeq h5 h15 qeq h2 h21 qeq h20 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node            MRS Produced    Reason                 Included in MRS    Reason
+--------------  --------------  ---------------------  -----------------  ---------------
+idLabel1Text_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

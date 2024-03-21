@@ -1,0 +1,113 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idMedicineCabinet1_subgraph.dot
+[ TOP: h1180
+  INDEX: e1177
+  RELS: < [ unknown LBL: h1179 ARG: x1173 ARG0: e1177 ]
+          [ def_udef_a_q LBL: h1176 ARG0: x1173 RSTR: h1174 BODY: h1175 ]
+          [ _immovable_a_1 LBL: h1159 ARG0: e1167 ARG1: x1173 ]
+          [ _white_a_1 LBL: h1159 ARG0: i1160 ARG1: x1173 ]
+          [ compound LBL: h1159 ARG0: e1156 ARG1: x1173 ARG2: x1150 ]
+          [ udef_q LBL: h1155 ARG0: x1150 RSTR: h1153 BODY: h1154 ]
+          [ _medicine_n_1 LBL: h1151 ARG0: x1150 ]
+          [ _cabinet_n_1 LBL: h1159 ARG0: x1173 ] >
+  HCONS: < h1153 qeq h1151 h1174 qeq h1159 h1180 qeq h1179 > ]
+GENERATED RESULTS ... 
+An immovable white medicine cabinet
+The immovable white medicine cabinet
+The white immovable medicine cabinet
+A white immovable medicine cabinet
+The immovable white medicine cabinets
+The immovable white medicine cabinets.
+Immovable white medicine cabinet
+Immovable white medicine cabinets
+The medicine white immovable cabinet
+Medicines white immovable cabinet
+The white immovable medicine cabinets
+A medicine white immovable cabinet
+The white immovable medicine cabinets.
+White immovable medicine cabinets
+An immovable medicine white cabinet
+The immovable medicine white cabinet
+An immovable white medicine cabinet.
+Immovable white medicine cabinets.
+The immovable white medicine cabinet.
+The medicine white immovable cabinets
+The immovable medicine white cabinets
+Medicine white immovable cabinet
+Immovable medicine white cabinets
+Medicines immovable white cabinet
+White immovable medicine cabinet
+Medicine white immovable cabinets
+A medicines white immovable cabinet
+White immovable medicine cabinets.
+The immovable medicine white cabinets.
+The medicines white immovable cabinet
+Immovable medicine white cabinets.
+The white immovable medicine cabinet.
+The medicines immovable white cabinets
+The white medicines immovable cabinet
+A white immovable medicine cabinet.
+Medicines immovable white cabinets
+A medicines immovable white cabinet
+A white medicines immovable cabinet
+The medicine white immovable cabinets.
+The medicines immovable white cabinet
+The medicines white immovable cabinets
+An immovable medicine white cabinet.
+The immovable medicine white cabinet.
+Medicine white immovable cabinets.
+Immovable white medicine cabinet.
+The white medicines immovable cabinets
+Medicines white immovable cabinets
+The white medicines immovable cabinets.
+The immovable medicines white cabinets
+White medicines immovable cabinets
+The medicines immovable white cabinets.
+Medicines immovable white cabinet.
+An immovable medicines white cabinet
+The immovable medicines white cabinet
+White medicines immovable cabinets.
+The medicine white immovable cabinet.
+The immovable medicines white cabinets.
+Immovable medicines white cabinets
+The medicines white immovable cabinets.
+Medicines white immovable cabinet.
+Medicines immovable white cabinets.
+Immovable medicine white cabinet
+A medicine white immovable cabinet.
+Immovable medicines white cabinets.
+White immovable medicine cabinet.
+White medicines immovable cabinet
+A medicines immovable white cabinet.
+Medicines white immovable cabinets.
+The white medicines immovable cabinet.
+Medicine white immovable cabinet.
+The medicines immovable white cabinet.
+A white medicines immovable cabinet.
+An immovable medicines white cabinet.
+A medicines white immovable cabinet.
+The immovable medicines white cabinet.
+The medicines white immovable cabinet.
+Immovable medicine white cabinet.
+Immovable medicines white cabinet
+White medicines immovable cabinet.
+Immovable medicines white cabinet.
+
+TOTAL RESULTS: 80
+
+Node                 MRS Produced    Reason                 Included in MRS    Reason
+-------------------  --------------  ---------------------  -----------------  ---------------
+idMedicineCabinet_1  True            MRS fragment produced  True               Included in MRS
+white_2              True            MRS fragment produced  True               Included in MRS
+yes_3                True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idColor_1      True            MRS composed  True               Included in MRS
+idImmovable_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

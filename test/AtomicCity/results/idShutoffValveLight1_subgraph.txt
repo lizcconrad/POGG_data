@@ -1,0 +1,106 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idShutoffValveLight1_subgraph.dot
+[ TOP: h325
+  INDEX: e322
+  RELS: < [ unknown LBL: h324 ARG: x318 ARG0: e322 ]
+          [ def_udef_a_q LBL: h321 ARG0: x318 RSTR: h319 BODY: h320 ]
+          [ _un-_a_neg LBL: h310 ARG0: i315 ARG1: e316 ]
+          [ _light_v_cause LBL: h310 ARG0: e316 ARG1: i312 ARG2: x318 ]
+          [ _off_a_1 LBL: h310 ARG0: e308 ARG1: x318 ]
+          [ compound LBL: h310 ARG0: e304 ARG1: x318 ARG2: x300 ]
+          [ udef_q LBL: h303 ARG0: x300 RSTR: h301 BODY: h302 ]
+          [ _valve_n_1 LBL: h299 ARG0: x300 ]
+          [ _light_n_1 LBL: h310 ARG0: x318 ] >
+  HCONS: < h301 qeq h299 h319 qeq h310 h325 qeq h324 > ]
+GENERATED RESULTS ... 
+The off unlighted valve lights
+An off unlighted valve light
+The off unlighted valve light
+The off unlighted valve lights.
+The unlighted off valve lights
+An unlighted off valve light
+The unlighted off valve light
+Off unlighted valve lights
+The unlighted off valve lights.
+Unlighted off valve lights
+An off unlighted valve light.
+Off unlighted valve light
+Off unlighted valve lights.
+The off unlighted valve light.
+Unlighted off valve light
+Unlighted off valve lights.
+An unlighted off valve light.
+The unlighted off valve light.
+Off unlighted valve light.
+Unlighted off valve light.
+The off valves unlighted lights
+Off valves unlighted lights
+The valves off unlighted lights
+The unlighted valves off lights
+Valves off unlighted light
+Off unlighted valve light
+Valves off unlighted lights
+The off valves unlighted lights.
+Unlighted valves off lights
+The unlighted valves off lights.
+Off valves unlighted lights.
+Valves off unlighted light.
+An off valves unlighted light
+Unlighted off valve light
+Off unlighted valve light.
+The off valves unlighted light
+The valves unlighted off lights
+A valves off unlighted light
+An off valves unlighted light.
+Valves unlighted off light
+Off valves unlighted light
+An unlighted valves off light
+The off valves unlighted light.
+The valves off unlighted lights.
+The valves off unlighted light
+Unlighted valves off lights.
+The unlighted valves off light
+Valves unlighted off light.
+An unlighted valves off light.
+The unlighted valves off light.
+Off valves unlighted light.
+Unlighted off valve light.
+Valves unlighted off lights
+The valves unlighted off lights.
+A valves off unlighted light.
+Unlighted valves off light
+Valves off unlighted lights.
+Valves off unlighted light
+The valves off unlighted light.
+Unlighted valves off light.
+A valves unlighted off light
+The valves unlighted off light
+A valves unlighted off light.
+Valves unlighted off lights.
+The valves unlighted off light.
+Valves off unlighted light.
+Valves unlighted off light
+Off valves unlighted light
+Valves unlighted off light.
+Off valves unlighted light.
+Unlighted valves off light
+Unlighted valves off light.
+
+TOTAL RESULTS: 72
+
+Node                   MRS Produced    Reason                 Included in MRS    Reason
+---------------------  --------------  ---------------------  -----------------  ---------------
+idShutoffValveLight_1  True            MRS fragment produced  True               Included in MRS
+off_2                  True            MRS fragment produced  True               Included in MRS
+unlit_3                True            MRS fragment produced  True               Included in MRS
+
+Edge          MRS Composed    Reason        Included in MRS    Reason
+------------  --------------  ------------  -----------------  ---------------
+idColor_1     True            MRS composed  True               Included in MRS
+idLitState_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

@@ -1,0 +1,64 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/complete/idGrass1_subgraph.dot
+[ TOP: h1216
+  INDEX: e1213
+  RELS: < [ unknown LBL: h1215 ARG: e1143 ARG0: e1213 ]
+          [ def_udef_a_q LBL: h1212 ARG0: e1143 RSTR: h1210 BODY: h1211 ]
+          [ _near_p LBL: h1138 ARG0: e1201 ARG1: e1143 ARG2: x1205 ]
+          [ def_udef_a_q LBL: h1208 ARG0: x1205 RSTR: h1206 BODY: h1207 ]
+          [ loc_nonsp LBL: h1200 ARG0: i1197 ARG1: x1205 ARG2: x1193 ]
+          [ _bleed_v_1 LBL: h1200 ARG0: e1177 [ e PROG: bool ] ARG1: x1205 ]
+          [ _bloody_a_1 LBL: h1200 ARG0: e1174 ARG1: x1205 ]
+          [ _deer_n_1 LBL: h1200 ARG0: x1205 ]
+          [ def_implicit_q LBL: h1196 ARG0: x1193 RSTR: h1194 BODY: h1195 ]
+          [ _east_a_1 LBL: h1192 ARG0: i1183 ARG1: x1193 ARG2: x1180 ]
+          [ def_udef_a_q LBL: h1190 ARG0: x1180 RSTR: h1188 BODY: h1189 ]
+          [ _player_n_of LBL: h1182 ARG0: x1180 ARG1: i1181 ]
+          [ place_n LBL: h1192 ARG0: x1193 ]
+          [ loc_nonsp LBL: h1138 ARG0: i1168 ARG1: e1143 ARG2: x1155 ]
+          [ _flatten_v_cause LBL: h1138 ARG0: e1145 ARG1: i1146 ARG2: e1143 ]
+          [ _un-_a_neg LBL: h1138 ARG0: i1142 ARG1: e1143 ]
+          [ _countable_a_1 LBL: h1138 ARG0: e1139 ARG1: e1143 ]
+          [ _green_a_2 LBL: h1138 ARG0: i1136 ARG1: e1143 ]
+          [ _grass_n_1 LBL: h1138 ARG0: e1143 ]
+          [ def_implicit_q LBL: h1167 ARG0: x1155 RSTR: h1165 BODY: h1166 ]
+          [ _east_a_1 LBL: h1163 ARG0: i1154 ARG1: x1155 ARG2: x1158 ]
+          [ def_udef_a_q LBL: h1161 ARG0: x1158 RSTR: h1159 BODY: h1160 ]
+          [ _red_a_1 LBL: h1150 ARG0: i1151 ARG1: x1158 ]
+          [ _berry_n_1 LBL: h1150 ARG0: x1158 ]
+          [ place_n LBL: h1163 ARG0: x1155 ] >
+  HCONS: < h1188 qeq h1182 h1194 qeq h1192 h1206 qeq h1200 h1159 qeq h1150 h1165 qeq h1163 h1210 qeq h1138 h1216 qeq h1215 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+bleeding_9     True            MRS fragment produced  True               Included in MRS
+bloody_8       True            MRS fragment produced  True               Included in MRS
+flattened_4    True            MRS fragment produced  True               Included in MRS
+green_2        True            MRS fragment produced  True               Included in MRS
+idBerry_5      True            MRS fragment produced  True               Included in MRS
+idDeer_7       True            MRS fragment produced  True               Included in MRS
+idGrass_1      True            MRS fragment produced  True               Included in MRS
+idPlayer_10    True            MRS fragment produced  True               Included in MRS
+red_6          True            MRS fragment produced  True               Included in MRS
+uncountable_3  True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idArticleType_2  True            MRS composed  True               Included in MRS
+idColor_1        True            MRS composed  True               Included in MRS
+idColor_4        True            MRS composed  True               Included in MRS
+idDescriptor_3   True            MRS composed  True               Included in MRS
+idDescriptor_6   True            MRS composed  True               Included in MRS
+idDescriptor__7  True            MRS composed  True               Included in MRS
+isEastOf_5       True            MRS composed  True               Included in MRS
+isEastOf_8       True            MRS composed  True               Included in MRS
+isNear_9         True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced            10       10           1
+Nodes              Included            10       10           1
+Edges              Produced             9        9           1
+Edges              Included             9        9           1

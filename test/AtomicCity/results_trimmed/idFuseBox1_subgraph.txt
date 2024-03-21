@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idFuseBox1_subgraph.dot
+[ TOP: h1655
+  INDEX: e1652
+  RELS: < [ unknown LBL: h1654 ARG: x1648 ARG0: e1652 ]
+          [ def_udef_a_q LBL: h1651 ARG0: x1648 RSTR: h1649 BODY: h1650 ]
+          [ compound LBL: h1647 ARG0: e1644 ARG1: x1648 ARG2: x1640 ]
+          [ udef_q LBL: h1643 ARG0: x1640 RSTR: h1641 BODY: h1642 ]
+          [ _fuse_n_1 LBL: h1639 ARG0: x1640 ]
+          [ _box_n_of LBL: h1647 ARG0: x1648 ARG1: i1636 ] >
+  HCONS: < h1641 qeq h1639 h1649 qeq h1647 h1655 qeq h1654 > ]
+GENERATED RESULTS ... 
+Fuse boxes
+The fuse box
+The fuse boxes
+Fuse box
+A fuse box
+Fuse boxes.
+The fuse boxes.
+The fuse box.
+A fuse box.
+Fuse box.
+
+TOTAL RESULTS: 10
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  ---------------
+idFuseBox_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

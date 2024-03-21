@@ -1,0 +1,28 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/complete/idBlood1_subgraph.dot
+[ TOP: h1232
+  INDEX: e1229
+  RELS: < [ unknown LBL: h1231 ARG: x1225 ARG0: e1229 ]
+          [ def_udef_a_q LBL: h1228 ARG0: x1225 RSTR: h1226 BODY: h1227 ]
+          [ _un-_a_neg LBL: h1218 ARG0: i1222 ARG1: x1225 ]
+          [ _countable_a_1 LBL: h1218 ARG0: e1219 ARG1: x1225 ]
+          [ _blood_n_1 LBL: h1218 ARG0: x1225 ] >
+  HCONS: < h1226 qeq h1218 h1232 qeq h1231 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+idBlood_1      True            MRS fragment produced  True               Included in MRS
+uncountable_2  True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idArticleType_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

@@ -1,0 +1,35 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idLab1BackOpening_subgraph.dot
+[ TOP: h1619
+  INDEX: e1616
+  RELS: < [ unknown LBL: h1618 ARG: x1612 ARG0: e1616 ]
+          [ def_udef_a_q LBL: h1615 ARG0: x1612 RSTR: h1613 BODY: h1614 ]
+          [ loc_nonsp LBL: h1611 ARG0: i1608 ARG1: x1612 ARG2: x1604 ]
+          [ compound LBL: h1611 ARG0: e1587 ARG1: x1612 ARG2: x1581 ]
+          [ udef_q LBL: h1586 ARG0: x1581 RSTR: h1584 BODY: h1585 ]
+          [ _back_n_1 LBL: h1582 ARG0: x1581 ]
+          [ _opening_n_1 LBL: h1611 ARG0: x1612 ]
+          [ def_implicit_q LBL: h1607 ARG0: x1604 RSTR: h1605 BODY: h1606 ]
+          [ _north_a_1 LBL: h1603 ARG0: i1594 ARG1: x1604 ARG2: x1591 ]
+          [ def_udef_a_q LBL: h1601 ARG0: x1591 RSTR: h1599 BODY: h1600 ]
+          [ _label_n_1 LBL: h1593 ARG0: x1591 ARG1: x1592 ]
+          [ place_n LBL: h1603 ARG0: x1604 ] >
+  HCONS: < h1584 qeq h1582 h1599 qeq h1593 h1605 qeq h1603 h1613 qeq h1611 h1619 qeq h1618 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                 MRS Produced    Reason                 Included in MRS    Reason
+-------------------  --------------  ---------------------  -----------------  ---------------
+idLab1BackOpening_1  True            MRS fragment produced  True               Included in MRS
+idLabel_2            True            MRS fragment produced  True               Included in MRS
+
+Edge         MRS Composed    Reason        Included in MRS    Reason
+-----------  --------------  ------------  -----------------  ---------------
+isNorthOf_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

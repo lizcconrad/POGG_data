@@ -1,0 +1,28 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idGiftBox1_subgraph.dot
+
+
+TOTAL RESULTS: 0
+
+Node         MRS Produced    Reason                                                Included in MRS    Reason
+-----------  --------------  ----------------------------------------------------  -----------------  ----------------------------------------------------
+closed_2     True            MRS fragment produced                                 False              Descends from failed node
+closed_5     True            MRS fragment produced                                 False              Descends from failed node
+happy_4      True            MRS fragment produced                                 False              Descends from failed node
+idDrawer_6   True            MRS fragment produced                                 False              Descends from failed node
+idGiftBox_1  False           "Can't find '_gift_n_of-to' as a key in the lexicon"  False              "Can't find '_gift_n_of-to' as a key in the lexicon"
+idKelly_3    False           'idKelly' has no value in the lexicon                 False              'idKelly' has no value in the lexicon
+
+Edge           MRS Composed    Reason                     Included in MRS    Reason
+-------------  --------------  -------------------------  -----------------  -------------------------
+idEmotion_2    False           Outbound from failed node  False              Outbound from failed node
+idOpenState_1  False           Outbound from failed node  False              Outbound from failed node
+idOpenState_3  False           Outbound from failed node  False              Outbound from failed node
+isNear_5       False           Outbound from failed node  False              Outbound from failed node
+isNorthOf_4    False           Outbound from failed node  False              Outbound from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        6    0.666667
+Nodes              Included             0        6    0
+Edges              Produced             0        5    0
+Edges              Included             0        5    0

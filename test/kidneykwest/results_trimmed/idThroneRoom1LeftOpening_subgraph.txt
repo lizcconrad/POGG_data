@@ -1,0 +1,98 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idThroneRoom1LeftOpening_subgraph.dot
+[ TOP: h300
+  INDEX: e297
+  RELS: < [ unknown LBL: h299 ARG: x293 ARG0: e297 ]
+          [ def_udef_a_q LBL: h296 ARG0: x293 RSTR: h294 BODY: h295 ]
+          [ loc_nonsp LBL: h250 ARG0: i289 ARG1: x293 ARG2: x276 ]
+          [ compound LBL: h250 ARG0: e258 ARG1: x293 ARG2: x251 ]
+          [ udef_q LBL: h257 ARG0: x251 RSTR: h255 BODY: h256 ]
+          [ _left_n_of LBL: h253 ARG0: x251 ARG1: i252 ]
+          [ _opening_n_1 LBL: h250 ARG0: x293 ]
+          [ def_implicit_q LBL: h288 ARG0: x276 RSTR: h286 BODY: h287 ]
+          [ _east_a_1 LBL: h278 ARG0: i275 ARG1: x276 ARG2: x279 ]
+          [ def_udef_a_q LBL: h282 ARG0: x279 RSTR: h280 BODY: h281 ]
+          [ compound LBL: h274 ARG0: e271 ARG1: x279 ARG2: x267 ]
+          [ udef_q LBL: h270 ARG0: x267 RSTR: h268 BODY: h269 ]
+          [ _right_n_of LBL: h266 ARG0: x267 ARG1: i265 ]
+          [ _opening_n_1 LBL: h274 ARG0: x279 ]
+          [ place_n LBL: h278 ARG0: x276 ] >
+  HCONS: < h255 qeq h253 h268 qeq h266 h280 qeq h274 h286 qeq h278 h294 qeq h250 h300 qeq h299 > ]
+GENERATED RESULTS ... 
+The left openings east of the right openings
+The left openings east of the right opening
+A left opening east of the right openings
+The left opening east of the right openings
+A left opening east of the right opening
+The left opening east of the right opening
+Left openings east of the right openings
+The left openings east of a right opening
+The left openings east of the right openings.
+Left openings east of the right opening
+A left opening east of a right opening
+The left opening east of a right opening
+A left opening east of the right openings.
+The left opening east of the right openings.
+Left openings east of a right opening
+Left openings east of the right openings.
+The left openings east of the right opening.
+Left opening east of the right openings
+A left opening east of the right opening.
+The left opening east of the right opening.
+Left opening east of the right opening
+The left openings east of a right opening.
+Left openings east of the right opening.
+A left opening east of a right opening.
+The left opening east of a right opening.
+Left opening east of a right opening
+Left opening east of the right openings.
+Left openings east of a right opening.
+The left openings east of right openings
+Left opening east of the right opening.
+The left openings, east of the right openings
+Left openings, east of the right openings
+The left opening, east of the right openings
+A left opening east of right openings
+The left opening east of right openings
+Left opening, east of the right openings
+The left openings, east of the right opening
+Left openings, east of the right opening
+The left opening, east of the right opening
+The left openings east of right openings.
+Left opening east of a right opening.
+A left opening, east of the right openings
+Left openings east of right openings
+Left opening, east of the right opening
+A left opening east of right openings.
+The left opening east of right openings.
+The left openings, east of a right opening
+A left opening, east of the right opening
+Left openings, east of a right opening
+The left opening, east of a right opening
+Left openings east of right openings.
+Left opening, east of a right opening
+A left opening, east of a right opening
+Left opening east of right openings
+Left opening east of right openings.
+The left openings, east of right openings
+Left openings, east of right openings
+The left opening, east of right openings
+Left opening, east of right openings
+A left opening, east of right openings
+
+TOTAL RESULTS: 60
+
+Node                        MRS Produced    Reason                 Included in MRS    Reason
+--------------------------  --------------  ---------------------  -----------------  ---------------
+idBarn1RightOpening_2       True            MRS fragment produced  True               Included in MRS
+idThroneRoom1LeftOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge        MRS Composed    Reason        Included in MRS    Reason
+----------  --------------  ------------  -----------------  ---------------
+isEastOf_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

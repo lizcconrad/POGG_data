@@ -1,0 +1,92 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idLight1_subgraph.dot
+[ TOP: h1579
+  INDEX: e1576
+  RELS: < [ unknown LBL: h1578 ARG: x1563 ARG0: e1576 ]
+          [ def_udef_a_q LBL: h1575 ARG0: x1563 RSTR: h1573 BODY: h1574 ]
+          [ _light_v_cause LBL: h1564 ARG0: e1568 ARG1: i1569 ARG2: x1563 ]
+          [ _purple_a_1 LBL: h1564 ARG0: i1565 ARG1: x1563 ]
+          [ _light_n_1 LBL: h1564 ARG0: x1563 ] >
+  HCONS: < h1573 qeq h1564 h1579 qeq h1578 > ]
+GENERATED RESULTS ... 
+Lighted purple lights.
+Lighted purple lights
+The purple lights to light.
+The purple lighted lights
+Lighted purple light.
+A purple light to light.
+The lighted purple lights
+Lighted purple light
+Purple lighted light
+The purple lights to light
+The lighted purple lights.
+Purple lighted lights
+The purple lights lighted.
+A purple light to light
+The purple light to light.
+The purple lighted lights.
+The purple lights lighted
+The purple lighted light
+The lighted purple light.
+A purple light lighted.
+Purple lighted lights.
+A purple lighted light
+A lighted purple light.
+A purple light lighted
+The purple lighted light.
+The purple light to light
+Purple lighted light.
+A purple lighted light.
+The lighted purple light
+The purple light lighted.
+A lighted purple light
+A purple light, lighted.
+Lighted purple light.
+The purple light lighted
+Purple lights, lighted.
+Purple lights lighted.
+Purple lighted light
+Purple light lighted.
+The purple lights, lighted.
+Lighted purple light
+A purple light, to light.
+Purple light, lighted.
+Purple lights, to light.
+Purple lighted light.
+Purple light to light.
+Purple lights lighted
+The purple light, lighted.
+The purple lights, to light.
+Purple lights to light.
+Purple light lighted
+Purple light to light.
+Purple light, to light.
+Purple light lighted.
+Purple light lighted
+Purple light to light
+The purple light, to light.
+Purple lights to light
+Purple light, lighted.
+Purple light to light
+Purple light, to light.
+
+TOTAL RESULTS: 60
+
+Node       MRS Produced    Reason                            Included in MRS    Reason
+---------  --------------  --------------------------------  -----------------  --------------------------------
+idLight_1  True            MRS fragment produced             True               Included in MRS
+lit_4      True            MRS fragment produced             True               Included in MRS
+on_3       False           'on' has no value in the lexicon  False              'on' has no value in the lexicon
+purple_2   True            MRS fragment produced             True               Included in MRS
+
+Edge            MRS Composed    Reason                  Included in MRS    Reason
+--------------  --------------  ----------------------  -----------------  ----------------------
+idColor_1       True            MRS composed            True               Included in MRS
+idLitState_3    True            MRS composed            True               Included in MRS
+idPowerState_2  False           Inbound to failed node  False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        4    0.75
+Nodes              Included             3        4    0.75
+Edges              Produced             2        3    0.666667
+Edges              Included             2        3    0.666667

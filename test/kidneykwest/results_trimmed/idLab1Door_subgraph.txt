@@ -1,0 +1,113 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idLab1Door_subgraph.dot
+[ TOP: h1578
+  INDEX: e1575
+  RELS: < [ unknown LBL: h1577 ARG: x1552 ARG0: e1575 ]
+          [ def_udef_a_q LBL: h1574 ARG0: x1552 RSTR: h1572 BODY: h1573 ]
+          [ _open_a_to LBL: h1570 ARG0: e1567 ARG1: x1552 ARG2: u1569 ]
+          [ _white_a_1 LBL: h1570 ARG0: i1564 ARG1: x1552 ]
+          [ compound LBL: h1570 ARG0: e1560 ARG1: x1552 ARG2: x1554 ]
+          [ udef_q LBL: h1559 ARG0: x1554 RSTR: h1557 BODY: h1558 ]
+          [ _lab_n_1 LBL: h1555 ARG0: x1554 ]
+          [ _door_n_1 LBL: h1570 ARG0: x1552 ] >
+  HCONS: < h1557 qeq h1555 h1572 qeq h1570 h1578 qeq h1577 > ]
+GENERATED RESULTS ... 
+The open white lab doors
+An open white lab door
+The open white lab door
+The white open lab doors
+The open white lab doors.
+Open white lab doors
+The white open lab door
+The white open lab doors.
+An open lab white door
+The open lab white door
+A white open lab door
+The open lab white doors
+Open white lab doors.
+White open lab doors
+Open lab white doors
+An open white lab door.
+The open white lab door.
+The open lab white doors.
+Labs white open door
+The lab white open door
+Open lab white doors.
+The lab white open doors
+The white open lab door.
+White open lab doors.
+A lab white open door
+Labs open white door
+Lab white open doors
+A white open lab door.
+Lab white open door
+The lab white open doors.
+Open white lab door
+The labs open white doors
+The open labs white doors
+An open lab white door.
+A labs white open door
+An open labs white door
+The open lab white door.
+The open labs white door
+Lab white open doors.
+The labs white open door
+The open labs white doors.
+The labs white open doors
+White open lab door
+A labs open white door
+Open labs white doors
+The labs open white door
+Labs open white doors
+Open lab white door
+Open labs white doors.
+The white labs open door
+The white labs open doors
+The white labs open doors.
+Labs white open doors
+Labs white open door.
+The labs white open doors.
+The lab white open door.
+White labs open doors
+White labs open doors.
+A white labs open door
+A lab white open door.
+Open white lab door.
+An open labs white door.
+The open labs white door.
+Labs open white door.
+The labs open white doors.
+Labs white open doors.
+Lab white open door.
+White open lab door.
+A labs white open door.
+The white labs open door.
+The labs white open door.
+Labs open white doors.
+A white labs open door.
+Open lab white door.
+A labs open white door.
+Open labs white door
+The labs open white door.
+White labs open door
+Open labs white door.
+White labs open door.
+
+TOTAL RESULTS: 80
+
+Node          MRS Produced    Reason                 Included in MRS    Reason
+------------  --------------  ---------------------  -----------------  ---------------
+idLab1Door_1  True            MRS fragment produced  True               Included in MRS
+open_3        True            MRS fragment produced  True               Included in MRS
+white_2       True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idColor_1      True            MRS composed  True               Included in MRS
+idOpenState_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

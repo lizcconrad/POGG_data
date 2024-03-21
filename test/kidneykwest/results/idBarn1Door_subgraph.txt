@@ -1,0 +1,93 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idBarn1Door_subgraph.dot
+[ TOP: h4976
+  INDEX: e4973
+  RELS: < [ unknown LBL: h4975 ARG: x4969 ARG0: e4973 ]
+          [ def_udef_a_q LBL: h4972 ARG0: x4969 RSTR: h4970 BODY: h4971 ]
+          [ _open_a_to LBL: h4961 ARG0: e4965 ARG1: x4969 ARG2: u4967 ]
+          [ _wooden_a_1 LBL: h4961 ARG0: e4962 ARG1: x4969 ]
+          [ compound LBL: h4961 ARG0: e4958 ARG1: x4969 ARG2: x4952 ]
+          [ udef_q LBL: h4957 ARG0: x4952 RSTR: h4955 BODY: h4956 ]
+          [ _barn_n_1 LBL: h4953 ARG0: x4952 ]
+          [ _door_n_1 LBL: h4961 ARG0: x4969 ] >
+  HCONS: < h4955 qeq h4953 h4970 qeq h4961 h4976 qeq h4975 > ]
+GENERATED RESULTS ... 
+The wooden open barn doors
+The open wooden barn doors
+The wooden open barn door
+The wooden open barn doors.
+An open wooden barn door
+The open wooden barn door
+A wooden open barn door
+The open wooden barn doors.
+Open wooden barn doors
+Wooden open barn doors
+Barns open wooden door
+The wooden open barn door.
+An open wooden barn door.
+The open wooden barn door.
+A wooden open barn door.
+Barns wooden open door
+Open wooden barn doors.
+Wooden open barn door
+Wooden open barn doors.
+An open barns wooden door
+The open barns wooden door
+A barns open wooden door
+The barns open wooden door
+Open wooden barn door
+A barns wooden open door
+The barns wooden open door
+The barns wooden open doors
+The open barns wooden doors
+Wooden open barn door.
+The barns open wooden doors
+The open barns wooden doors.
+Barns wooden open doors
+Barns wooden open door.
+The barns wooden open doors.
+Open barns wooden doors
+Open barns wooden doors.
+Open wooden barn door.
+Barns open wooden doors
+Barns wooden open doors.
+The wooden barns open door
+The wooden barns open doors
+The wooden barns open doors.
+An open barns wooden door.
+The open barns wooden door.
+Barns open wooden door.
+The barns open wooden doors.
+Open barns wooden door
+A wooden barns open door
+A barns wooden open door.
+Wooden barns open doors
+Wooden barns open doors.
+The barns wooden open door.
+Barns open wooden doors.
+The wooden barns open door.
+A barns open wooden door.
+The barns open wooden door.
+A wooden barns open door.
+Wooden barns open door
+Open barns wooden door.
+Wooden barns open door.
+
+TOTAL RESULTS: 60
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+idBarn1Door_1  True            MRS fragment produced  True               Included in MRS
+idwood_2       True            MRS fragment produced  True               Included in MRS
+open_3         True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idMaterial_1   True            MRS composed  True               Included in MRS
+idOpenState_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

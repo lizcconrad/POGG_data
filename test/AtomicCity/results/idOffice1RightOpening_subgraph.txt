@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idOffice1RightOpening_subgraph.dot
+[ TOP: h1393
+  INDEX: e1390
+  RELS: < [ unknown LBL: h1392 ARG: x1386 ARG0: e1390 ]
+          [ def_udef_a_q LBL: h1389 ARG0: x1386 RSTR: h1387 BODY: h1388 ]
+          [ compound LBL: h1385 ARG0: e1382 ARG1: x1386 ARG2: x1375 ]
+          [ udef_q LBL: h1381 ARG0: x1375 RSTR: h1379 BODY: h1380 ]
+          [ _right_n_of LBL: h1377 ARG0: x1375 ARG1: i1376 ]
+          [ _opening_n_1 LBL: h1385 ARG0: x1386 ] >
+  HCONS: < h1379 qeq h1377 h1387 qeq h1385 h1393 qeq h1392 > ]
+GENERATED RESULTS ... 
+The right opening
+The right openings
+A right opening
+The right openings.
+Right openings
+The right opening.
+Right opening
+A right opening.
+Right openings.
+Right opening.
+
+TOTAL RESULTS: 10
+
+Node                     MRS Produced    Reason                 Included in MRS    Reason
+-----------------------  --------------  ---------------------  -----------------  ---------------
+idOffice1RightOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

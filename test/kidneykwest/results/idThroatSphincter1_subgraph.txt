@@ -1,0 +1,560 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idThroatSphincter1_subgraph.dot
+[ TOP: h1138
+  INDEX: e1135
+  RELS: < [ unknown LBL: h1137 ARG: x1131 ARG0: e1135 ]
+          [ def_udef_a_q LBL: h1134 ARG0: x1131 RSTR: h1132 BODY: h1133 ]
+          [ loc_nonsp LBL: h1080 ARG0: i1127 ARG1: x1131 ARG2: x1114 ]
+          [ loc_nonsp LBL: h1080 ARG0: i1077 ARG1: x1131 ARG2: x1073 ]
+          [ _closed_a_1 LBL: h1080 ARG0: e1028 ARG1: x1131 ]
+          [ compound LBL: h1080 ARG0: e1024 ARG1: x1131 ARG2: x1018 ]
+          [ udef_q LBL: h1023 ARG0: x1018 RSTR: h1021 BODY: h1022 ]
+          [ _throat_n_1 LBL: h1019 ARG0: x1018 ]
+          [ _sphincter_n_1 LBL: h1080 ARG0: x1131 ]
+          [ def_implicit_q LBL: h1076 ARG0: x1073 RSTR: h1074 BODY: h1075 ]
+          [ _north_a_1 LBL: h1066 ARG0: i1063 ARG1: x1073 ARG2: x1067 ]
+          [ def_udef_a_q LBL: h1070 ARG0: x1067 RSTR: h1068 BODY: h1069 ]
+          [ loc_nonsp LBL: h1042 ARG0: i1059 ARG1: x1067 ARG2: x1055 ]
+          [ compound LBL: h1042 ARG0: e1039 ARG1: x1067 ARG2: x1033 ]
+          [ udef_q LBL: h1038 ARG0: x1033 RSTR: h1036 BODY: h1037 ]
+          [ _front_n_1 LBL: h1034 ARG0: x1033 ]
+          [ _opening_n_1 LBL: h1042 ARG0: x1067 ]
+          [ def_implicit_q LBL: h1058 ARG0: x1055 RSTR: h1056 BODY: h1057 ]
+          [ _south_a_1 LBL: h1048 ARG0: i1045 ARG1: x1055 ARG2: x1049 ]
+          [ def_udef_a_q LBL: h1052 ARG0: x1049 RSTR: h1050 BODY: h1051 ]
+          [ _intestine_n_1 LBL: h1044 ARG0: x1049 ]
+          [ place_n LBL: h1048 ARG0: x1055 ]
+          [ place_n LBL: h1066 ARG0: x1073 ]
+          [ def_implicit_q LBL: h1126 ARG0: x1114 RSTR: h1124 BODY: h1125 ]
+          [ _north_a_1 LBL: h1116 ARG0: i1113 ARG1: x1114 ARG2: x1081 ]
+          [ def_udef_a_q LBL: h1120 ARG0: x1081 RSTR: h1118 BODY: h1119 ]
+          [ loc_nonsp LBL: h1112 ARG0: i1109 ARG1: x1081 ARG2: x1103 ]
+          [ compound LBL: h1112 ARG0: e1089 ARG1: x1081 ARG2: x1083 ]
+          [ udef_q LBL: h1088 ARG0: x1083 RSTR: h1086 BODY: h1087 ]
+          [ _back_n_1 LBL: h1084 ARG0: x1083 ]
+          [ _opening_n_1 LBL: h1112 ARG0: x1081 ]
+          [ def_implicit_q LBL: h1108 ARG0: x1103 RSTR: h1106 BODY: h1107 ]
+          [ _south_a_1 LBL: h1104 ARG0: i1095 ARG1: x1103 ARG2: x1099 ]
+          [ def_udef_a_q LBL: h1102 ARG0: x1099 RSTR: h1100 BODY: h1101 ]
+          [ _stomach_n_1 LBL: h1094 ARG0: x1099 ]
+          [ place_n LBL: h1104 ARG0: x1103 ]
+          [ place_n LBL: h1116 ARG0: x1114 ] >
+  HCONS: < h1021 qeq h1019 h1036 qeq h1034 h1050 qeq h1044 h1056 qeq h1048 h1068 qeq h1042 h1074 qeq h1066 h1086 qeq h1084 h1100 qeq h1094 h1106 qeq h1104 h1118 qeq h1112 h1124 qeq h1116 h1132 qeq h1080 h1138 qeq h1137 > ]
+GENERATED RESULTS ... 
+Closed throat sphincters north of the back opening south of the stomach north of the front opening south of the intestines
+Closed throat sphincters north of the front opening south of the intestines north of the back opening south of the stomach
+Closed throat sphincters north of the front opening south of the intestines north of the back opening south of the stomaches.
+Closed throat sphincters north of the front opening south of the intestines north of the back opening south of a stomach.
+A closed throat sphincter north of the back opening south of the stomach north of the front opening south of the intestines
+A closed throat sphincter north of the front opening south of the intestines north of the back opening south of the stomach
+The closed throat sphincter north of the back opening south of the stomach north of the front opening south of the intestines
+The closed throat sphincter north of the front opening south of the intestines north of the back opening south of the stomach
+Closed throat sphincters north of a back opening south of the stomach north of the front opening south of the intestines
+Closed throat sphincters north of a front opening south of the intestines north of the back opening south of the stomach
+Closed throat sphincters north of the back opening south of the stomach north of a front opening south of the intestines
+Closed throat sphincters north of the front opening south of the intestines north of a back opening south of the stomach
+Closed throat sphincters north of the back opening south of the stomaches north of the front opening south of the intestines
+Closed throat sphincters north of the front opening south of the intestines north of the back opening south of the stomaches
+Closed throat sphincters north of the back openings south of the stomach north of the front opening south of the intestines
+Closed throat sphincters north of the front opening south of the intestines north of the back openings south of the stomach
+Closed throat sphincters north of the back opening south of the stomach north of the front openings south of the intestines
+Closed throat sphincters north of the front openings south of the intestines north of the back opening south of the stomach
+A closed throat sphincter north of the front opening south of the intestines north of the back opening south of the stomaches.
+The closed throat sphincter north of the front opening south of the intestines north of the back opening south of the stomaches.
+Closed throat sphincters north of the front opening south of the intestines north of a back opening south of the stomaches.
+Closed throat sphincters north of a front opening south of the intestines north of the back opening south of the stomaches.
+A closed throat sphincter north of the front opening south of the intestines north of the back opening south of a stomach.
+The closed throat sphincter north of the front opening south of the intestines north of the back opening south of a stomach.
+Closed throat sphincters north of the front opening south of the intestines north of a back opening south of a stomach.
+Closed throat sphincters north of a front opening south of the intestines north of the back opening south of a stomach.
+Closed throat sphincters north of the front openings south of the intestines north of the back opening south of the stomaches.
+Closed throat sphincters north of the front opening south of the intestines north of the back openings south of the stomaches.
+Closed throat sphincters north of the front opening south of the intestines north of the back openings south of a stomach.
+Closed throat sphincters north of the front openings south of the intestines north of the back opening south of a stomach.
+Closed throat sphincters north of the front opening south of the intestines north of the back opening south of the stomach.
+A closed throat sphincter north of a back opening south of the stomach north of the front opening south of the intestines
+A closed throat sphincter north of the front opening south of the intestines north of a back opening south of the stomach
+A closed throat sphincter north of the back opening south of the stomach north of a front opening south of the intestines
+A closed throat sphincter north of a front opening south of the intestines north of the back opening south of the stomach
+The closed throat sphincter north of a back opening south of the stomach north of the front opening south of the intestines
+The closed throat sphincter north of the front opening south of the intestines north of a back opening south of the stomach
+The closed throat sphincter north of the back opening south of the stomach north of a front opening south of the intestines
+The closed throat sphincter north of a front opening south of the intestines north of the back opening south of the stomach
+Closed throat sphincters north of a back opening south of the stomach north of a front opening south of the intestines
+Closed throat sphincters north of a front opening south of the intestines north of a back opening south of the stomach
+A closed throat sphincter north of the back opening south of the stomaches north of the front opening south of the intestines
+A closed throat sphincter north of the front opening south of the intestines north of the back opening south of the stomaches
+A closed throat sphincter north of the back openings south of the stomach north of the front opening south of the intestines
+A closed throat sphincter north of the front opening south of the intestines north of the back openings south of the stomach
+A closed throat sphincter north of the back opening south of the stomach north of the front openings south of the intestines
+A closed throat sphincter north of the front openings south of the intestines north of the back opening south of the stomach
+The closed throat sphincter north of the back opening south of the stomaches north of the front opening south of the intestines
+The closed throat sphincter north of the front opening south of the intestines north of the back opening south of the stomaches
+Closed throat sphincters north of a back opening south of the stomaches north of the front opening south of the intestines
+Closed throat sphincters north of a front opening south of the intestines north of the back opening south of the stomaches
+Closed throat sphincters north of the back opening south of the stomaches north of a front opening south of the intestines
+Closed throat sphincters north of the front opening south of the intestines north of a back opening south of the stomaches
+The closed throat sphincter north of the back openings south of the stomach north of the front opening south of the intestines
+The closed throat sphincter north of the front opening south of the intestines north of the back openings south of the stomach
+The closed throat sphincter north of the back opening south of the stomach north of the front openings south of the intestines
+The closed throat sphincter north of the front openings south of the intestines north of the back opening south of the stomach
+Closed throat sphincters north of a back opening south of the stomach north of the front openings south of the intestines
+Closed throat sphincters north of a front opening south of the intestines north of the back openings south of the stomach
+Closed throat sphincters north of the back openings south of the stomach north of a front opening south of the intestines
+Closed throat sphincters north of the front openings south of the intestines north of a back opening south of the stomach
+A closed throat sphincter north of the front opening south of the intestines north of a back opening south of the stomaches.
+A closed throat sphincter north of a front opening south of the intestines north of the back opening south of the stomaches.
+Closed throat sphincters north of the back openings south of the stomaches north of the front opening south of the intestines
+Closed throat sphincters north of the front opening south of the intestines north of the back openings south of the stomaches
+Closed throat sphincters north of the back opening south of the stomaches north of the front openings south of the intestines
+Closed throat sphincters north of the front openings south of the intestines north of the back opening south of the stomaches
+The closed throat sphincter north of the front opening south of the intestines north of a back opening south of the stomaches.
+The closed throat sphincter north of a front opening south of the intestines north of the back opening south of the stomaches.
+Closed throat sphincters north of the back openings south of the stomach north of the front openings south of the intestines
+Closed throat sphincters north of the front openings south of the intestines north of the back openings south of the stomach
+Closed throat sphincters north of a front opening south of the intestines north of a back opening south of the stomaches.
+A closed throat sphincter north of the front opening south of the intestines north of a back opening south of a stomach.
+A closed throat sphincter north of a front opening south of the intestines north of the back opening south of a stomach.
+The closed throat sphincter north of the front opening south of the intestines north of a back opening south of a stomach.
+The closed throat sphincter north of a front opening south of the intestines north of the back opening south of a stomach.
+A closed throat sphincter north of the front opening south of the intestines north of the back openings south of the stomaches.
+A closed throat sphincter north of the front openings south of the intestines north of the back opening south of the stomaches.
+Closed throat sphincters north of a front opening south of the intestines north of a back opening south of a stomach.
+The closed throat sphincter north of the front opening south of the intestines north of the back openings south of the stomaches.
+The closed throat sphincter north of the front openings south of the intestines north of the back opening south of the stomaches.
+Closed throat sphincters north of the front openings south of the intestines north of a back opening south of the stomaches.
+Closed throat sphincters north of a front opening south of the intestines north of the back openings south of the stomaches.
+A closed throat sphincter north of the front opening south of the intestines north of the back openings south of a stomach.
+A closed throat sphincter north of the front openings south of the intestines north of the back opening south of a stomach.
+Closed throat sphincters north of the back opening south of the stomach north of the front opening south of the intestine
+Closed throat sphincters north of the front opening south of the intestine north of the back opening south of the stomach
+The closed throat sphincter north of the front opening south of the intestines north of the back openings south of a stomach.
+The closed throat sphincter north of the front openings south of the intestines north of the back opening south of a stomach.
+Closed throat sphincters north of the front openings south of the intestines north of a back opening south of a stomach.
+Closed throat sphincters north of a front opening south of the intestines north of the back openings south of a stomach.
+A closed throat sphincter north of the front opening south of the intestines north of the back opening south of the stomach.
+Closed throat sphincters north of the front openings south of the intestines north of the back openings south of the stomaches.
+The closed throat sphincter north of the front opening south of the intestines north of the back opening south of the stomach.
+Closed throat sphincters north of a front opening south of the intestines north of the back opening south of the stomach.
+Closed throat sphincters north of the front opening south of the intestines north of a back opening south of the stomach.
+Closed throat sphincters north of the front openings south of the intestines north of the back openings south of a stomach.
+A closed throat sphincter north of a back opening south of the stomach north of a front opening south of the intestines
+A closed throat sphincter north of a front opening south of the intestines north of a back opening south of the stomach
+Closed throat sphincters north of the front opening south of the intestine north of the back opening south of the stomaches.
+The closed throat sphincter north of a back opening south of the stomach north of a front opening south of the intestines
+The closed throat sphincter north of a front opening south of the intestines north of a back opening south of the stomach
+Closed throat sphincters north of the front openings south of the intestines north of the back opening south of the stomach.
+Closed throat sphincters north of the front opening south of the intestines north of the back openings south of the stomach.
+Closed throat sphincters north of the front opening south of the intestine north of the back opening south of a stomach.
+A closed throat sphincter north of the back opening south of the stomaches north of a front opening south of the intestines
+A closed throat sphincter north of a front opening south of the intestines north of the back opening south of the stomaches
+A closed throat sphincter north of a back opening south of the stomaches north of the front opening south of the intestines
+A closed throat sphincter north of the front opening south of the intestines north of a back opening south of the stomaches
+A closed throat sphincter north of the back openings south of the stomach north of a front opening south of the intestines
+A closed throat sphincter north of the front openings south of the intestines north of a back opening south of the stomach
+A closed throat sphincter north of a back opening south of the stomach north of the front openings south of the intestines
+A closed throat sphincter north of a front opening south of the intestines north of the back openings south of the stomach
+The closed throat sphincter north of the back opening south of the stomaches north of a front opening south of the intestines
+The closed throat sphincter north of a front opening south of the intestines north of the back opening south of the stomaches
+The closed throat sphincter north of a back opening south of the stomaches north of the front opening south of the intestines
+The closed throat sphincter north of the front opening south of the intestines north of a back opening south of the stomaches
+Closed throat sphincters north of a back opening south of the stomaches north of a front opening south of the intestines
+Closed throat sphincters north of a front opening south of the intestines north of a back opening south of the stomaches
+The closed throat sphincter north of the back openings south of the stomach north of a front opening south of the intestines
+The closed throat sphincter north of the front openings south of the intestines north of a back opening south of the stomach
+The closed throat sphincter north of a back opening south of the stomach north of the front openings south of the intestines
+The closed throat sphincter north of a front opening south of the intestines north of the back openings south of the stomach
+A closed throat sphincter north of the back openings south of the stomaches north of the front opening south of the intestines
+A closed throat sphincter north of the front opening south of the intestines north of the back openings south of the stomaches
+A closed throat sphincter north of the back opening south of the stomaches north of the front openings south of the intestines
+A closed throat sphincter north of the front openings south of the intestines north of the back opening south of the stomaches
+A closed throat sphincter north of the back openings south of the stomach north of the front openings south of the intestines
+A closed throat sphincter north of the front openings south of the intestines north of the back openings south of the stomach
+The closed throat sphincter north of the back openings south of the stomaches north of the front opening south of the intestines
+The closed throat sphincter north of the front opening south of the intestines north of the back openings south of the stomaches
+The closed throat sphincter north of the back opening south of the stomaches north of the front openings south of the intestines
+The closed throat sphincter north of the front openings south of the intestines north of the back opening south of the stomaches
+A closed throat sphincter north of a front opening south of the intestines north of a back opening south of the stomaches.
+Closed throat sphincters north of the back openings south of the stomaches north of a front opening south of the intestines
+Closed throat sphincters north of a front opening south of the intestines north of the back openings south of the stomaches
+Closed throat sphincters north of a back opening south of the stomaches north of the front openings south of the intestines
+Closed throat sphincters north of the front openings south of the intestines north of a back opening south of the stomaches
+The closed throat sphincter north of the back openings south of the stomach north of the front openings south of the intestines
+The closed throat sphincter north of the front openings south of the intestines north of the back openings south of the stomach
+The closed throat sphincter north of a front opening south of the intestines north of a back opening south of the stomaches.
+A closed throat sphincter north of a front opening south of the intestines north of a back opening south of a stomach.
+The closed throat sphincter north of a front opening south of the intestines north of a back opening south of a stomach.
+A closed throat sphincter north of the front openings south of the intestines north of a back opening south of the stomaches.
+A closed throat sphincter north of a front opening south of the intestines north of the back openings south of the stomaches.
+A closed throat sphincter north of the back opening south of the stomach north of the front opening south of the intestine
+A closed throat sphincter north of the front opening south of the intestine north of the back opening south of the stomach
+Closed throat sphincters north of the back openings south of the stomaches north of the front openings south of the intestines
+Closed throat sphincters north of the front openings south of the intestines north of the back openings south of the stomaches
+The closed throat sphincter north of the front openings south of the intestines north of a back opening south of the stomaches.
+The closed throat sphincter north of a front opening south of the intestines north of the back openings south of the stomaches.
+The closed throat sphincter north of the back opening south of the stomach north of the front opening south of the intestine
+The closed throat sphincter north of the front opening south of the intestine north of the back opening south of the stomach
+A closed throat sphincter north of the front openings south of the intestines north of a back opening south of a stomach.
+A closed throat sphincter north of a front opening south of the intestines north of the back openings south of a stomach.
+Closed throat sphincters north of a back opening south of the stomach north of the front opening south of the intestine
+Closed throat sphincters north of a front opening south of the intestine north of the back opening south of the stomach
+Closed throat sphincters north of the back opening south of the stomach north of a front opening south of the intestine
+Closed throat sphincters north of the front opening south of the intestine north of a back opening south of the stomach
+The closed throat sphincter north of the front openings south of the intestines north of a back opening south of a stomach.
+The closed throat sphincter north of a front opening south of the intestines north of the back openings south of a stomach.
+A closed throat sphincter north of the front openings south of the intestines north of the back openings south of the stomaches.
+The closed throat sphincter north of the front openings south of the intestines north of the back openings south of the stomaches.
+Closed throat sphincters north of the back opening south of the stomaches north of the front opening south of the intestine
+Closed throat sphincters north of the front opening south of the intestine north of the back opening south of the stomaches
+A closed throat sphincter north of a front opening south of the intestines north of the back opening south of the stomach.
+A closed throat sphincter north of the front opening south of the intestines north of a back opening south of the stomach.
+A closed throat sphincter north of the front openings south of the intestines north of the back openings south of a stomach.
+Closed throat sphincters north of the back opening south of the stomach north of the front openings south of the intestine
+Closed throat sphincters north of the front openings south of the intestine north of the back opening south of the stomach
+Closed throat sphincters north of the back openings south of the stomach north of the front opening south of the intestine
+Closed throat sphincters north of the front opening south of the intestine north of the back openings south of the stomach
+The closed throat sphincter north of a front opening south of the intestines north of the back opening south of the stomach.
+The closed throat sphincter north of the front opening south of the intestines north of a back opening south of the stomach.
+The closed throat sphincter north of the front openings south of the intestines north of the back openings south of a stomach.
+Closed throat sphincters north of a front opening south of the intestines north of a back opening south of the stomach.
+A closed throat sphincter north of the front opening south of the intestine north of the back opening south of the stomaches.
+A closed throat sphincter north of the front opening south of the intestines north of the back openings south of the stomach.
+A closed throat sphincter north of the front openings south of the intestines north of the back opening south of the stomach.
+The closed throat sphincter north of the front opening south of the intestine north of the back opening south of the stomaches.
+Closed throat sphincters north of a front opening south of the intestine north of the back opening south of the stomaches.
+Closed throat sphincters north of the front opening south of the intestine north of a back opening south of the stomaches.
+A closed throat sphincter north of the front opening south of the intestine north of the back opening south of a stomach.
+The closed throat sphincter north of the front opening south of the intestines north of the back openings south of the stomach.
+The closed throat sphincter north of the front openings south of the intestines north of the back opening south of the stomach.
+Closed throat sphincters north of the front openings south of the intestines north of a back opening south of the stomach.
+Closed throat sphincters north of a front opening south of the intestines north of the back openings south of the stomach.
+The closed throat sphincter north of the front opening south of the intestine north of the back opening south of a stomach.
+Closed throat sphincters north of the front opening south of the intestine north of a back opening south of a stomach.
+Closed throat sphincters north of a front opening south of the intestine north of the back opening south of a stomach.
+A closed throat sphincter north of a back opening south of the stomaches north of a front opening south of the intestines
+A closed throat sphincter north of a front opening south of the intestines north of a back opening south of the stomaches
+The closed throat sphincter north of a back opening south of the stomaches north of a front opening south of the intestines
+The closed throat sphincter north of a front opening south of the intestines north of a back opening south of the stomaches
+Closed throat sphincters north of the front openings south of the intestine north of the back opening south of the stomaches.
+Closed throat sphincters north of the front opening south of the intestine north of the back openings south of the stomaches.
+Closed throat sphincters north of the front openings south of the intestines north of the back openings south of the stomach.
+Closed throat sphincters north of the front openings south of the intestine north of the back opening south of a stomach.
+Closed throat sphincters north of the front opening south of the intestine north of the back openings south of a stomach.
+A closed throat sphincter north of the back openings south of the stomaches north of a front opening south of the intestines
+A closed throat sphincter north of a front opening south of the intestines north of the back openings south of the stomaches
+A closed throat sphincter north of a back opening south of the stomaches north of the front openings south of the intestines
+A closed throat sphincter north of the front openings south of the intestines north of a back opening south of the stomaches
+The closed throat sphincter north of the back openings south of the stomaches north of a front opening south of the intestines
+The closed throat sphincter north of a front opening south of the intestines north of the back openings south of the stomaches
+The closed throat sphincter north of a back opening south of the stomaches north of the front openings south of the intestines
+The closed throat sphincter north of the front openings south of the intestines north of a back opening south of the stomaches
+Closed throat sphincters north of the front opening south of the intestine north of the back opening south of the stomach.
+A closed throat sphincter north of the back openings south of the stomaches north of the front openings south of the intestines
+A closed throat sphincter north of the front openings south of the intestines north of the back openings south of the stomaches
+The closed throat sphincter north of the back openings south of the stomaches north of the front openings south of the intestines
+The closed throat sphincter north of the front openings south of the intestines north of the back openings south of the stomaches
+A closed throat sphincter north of a back opening south of the stomach north of the front opening south of the intestine
+A closed throat sphincter north of the front opening south of the intestine north of a back opening south of the stomach
+A closed throat sphincter north of the back opening south of the stomach north of a front opening south of the intestine
+A closed throat sphincter north of a front opening south of the intestine north of the back opening south of the stomach
+The closed throat sphincter north of a back opening south of the stomach north of the front opening south of the intestine
+The closed throat sphincter north of the front opening south of the intestine north of a back opening south of the stomach
+The closed throat sphincter north of the back opening south of the stomach north of a front opening south of the intestine
+The closed throat sphincter north of a front opening south of the intestine north of the back opening south of the stomach
+Closed throat sphincters north of a back opening south of the stomach north of a front opening south of the intestine
+Closed throat sphincters north of a front opening south of the intestine north of a back opening south of the stomach
+A closed throat sphincter north of the back opening south of the stomaches north of the front opening south of the intestine
+A closed throat sphincter north of the front opening south of the intestine north of the back opening south of the stomaches
+A closed throat sphincter north of the back opening south of the stomach north of the front openings south of the intestine
+A closed throat sphincter north of the front openings south of the intestine north of the back opening south of the stomach
+A closed throat sphincter north of the back openings south of the stomach north of the front opening south of the intestine
+A closed throat sphincter north of the front opening south of the intestine north of the back openings south of the stomach
+The closed throat sphincter north of the back opening south of the stomaches north of the front opening south of the intestine
+The closed throat sphincter north of the front opening south of the intestine north of the back opening south of the stomaches
+Closed throat sphincters north of the back opening south of the stomaches north of a front opening south of the intestine
+Closed throat sphincters north of a front opening south of the intestine north of the back opening south of the stomaches
+Closed throat sphincters north of a back opening south of the stomaches north of the front opening south of the intestine
+Closed throat sphincters north of the front opening south of the intestine north of a back opening south of the stomaches
+The closed throat sphincter north of the back opening south of the stomach north of the front openings south of the intestine
+The closed throat sphincter north of the front openings south of the intestine north of the back opening south of the stomach
+The closed throat sphincter north of the back openings south of the stomach north of the front opening south of the intestine
+The closed throat sphincter north of the front opening south of the intestine north of the back openings south of the stomach
+A closed throat sphincter north of a front opening south of the intestines north of a back opening south of the stomach.
+Closed throat sphincters north of a back opening south of the stomach north of the front openings south of the intestine
+Closed throat sphincters north of the front openings south of the intestine north of a back opening south of the stomach
+Closed throat sphincters north of the back openings south of the stomach north of a front opening south of the intestine
+Closed throat sphincters north of a front opening south of the intestine north of the back openings south of the stomach
+The closed throat sphincter north of a front opening south of the intestines north of a back opening south of the stomach.
+A closed throat sphincter north of a front opening south of the intestine north of the back opening south of the stomaches.
+A closed throat sphincter north of the front opening south of the intestine north of a back opening south of the stomaches.
+Closed throat sphincters north of the back opening south of the stomaches north of the front openings south of the intestine
+Closed throat sphincters north of the front opening south of the intestine north of the back openings south of the stomaches
+Closed throat sphincters north of the back openings south of the stomaches north of the front opening south of the intestine
+Closed throat sphincters north of the front openings south of the intestine north of the back opening south of the stomaches
+A closed throat sphincter north of a front opening south of the intestines north of the back openings south of the stomach.
+A closed throat sphincter north of the front openings south of the intestines north of a back opening south of the stomach.
+The closed throat sphincter north of a front opening south of the intestine north of the back opening south of the stomaches.
+The closed throat sphincter north of the front opening south of the intestine north of a back opening south of the stomaches.
+Closed throat sphincters north of the back openings south of the stomach north of the front openings south of the intestine
+Closed throat sphincters north of the front openings south of the intestine north of the back openings south of the stomach
+Closed throat sphincters north of a front opening south of the intestine north of a back opening south of the stomaches.
+A closed throat sphincter north of the front opening south of the intestine north of a back opening south of a stomach.
+A closed throat sphincter north of a front opening south of the intestine north of the back opening south of a stomach.
+The closed throat sphincter north of a front opening south of the intestines north of the back openings south of the stomach.
+The closed throat sphincter north of the front openings south of the intestines north of a back opening south of the stomach.
+The closed throat sphincter north of the front opening south of the intestine north of a back opening south of a stomach.
+The closed throat sphincter north of a front opening south of the intestine north of the back opening south of a stomach.
+A closed throat sphincter north of the front openings south of the intestine north of the back opening south of the stomaches.
+A closed throat sphincter north of the front opening south of the intestine north of the back openings south of the stomaches.
+Closed throat sphincters north of a front opening south of the intestine north of a back opening south of a stomach.
+A closed throat sphincter north of the front openings south of the intestines north of the back openings south of the stomach.
+The closed throat sphincter north of the front openings south of the intestine north of the back opening south of the stomaches.
+The closed throat sphincter north of the front opening south of the intestine north of the back openings south of the stomaches.
+Closed throat sphincters north of the front openings south of the intestine north of a back opening south of the stomaches.
+Closed throat sphincters north of a front opening south of the intestine north of the back openings south of the stomaches.
+A closed throat sphincter north of the front openings south of the intestine north of the back opening south of a stomach.
+A closed throat sphincter north of the front opening south of the intestine north of the back openings south of a stomach.
+The closed throat sphincter north of the front openings south of the intestines north of the back openings south of the stomach.
+The closed throat sphincter north of the front openings south of the intestine north of the back opening south of a stomach.
+The closed throat sphincter north of the front opening south of the intestine north of the back openings south of a stomach.
+Closed throat sphincters north of a front opening south of the intestine north of the back openings south of a stomach.
+Closed throat sphincters north of the front openings south of the intestine north of a back opening south of a stomach.
+A closed throat sphincter north of the front opening south of the intestine north of the back opening south of the stomach.
+Closed throat sphincters north of the front openings south of the intestine north of the back openings south of the stomaches.
+The closed throat sphincter north of the front opening south of the intestine north of the back opening south of the stomach.
+Closed throat sphincters north of the front opening south of the intestine north of a back opening south of the stomach.
+Closed throat sphincters north of a front opening south of the intestine north of the back opening south of the stomach.
+Closed throat sphincters north of the front openings south of the intestine north of the back openings south of a stomach.
+A closed throat sphincter north of a back opening south of the stomach north of a front opening south of the intestine
+A closed throat sphincter north of a front opening south of the intestine north of a back opening south of the stomach
+The closed throat sphincter north of a back opening south of the stomach north of a front opening south of the intestine
+The closed throat sphincter north of a front opening south of the intestine north of a back opening south of the stomach
+Closed throat sphincters north of the front openings south of the intestine north of the back opening south of the stomach.
+Closed throat sphincters north of the front opening south of the intestine north of the back openings south of the stomach.
+A closed throat sphincter north of the back opening south of the stomaches north of a front opening south of the intestine
+A closed throat sphincter north of a front opening south of the intestine north of the back opening south of the stomaches
+A closed throat sphincter north of a back opening south of the stomaches north of the front opening south of the intestine
+A closed throat sphincter north of the front opening south of the intestine north of a back opening south of the stomaches
+A closed throat sphincter north of a back opening south of the stomach north of the front openings south of the intestine
+A closed throat sphincter north of the front openings south of the intestine north of a back opening south of the stomach
+A closed throat sphincter north of the back openings south of the stomach north of a front opening south of the intestine
+A closed throat sphincter north of a front opening south of the intestine north of the back openings south of the stomach
+The closed throat sphincter north of the back opening south of the stomaches north of a front opening south of the intestine
+The closed throat sphincter north of a front opening south of the intestine north of the back opening south of the stomaches
+The closed throat sphincter north of a back opening south of the stomaches north of the front opening south of the intestine
+The closed throat sphincter north of the front opening south of the intestine north of a back opening south of the stomaches
+Closed throat sphincters north of a back opening south of the stomaches north of a front opening south of the intestine
+Closed throat sphincters north of a front opening south of the intestine north of a back opening south of the stomaches
+The closed throat sphincter north of a back opening south of the stomach north of the front openings south of the intestine
+The closed throat sphincter north of the front openings south of the intestine north of a back opening south of the stomach
+The closed throat sphincter north of the back openings south of the stomach north of a front opening south of the intestine
+The closed throat sphincter north of a front opening south of the intestine north of the back openings south of the stomach
+Closed throat sphincters north of the back opening south of the stomach north of the front opening south of an intestine
+Closed throat sphincters north of the front opening south of an intestine north of the back opening south of the stomach
+A closed throat sphincter north of the back opening south of the stomaches north of the front openings south of the intestine
+A closed throat sphincter north of the front opening south of the intestine north of the back openings south of the stomaches
+A closed throat sphincter north of the back openings south of the stomaches north of the front opening south of the intestine
+A closed throat sphincter north of the front openings south of the intestine north of the back opening south of the stomaches
+A closed throat sphincter north of the back openings south of the stomach north of the front openings south of the intestine
+A closed throat sphincter north of the front openings south of the intestine north of the back openings south of the stomach
+The closed throat sphincter north of the back opening south of the stomaches north of the front openings south of the intestine
+The closed throat sphincter north of the front opening south of the intestine north of the back openings south of the stomaches
+The closed throat sphincter north of the back openings south of the stomaches north of the front opening south of the intestine
+The closed throat sphincter north of the front openings south of the intestine north of the back opening south of the stomaches
+A closed throat sphincter north of a front opening south of the intestine north of a back opening south of the stomaches.
+Closed throat sphincters north of the back openings south of the stomaches north of a front opening south of the intestine
+Closed throat sphincters north of a front opening south of the intestine north of the back openings south of the stomaches
+Closed throat sphincters north of a back opening south of the stomaches north of the front openings south of the intestine
+Closed throat sphincters north of the front openings south of the intestine north of a back opening south of the stomaches
+The closed throat sphincter north of the back openings south of the stomach north of the front openings south of the intestine
+The closed throat sphincter north of the front openings south of the intestine north of the back openings south of the stomach
+The closed throat sphincter north of a front opening south of the intestine north of a back opening south of the stomaches.
+A closed throat sphincter north of a front opening south of the intestine north of a back opening south of a stomach.
+The closed throat sphincter north of a front opening south of the intestine north of a back opening south of a stomach.
+A closed throat sphincter north of the front openings south of the intestine north of a back opening south of the stomaches.
+A closed throat sphincter north of a front opening south of the intestine north of the back openings south of the stomaches.
+Closed throat sphincters north of the back openings south of the stomaches north of the front openings south of the intestine
+Closed throat sphincters north of the front openings south of the intestine north of the back openings south of the stomaches
+The closed throat sphincter north of the front openings south of the intestine north of a back opening south of the stomaches.
+The closed throat sphincter north of a front opening south of the intestine north of the back openings south of the stomaches.
+Closed throat sphincters north of the front opening south of an intestine north of the back opening south of the stomaches.
+A closed throat sphincter north of the front openings south of the intestine north of a back opening south of a stomach.
+A closed throat sphincter north of a front opening south of the intestine north of the back openings south of a stomach.
+The closed throat sphincter north of the front openings south of the intestine north of a back opening south of a stomach.
+The closed throat sphincter north of a front opening south of the intestine north of the back openings south of a stomach.
+Closed throat sphincters north of the front opening south of an intestine north of the back opening south of a stomach.
+A closed throat sphincter north of the front openings south of the intestine north of the back openings south of the stomaches.
+The closed throat sphincter north of the front openings south of the intestine north of the back openings south of the stomaches.
+A closed throat sphincter north of a front opening south of the intestine north of the back opening south of the stomach.
+A closed throat sphincter north of the front opening south of the intestine north of a back opening south of the stomach.
+A closed throat sphincter north of the front openings south of the intestine north of the back openings south of a stomach.
+The closed throat sphincter north of a front opening south of the intestine north of the back opening south of the stomach.
+The closed throat sphincter north of the front opening south of the intestine north of a back opening south of the stomach.
+The closed throat sphincter north of the front openings south of the intestine north of the back openings south of a stomach.
+Closed throat sphincters north of a front opening south of the intestine north of a back opening south of the stomach.
+A closed throat sphincter north of the front openings south of the intestine north of the back opening south of the stomach.
+A closed throat sphincter north of the front opening south of the intestine north of the back openings south of the stomach.
+The closed throat sphincter north of the front openings south of the intestine north of the back opening south of the stomach.
+The closed throat sphincter north of the front opening south of the intestine north of the back openings south of the stomach.
+Closed throat sphincters north of a front opening south of the intestine north of the back openings south of the stomach.
+Closed throat sphincters north of the front openings south of the intestine north of a back opening south of the stomach.
+A closed throat sphincter north of a back opening south of the stomaches north of a front opening south of the intestine
+A closed throat sphincter north of a front opening south of the intestine north of a back opening south of the stomaches
+A closed throat sphincter north of the back opening south of the stomach north of the front opening south of an intestine
+A closed throat sphincter north of the front opening south of an intestine north of the back opening south of the stomach
+The closed throat sphincter north of a back opening south of the stomaches north of a front opening south of the intestine
+The closed throat sphincter north of a front opening south of the intestine north of a back opening south of the stomaches
+The closed throat sphincter north of the back opening south of the stomach north of the front opening south of an intestine
+The closed throat sphincter north of the front opening south of an intestine north of the back opening south of the stomach
+Closed throat sphincters north of the front openings south of the intestine north of the back openings south of the stomach.
+Closed throat sphincters north of the front opening south of an intestine north of a back opening south of the stomach
+Closed throat sphincters north of a back opening south of the stomach north of the front opening south of an intestine
+Closed throat sphincters north of a front opening south of an intestine north of the back opening south of the stomach
+Closed throat sphincters north of the back opening south of the stomach north of a front opening south of an intestine
+Closed throat sphincters north of the front opening south of the intestines north of the back opening south of a stomach
+Closed throat sphincters north of the back opening south of a stomach north of the front opening south of the intestines
+A closed throat sphincter north of the back openings south of the stomaches north of a front opening south of the intestine
+A closed throat sphincter north of a front opening south of the intestine north of the back openings south of the stomaches
+A closed throat sphincter north of a back opening south of the stomaches north of the front openings south of the intestine
+A closed throat sphincter north of the front openings south of the intestine north of a back opening south of the stomaches
+The closed throat sphincter north of the back openings south of the stomaches north of a front opening south of the intestine
+The closed throat sphincter north of a front opening south of the intestine north of the back openings south of the stomaches
+The closed throat sphincter north of a back opening south of the stomaches north of the front openings south of the intestine
+The closed throat sphincter north of the front openings south of the intestine north of a back opening south of the stomaches
+Closed throat sphincters north of the front opening south of an intestine north of the back opening south of the stomaches
+Closed throat sphincters north of the back opening south of the stomaches north of the front opening south of an intestine
+Closed throat sphincters north of the front openings south of an intestine north of the back opening south of the stomach
+Closed throat sphincters north of the back opening south of the stomach north of the front openings south of an intestine
+Closed throat sphincters north of the front opening south of an intestine north of the back openings south of the stomach
+Closed throat sphincters north of the back openings south of the stomach north of the front opening south of an intestine
+A closed throat sphincter north of the back openings south of the stomaches north of the front openings south of the intestine
+A closed throat sphincter north of the front openings south of the intestine north of the back openings south of the stomaches
+A closed throat sphincter north of the front opening south of an intestine north of the back opening south of the stomaches.
+The closed throat sphincter north of the back openings south of the stomaches north of the front openings south of the intestine
+The closed throat sphincter north of the front openings south of the intestine north of the back openings south of the stomaches
+The closed throat sphincter north of the front opening south of an intestine north of the back opening south of the stomaches.
+Closed throat sphincters north of the front opening south of an intestine north of a back opening south of the stomaches.
+Closed throat sphincters north of a front opening south of an intestine north of the back opening south of the stomaches.
+A closed throat sphincter north of the front opening south of an intestine north of the back opening south of a stomach.
+The closed throat sphincter north of the front opening south of an intestine north of the back opening south of a stomach.
+Closed throat sphincters north of a front opening south of an intestine north of the back opening south of a stomach.
+Closed throat sphincters north of the front opening south of an intestine north of a back opening south of a stomach.
+Closed throat sphincters north of the back opening south of the stomach north of the front opening south of the intestines.
+Closed throat sphincters north of the front openings south of an intestine north of the back opening south of the stomaches.
+Closed throat sphincters north of the front opening south of an intestine north of the back openings south of the stomaches.
+A closed throat sphincter north of a front opening south of the intestine north of a back opening south of the stomach.
+The closed throat sphincter north of a front opening south of the intestine north of a back opening south of the stomach.
+Closed throat sphincters north of the front opening south of an intestine north of the back openings south of a stomach.
+Closed throat sphincters north of the front openings south of an intestine north of the back opening south of a stomach.
+A closed throat sphincter north of a front opening south of the intestine north of the back openings south of the stomach.
+A closed throat sphincter north of the front openings south of the intestine north of a back opening south of the stomach.
+The closed throat sphincter north of a front opening south of the intestine north of the back openings south of the stomach.
+The closed throat sphincter north of the front openings south of the intestine north of a back opening south of the stomach.
+Closed throat sphincters north of the front opening south of an intestine north of the back opening south of the stomach.
+A closed throat sphincter north of the front openings south of the intestine north of the back openings south of the stomach.
+A closed throat sphincter north of a back opening south of the stomach north of the front opening south of an intestine
+A closed throat sphincter north of the front opening south of an intestine north of a back opening south of the stomach
+A closed throat sphincter north of the back opening south of the stomach north of a front opening south of an intestine
+A closed throat sphincter north of a front opening south of an intestine north of the back opening south of the stomach
+A closed throat sphincter north of the back opening south of a stomach north of the front opening south of the intestines
+A closed throat sphincter north of the front opening south of the intestines north of the back opening south of a stomach
+The closed throat sphincter north of the front openings south of the intestine north of the back openings south of the stomach.
+The closed throat sphincter north of a back opening south of the stomach north of the front opening south of an intestine
+The closed throat sphincter north of the front opening south of an intestine north of a back opening south of the stomach
+The closed throat sphincter north of the back opening south of the stomach north of a front opening south of an intestine
+The closed throat sphincter north of a front opening south of an intestine north of the back opening south of the stomach
+The closed throat sphincter north of the back opening south of a stomach north of the front opening south of the intestines
+The closed throat sphincter north of the front opening south of the intestines north of the back opening south of a stomach
+Closed throat sphincters north of a front opening south of an intestine north of a back opening south of the stomach
+Closed throat sphincters north of a back opening south of the stomach north of a front opening south of an intestine
+A closed throat sphincter north of the back opening south of the stomaches north of the front opening south of an intestine
+A closed throat sphincter north of the front opening south of an intestine north of the back opening south of the stomaches
+Closed throat sphincters north of a front opening south of the intestines north of the back opening south of a stomach
+Closed throat sphincters north of the back opening south of a stomach north of a front opening south of the intestines
+Closed throat sphincters north of the front opening south of the intestines north of a back opening south of a stomach
+Closed throat sphincters north of a back opening south of a stomach north of the front opening south of the intestines
+A closed throat sphincter north of the back opening south of the stomach north of the front openings south of an intestine
+A closed throat sphincter north of the front openings south of an intestine north of the back opening south of the stomach
+A closed throat sphincter north of the back openings south of the stomach north of the front opening south of an intestine
+A closed throat sphincter north of the front opening south of an intestine north of the back openings south of the stomach
+The closed throat sphincter north of the back opening south of the stomaches north of the front opening south of an intestine
+The closed throat sphincter north of the front opening south of an intestine north of the back opening south of the stomaches
+Closed throat sphincters north of the front opening south of an intestine north of a back opening south of the stomaches
+Closed throat sphincters north of the back opening south of the stomaches north of a front opening south of an intestine
+Closed throat sphincters north of a front opening south of an intestine north of the back opening south of the stomaches
+Closed throat sphincters north of a back opening south of the stomaches north of the front opening south of an intestine
+The closed throat sphincter north of the back opening south of the stomach north of the front openings south of an intestine
+The closed throat sphincter north of the front openings south of an intestine north of the back opening south of the stomach
+The closed throat sphincter north of the back openings south of the stomach north of the front opening south of an intestine
+The closed throat sphincter north of the front opening south of an intestine north of the back openings south of the stomach
+Closed throat sphincters north of the front openings south of an intestine north of a back opening south of the stomach
+Closed throat sphincters north of a back opening south of the stomach north of the front openings south of an intestine
+Closed throat sphincters north of a front opening south of an intestine north of the back openings south of the stomach
+Closed throat sphincters north of the back openings south of the stomach north of a front opening south of an intestine
+Closed throat sphincters north of the front opening south of the intestines north of the back openings south of a stomach
+Closed throat sphincters north of the back openings south of a stomach north of the front opening south of the intestines
+Closed throat sphincters north of the front openings south of the intestines north of the back opening south of a stomach
+Closed throat sphincters north of the back opening south of a stomach north of the front openings south of the intestines
+A closed throat sphincter north of the front opening south of an intestine north of a back opening south of the stomaches.
+A closed throat sphincter north of a front opening south of an intestine north of the back opening south of the stomaches.
+Closed throat sphincters north of the front opening south of an intestine north of the back openings south of the stomaches
+Closed throat sphincters north of the back openings south of the stomaches north of the front opening south of an intestine
+Closed throat sphincters north of the front openings south of an intestine north of the back opening south of the stomaches
+Closed throat sphincters north of the back opening south of the stomaches north of the front openings south of an intestine
+The closed throat sphincter north of the front opening south of an intestine north of a back opening south of the stomaches.
+The closed throat sphincter north of a front opening south of an intestine north of the back opening south of the stomaches.
+Closed throat sphincters north of the front openings south of an intestine north of the back openings south of the stomach
+Closed throat sphincters north of the back openings south of the stomach north of the front openings south of an intestine
+Closed throat sphincters north of a front opening south of an intestine north of a back opening south of the stomaches.
+A closed throat sphincter north of the front opening south of an intestine north of a back opening south of a stomach.
+A closed throat sphincter north of a front opening south of an intestine north of the back opening south of a stomach.
+A closed throat sphincter north of the back opening south of the stomach north of the front opening south of the intestines.
+The closed throat sphincter north of the front opening south of an intestine north of a back opening south of a stomach.
+The closed throat sphincter north of a front opening south of an intestine north of the back opening south of a stomach.
+A closed throat sphincter north of the front openings south of an intestine north of the back opening south of the stomaches.
+A closed throat sphincter north of the front opening south of an intestine north of the back openings south of the stomaches.
+The closed throat sphincter north of the back opening south of the stomach north of the front opening south of the intestines.
+Closed throat sphincters north of a front opening south of an intestine north of a back opening south of a stomach.
+Closed throat sphincters north of the back opening south of the stomach north of a front opening south of the intestines.
+Closed throat sphincters north of a back opening south of the stomach north of the front opening south of the intestines.
+The closed throat sphincter north of the front openings south of an intestine north of the back opening south of the stomaches.
+The closed throat sphincter north of the front opening south of an intestine north of the back openings south of the stomaches.
+Closed throat sphincters north of the front openings south of an intestine north of a back opening south of the stomaches.
+Closed throat sphincters north of a front opening south of an intestine north of the back openings south of the stomaches.
+A closed throat sphincter north of the front opening south of an intestine north of the back openings south of a stomach.
+A closed throat sphincter north of the front openings south of an intestine north of the back opening south of a stomach.
+The closed throat sphincter north of the front opening south of an intestine north of the back openings south of a stomach.
+The closed throat sphincter north of the front openings south of an intestine north of the back opening south of a stomach.
+Closed throat sphincters north of the back opening south of the stomaches north of the front opening south of the intestines.
+Closed throat sphincters north of a front opening south of an intestine north of the back openings south of a stomach.
+Closed throat sphincters north of the front openings south of an intestine north of a back opening south of a stomach.
+Closed throat sphincters north of the back opening south of the stomach north of the front openings south of the intestines.
+Closed throat sphincters north of the back openings south of the stomach north of the front opening south of the intestines.
+A closed throat sphincter north of the front opening south of an intestine north of the back opening south of the stomach.
+Closed throat sphincters north of the front openings south of an intestine north of the back openings south of the stomaches.
+The closed throat sphincter north of the front opening south of an intestine north of the back opening south of the stomach.
+
+TOTAL RESULTS: 492
+
+Node                             MRS Produced    Reason                 Included in MRS    Reason
+-------------------------------  --------------  ---------------------  -----------------  ---------------
+closed_2                         True            MRS fragment produced  True               Included in MRS
+idLargeIntestine1FrontOpening_3  True            MRS fragment produced  True               Included in MRS
+idSmallIntestine1BackOpening_5   True            MRS fragment produced  True               Included in MRS
+idSmallIntestine_4               True            MRS fragment produced  True               Included in MRS
+idStomach_6                      True            MRS fragment produced  True               Included in MRS
+idThroatSphincter_1              True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idOpenState_1  True            MRS composed  True               Included in MRS
+isNorthOf_3    True            MRS composed  True               Included in MRS
+isNorthOf_5    True            MRS composed  True               Included in MRS
+isSouthOf_2    True            MRS composed  True               Included in MRS
+isSouthOf_4    True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        6           1
+Nodes              Included             6        6           1
+Edges              Produced             5        5           1
+Edges              Included             5        5           1

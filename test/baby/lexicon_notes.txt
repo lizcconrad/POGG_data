@@ -1,0 +1,27 @@
+Baby Lexicon Notes
+- idCryTurns ... skip (idBaby1)
+- idTask ... skip (idBaby1)
+- idSide ... should probably be "right side" ... that is, the child node should modify the predicate introduced by the edge, but i don't have that right now (idBabyRightHand_subgraph) ... same issue with idCardReader1_subgraph with "driver side"
+- idScrewDriver ... one word or two?? can only make it work as two cuz of /nnunknown
+- can't do pointy ... could do pointed but i'll just leave it out
+- idGoButton ... startbutton works but gobutton doesn't even parse on ERG ...
+- idOwnedBy ... only made possessive for the case where one node should be described with a possessive ... didn't account for the possessor being the child and the edge introducing the possession relation...
+- obviously those long ass strings are not included lmao
+- same issue with PowerControl as in AtomicCity ... skip
+- idCardReaderWorkshop ... just "workshop"
+ - idPacifier ... unknown fr?? ok ...
+ - idMaterial, again failed compound
+- idCrawlingRoom & idNone (idDaycare_subgraph) gg yeah
+- idDaycare is "day care" which is weird but whatever...
+- idLocalFront ... idLocation (idDriverSiderFrontDoor_subgraph) so ... this edge needs two different lexicalizations?? like "in the front" vs "on the left"
+- idMomNote ... probably note from mom? but just gonna say mom's note
+
+
+GRAPH NOTES
+- idBackyardDoor1idBackyard1idSouthOfOpening: same node visited twice ... another reason an algorithm that marks nodes as visited is necessary. obviously needed for cycles but it's redundant here ... issue of choosing Which relationship matters most tho
+    - BUUUUUUT sometimes a property (e.g. true) is pointed to twice and *that* is something that should be acceptable, so maybe certain Kinds of nodes can only be visited once
+- idDriveway ... driveway doesn't work gg
+- idEndRoom ... end room doesn't work gg
+- idLivingRoom1 ... "unusual" doesn't work for the same reason uncountable doesn't work ... won't rerun just for this though
+- idLot1 ... so material here is an adjective ... but for "metal" it should really be a compound... or wrapped into 'descriptor', i basically just set it to be adjective and let it fail when the child isn't an adj
+- idMomNote1 ... for some reason ERG doesn't like "mom's note" but works on "mom's letter" note is weird i guess

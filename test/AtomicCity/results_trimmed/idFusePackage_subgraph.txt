@@ -1,0 +1,112 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idFusePackage_subgraph.dot
+[ TOP: h2119
+  INDEX: e2116
+  RELS: < [ unknown LBL: h2118 ARG: x2112 ARG0: e2116 ]
+          [ def_udef_a_q LBL: h2115 ARG0: x2112 RSTR: h2113 BODY: h2114 ]
+          [ loc_nonsp LBL: h2111 ARG0: i2108 ARG1: x2112 ARG2: x2104 ]
+          [ compound LBL: h2111 ARG0: e2084 ARG1: x2112 ARG2: x2078 ]
+          [ udef_q LBL: h2083 ARG0: x2078 RSTR: h2081 BODY: h2082 ]
+          [ _fuse_n_1 LBL: h2079 ARG0: x2078 ]
+          [ _package_n_of LBL: h2111 ARG0: x2112 ARG1: i2076 ]
+          [ def_implicit_q LBL: h2107 ARG0: x2104 RSTR: h2105 BODY: h2106 ]
+          [ _north_a_1 LBL: h2103 ARG0: i2094 ARG1: x2104 ARG2: x2098 ]
+          [ def_udef_a_q LBL: h2101 ARG0: x2098 RSTR: h2099 BODY: h2100 ]
+          [ _pipe_n_1 LBL: h2093 ARG0: x2098 ]
+          [ place_n LBL: h2103 ARG0: x2104 ] >
+  HCONS: < h2081 qeq h2079 h2099 qeq h2093 h2105 qeq h2103 h2113 qeq h2111 h2119 qeq h2118 > ]
+GENERATED RESULTS ... 
+Fuse packages north of the pipes
+A fuse package north of the pipes
+The fuse package north of the pipes
+Fuse packages north of the pipes.
+Fuse packages north of the pipe
+A fuse package north of the pipes.
+The fuse package north of the pipes.
+Fuse packages north of a pipe.
+The fuse packages north of the pipes
+A fuse package north of the pipe
+The fuse package north of the pipe
+Fuse packages north of the pipe.
+A fuse package north of a pipe.
+The fuse package north of a pipe.
+The fuse packages north of the pipes.
+A fuse package north of the pipe.
+The fuse package north of the pipe.
+The fuse packages north of the pipe
+Fuse packages north of a pipe
+The fuse packages north of a pipe.
+A fuse package north of a pipe
+The fuse package north of a pipe
+The fuse packages north of the pipe.
+The fuse packages north of a pipe
+Fuse packages north of pipes
+Fuse packages north of pipes.
+Fuse package north of the pipes
+A fuse package north of pipes
+The fuse package north of pipes
+A fuse package north of pipes.
+The fuse package north of pipes.
+The fuse package, north of the pipes
+Fuse package north of the pipes.
+Fuse packages north of pipe
+The fuse packages, north of the pipes
+Fuse packages, north of the pipes
+The fuse packages north of pipes
+Fuse package north of the pipe
+Fuse package, north of the pipes
+A fuse package north of pipe
+The fuse package north of pipe
+The fuse packages north of pipes.
+Fuse package north of a pipe.
+The fuse package, north of the pipe
+Fuse package north of the pipe.
+A fuse package, north of the pipes
+The fuse packages, north of the pipe
+Fuse packages, north of the pipe
+The fuse packages north of pipe
+Fuse package, north of the pipe
+Fuse packages north of pipe.
+Fuse package north of a pipe
+A fuse package north of pipe.
+The fuse package north of pipe.
+A fuse package, north of the pipe
+The fuse package, north of a pipe
+The fuse packages, north of a pipe
+Fuse packages, north of a pipe
+The fuse packages north of pipe.
+Fuse package, north of a pipe
+Fuse package north of pipes
+Fuse package north of pipes.
+A fuse package, north of a pipe
+The fuse package, north of pipes
+The fuse packages, north of pipes
+Fuse packages, north of pipes
+Fuse package north of pipe
+Fuse package, north of pipes
+The fuse package, north of pipe
+A fuse package, north of pipes
+The fuse packages, north of pipe
+Fuse packages, north of pipe
+Fuse package, north of pipe
+Fuse package north of pipe.
+A fuse package, north of pipe
+
+TOTAL RESULTS: 75
+
+Node             MRS Produced    Reason                 Included in MRS    Reason
+---------------  --------------  ---------------------  -----------------  -------------------------
+idFusePackage_1  True            MRS fragment produced  True               Included in MRS
+idPipe_3         True            MRS fragment produced  True               Included in MRS
+true_2           True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idUnknownObject_1  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isNorthOf_2        True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

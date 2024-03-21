@@ -1,0 +1,94 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idBabyCarSeat_subgraph.dot
+[ TOP: h1068
+  INDEX: e1065
+  RELS: < [ unknown LBL: h1067 ARG: x1061 ARG0: e1065 ]
+          [ def_udef_a_q LBL: h1064 ARG0: x1061 RSTR: h1062 BODY: h1063 ]
+          [ _un-_a_neg LBL: h1025 ARG0: i1050 ARG1: e1051 ]
+          [ _know_v_1 LBL: h1025 ARG0: e1051 ARG1: u1054 ARG2: x1061 ]
+          [ _immovable_a_1 LBL: h1025 ARG0: e1040 ARG1: x1061 ]
+          [ compound LBL: h1025 ARG0: e1032 ARG1: x1061 ARG2: x1026 ]
+          [ udef_q LBL: h1031 ARG0: x1026 RSTR: h1029 BODY: h1030 ]
+          [ _car_n_1 LBL: h1027 ARG0: x1026 ]
+          [ _seat_n_1 LBL: h1025 ARG0: x1061 ] >
+  HCONS: < h1029 qeq h1027 h1062 qeq h1025 h1068 qeq h1067 > ]
+GENERATED RESULTS ... 
+The immovable unknown car seats
+The unknown immovable car seats
+An immovable unknown car seat
+The immovable unknown car seat
+An unknown immovable car seat
+Immovable unknown car seats
+The unknown immovable car seat
+The immovable unknown car seats.
+The unknown immovable car seats.
+Cars immovable unknown seat
+Unknown immovable car seats
+Immovable unknown car seats.
+An immovable unknown car seat.
+The cars immovable unknown seats
+The immovable unknown car seat.
+An unknown immovable car seat.
+The unknown immovable car seat.
+Immovable unknown car seat
+Unknown immovable car seats.
+Cars immovable unknown seats
+A cars immovable unknown seat
+Cars unknown immovable seat
+The cars immovable unknown seat
+An unknown cars immovable seat
+Unknown immovable car seat
+The unknown cars immovable seat
+Immovable unknown car seat.
+A cars unknown immovable seat
+The cars unknown immovable seat
+Cars immovable unknown seat.
+The cars immovable unknown seats.
+The immovable cars unknown seats
+Cars immovable unknown seats.
+Immovable cars unknown seats
+The unknown cars immovable seats
+The cars unknown immovable seats
+An immovable cars unknown seat
+The immovable cars unknown seat
+The unknown cars immovable seats.
+Unknown immovable car seat.
+The immovable cars unknown seats.
+A cars immovable unknown seat.
+Unknown cars immovable seats
+The cars immovable unknown seat.
+Cars unknown immovable seats
+Unknown cars immovable seats.
+Immovable cars unknown seats.
+Cars unknown immovable seat.
+An unknown cars immovable seat.
+The cars unknown immovable seats.
+The unknown cars immovable seat.
+Unknown cars immovable seat
+An immovable cars unknown seat.
+The immovable cars unknown seat.
+Cars unknown immovable seats.
+Immovable cars unknown seat
+A cars unknown immovable seat.
+The cars unknown immovable seat.
+Immovable cars unknown seat.
+Unknown cars immovable seat.
+
+TOTAL RESULTS: 60
+
+Node             MRS Produced    Reason                 Included in MRS    Reason
+---------------  --------------  ---------------------  -----------------  ---------------
+idBabyCarSeat_1  True            MRS fragment produced  True               Included in MRS
+true_3           True            MRS fragment produced  True               Included in MRS
+yes_2            True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idImmovable_1      True            MRS composed  True               Included in MRS
+idUnknownObject_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

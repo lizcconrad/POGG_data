@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idBedroom1RightOpening_subgraph.dot
+[ TOP: h129
+  INDEX: e126
+  RELS: < [ unknown LBL: h128 ARG: x109 ARG0: e126 ]
+          [ def_udef_a_q LBL: h125 ARG0: x109 RSTR: h123 BODY: h124 ]
+          [ compound LBL: h110 ARG0: e118 ARG1: x109 ARG2: x111 ]
+          [ udef_q LBL: h117 ARG0: x111 RSTR: h115 BODY: h116 ]
+          [ _right_n_of LBL: h113 ARG0: x111 ARG1: i112 ]
+          [ _opening_n_1 LBL: h110 ARG0: x109 ] >
+  HCONS: < h115 qeq h113 h123 qeq h110 h129 qeq h128 > ]
+GENERATED RESULTS ... 
+The right opening
+The right openings
+A right opening
+The right openings.
+Right openings
+The right opening.
+Right opening
+A right opening.
+Right openings.
+Right opening.
+
+TOTAL RESULTS: 10
+
+Node                      MRS Produced    Reason                 Included in MRS    Reason
+------------------------  --------------  ---------------------  -----------------  ---------------
+idBedroom1RightOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

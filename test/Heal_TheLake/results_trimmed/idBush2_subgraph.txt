@@ -1,0 +1,99 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/complete/idBush2_subgraph.dot
+[ TOP: h811
+  INDEX: e808
+  RELS: < [ unknown LBL: h810 ARG: x777 ARG0: e808 ]
+          [ def_udef_a_q LBL: h807 ARG0: x777 RSTR: h805 BODY: h806 ]
+          [ _near_p LBL: h781 ARG0: e796 ARG1: x777 ARG2: x800 ]
+          [ def_udef_a_q LBL: h803 ARG0: x800 RSTR: h801 BODY: h802 ]
+          [ _green_a_2 LBL: h791 ARG0: i789 ARG1: x800 ]
+          [ _tree_n_of LBL: h791 ARG0: x800 ARG1: i787 ]
+          [ _yellow_a_1 LBL: h781 ARG0: i779 ARG1: x777 ]
+          [ _bush_n_1 LBL: h781 ARG0: x777 ] >
+  HCONS: < h801 qeq h791 h805 qeq h781 h811 qeq h810 > ]
+GENERATED RESULTS ... 
+A yellow bush near a green tree
+The yellow bush near a green tree
+A yellow bush near green trees
+The yellow bush near green trees
+The yellow bushes near a green tree
+A yellow bush near the green trees
+The yellow bush near the green trees
+A yellow bush near green trees.
+The yellow bush near green trees.
+The yellow bushes near green trees
+A yellow bush near a green tree.
+The yellow bushes near the green trees
+The yellow bush near a green tree.
+The yellow bushes near green trees.
+A yellow bush near the green tree
+The yellow bush near the green tree
+The yellow bushes near a green tree.
+Yellow bushes near a green tree
+The yellow bushes near the green tree
+A yellow bush near the green trees.
+The yellow bush near the green trees.
+The yellow bushes near the green trees.
+A yellow bush near the green tree.
+The yellow bush near the green tree.
+Yellow bushes near the green trees
+Yellow bushes near a green tree.
+The yellow bushes near the green tree.
+Yellow bushes near green trees
+Yellow bushes near the green tree
+Yellow bushes near green trees.
+Yellow bushes near the green trees.
+Yellow bushes near the green tree.
+Yellow bush near a green tree
+Yellow bush near the green trees
+Yellow bush near a green tree.
+Yellow bush near the green tree
+Yellow bush near the green trees.
+Yellow bush near green trees
+Yellow bush near the green tree.
+Yellow bush near green trees.
+The yellow bushes, near the green trees
+The yellow bush, near the green trees
+Yellow bushes, near the green trees
+The yellow bushes, near the green tree
+The yellow bush, near the green tree
+The yellow bushes, near a green tree
+The yellow bush, near a green tree
+Yellow bush, near the green trees
+Yellow bushes, near a green tree
+Yellow bushes, near the green tree
+Yellow bush, near a green tree
+A yellow bush, near the green trees
+Yellow bush, near the green tree
+The yellow bushes, near green trees
+A yellow bush, near the green tree
+The yellow bush, near green trees
+A yellow bush, near a green tree
+Yellow bushes, near green trees
+Yellow bush, near green trees
+A yellow bush, near green trees
+
+TOTAL RESULTS: 60
+
+Node      MRS Produced    Reason                 Included in MRS    Reason
+--------  --------------  ---------------------  -----------------  -------------------------
+green_5   True            MRS fragment produced  True               Included in MRS
+idBush_1  True            MRS fragment produced  True               Included in MRS
+idTree_4  True            MRS fragment produced  True               Included in MRS
+yellow_2  True            MRS fragment produced  True               Included in MRS
+yes_3     True            MRS fragment produced  False              Descends from failed edge
+yes_6     True            MRS fragment produced  False              Descends from failed edge
+
+Edge           MRS Composed    Reason                                 Included in MRS    Reason
+-------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idColor_1      True            MRS composed                           True               Included in MRS
+idColor_3      True            MRS composed                           True               Included in MRS
+idImmovable_2  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idImmovable_4  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+isNear_5       True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        6    1
+Nodes              Included             4        6    0.666667
+Edges              Produced             3        5    0.6
+Edges              Included             3        5    0.6

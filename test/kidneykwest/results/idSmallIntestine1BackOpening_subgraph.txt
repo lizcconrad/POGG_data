@@ -1,0 +1,57 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idSmallIntestine1BackOpening_subgraph.dot
+[ TOP: h2820
+  INDEX: e2817
+  RELS: < [ unknown LBL: h2819 ARG: x2813 ARG0: e2817 ]
+          [ def_udef_a_q LBL: h2816 ARG0: x2813 RSTR: h2814 BODY: h2815 ]
+          [ compound LBL: h2802 ARG0: e2809 ARG1: x2813 ARG2: x2805 ]
+          [ udef_q LBL: h2808 ARG0: x2805 RSTR: h2806 BODY: h2807 ]
+          [ _back_n_1 LBL: h2804 ARG0: x2805 ]
+          [ _opening_n_1 LBL: h2802 ARG0: x2813 ] >
+  HCONS: < h2806 qeq h2804 h2814 qeq h2802 h2820 qeq h2819 > ]
+GENERATED RESULTS ... 
+The back openings
+The back opening
+A back opening
+The back openings.
+Back openings.
+Back openings
+Back opening
+The back opening.
+A back opening.
+The backed, openings.
+Backed, opening
+The backed, openings
+Backed, openings.
+The backed, opening
+A backed, opening
+Backed, openings
+The backed opening
+Back opening.
+Backed openings
+Backed, opening.
+The backed, opening.
+A backed opening
+A backed, opening.
+The backed openings
+The backed openings.
+Backed openings.
+Backed opening
+The backed opening.
+A backed opening.
+Backed opening.
+
+TOTAL RESULTS: 30
+
+Node                            MRS Produced    Reason                 Included in MRS    Reason
+------------------------------  --------------  ---------------------  -----------------  ---------------
+idSmallIntestine1BackOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

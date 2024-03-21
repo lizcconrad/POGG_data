@@ -1,0 +1,161 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idButtonY_subgraph.dot
+[ TOP: h384
+  INDEX: e381
+  RELS: < [ unknown LBL: h383 ARG: x339 ARG0: e381 ]
+          [ def_udef_a_q LBL: h380 ARG0: x339 RSTR: h378 BODY: h379 ]
+          [ loc_nonsp LBL: h376 ARG0: i373 ARG1: x339 ARG2: x369 ]
+          [ _button_n_1 LBL: h376 ARG0: x339 ]
+          [ def_implicit_q LBL: h372 ARG0: x369 RSTR: h370 BODY: h371 ]
+          [ _north_a_1 LBL: h362 ARG0: i359 ARG1: x369 ARG2: x351 ]
+          [ def_udef_a_q LBL: h366 ARG0: x351 RSTR: h364 BODY: h365 ]
+          [ poss LBL: h353 ARG0: e350 ARG1: x351 ARG2: x343 ]
+          [ _chair_n_1 LBL: h353 ARG0: x351 ]
+          [ def_udef_a_q LBL: h349 ARG0: x343 RSTR: h347 BODY: h348 ]
+          [ _captain_n_of LBL: h345 ARG0: x343 ARG1: i344 ]
+          [ place_n LBL: h362 ARG0: x369 ] >
+  HCONS: < h347 qeq h345 h364 qeq h353 h370 qeq h362 h378 qeq h376 h384 qeq h383 > ]
+GENERATED RESULTS ... 
+Buttons north of the captain's chairs
+Buttons north of a captain's chairs
+Buttons north of the captains' chairs
+Buttons north of the captain's chair
+Buttons north of the captain's chairs.
+The buttons north of the captain's chairs
+Buttons north of captains' chairs
+Buttons north of a captain's chair
+Buttons north of the captain's chair.
+Buttons north of a captain's chairs.
+Buttons north of the captains' chair
+A button north of the captain's chairs
+The button north of the captain's chairs
+The buttons north of a captain's chairs
+Buttons north of the captains' chairs.
+The buttons north of the captains' chairs
+The buttons north of the captain's chair
+The buttons north of the captain's chairs.
+Buttons north of a captain's chair.
+Buttons north of captains' chair
+Buttons north of captains' chairs.
+A button north of a captain's chairs
+The button north of a captain's chairs
+Buttons north of the captains' chair.
+The buttons north of captains' chairs
+A button north of the captains' chairs
+The button north of the captains' chairs
+The buttons, north of the captain's chairs
+The button, north of the captain's chairs
+A button north of the captain's chair
+The button north of the captain's chair
+The buttons north of a captain's chair
+The buttons north of the captain's chair.
+Buttons, north of the captain's chairs
+A button north of the captain's chairs.
+The button north of the captain's chairs.
+The buttons north of a captain's chairs.
+Button north of the captain's chairs
+The buttons north of the captains' chair
+Buttons north of captains' chair.
+Button, north of the captain's chairs
+The buttons north of the captains' chairs.
+A button, north of the captain's chairs
+A button north of captains' chairs
+The button north of captains' chairs
+The buttons, north of a captain's chairs
+The button, north of a captain's chairs
+A button north of a captain's chair
+The button north of a captain's chair
+A button north of the captain's chair.
+The button north of the captain's chair.
+The buttons north of a captain's chair.
+The buttons north of captains' chair
+Buttons, north of a captain's chairs
+A button north of a captain's chairs.
+The button north of a captain's chairs.
+The buttons, north of the captains' chairs
+The button, north of the captains' chairs
+A button north of the captains' chair
+The button north of the captains' chair
+Button north of a captain's chairs
+The buttons north of captains' chairs.
+The buttons, north of the captain's chair
+The buttons north of the captains' chair.
+The button, north of the captain's chair
+Buttons, north of the captains' chairs
+A button north of the captains' chairs.
+Button, north of a captain's chairs
+The button north of the captains' chairs.
+Buttons, north of the captain's chair
+Button north of the captains' chairs
+A button, north of a captain's chairs
+Button north of the captain's chair
+Button, north of the captains' chairs
+Button, north of the captain's chair
+Button north of the captain's chairs.
+A button, north of the captains' chairs
+A button, north of the captain's chair
+The buttons, north of captains' chairs
+The button, north of captains' chairs
+A button north of a captain's chair.
+A button north of captains' chair
+The button north of a captain's chair.
+The button north of captains' chair
+The buttons north of captains' chair.
+Buttons, north of captains' chairs
+A button north of captains' chairs.
+The button north of captains' chairs.
+A button north of the captains' chair.
+The button north of the captains' chair.
+Button north of captains' chairs
+The buttons, north of a captain's chair
+The button, north of a captain's chair
+Button, north of captains' chairs
+Buttons, north of a captain's chair
+The buttons, north of the captains' chair
+The button, north of the captains' chair
+A button, north of captains' chairs
+Button north of a captain's chair
+Button north of the captain's chair.
+Buttons, north of the captains' chair
+Button, north of a captain's chair
+Button north of a captain's chairs.
+Button north of the captains' chair
+A button, north of a captain's chair
+A button north of captains' chair.
+The button north of captains' chair.
+Button, north of the captains' chair
+Button north of the captains' chairs.
+A button, north of the captains' chair
+The buttons, north of captains' chair
+The button, north of captains' chair
+Buttons, north of captains' chair
+Button north of a captain's chair.
+Button north of captains' chair
+Button, north of captains' chair
+Button north of captains' chairs.
+Button north of the captains' chair.
+A button, north of captains' chair
+Button north of captains' chair.
+
+TOTAL RESULTS: 120
+
+Node               MRS Produced    Reason                           Included in MRS    Reason
+-----------------  --------------  -------------------------------  -----------------  -------------------------------
+2_2                False           '2' has no value in the lexicon  False              '2' has no value in the lexicon
+idButtonY_1        True            MRS fragment produced            True               Included in MRS
+idCaptain_5        True            MRS fragment produced            False              Descends from failed edge
+idCaptainsChair_3  True            MRS fragment produced            True               Included in MRS
+idleather_4        True            MRS fragment produced            False              Descends from failed edge
+
+Edge            MRS Composed    Reason                               Included in MRS    Reason
+--------------  --------------  -----------------------------------  -----------------  -----------------------------------
+idMaterial_2    False           Semantic functor has no ARG1 hole    False              Semantic functor has no ARG1 hole
+idOrdinality_1  False           Inbound to failed node               False              Inbound to failed node
+idOwnedBy_3     False           'idOwnedBy' has no value in lexicon  False              'idOwnedBy' has no value in lexicon
+isNorthOf_4     True            MRS composed                         True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        5        0.8
+Nodes              Included             2        5        0.4
+Edges              Produced             1        4        0.25
+Edges              Included             1        4        0.25

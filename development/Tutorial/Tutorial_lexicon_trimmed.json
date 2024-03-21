@@ -1,0 +1,147 @@
+{
+    "entityTypes": {
+        "idDesk": "_desk_n_1",
+        "idDrawer": "_drawer_n_of",
+        "idGameRoom": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_room_n_unit",
+                "modifier": "_game_n_1"
+            }
+        },
+        "idGameRoom1BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idKeyBlue": "_key_n_1",
+        "idPlayer": "_player_n_of",
+        "idPlayerBackside": {
+            "composition": "possessive",
+            "predicates": {
+                "head": "_backside_n_1",
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerLeftHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_left_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerRightHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_right_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idSign": "_sign_n_of",
+        "idSign1Text": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_text_n_of",
+                "modifier": "_sign_n_of"
+            }
+        },
+        "idTutorialRoom": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_room_n_unit",
+                "modifier": "_tutorial_n_1"
+            }
+        },
+        "idTutorialRoom1Door": "_door_n_1",
+        "idTutorialRoom1FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idWorld": "_world_n_of"
+    },
+    "propertyValues": {
+        "blue": "_blue_a_1",
+        "closed": "_closed_a_1",
+        "idLocalLeft": "_left_n_of",
+        "idTutorialRoom1DoorLock": "_lock_n_1",
+        "locked": "_lock_v_cause",
+        "right": "_right_n_of",
+        "true": "_true_a_of",
+        "false": "_false_a_of",
+        "white": "_white_a_1",
+        "yes": "_true_a_of"
+    },
+    "properties": {
+        "idOpenState": "adjective",
+        "idLockMechanism": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_with_p"
+            }
+        },
+        "idUnknownObject": "",
+        "idColor": "adjective",
+        "idImmovable": "",
+        "idLocation": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_on_p_loc"
+            }
+        },
+        "idLockedState": "passive_participle",
+        "isBeneath": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_beneath_p"
+            }
+        },
+        "isInsideOf": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_inside+of_p"
+            }
+        },
+        "isNear": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_near_p"
+            }
+        },
+        "isNorthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_north_a_1"
+            }
+        },
+        "isSouthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_south_a_1"
+            }
+        }
+    }
+}

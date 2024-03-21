@@ -1,0 +1,536 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idCar1_subgraph.dot
+[ TOP: h2743
+  INDEX: e2740
+  RELS: < [ unknown LBL: h2742 ARG: x2736 ARG0: e2740 ]
+          [ def_udef_a_q LBL: h2739 ARG0: x2736 RSTR: h2737 BODY: h2738 ]
+          [ loc_nonsp LBL: h2612 ARG0: i2732 ARG1: x2736 ARG2: x2726 ]
+          [ loc_nonsp LBL: h2612 ARG0: i2677 ARG1: x2736 ARG2: x2673 ]
+          [ _off_a_1 LBL: h2612 ARG0: e2610 ARG1: x2736 ]
+          [ _car_n_1 LBL: h2612 ARG0: x2736 ]
+          [ def_implicit_q LBL: h2676 ARG0: x2673 RSTR: h2674 BODY: h2675 ]
+          [ _west_a_1 LBL: h2672 ARG0: i2663 ARG1: x2673 ARG2: x2619 ]
+          [ def_udef_a_q LBL: h2670 ARG0: x2619 RSTR: h2668 BODY: h2669 ]
+          [ loc_nonsp LBL: h2631 ARG0: i2659 ARG1: x2619 ARG2: x2646 ]
+          [ compound LBL: h2631 ARG0: e2628 ARG1: x2619 ARG2: x2624 ]
+          [ udef_q LBL: h2627 ARG0: x2624 RSTR: h2625 BODY: h2626 ]
+          [ _left_n_of LBL: h2623 ARG0: x2624 ARG1: i2622 ]
+          [ _opening_n_1 LBL: h2631 ARG0: x2619 ]
+          [ def_implicit_q LBL: h2658 ARG0: x2646 RSTR: h2656 BODY: h2657 ]
+          [ _west_a_1 LBL: h2648 ARG0: i2645 ARG1: x2646 ARG2: x2649 ]
+          [ def_udef_a_q LBL: h2652 ARG0: x2649 RSTR: h2650 BODY: h2651 ]
+          [ compound LBL: h2633 ARG0: e2641 ARG1: x2649 ARG2: x2637 ]
+          [ udef_q LBL: h2640 ARG0: x2637 RSTR: h2638 BODY: h2639 ]
+          [ _left_n_of LBL: h2636 ARG0: x2637 ARG1: i2635 ]
+          [ _opening_n_1 LBL: h2633 ARG0: x2649 ]
+          [ place_n LBL: h2648 ARG0: x2646 ]
+          [ place_n LBL: h2672 ARG0: x2673 ]
+          [ def_implicit_q LBL: h2731 ARG0: x2726 RSTR: h2729 BODY: h2730 ]
+          [ _west_a_1 LBL: h2721 ARG0: i2718 ARG1: x2726 ARG2: x2681 ]
+          [ def_udef_a_q LBL: h2725 ARG0: x2681 RSTR: h2723 BODY: h2724 ]
+          [ loc_nonsp LBL: h2717 ARG0: i2714 ARG1: x2681 ARG2: x2708 ]
+          [ _bed_n_1 LBL: h2717 ARG0: x2681 ]
+          [ def_implicit_q LBL: h2713 ARG0: x2708 RSTR: h2711 BODY: h2712 ]
+          [ _east_a_1 LBL: h2709 ARG0: i2700 ARG1: x2708 ARG2: x2687 ]
+          [ def_udef_a_q LBL: h2707 ARG0: x2687 RSTR: h2705 BODY: h2706 ]
+          [ compound LBL: h2699 ARG0: e2696 ARG1: x2687 ARG2: x2692 ]
+          [ udef_q LBL: h2695 ARG0: x2692 RSTR: h2693 BODY: h2694 ]
+          [ _driver_n_of LBL: h2691 ARG0: x2692 ARG1: i2690 ]
+          [ _seat_n_1 LBL: h2699 ARG0: x2687 ]
+          [ place_n LBL: h2709 ARG0: x2708 ]
+          [ place_n LBL: h2721 ARG0: x2726 ] >
+  HCONS: < h2625 qeq h2623 h2638 qeq h2636 h2650 qeq h2633 h2656 qeq h2648 h2668 qeq h2631 h2674 qeq h2672 h2693 qeq h2691 h2705 qeq h2699 h2711 qeq h2709 h2723 qeq h2717 h2729 qeq h2721 h2737 qeq h2612 h2743 qeq h2742 > ]
+GENERATED RESULTS ... 
+Off cars west of the left openings west of the left openings west of the beds east of the driver seats
+Off cars west of the beds east of the driver seats west of the left openings west of the left openings
+Off cars west of the left openings west of the left openings west of the bed east of the driver seats
+Off cars west of the bed east of the driver seats west of the left openings west of the left openings
+Off cars west of the left openings west of the left openings west of a bed east of the driver seats
+Off cars west of a bed east of the driver seats west of the left openings west of the left openings
+Off cars west of the left openings west of the left openings west of the beds east of the driver seat
+Off cars west of the beds east of the driver seat west of the left openings west of the left openings
+Off cars west of the left openings west of the left opening west of the beds east of the driver seats
+Off cars west of the beds east of the driver seats west of the left openings west of the left opening
+Off cars west of the left openings west of the left opening west of the bed east of the driver seats
+Off cars west of the bed east of the driver seats west of the left openings west of the left opening
+Off cars west of the left openings west of the left openings west of the bed east of the driver seat
+Off cars west of the bed east of the driver seat west of the left openings west of the left openings
+Off cars west of the left openings west of the left opening west of a bed east of the driver seats
+Off cars west of a bed east of the driver seats west of the left openings west of the left opening
+Off cars west of the left openings west of the left openings west of a bed east of the driver seat
+Off cars west of a bed east of the driver seat west of the left openings west of the left openings
+Off cars west of the left openings west of the left opening west of the beds east of the driver seat
+Off cars west of the beds east of the driver seat west of the left openings west of the left opening
+Off cars west of the left openings west of the left opening west of the bed east of the driver seat
+Off cars west of the bed east of the driver seat west of the left openings west of the left opening
+Off cars west of the left opening west of the left openings west of the beds east of the driver seats
+Off cars west of the beds east of the driver seats west of the left opening west of the left openings
+Off cars west of a bed east of the driver seat west of the left openings west of the left opening
+Off cars west of the left openings west of the left opening west of a bed east of the driver seat
+Off cars west of the bed east of the driver seats west of the left opening west of the left openings
+Off cars west of the left opening west of the left openings west of the bed east of the driver seats
+Off cars west of the beds east of the driver seats west of a left opening west of the left openings
+Off cars west of a left opening west of the left openings west of the beds east of the driver seats
+Off cars west of the beds east of a driver seat west of the left openings west of the left openings
+Off cars west of the left openings west of the left openings west of the beds east of a driver seat
+Off cars west of the beds east of the driver seats west of the left openings west of a left opening
+Off cars west of the left openings west of a left opening west of the beds east of the driver seats
+Off cars west of the left openings west of the left openings west of the beds east of the driver seats.
+Off cars west of the beds east of the driver seats west of the left openings west of the left openings.
+Off cars west of a bed east of the driver seats west of the left opening west of the left openings
+Off cars west of the left opening west of the left openings west of a bed east of the driver seats
+Off cars west of the bed east of the driver seats west of a left opening west of the left openings
+Off cars west of a left opening west of the left openings west of the bed east of the driver seats
+Off cars west of the bed east of the driver seats west of the left openings west of a left opening
+Off cars west of the left openings west of the left openings west of the bed east of a driver seat
+Off cars west of the bed east of a driver seat west of the left openings west of the left openings
+Off cars west of the left openings west of a left opening west of the bed east of the driver seats
+Off cars west of the left openings west of the left openings west of the bed east of the driver seats.
+Off cars west of the bed east of the driver seats west of the left openings west of the left openings.
+Off cars west of a bed east of the driver seats west of a left opening west of the left openings
+Off cars west of a left opening west of the left openings west of a bed east of the driver seats
+Off cars west of a bed east of the driver seats west of the left openings west of a left opening
+Off cars west of the left openings west of a left opening west of a bed east of the driver seats
+Off cars west of a bed east of a driver seat west of the left openings west of the left openings
+Off cars west of the left openings west of the left openings west of a bed east of a driver seat
+The off cars west of the left openings west of the left openings west of the beds east of the driver seats
+The off cars west of the beds east of the driver seats west of the left openings west of the left openings
+Off cars west of the beds east of the driver seat west of the left opening west of the left openings
+Off cars west of the left opening west of the left openings west of the beds east of the driver seat
+Off cars west of the beds east of the driver seats west of the left opening west of the left opening
+Off cars west of the left opening west of the left opening west of the beds east of the driver seats
+Off cars west of a bed east of the driver seats west of the left openings west of the left openings.
+Off cars west of the left openings west of the left openings west of a bed east of the driver seats.
+The off cars west of the left openings west of the left openings west of the bed east of the driver seats
+The off cars west of the bed east of the driver seats west of the left openings west of the left openings
+Off cars west of the bed east of the driver seats west of the left opening west of the left opening
+Off cars west of the left opening west of the left opening west of the bed east of the driver seats
+Off cars west of the bed east of the driver seat west of the left opening west of the left openings
+Off cars west of the left opening west of the left openings west of the bed east of the driver seat
+Off cars west of the beds east of the driver seats west of a left opening west of the left opening
+Off cars west of a left opening west of the left opening west of the beds east of the driver seats
+Off cars west of the beds east of the driver seat west of a left opening west of the left openings
+Off cars west of a left opening west of the left openings west of the beds east of the driver seat
+Off cars west of the beds east of a driver seat west of the left openings west of the left opening
+Off cars west of the left openings west of the left opening west of the beds east of a driver seat
+Off cars west of the beds east of the driver seat west of the left openings west of a left opening
+Off cars west of the left openings west of a left opening west of the beds east of the driver seat
+The off cars west of the left openings west of the left openings west of a bed east of the driver seats
+The off cars west of a bed east of the driver seats west of the left openings west of the left openings
+Off cars west of the left openings west of the left opening west of the beds east of the driver seats.
+Off cars west of the beds east of the driver seat west of the left openings west of the left openings.
+Off cars west of the bed east of the driver seats west of a left opening west of the left opening
+Off cars west of the left opening west of the left openings west of a bed east of the driver seat
+Off cars west of a bed east of the driver seats west of the left opening west of the left opening
+Off cars west of a left opening west of the left opening west of the bed east of the driver seats
+Off cars west of the bed east of the driver seat west of a left opening west of the left openings
+Off cars west of a left opening west of the left openings west of the bed east of the driver seat
+Off cars west of a bed east of the driver seat west of the left opening west of the left openings
+Off cars west of the left opening west of the left opening west of a bed east of the driver seats
+Off cars west of the bed east of a driver seat west of the left openings west of the left opening
+Off cars west of the left openings west of the left opening west of the bed east of a driver seat
+Off cars west of the bed east of the driver seat west of the left openings west of a left opening
+Off cars west of the left openings west of a left opening west of the bed east of the driver seat
+Off cars west of the left openings west of the left opening west of the bed east of the driver seats.
+Off cars west of the bed east of the driver seat west of the left openings west of the left openings.
+Off cars west of a bed east of the driver seats west of a left opening west of the left opening
+Off cars west of a left opening west of the left opening west of a bed east of the driver seats
+Off cars west of a bed east of the driver seat west of a left opening west of the left openings
+Off cars west of a left opening west of the left openings west of a bed east of the driver seat
+Off cars west of a bed east of the driver seat west of the left openings west of a left opening
+Off cars west of the left openings west of a left opening west of a bed east of the driver seat
+Off cars west of a bed east of a driver seat west of the left openings west of the left opening
+Off cars west of the left openings west of the left opening west of a bed east of a driver seat
+The off cars west of the left openings west of the left openings west of the beds east of the driver seat
+The off cars west of the beds east of the driver seat west of the left openings west of the left openings
+The off cars west of the left openings west of the left opening west of the beds east of the driver seats
+The off cars west of the beds east of the driver seats west of the left openings west of the left opening
+Off cars west of the beds east of the driver seat west of the left opening west of the left opening
+Off cars west of the left opening west of the left opening west of the beds east of the driver seat
+Off cars west of the left openings west of the left opening west of a bed east of the driver seats.
+Off cars west of a bed east of the driver seat west of the left openings west of the left openings.
+The off cars west of the bed east of the driver seats west of the left openings west of the left opening
+The off cars west of the left openings west of the left opening west of the bed east of the driver seats
+The off cars west of the bed east of the driver seat west of the left openings west of the left openings
+The off cars west of the left openings west of the left openings west of the bed east of the driver seat
+Off cars west of the bed east of the driver seat west of the left opening west of the left opening
+Off cars west of the left opening west of the left opening west of the bed east of the driver seat
+Off cars west of the beds east of the driver seat west of a left opening west of the left opening
+Off cars west of a left opening west of the left opening west of the beds east of the driver seat
+The off cars west of a bed east of the driver seats west of the left openings west of the left opening
+The off cars west of the left openings west of the left openings west of a bed east of the driver seat
+The off cars west of the left openings west of the left opening west of a bed east of the driver seats
+The off cars west of a bed east of the driver seat west of the left openings west of the left openings
+Off cars west of a bed east of the driver seat west of the left opening west of the left opening
+Off cars west of a left opening west of the left opening west of the bed east of the driver seat
+Off cars west of the bed east of the driver seat west of a left opening west of the left opening
+Off cars west of the left opening west of the left opening west of a bed east of the driver seat
+Off cars west of the left openings west of the left openings west of the beds east of the driver seat.
+Off cars west of the beds east of the driver seats west of the left openings west of the left opening.
+Off cars west of the beds east of a driver seat west of the left opening west of the left openings
+Off cars west of the left opening west of the left openings west of the beds east of a driver seat
+Off cars west of the beds east of the driver seats west of the left opening west of a left opening
+Off cars west of the left opening west of a left opening west of the beds east of the driver seats
+Off cars west of a bed east of the driver seat west of a left opening west of the left opening
+Off cars west of a left opening west of the left opening west of a bed east of the driver seat
+The off cars west of the beds east of the driver seat west of the left openings west of the left opening
+The off cars west of the left openings west of the left opening west of the beds east of the driver seat
+Off cars west of the left opening west of the left openings west of the beds east of the driver seats.
+Off cars west of the beds east of the driver seats west of the left opening west of the left openings.
+Off cars west of the left openings west of the left openings west of the bed east of the driver seat.
+Off cars west of the bed east of the driver seats west of the left openings west of the left opening.
+Off cars west of the bed east of a driver seat west of the left opening west of the left openings
+Off cars west of the left opening west of the left openings west of the bed east of a driver seat
+Off cars west of the bed east of the driver seats west of the left opening west of a left opening
+Off cars west of the left opening west of a left opening west of the bed east of the driver seats
+Off cars west of the beds east of the driver seats west of a left opening west of a left opening
+Off cars west of a left opening west of a left opening west of the beds east of the driver seats
+Off cars west of the beds east of a driver seat west of a left opening west of the left openings
+Off cars west of a left opening west of the left openings west of the beds east of a driver seat
+Off cars west of the beds east of a driver seat west of the left openings west of a left opening
+Off cars west of the left openings west of a left opening west of the beds east of a driver seat
+The off cars west of the bed east of the driver seat west of the left openings west of the left opening
+The off cars west of the left openings west of the left opening west of the bed east of the driver seat
+Off cars west of the left opening west of the left openings west of the bed east of the driver seats.
+Off cars west of the bed east of the driver seats west of the left opening west of the left openings.
+The off car west of the left openings west of the left openings west of the beds east of the driver seats
+The off car west of the beds east of the driver seats west of the left openings west of the left openings
+Off cars west of a left opening west of the left openings west of the beds east of the driver seats.
+Off cars west of the beds east of the driver seats west of a left opening west of the left openings.
+Off cars west of the left openings west of the left openings west of a bed east of the driver seat.
+Off cars west of a bed east of the driver seats west of the left openings west of the left opening.
+Off cars west of the left openings west of a left opening west of the beds east of the driver seats.
+Off cars west of the beds east of a driver seat west of the left openings west of the left openings.
+Off cars west of a bed east of the driver seats west of the left opening west of a left opening
+Off cars west of the left opening west of a left opening west of a bed east of the driver seats
+Off cars west of the bed east of the driver seats west of a left opening west of a left opening
+Off cars west of a left opening west of a left opening west of the bed east of the driver seats
+Off cars west of the bed east of a driver seat west of a left opening west of the left openings
+Off cars west of the left opening west of the left openings west of a bed east of a driver seat
+Off cars west of a bed east of a driver seat west of the left opening west of the left openings
+Off cars west of a left opening west of the left openings west of the bed east of a driver seat
+The off cars west of the left opening west of the left openings west of the beds east of the driver seats
+The off cars west of the beds east of the driver seats west of the left opening west of the left openings
+Off cars west of the bed east of a driver seat west of the left openings west of a left opening
+Off cars west of the left openings west of a left opening west of the bed east of a driver seat
+The off cars west of the left openings west of the left opening west of a bed east of the driver seat
+The off cars west of a bed east of the driver seat west of the left openings west of the left opening
+The off car west of the left openings west of the left openings west of the bed east of the driver seats
+The off car west of the bed east of the driver seats west of the left openings west of the left openings
+Off cars west of a bed east of the driver seats west of the left opening west of the left openings.
+Off cars west of the left opening west of the left openings west of a bed east of the driver seats.
+Off cars west of the bed east of the driver seats west of a left opening west of the left openings.
+Off cars west of a left opening west of the left openings west of the bed east of the driver seats.
+Off cars west of the bed east of a driver seat west of the left openings west of the left openings.
+Off cars west of the left openings west of a left opening west of the bed east of the driver seats.
+The off cars west of the bed east of the driver seats west of the left opening west of the left openings
+The off cars west of the left opening west of the left openings west of the bed east of the driver seats
+Off cars west of a bed east of the driver seats west of a left opening west of a left opening
+Off cars west of a left opening west of a left opening west of a bed east of the driver seats
+Off cars west of a bed east of a driver seat west of a left opening west of the left openings
+Off cars west of a left opening west of the left openings west of a bed east of a driver seat
+The off cars west of the beds east of the driver seats west of a left opening west of the left openings
+The off cars west of a left opening west of the left openings west of the beds east of the driver seats
+Off cars west of a bed east of a driver seat west of the left openings west of a left opening
+Off cars west of the left openings west of a left opening west of a bed east of a driver seat
+The off cars west of the beds east of a driver seat west of the left openings west of the left openings
+The off cars west of the left openings west of the left openings west of the beds east of a driver seat
+The off cars west of the left openings west of a left opening west of the beds east of the driver seats
+The off cars west of the beds east of the driver seats west of the left openings west of a left opening
+Off cars west of the left openings west of the left opening west of the beds east of the driver seat.
+Off cars west of the beds east of the driver seat west of the left openings west of the left opening.
+Off cars west of the beds east of a driver seat west of the left opening west of the left opening
+Off cars west of the left opening west of the left opening west of the beds east of a driver seat
+Off cars west of the beds east of the driver seat west of the left opening west of a left opening
+Off cars west of the left opening west of a left opening west of the beds east of the driver seat
+The off car west of the left openings west of the left openings west of a bed east of the driver seats
+The off car west of a bed east of the driver seats west of the left openings west of the left openings
+Off cars west of a bed east of the driver seats west of a left opening west of the left openings.
+Off cars west of a left opening west of the left openings west of a bed east of the driver seats.
+Off cars west of a bed east of a driver seat west of the left openings west of the left openings.
+Off cars west of the left openings west of a left opening west of a bed east of the driver seats.
+The off cars west of the left openings west of the left openings west of the beds east of the driver seats.
+The off cars west of the beds east of the driver seats west of the left openings west of the left openings.
+The off cars west of the left opening west of the left openings west of a bed east of the driver seats
+The off cars west of a bed east of the driver seats west of the left opening west of the left openings
+The off cars west of a left opening west of the left openings west of the bed east of the driver seats
+The off cars west of the bed east of the driver seats west of a left opening west of the left openings
+The off cars west of the left openings west of the left openings west of the bed east of a driver seat
+The off cars west of the bed east of the driver seats west of the left openings west of a left opening
+The off cars west of the left openings west of a left opening west of the bed east of the driver seats
+The off cars west of the bed east of a driver seat west of the left openings west of the left openings
+Off cars west of the beds east of the driver seat west of the left opening west of the left openings.
+Off cars west of the left opening west of the left opening west of the beds east of the driver seats.
+Off cars west of the left openings west of the left opening west of the bed east of the driver seat.
+Off cars west of the bed east of the driver seat west of the left openings west of the left opening.
+An off car west of the left openings west of the left openings west of the beds east of the driver seats
+An off car west of the beds east of the driver seats west of the left openings west of the left openings
+Off cars west of the bed east of a driver seat west of the left opening west of the left opening
+Off cars west of the left opening west of a left opening west of the bed east of the driver seat
+Off cars west of the bed east of the driver seat west of the left opening west of a left opening
+Off cars west of the left opening west of the left opening west of the bed east of a driver seat
+Off cars west of the beds east of a driver seat west of a left opening west of the left opening
+Off cars west of a left opening west of a left opening west of the beds east of the driver seat
+Off cars west of the beds east of the driver seat west of a left opening west of a left opening
+Off cars west of a left opening west of the left opening west of the beds east of a driver seat
+The off cars west of the left openings west of the left openings west of the bed east of the driver seats.
+The off cars west of the bed east of the driver seats west of the left openings west of the left openings.
+Off cars west of the bed east of the driver seat west of the left opening west of the left openings.
+Off cars west of the left opening west of the left opening west of the bed east of the driver seats.
+The off cars west of a bed east of the driver seats west of a left opening west of the left openings
+The off cars west of a left opening west of the left openings west of a bed east of the driver seats
+An off car west of the left openings west of the left openings west of the bed east of the driver seats
+An off car west of the bed east of the driver seats west of the left openings west of the left openings
+The off car west of the left openings west of the left openings west of the beds east of the driver seat
+The off car west of the beds east of the driver seat west of the left openings west of the left openings
+The off car west of the left openings west of the left opening west of the beds east of the driver seats
+The off car west of the beds east of the driver seats west of the left openings west of the left opening
+The off cars west of the left openings west of a left opening west of a bed east of the driver seats
+The off cars west of a bed east of the driver seats west of the left openings west of a left opening
+The off cars west of the left openings west of the left openings west of a bed east of a driver seat
+The off cars west of a bed east of a driver seat west of the left openings west of the left openings
+Off cars west of a left opening west of the left opening west of the beds east of the driver seats.
+Off cars west of the beds east of the driver seat west of a left opening west of the left openings.
+Off cars west of the left openings west of the left opening west of a bed east of the driver seat.
+Off cars west of a bed east of the driver seat west of the left openings west of the left opening.
+Off cars west of a bed east of the driver seat west of the left opening west of a left opening
+Off cars west of a left opening west of the left opening west of the bed east of a driver seat
+Off cars west of the bed east of a driver seat west of a left opening west of the left opening
+Off cars west of the left opening west of a left opening west of a bed east of the driver seat
+Off cars west of a bed east of a driver seat west of the left opening west of the left opening
+Off cars west of the left opening west of the left opening west of a bed east of a driver seat
+Off cars west of the bed east of the driver seat west of a left opening west of a left opening
+Off cars west of a left opening west of a left opening west of the bed east of the driver seat
+The off cars west of the left opening west of the left openings west of the beds east of the driver seat
+The off cars west of the beds east of the driver seat west of the left opening west of the left openings
+The off cars west of the left opening west of the left opening west of the beds east of the driver seats
+The off cars west of the beds east of the driver seats west of the left opening west of the left opening
+The off cars west of the left openings west of the left openings west of a bed east of the driver seats.
+The off cars west of a bed east of the driver seats west of the left openings west of the left openings.
+The off car west of the left openings west of the left opening west of the bed east of the driver seats
+The off car west of the bed east of the driver seats west of the left openings west of the left opening
+The off car west of the left openings west of the left openings west of the bed east of the driver seat
+The off car west of the bed east of the driver seat west of the left openings west of the left openings
+Off cars west of a bed east of the driver seat west of the left opening west of the left openings.
+Off cars west of a left opening west of the left opening west of the bed east of the driver seats.
+Off cars west of the bed east of the driver seat west of a left opening west of the left openings.
+Off cars west of the left opening west of the left opening west of a bed east of the driver seats.
+Off cars west of the left openings west of the left openings west of the beds east of a driver seat.
+Off cars west of the beds east of the driver seats west of the left openings west of a left opening.
+An off car west of the left openings west of the left openings west of a bed east of the driver seats
+An off car west of a bed east of the driver seats west of the left openings west of the left openings
+The off cars west of the left opening west of the left openings west of the bed east of the driver seat
+The off cars west of the bed east of the driver seat west of the left opening west of the left openings
+The off cars west of the left opening west of the left opening west of the bed east of the driver seats
+The off cars west of the bed east of the driver seats west of the left opening west of the left opening
+Off cars west of a bed east of the driver seat west of a left opening west of a left opening
+Off cars west of a left opening west of a left opening west of a bed east of the driver seat
+Off cars west of a bed east of a driver seat west of a left opening west of the left opening
+Off cars west of a left opening west of the left opening west of a bed east of a driver seat
+The off cars west of a left opening west of the left opening west of the beds east of the driver seats
+The off cars west of the beds east of the driver seats west of a left opening west of the left opening
+The off cars west of a left opening west of the left openings west of the beds east of the driver seat
+The off cars west of the beds east of the driver seat west of a left opening west of the left openings
+The off cars west of the left openings west of a left opening west of the beds east of the driver seat
+The off cars west of the beds east of the driver seat west of the left openings west of a left opening
+The off cars west of the left openings west of the left opening west of the beds east of a driver seat
+The off cars west of the beds east of a driver seat west of the left openings west of the left opening
+Off cars west of the left openings west of the left openings west of the bed east of a driver seat.
+Off cars west of the bed east of the driver seats west of the left openings west of a left opening.
+The off car west of the left openings west of the left opening west of a bed east of the driver seats
+The off car west of a bed east of the driver seats west of the left openings west of the left opening
+The off car west of the left openings west of the left openings west of a bed east of the driver seat
+The off car west of a bed east of the driver seat west of the left openings west of the left openings
+Off cars west of a left opening west of the left opening west of a bed east of the driver seats.
+Off cars west of a bed east of the driver seat west of a left opening west of the left openings.
+The off cars west of the left openings west of the left opening west of the beds east of the driver seats.
+The off cars west of the beds east of the driver seat west of the left openings west of the left openings.
+The off cars west of a left opening west of the left opening west of the bed east of the driver seats
+The off cars west of the bed east of the driver seats west of a left opening west of the left opening
+The off cars west of a left opening west of the left openings west of the bed east of the driver seat
+The off cars west of a bed east of the driver seats west of the left opening west of the left opening
+The off cars west of the left opening west of the left opening west of a bed east of the driver seats
+The off cars west of a bed east of the driver seat west of the left opening west of the left openings
+The off cars west of the left opening west of the left openings west of a bed east of the driver seat
+The off cars west of the bed east of the driver seat west of a left opening west of the left openings
+The off cars west of the left openings west of the left opening west of the bed east of a driver seat
+The off cars west of the bed east of the driver seat west of the left openings west of a left opening
+The off cars west of the left openings west of a left opening west of the bed east of the driver seat
+The off cars west of the bed east of a driver seat west of the left openings west of the left opening
+An off car west of the left openings west of the left openings west of the beds east of the driver seat
+An off car west of the beds east of the driver seat west of the left openings west of the left openings
+An off car west of the left openings west of the left opening west of the beds east of the driver seats
+An off car west of the beds east of the driver seats west of the left openings west of the left opening
+Off cars west of a bed east of the driver seats west of the left openings west of a left opening.
+Off cars west of the left openings west of the left openings west of a bed east of a driver seat.
+Off cars west of the beds east of driver seats west of the left openings west of the left openings
+Off cars west of the left openings west of the left openings west of the beds east of driver seats
+The off cars west of the left openings west of the left opening west of the bed east of the driver seats.
+The off cars west of the bed east of the driver seat west of the left openings west of the left openings.
+Off cars west of the beds east of the driver seats west of the left opening west of the left opening.
+Off cars west of the left opening west of the left openings west of the beds east of the driver seat.
+The off cars west of a left opening west of the left opening west of a bed east of the driver seats
+The off cars west of a bed east of the driver seats west of a left opening west of the left opening
+The off cars west of a left opening west of the left openings west of a bed east of the driver seat
+The off cars west of a bed east of the driver seat west of a left opening west of the left openings
+An off car west of the left openings west of the left opening west of the bed east of the driver seats
+An off car west of the bed east of the driver seats west of the left openings west of the left opening
+An off car west of the left openings west of the left openings west of the bed east of the driver seat
+An off car west of the bed east of the driver seat west of the left openings west of the left openings
+The off car west of the left openings west of the left opening west of the beds east of the driver seat
+The off car west of the beds east of the driver seat west of the left openings west of the left opening
+The off cars west of the left openings west of a left opening west of a bed east of the driver seat
+The off cars west of a bed east of the driver seat west of the left openings west of a left opening
+The off cars west of the left openings west of the left opening west of a bed east of a driver seat
+The off cars west of a bed east of a driver seat west of the left openings west of the left opening
+Off cars west of the left openings west of the left openings west of beds east of the driver seats
+Off cars west of beds east of the driver seats west of the left openings west of the left openings
+The off cars west of the left opening west of the left opening west of the beds east of the driver seat
+The off cars west of the beds east of the driver seat west of the left opening west of the left opening
+Off cars west of the left openings west of the left openings west of the bed east of driver seats
+Off cars west of the bed east of driver seats west of the left openings west of the left openings
+Off cars west of the left opening west of the left openings west of the bed east of the driver seat.
+Off cars west of the bed east of the driver seats west of the left opening west of the left opening.
+The off cars west of the left openings west of the left opening west of a bed east of the driver seats.
+The off cars west of a bed east of the driver seat west of the left openings west of the left openings.
+Off cars west of a left opening west of the left openings west of the beds east of the driver seat.
+Off cars west of the beds east of the driver seats west of a left opening west of the left opening.
+The off car west of the left openings west of the left opening west of the bed east of the driver seat
+The off car west of the bed east of the driver seat west of the left openings west of the left opening
+Off cars west of the beds east of a driver seat west of the left openings west of the left opening.
+Off cars west of the left openings west of the left opening west of the beds east of a driver seat.
+Off cars west of the left openings west of a left opening west of the beds east of the driver seat.
+Off cars west of the beds east of the driver seat west of the left openings west of a left opening.
+An off car west of the left openings west of the left opening west of a bed east of the driver seats
+An off car west of a bed east of the driver seats west of the left openings west of the left opening
+An off car west of the left openings west of the left openings west of a bed east of the driver seat
+An off car west of a bed east of the driver seat west of the left openings west of the left openings
+Off cars west of the left opening west of a left opening west of the beds east of a driver seat
+Off cars west of the beds east of a driver seat west of the left opening west of a left opening
+The off cars west of the bed east of the driver seat west of the left opening west of the left opening
+The off cars west of the left opening west of the left opening west of the bed east of the driver seat
+The off cars west of the beds east of the driver seat west of a left opening west of the left opening
+The off cars west of a left opening west of the left opening west of the beds east of the driver seat
+Off cars west of the left openings west of the left openings west of a bed east of driver seats
+Off cars west of a bed east of driver seats west of the left openings west of the left openings
+The off car west of the left opening west of the left openings west of the beds east of the driver seats
+The off car west of the beds east of the driver seats west of the left opening west of the left openings
+Off cars west of the bed east of the driver seats west of a left opening west of the left opening.
+Off cars west of a left opening west of the left openings west of the bed east of the driver seat.
+Off cars west of a bed east of the driver seats west of the left opening west of the left opening.
+Off cars west of the left opening west of the left openings west of a bed east of the driver seat.
+Off cars west of the beds east of a driver seat west of the left opening west of the left openings.
+Off cars west of the left opening west of a left opening west of the beds east of the driver seats.
+Off cars west of the left openings west of a left opening west of the bed east of the driver seat.
+Off cars west of the bed east of a driver seat west of the left openings west of the left opening.
+Off cars west of the left openings west of the left opening west of the bed east of a driver seat.
+Off cars west of the bed east of the driver seat west of the left openings west of a left opening.
+Off cars west of the left opening west of a left opening west of the bed east of a driver seat
+Off cars west of the bed east of a driver seat west of the left opening west of a left opening
+The off car west of the left openings west of the left opening west of a bed east of the driver seat
+The off car west of a bed east of the driver seat west of the left openings west of the left opening
+Off cars west of a left opening west of a left opening west of the beds east of a driver seat
+Off cars west of the beds east of a driver seat west of a left opening west of a left opening
+The off cars west of the left opening west of the left opening west of a bed east of the driver seat
+The off cars west of a bed east of the driver seat west of the left opening west of the left opening
+The off cars west of a left opening west of the left opening west of the bed east of the driver seat
+The off cars west of the bed east of the driver seat west of a left opening west of the left opening
+The off car west of the left opening west of the left openings west of the bed east of the driver seats
+The off car west of the bed east of the driver seats west of the left opening west of the left openings
+An off car west of the left openings west of the left opening west of the beds east of the driver seat
+An off car west of the beds east of the driver seat west of the left openings west of the left opening
+Off cars west of the left opening west of a left opening west of the bed east of the driver seats.
+Off cars west of the bed east of a driver seat west of the left opening west of the left openings.
+The off car west of a left opening west of the left openings west of the beds east of the driver seats
+The off car west of the beds east of the driver seats west of a left opening west of the left openings
+Off cars west of a bed east of the driver seats west of a left opening west of the left opening.
+Off cars west of a left opening west of the left openings west of a bed east of the driver seat.
+The off car west of the left openings west of the left openings west of the beds east of a driver seat
+The off car west of the beds east of a driver seat west of the left openings west of the left openings
+The off car west of the left openings west of a left opening west of the beds east of the driver seats
+The off car west of the beds east of the driver seats west of the left openings west of a left opening
+Off cars west of a left opening west of a left opening west of the beds east of the driver seats.
+Off cars west of the beds east of a driver seat west of a left opening west of the left openings.
+Off cars west of a bed east of the driver seat west of the left openings west of a left opening.
+Off cars west of the left openings west of a left opening west of a bed east of the driver seat.
+Off cars west of a bed east of a driver seat west of the left openings west of the left opening.
+Off cars west of the left openings west of the left opening west of a bed east of a driver seat.
+The off cars west of the left openings west of the left openings west of the beds east of the driver seat.
+The off cars west of the beds east of the driver seats west of the left openings west of the left opening.
+Off cars west of the left openings west of the left opening west of the beds east of driver seats
+Off cars west of the beds east of driver seats west of the left openings west of the left opening
+Off cars west of a left opening west of a left opening west of the bed east of a driver seat
+Off cars west of the bed east of a driver seat west of a left opening west of a left opening
+Off cars west of the left opening west of a left opening west of a bed east of a driver seat
+Off cars west of a bed east of a driver seat west of the left opening west of a left opening
+The off cars west of the beds east of a driver seat west of the left opening west of the left openings
+The off cars west of the left opening west of the left openings west of the beds east of a driver seat
+The off cars west of the beds east of the driver seats west of the left opening west of a left opening
+The off cars west of the left opening west of a left opening west of the beds east of the driver seats
+Off cars west of the beds east of the driver seat west of the left opening west of the left opening.
+Off cars west of the left opening west of the left opening west of the beds east of the driver seat.
+The off cars west of a left opening west of the left opening west of a bed east of the driver seat
+The off cars west of a bed east of the driver seat west of a left opening west of the left opening
+An off car west of the left openings west of the left opening west of the bed east of the driver seat
+An off car west of the bed east of the driver seat west of the left openings west of the left opening
+The off car west of the left openings west of the left openings west of the beds east of the driver seats.
+The off car west of the beds east of the driver seats west of the left openings west of the left openings.
+The off car west of a left opening west of the left openings west of the bed east of the driver seats
+The off car west of a bed east of the driver seats west of the left opening west of the left openings
+The off car west of the left opening west of the left openings west of a bed east of the driver seats
+The off car west of the bed east of the driver seats west of a left opening west of the left openings
+The off car west of the left openings west of a left opening west of the bed east of the driver seats
+The off car west of the bed east of the driver seats west of the left openings west of a left opening
+The off car west of the left openings west of the left openings west of the bed east of a driver seat
+The off car west of the bed east of a driver seat west of the left openings west of the left openings
+Off cars west of a bed east of a driver seat west of the left opening west of the left openings.
+Off cars west of the left opening west of a left opening west of a bed east of the driver seats.
+Off cars west of the bed east of a driver seat west of a left opening west of the left openings.
+Off cars west of a left opening west of a left opening west of the bed east of the driver seats.
+Off cars west of the left openings west of the left opening west of beds east of the driver seats
+Off cars west of beds east of the driver seat west of the left openings west of the left openings
+Off cars west of the left openings west of the left openings west of beds east of the driver seat
+Off cars west of beds east of the driver seats west of the left openings west of the left opening
+The off cars west of the left opening west of the left openings west of the beds east of the driver seats.
+The off cars west of the beds east of the driver seats west of the left opening west of the left openings.
+The off cars west of the left openings west of the left openings west of the bed east of the driver seat.
+The off cars west of the bed east of the driver seats west of the left openings west of the left opening.
+Off cars west of the left openings west of the left opening west of the bed east of driver seats
+Off cars west of the bed east of driver seats west of the left openings west of the left opening
+The off cars west of the bed east of the driver seats west of the left opening west of a left opening
+The off cars west of the left opening west of a left opening west of the bed east of the driver seats
+The off cars west of the bed east of a driver seat west of the left opening west of the left openings
+The off cars west of the left opening west of the left openings west of the bed east of a driver seat
+Off cars west of the left opening west of the left opening west of the bed east of the driver seat.
+Off cars west of the bed east of the driver seat west of the left opening west of the left opening.
+
+TOTAL RESULTS: 462
+
+Node                     MRS Produced    Reason                 Included in MRS    Reason
+-----------------------  --------------  ---------------------  -----------------  -------------------------
+idBed_7                  True            MRS fragment produced  True               Included in MRS
+idBedroom1LeftOpening_5  True            MRS fragment produced  True               Included in MRS
+idCar_1                  True            MRS fragment produced  True               Included in MRS
+idCloset1LeftOpening_6   True            MRS fragment produced  True               Included in MRS
+idDriverSeat_9           True            MRS fragment produced  True               Included in MRS
+idMom_3                  True            MRS fragment produced  False              Descends from failed edge
+off_2                    True            MRS fragment produced  True               Included in MRS
+true_4                   True            MRS fragment produced  False              Descends from failed edge
+true_8                   True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idOwnedBy_2        False           'idOwnedBy' has no value in lexicon        False              'idOwnedBy' has no value in lexicon
+idPowerState_1     True            MRS composed                               True               Included in MRS
+idUnknownObject_3  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+idUnknownObject_6  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isEastOf_7         True            MRS composed                               True               Included in MRS
+isWestOf_4         True            MRS composed                               True               Included in MRS
+isWestOf_5         True            MRS composed                               True               Included in MRS
+isWestOf_8         True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             9        9    1
+Nodes              Included             6        9    0.666667
+Edges              Produced             5        8    0.625
+Edges              Included             5        8    0.625

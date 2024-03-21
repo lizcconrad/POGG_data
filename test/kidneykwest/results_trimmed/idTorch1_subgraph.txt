@@ -1,0 +1,94 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idTorch1_subgraph.dot
+[ TOP: h1097
+  INDEX: e1094
+  RELS: < [ unknown LBL: h1096 ARG: x1090 ARG0: e1094 ]
+          [ def_udef_a_q LBL: h1093 ARG0: x1090 RSTR: h1091 BODY: h1092 ]
+          [ _near_p LBL: h1065 ARG0: e1082 ARG1: x1090 ARG2: x1086 ]
+          [ def_udef_a_q LBL: h1089 ARG0: x1086 RSTR: h1087 BODY: h1088 ]
+          [ compound LBL: h1081 ARG0: e1078 ARG1: x1086 ARG2: x1072 ]
+          [ udef_q LBL: h1077 ARG0: x1072 RSTR: h1075 BODY: h1076 ]
+          [ _throne_n_1 LBL: h1073 ARG0: x1072 ]
+          [ _room_n_unit LBL: h1081 ARG0: x1086 ]
+          [ _torch_n_1 LBL: h1065 ARG0: x1090 ] >
+  HCONS: < h1075 qeq h1073 h1087 qeq h1081 h1091 qeq h1065 h1097 qeq h1096 > ]
+GENERATED RESULTS ... 
+The torches near a throne room
+The torches near the throne rooms
+The torches near the throne room
+Torches near a throne room
+The torches near throne rooms
+The torches near throne rooms.
+Torches near the throne rooms
+Torches near the throne room
+The torches near the throne rooms.
+A torch near a throne room
+The torch near a throne room
+A torch near the throne rooms
+The torch near the throne rooms
+A torch near the throne room
+The torch near the throne room
+A torch near throne rooms
+The torch near throne rooms
+Torches near the throne rooms.
+A torch near throne rooms.
+The torch near throne rooms.
+The torches near a throne room.
+The torches near the throne room.
+A torch near the throne rooms.
+The torch near the throne rooms.
+Torches near throne rooms
+Torches near a throne room.
+Torches near throne rooms.
+Torches near the throne room.
+Torches, near a throne room
+A torch near a throne room.
+The torches, near a throne room
+The torch near a throne room.
+The torch, near a throne room
+A torch near the throne room.
+The torch near the throne room.
+Torches, near the throne rooms
+The torches, near the throne rooms
+The torch, near the throne rooms
+Torches, near the throne room
+The torches, near the throne room
+The torch, near the throne room
+Torch, near a throne room
+Torch, near the throne rooms
+Torch near the throne rooms
+Torch near the throne room
+Torch, near the throne room
+Torch near a throne room
+The torches, near throne rooms
+The torch, near throne rooms
+A torch, near a throne room
+A torch, near the throne rooms
+Torches, near throne rooms
+A torch, near the throne room
+Torch, near throne rooms
+Torch near throne rooms
+Torch near throne rooms.
+A torch, near throne rooms
+Torch near the throne rooms.
+Torch near the throne room.
+Torch near a throne room.
+
+TOTAL RESULTS: 60
+
+Node            MRS Produced    Reason                 Included in MRS    Reason
+--------------  --------------  ---------------------  -----------------  -------------------------
+idThroneRoom_3  True            MRS fragment produced  True               Included in MRS
+idTorch_1       True            MRS fragment produced  True               Included in MRS
+yes_2           True            MRS fragment produced  False              Descends from failed edge
+
+Edge           MRS Composed    Reason                                 Included in MRS    Reason
+-------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idImmovable_1  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+isNear_2       True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

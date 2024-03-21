@@ -1,0 +1,101 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idPorch1_subgraph.dot
+[ TOP: h538
+  INDEX: e535
+  RELS: < [ unknown LBL: h537 ARG: x494 ARG0: e535 ]
+          [ def_udef_a_q LBL: h534 ARG0: x494 RSTR: h532 BODY: h533 ]
+          [ loc_nonsp LBL: h495 ARG0: i527 ARG1: x494 ARG2: x514 ]
+          [ _porch_n_1 LBL: h495 ARG0: x494 ]
+          [ def_implicit_q LBL: h526 ARG0: x514 RSTR: h524 BODY: h525 ]
+          [ _south_a_1 LBL: h522 ARG0: i513 ARG1: x514 ARG2: x517 ]
+          [ def_udef_a_q LBL: h520 ARG0: x517 RSTR: h518 BODY: h519 ]
+          [ compound LBL: h498 ARG0: e505 ARG1: x517 ARG2: x501 ]
+          [ udef_q LBL: h504 ARG0: x501 RSTR: h502 BODY: h503 ]
+          [ _screw_n_1 LBL: h500 ARG0: x501 ]
+          [ _driver_n_of LBL: h498 ARG0: x517 ARG1: i497 ]
+          [ place_n LBL: h522 ARG0: x514 ] >
+  HCONS: < h502 qeq h500 h518 qeq h498 h524 qeq h522 h532 qeq h495 h538 qeq h537 > ]
+GENERATED RESULTS ... 
+Porches south of the screw driver
+Porches south of the screw drivers
+Porches south of a screw driver
+Porches south of the screw drivers.
+Porches south of the screw driver.
+Porches south of a screw driver.
+The porches south of the screw driver
+The porches south of the screw drivers
+The porches south of a screw driver
+The porches south of the screw drivers.
+The porches south of the screw driver.
+A porch south of the screw driver
+The porch south of the screw driver
+Porches south of screw drivers
+Porches south of screw drivers.
+A porch south of the screw drivers
+The porch south of the screw drivers
+The porches south of a screw driver.
+A porch south of a screw driver
+The porch south of a screw driver
+A porch south of the screw drivers.
+The porch south of the screw drivers.
+A porch south of the screw driver.
+The porch south of the screw driver.
+The porches, south of the screw driver
+The porch, south of the screw driver
+Porches, south of the screw driver
+A porch south of a screw driver.
+The porch south of a screw driver.
+The porches, south of the screw drivers
+The porch, south of the screw drivers
+Porch south of the screw driver
+The porches south of screw drivers
+Porches, south of the screw drivers
+Porch, south of the screw driver
+The porches south of screw drivers.
+Porch south of the screw drivers
+The porches, south of a screw driver
+A porch, south of the screw driver
+The porch, south of a screw driver
+Porch, south of the screw drivers
+Porches, south of a screw driver
+A porch, south of the screw drivers
+Porch south of a screw driver
+Porch south of the screw drivers.
+Porch, south of a screw driver
+Porch south of the screw driver.
+A porch, south of a screw driver
+A porch south of screw drivers
+The porch south of screw drivers
+A porch south of screw drivers.
+The porch south of screw drivers.
+Porch south of a screw driver.
+The porches, south of screw drivers
+The porch, south of screw drivers
+Porches, south of screw drivers
+Porch south of screw drivers
+Porch south of screw drivers.
+Porch, south of screw drivers
+A porch, south of screw drivers
+
+TOTAL RESULTS: 60
+
+Node                                                                               MRS Produced    Reason                                                                                                                  Included in MRS    Reason
+---------------------------------------------------------------------------------  --------------  ----------------------------------------------------------------------------------------------------------------------  -----------------  ----------------------------------------------------------------------------------------------------------------------
+[The, sayName(idFrontDoor1)] is north and [the, sayName(idSidewalk1)] is south._2  False           "Can't find '[The, sayName(idFrontDoor1)] is north and [the, sayName(idSidewalk1)] is south.' as a key in the lexicon"  False              "Can't find '[The, sayName(idFrontDoor1)] is north and [the, sayName(idSidewalk1)] is south.' as a key in the lexicon"
+idPorch_1                                                                          True            MRS fragment produced                                                                                                   True               Included in MRS
+idScrewdriver_3                                                                    True            MRS fragment produced                                                                                                   True               Included in MRS
+pointy_4                                                                           False           'pointy' has no value in the lexicon                                                                                    False              'pointy' has no value in the lexicon
+true_5                                                                             True            MRS fragment produced                                                                                                   False              Descends from failed edge
+
+Edge                      MRS Composed    Reason                                     Included in MRS    Reason
+------------------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idDirectionDescription_1  False           Inbound to failed node                     False              Inbound to failed node
+idShape_2                 False           Inbound to failed node                     False              Inbound to failed node
+idUnknownObject_3         False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isSouthOf_4               True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        5        0.6
+Nodes              Included             2        5        0.4
+Edges              Produced             1        4        0.25
+Edges              Included             1        4        0.25

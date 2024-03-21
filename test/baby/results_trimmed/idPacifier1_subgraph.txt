@@ -1,0 +1,32 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idPacifier1_subgraph.dot
+
+
+TOTAL RESULTS: 0
+
+Node                      MRS Produced    Reason                                    Included in MRS    Reason
+------------------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+0_6                       False           '0' has no value in the lexicon           False              '0' has no value in the lexicon
+idBabyCarSeat_4           True            MRS fragment produced                     False              Descends from failed node
+idBaby_5                  True            MRS fragment produced                     False              Descends from failed node
+idClosetToWorkshopDoor_8  True            MRS fragment produced                     False              Descends from failed node
+idMonitor_2               True            MRS fragment produced                     False              Descends from failed node
+idPacifier_1              False           'idPacifier' has no value in the lexicon  False              'idPacifier' has no value in the lexicon
+true_3                    True            MRS fragment produced                     False              Descends from failed edge
+true_7                    True            MRS fragment produced                     False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idCryTurns_4       False           Inbound to failed node                     False              Inbound to failed node
+idUnknownObject_1  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+idUnknownObject_5  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isEastOf_3         False           Outbound from failed node                  False              Outbound from failed node
+isEastOf_7         False           Outbound from failed node                  False              Outbound from failed node
+isWestOf_2         True            MRS composed                               False              Descends from failed node
+isWestOf_6         True            MRS composed                               False              Descends from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        8    0.75
+Nodes              Included             0        8    0
+Edges              Produced             2        7    0.285714
+Edges              Included             0        7    0

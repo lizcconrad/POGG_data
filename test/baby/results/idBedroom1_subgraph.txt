@@ -1,0 +1,42 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idBedroom1_subgraph.dot
+[ TOP: h3626
+  INDEX: e3623
+  RELS: < [ unknown LBL: h3625 ARG: x3619 ARG0: e3623 ]
+          [ def_udef_a_q LBL: h3622 ARG0: x3619 RSTR: h3620 BODY: h3621 ]
+          [ _un-_a_neg LBL: h3603 ARG0: i3608 ARG1: e3611 ]
+          [ _know_v_1 LBL: h3603 ARG0: e3611 ARG1: u3612 ARG2: x3619 ]
+          [ _bedroom_n_1 LBL: h3603 ARG0: x3619 ] >
+  HCONS: < h3620 qeq h3603 h3626 qeq h3625 > ]
+GENERATED RESULTS ... 
+The unknown bedrooms
+Unknown bedrooms
+The unknown bedroom
+The unknown bedrooms.
+An unknown bedroom
+Unknown bedrooms.
+The unknown bedroom.
+Unknown bedroom
+An unknown bedroom.
+Unknown bedroomed
+Unknown bedroomed.
+Unknown bedroom.
+
+TOTAL RESULTS: 12
+
+Node                                                                          MRS Produced    Reason                                                                                                             Included in MRS    Reason
+----------------------------------------------------------------------------  --------------  -----------------------------------------------------------------------------------------------------------------  -----------------  -----------------------------------------------------------------------------------------------------------------
+West is [the, sayName(idLivingRoom1)]. East is [a, sayName(idCloset1)].{p}_2  False           "Can't find 'West is [the, sayName(idLivingRoom1)]. East is [a, sayName(idCloset1)].{p}' as a key in the lexicon"  False              "Can't find 'West is [the, sayName(idLivingRoom1)]. East is [a, sayName(idCloset1)].{p}' as a key in the lexicon"
+idBedroom_1                                                                   True            MRS fragment produced                                                                                              True               Included in MRS
+true_3                                                                        True            MRS fragment produced                                                                                              True               Included in MRS
+
+Edge                      MRS Composed    Reason                  Included in MRS    Reason
+------------------------  --------------  ----------------------  -----------------  ----------------------
+idDirectionDescription_1  False           Inbound to failed node  False              Inbound to failed node
+idUnknownObject_2         True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        3    0.666667
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

@@ -1,0 +1,32 @@
+TRIMMED LEXICON...
+- remove "uncountable" (both not necessary AND broken)
+- remove "immovable" (game property)
+- remove "unknown" (game property)
+- remove all boolean game properties?
+    - baby: isSeen
+    - Heal_TheCave: isWebTouched, idBoulderMoved (never did that anyway tho idr why),
+    - kidneykwest: idInterestingObject
+
+
+GENERAL LEXICON RULES ...
+- idXDoor ... just door ... could say the room the door goes to . . . maybe later. doesn't really matter, ultimately just compounds compounding with compounds that compound
+- idLongHallwayFrontOpeningDoor ... front door
+- idXYOpening ... front/back/etc opening
+- idXKey ... just key ... ugh ok maybe describe the key
+- idXKeyhole ... just key hole
+- idXLock ... just lock
+- idMachineDoorHandle ... just handle
+
+BABY
+- idXButton ... describe the button so GoButton can't be included
+
+
+... okay generally for doors, openings, handles, because they're so common i'm just going to pick something to do,
+like describing room door goes to but only saying opening, handle, key, and lock
+
+... BUT for other things that are more rare like "go button" or "on switch" i CAN just force button or switch but if i can't faithfully replicate it i will skip it
+
+... like for the most part i COULD faithfully replicate The Dramma Building Right Opening etc but it's just excessive
+not doing that is a different decision from "cheating" compounds i can't achieve
+
+should also take out "adam left hand" because i cheated that too

@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idHorse1_subgraph.dot
+[ TOP: h547
+  INDEX: e544
+  RELS: < [ unknown LBL: h546 ARG: x535 ARG0: e544 ]
+          [ def_udef_a_q LBL: h543 ARG0: x535 RSTR: h541 BODY: h542 ]
+          [ _silver_a_1 LBL: h536 ARG0: i537 ARG1: x535 ]
+          [ _horse_n_1 LBL: h536 ARG0: x535 ] >
+  HCONS: < h541 qeq h536 h547 qeq h546 > ]
+GENERATED RESULTS ... 
+The silver horse
+A silver horse
+The silver horses.
+The silver horses
+Silver horses.
+Silver horses
+The silver horse.
+Silver horse
+A silver horse.
+Silver horse.
+
+TOTAL RESULTS: 10
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  ---------------
+idHorse_1  True            MRS fragment produced  True               Included in MRS
+silver_2   True            MRS fragment produced  True               Included in MRS
+
+Edge       MRS Composed    Reason        Included in MRS    Reason
+---------  --------------  ------------  -----------------  ---------------
+idColor_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

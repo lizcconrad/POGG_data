@@ -1,0 +1,193 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idLongHallwayLeftOpeningDoor_subgraph.dot
+[ TOP: h1943
+  INDEX: e1940
+  RELS: < [ unknown LBL: h1942 ARG: x1936 ARG0: e1940 ]
+          [ def_udef_a_q LBL: h1939 ARG0: x1936 RSTR: h1937 BODY: h1938 ]
+          [ _grey_a_1 LBL: h1917 ARG0: i1933 ARG1: x1936 ]
+          [ _open_a_to LBL: h1917 ARG0: e1929 ARG1: x1936 ARG2: u1931 ]
+          [ compound LBL: h1917 ARG0: e1925 ARG1: x1936 ARG2: x1921 ]
+          [ udef_q LBL: h1924 ARG0: x1921 RSTR: h1922 BODY: h1923 ]
+          [ _left_n_of LBL: h1920 ARG0: x1921 ARG1: i1919 ]
+          [ _door_n_1 LBL: h1917 ARG0: x1936 ] >
+  HCONS: < h1922 qeq h1920 h1937 qeq h1917 h1943 qeq h1942 > ]
+GENERATED RESULTS ... 
+An open gray left door
+An open grey left door
+The open gray left door
+The open grey left door
+The open gray left doors
+The open grey left doors
+The grey open left door
+The gray open left door
+Lefts gray open door
+Lefts grey open door
+A grey open left door
+A gray open left door
+The grey open left doors
+The gray open left doors
+Lefts open gray door
+Lefts open grey door
+The lefts open gray doors
+The lefts open grey doors
+The open gray left doors.
+The open grey left doors.
+A lefts gray open door
+A lefts grey open door
+An open left gray door
+An open left grey door
+The open left gray door
+The open left grey door
+The lefts gray open door
+The lefts grey open door
+The lefts grey open doors
+The lefts gray open doors
+The open left gray doors
+The open left grey doors
+The left gray open door
+The left grey open door
+A lefts open gray door
+A lefts open grey door
+The grey open left doors.
+The gray open left doors.
+Open left gray doors
+Open left grey doors
+The lefts open gray door
+The lefts open grey door
+The left gray open doors
+The left grey open doors
+Open gray left doors
+Open grey left doors
+A left gray open door
+A left grey open door
+The open left gray doors.
+The open left grey doors.
+Open gray left doors.
+Open grey left doors.
+Open left gray doors.
+Open left grey doors.
+An open gray left door.
+An open grey left door.
+Lefts open gray doors
+Lefts open grey doors
+The lefts gray open doors.
+The lefts grey open doors.
+The open gray left door.
+The open grey left door.
+The open lefts gray doors
+The open lefts grey doors
+The left gray open doors.
+The left grey open doors.
+Grey open left doors
+Gray open left doors
+An open lefts gray door
+An open lefts grey door
+Lefts grey open doors
+Lefts gray open doors
+The open lefts gray door
+The open lefts grey door
+Open gray left door
+Open grey left door
+Lefts gray open door.
+Lefts grey open door.
+The grey open left door.
+The gray open left door.
+The lefts open gray doors.
+The lefts open grey doors.
+Grey open left doors.
+Gray open left doors.
+The open lefts gray doors.
+The open lefts grey doors.
+Open lefts gray doors
+Open lefts grey doors
+A grey open left door.
+A gray open left door.
+An open left gray door.
+An open left grey door.
+Grey open left door
+Gray open left door
+The open left gray door.
+The open left grey door.
+Open lefts gray doors.
+Open lefts grey doors.
+Lefts open gray door.
+Lefts open grey door.
+Left gray open door
+Left grey open door
+A lefts gray open door.
+A lefts grey open door.
+Lefts gray open doors.
+Lefts grey open doors.
+The lefts gray open door.
+The lefts grey open door.
+The grey lefts open door
+The gray lefts open door
+The grey lefts open doors
+The gray lefts open doors
+The grey lefts open doors.
+The gray lefts open doors.
+Left gray open doors
+Left grey open doors
+Gray lefts open doors
+Grey lefts open doors
+Gray lefts open doors.
+Grey lefts open doors.
+The left gray open door.
+The left grey open door.
+A grey lefts open door
+A gray lefts open door
+A lefts open gray door.
+A lefts open grey door.
+Lefts open gray doors.
+Lefts open grey doors.
+Open left gray door
+Open left grey door
+An open lefts gray door.
+An open lefts grey door.
+The lefts open gray door.
+The lefts open grey door.
+A left gray open door.
+A left grey open door.
+The open lefts gray door.
+The open lefts grey door.
+Left gray open doors.
+Left grey open doors.
+The grey lefts open door.
+The gray lefts open door.
+Open gray left door.
+Open grey left door.
+A gray lefts open door.
+A grey lefts open door.
+Open lefts gray door
+Open lefts grey door
+Left gray open door.
+Left grey open door.
+Gray open left door.
+Grey open left door.
+Gray lefts open door
+Grey lefts open door
+Open left gray door.
+Open left grey door.
+Open lefts gray door.
+Open lefts grey door.
+Gray lefts open door.
+Grey lefts open door.
+
+TOTAL RESULTS: 160
+
+Node                            MRS Produced    Reason                 Included in MRS    Reason
+------------------------------  --------------  ---------------------  -----------------  ---------------
+grey_3                          True            MRS fragment produced  True               Included in MRS
+idLongHallwayLeftOpeningDoor_1  True            MRS fragment produced  True               Included in MRS
+open_2                          True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idColor_2      True            MRS composed  True               Included in MRS
+idOpenState_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

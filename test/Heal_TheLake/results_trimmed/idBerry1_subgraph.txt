@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/complete/idBerry1_subgraph.dot
+[ TOP: h284
+  INDEX: e281
+  RELS: < [ unknown LBL: h283 ARG: x272 ARG0: e281 ]
+          [ def_udef_a_q LBL: h280 ARG0: x272 RSTR: h278 BODY: h279 ]
+          [ _red_a_1 LBL: h276 ARG0: i274 ARG1: x272 ]
+          [ _berry_n_1 LBL: h276 ARG0: x272 ] >
+  HCONS: < h278 qeq h276 h284 qeq h283 > ]
+GENERATED RESULTS ... 
+The red berries
+Red berries
+The red berry
+A red berry
+The red berries.
+Red berries.
+The red berry.
+Red berry
+A red berry.
+Red berry.
+
+TOTAL RESULTS: 10
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  ---------------
+idBerry_1  True            MRS fragment produced  True               Included in MRS
+red_2      True            MRS fragment produced  True               Included in MRS
+
+Edge       MRS Composed    Reason        Included in MRS    Reason
+---------  --------------  ------------  -----------------  ---------------
+idColor_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

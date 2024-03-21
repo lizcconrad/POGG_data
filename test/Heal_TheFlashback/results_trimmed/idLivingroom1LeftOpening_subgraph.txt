@@ -1,0 +1,663 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idLivingroom1LeftOpening_subgraph.dot
+[ TOP: h108
+  INDEX: e105
+  RELS: < [ unknown LBL: h107 ARG: x101 ARG0: e105 ]
+          [ def_udef_a_q LBL: h104 ARG0: x101 RSTR: h102 BODY: h103 ]
+          [ loc_nonsp LBL: h66 ARG0: i97 ARG1: x101 ARG2: x93 ]
+          [ loc_nonsp LBL: h66 ARG0: i63 ARG1: x101 ARG2: x59 ]
+          [ compound LBL: h66 ARG0: e9 ARG1: x101 ARG2: x5 ]
+          [ udef_q LBL: h8 ARG0: x5 RSTR: h6 BODY: h7 ]
+          [ _left_n_of LBL: h4 ARG0: x5 ARG1: i3 ]
+          [ _opening_n_1 LBL: h66 ARG0: x101 ]
+          [ def_implicit_q LBL: h62 ARG0: x59 RSTR: h60 BODY: h61 ]
+          [ _east_a_1 LBL: h52 ARG0: i49 ARG1: x59 ARG2: x53 ]
+          [ def_udef_a_q LBL: h56 ARG0: x53 RSTR: h54 BODY: h55 ]
+          [ loc_nonsp LBL: h28 ARG0: i45 ARG1: x53 ARG2: x39 ]
+          [ _open_a_to LBL: h28 ARG0: e25 ARG1: x53 ARG2: u27 ]
+          [ compound LBL: h28 ARG0: e21 ARG1: x53 ARG2: x17 ]
+          [ udef_q LBL: h20 ARG0: x17 RSTR: h18 BODY: h19 ]
+          [ _bathroom_n_1 LBL: h16 ARG0: x17 ]
+          [ _door_n_1 LBL: h28 ARG0: x53 ]
+          [ def_implicit_q LBL: h44 ARG0: x39 RSTR: h42 BODY: h43 ]
+          [ _south_a_1 LBL: h34 ARG0: i31 ARG1: x39 ARG2: x29 ]
+          [ def_udef_a_q LBL: h38 ARG0: x29 RSTR: h36 BODY: h37 ]
+          [ _bedroom_n_1 LBL: h30 ARG0: x29 ]
+          [ place_n LBL: h34 ARG0: x39 ]
+          [ place_n LBL: h52 ARG0: x59 ]
+          [ def_implicit_q LBL: h96 ARG0: x93 RSTR: h94 BODY: h95 ]
+          [ _north_a_1 LBL: h86 ARG0: i83 ARG1: x93 ARG2: x87 ]
+          [ def_udef_a_q LBL: h90 ARG0: x87 RSTR: h88 BODY: h89 ]
+          [ _closed_a_1 LBL: h69 ARG0: e80 ARG1: x87 ]
+          [ compound LBL: h69 ARG0: e76 ARG1: x87 ARG2: x70 ]
+          [ udef_q LBL: h75 ARG0: x70 RSTR: h73 BODY: h74 ]
+          [ _cabinet_n_1 LBL: h71 ARG0: x70 ]
+          [ _drawer_n_of LBL: h69 ARG0: x87 ARG1: i68 ]
+          [ place_n LBL: h86 ARG0: x93 ] >
+  HCONS: < h6 qeq h4 h18 qeq h16 h36 qeq h30 h42 qeq h34 h54 qeq h28 h60 qeq h52 h73 qeq h71 h88 qeq h69 h94 qeq h86 h102 qeq h66 h108 qeq h107 > ]
+GENERATED RESULTS ... 
+Left openings east of the open bathroom door south of the bedroom north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of the open bathroom door south of the bedroom
+Left openings east of the open bathroom door south of the bedrooms north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of the open bathroom door south of the bedrooms
+Left openings east of the open bathroom door south of the bedroom north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of the open bathroom door south of the bedroom
+Left openings east of the open bathroom door south of the bedrooms north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of the open bathroom door south of the bedrooms
+Left openings east of the open bathroom door south of the bedroom north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of the open bathroom door south of the bedroom
+Left openings east of the open bathroom door south of the bedrooms north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of the open bathroom door south of the bedrooms
+Left openings east of the open bathroom door south of a bedroom north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of the open bathroom door south of a bedroom
+Left openings north of a closed cabinet drawer east of the open bathroom door south of the bedrooms.
+Left openings east of the open bathroom door south of the bedroom north of a closed cabinet drawer.
+Left openings east of the open bathroom door south of the bedrooms north of a closed cabinet drawer.
+Left openings east of an open bathroom door south of the bedroom north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of an open bathroom door south of the bedroom
+Left openings east of an open bathroom door south of the bedrooms north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of an open bathroom door south of the bedrooms
+Left openings east of the open bathroom door south of the bedroom north of the closed cabinet drawers.
+Left openings east of the open bathroom door south of the bedrooms north of the closed cabinet drawers.
+Left openings east of the open bathroom door south of a bedroom north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of the open bathroom door south of a bedroom
+Left openings north of the closed cabinet drawer east of the open bathroom door south of the bedrooms.
+Left openings east of the open bathroom door south of the bedroom north of the closed cabinet drawer.
+Left openings east of the open bathroom door south of the bedrooms north of the closed cabinet drawer.
+Left openings east of an open bathroom door south of the bedroom north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of an open bathroom door south of the bedroom
+Left openings east of the open bathroom door south of a bedroom north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of the open bathroom door south of a bedroom
+Left openings north of the closed cabinet drawers east of the open bathroom door south of the bedrooms.
+Left openings east of an open bathroom door south of the bedrooms north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of an open bathroom door south of the bedrooms
+Left openings east of the open bathroom door south of a bedroom north of a closed cabinet drawer.
+Left openings east of an open bathroom door south of the bedroom north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of an open bathroom door south of the bedroom
+Left openings east of an open bathroom door south of the bedrooms north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of an open bathroom door south of the bedrooms
+Left openings east of the open bathroom doors south of the bedroom north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of the open bathroom doors south of the bedroom
+Left openings east of the open bathroom doors south of the bedrooms north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of the open bathroom doors south of the bedrooms
+Left openings east of an open bathroom door south of a bedroom north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of an open bathroom door south of a bedroom
+A left opening east of the open bathroom door south of the bedroom north of a closed cabinet drawer
+A left opening north of a closed cabinet drawer east of the open bathroom door south of the bedroom
+Left openings north of a closed cabinet drawer east of an open bathroom door south of the bedrooms.
+The left opening east of the open bathroom door south of the bedroom north of a closed cabinet drawer
+The left opening north of a closed cabinet drawer east of the open bathroom door south of the bedroom
+A left opening east of the open bathroom door south of the bedrooms north of a closed cabinet drawer
+A left opening north of a closed cabinet drawer east of the open bathroom door south of the bedrooms
+The left opening east of the open bathroom door south of the bedrooms north of a closed cabinet drawer
+The left opening north of a closed cabinet drawer east of the open bathroom door south of the bedrooms
+Left openings east of an open bathroom door south of the bedroom north of a closed cabinet drawer.
+Left openings east of an open bathroom door south of the bedrooms north of a closed cabinet drawer.
+Left openings east of the open bathroom door south of a bedroom north of the closed cabinet drawers.
+Left openings east of the open bathroom door south of a bedroom north of the closed cabinet drawer.
+Left openings east of an open bathroom door south of the bedroom north of the closed cabinet drawers.
+Left openings east of an open bathroom door south of the bedrooms north of the closed cabinet drawers.
+Left openings east of the open bathroom doors south of the bedroom north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of the open bathroom doors south of the bedroom
+Left openings east of the open bathroom doors south of the bedrooms north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of the open bathroom doors south of the bedrooms
+Left openings east of an open bathroom door south of a bedroom north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of an open bathroom door south of a bedroom
+A left opening east of the open bathroom door south of the bedroom north of the closed cabinet drawer
+A left opening north of the closed cabinet drawer east of the open bathroom door south of the bedroom
+Left openings north of the closed cabinet drawer east of an open bathroom door south of the bedrooms.
+The left opening east of the open bathroom door south of the bedroom north of the closed cabinet drawer
+The left opening north of the closed cabinet drawer east of the open bathroom door south of the bedroom
+A left opening east of the open bathroom door south of the bedrooms north of the closed cabinet drawer
+A left opening north of the closed cabinet drawer east of the open bathroom door south of the bedrooms
+The left opening east of the open bathroom door south of the bedrooms north of the closed cabinet drawer
+The left opening north of the closed cabinet drawer east of the open bathroom door south of the bedrooms
+Left openings east of the open bathroom door south of the bedroom north of closed cabinet drawers
+Left openings north of closed cabinet drawers east of the open bathroom door south of the bedroom
+Left openings east of the open bathroom door south of the bedrooms north of closed cabinet drawers
+Left openings north of closed cabinet drawers east of the open bathroom door south of the bedrooms
+Left openings east of an open bathroom door south of the bedroom north of the closed cabinet drawer.
+Left openings east of an open bathroom door south of the bedrooms north of the closed cabinet drawer.
+Left openings east of the open bathroom doors south of the bedroom north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of the open bathroom doors south of the bedroom
+Left openings east of the open bathroom doors south of the bedrooms north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of the open bathroom doors south of the bedrooms
+Left openings east of an open bathroom door south of a bedroom north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of an open bathroom door south of a bedroom
+A left opening east of the open bathroom door south of the bedroom north of the closed cabinet drawers
+A left opening north of the closed cabinet drawers east of the open bathroom door south of the bedroom
+Left openings north of the closed cabinet drawers east of an open bathroom door south of the bedrooms.
+The left opening east of the open bathroom door south of the bedroom north of the closed cabinet drawers
+The left opening north of the closed cabinet drawers east of the open bathroom door south of the bedroom
+A left opening east of the open bathroom door south of the bedrooms north of the closed cabinet drawers
+A left opening north of the closed cabinet drawers east of the open bathroom door south of the bedrooms
+The left opening east of the open bathroom door south of the bedrooms north of the closed cabinet drawers
+The left opening north of the closed cabinet drawers east of the open bathroom door south of the bedrooms
+Left openings east of the open bathroom doors south of a bedroom north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of the open bathroom doors south of a bedroom
+Left openings north of a closed cabinet drawer east of the open bathroom doors south of the bedrooms.
+Left openings north of a closed cabinet drawer east of the open bathroom door south of a bedroom.
+A left opening east of the open bathroom door south of a bedroom north of a closed cabinet drawer
+A left opening north of a closed cabinet drawer east of the open bathroom door south of a bedroom
+A left opening north of a closed cabinet drawer east of the open bathroom door south of the bedrooms.
+The left opening east of the open bathroom door south of a bedroom north of a closed cabinet drawer
+The left opening north of a closed cabinet drawer east of the open bathroom door south of a bedroom
+The left opening north of a closed cabinet drawer east of the open bathroom door south of the bedrooms.
+Left openings east of the open bathroom doors south of the bedroom north of a closed cabinet drawer.
+Left openings east of the open bathroom doors south of the bedrooms north of a closed cabinet drawer.
+Left openings east of an open bathroom door south of a bedroom north of a closed cabinet drawer.
+A left opening east of the open bathroom door south of the bedroom north of a closed cabinet drawer.
+The left opening east of the open bathroom door south of the bedroom north of a closed cabinet drawer.
+A left opening east of the open bathroom door south of the bedrooms north of a closed cabinet drawer.
+The left opening east of the open bathroom door south of the bedrooms north of a closed cabinet drawer.
+Left openings east of the open bathroom door south of the bedroom north of the cabinets closed drawer
+Left openings north of the cabinets closed drawer east of the open bathroom door south of the bedroom
+Left openings east of the open bathroom door south of the bedrooms north of the cabinets closed drawer
+Left openings north of the cabinets closed drawer east of the open bathroom door south of the bedrooms
+Left openings north of a closed cabinet drawer east of the open bathroom door south of the bedroom.
+A left opening east of an open bathroom door south of the bedroom north of a closed cabinet drawer
+A left opening north of a closed cabinet drawer east of an open bathroom door south of the bedroom
+The left opening east of an open bathroom door south of the bedroom north of a closed cabinet drawer
+The left opening north of a closed cabinet drawer east of an open bathroom door south of the bedroom
+A left opening east of an open bathroom door south of the bedrooms north of a closed cabinet drawer
+A left opening north of a closed cabinet drawer east of an open bathroom door south of the bedrooms
+The left opening east of an open bathroom door south of the bedrooms north of a closed cabinet drawer
+The left opening north of a closed cabinet drawer east of an open bathroom door south of the bedrooms
+Left openings east of the open bathroom door south of the bedroom north of closed cabinet drawers.
+Left openings east of the open bathroom door south of the bedrooms north of closed cabinet drawers.
+Left openings east of the open bathroom door south of bedrooms north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of the open bathroom door south of bedrooms
+Left openings east of the open bathroom doors south of the bedroom north of the closed cabinet drawers.
+The left openings east of the open bathroom door south of the bedroom north of a closed cabinet drawer
+The left openings north of a closed cabinet drawer east of the open bathroom door south of the bedroom
+Left openings east of the open bathroom doors south of the bedrooms north of the closed cabinet drawers.
+Left openings east of an open bathroom door south of a bedroom north of the closed cabinet drawers.
+The left openings east of the open bathroom door south of the bedrooms north of a closed cabinet drawer
+The left openings north of a closed cabinet drawer east of the open bathroom door south of the bedrooms
+A left opening east of the open bathroom door south of the bedroom north of the closed cabinet drawers.
+The left opening east of the open bathroom door south of the bedroom north of the closed cabinet drawers.
+A left opening east of the open bathroom door south of the bedrooms north of the closed cabinet drawers.
+Left openings east of the open bathroom doors south of a bedroom north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of the open bathroom doors south of a bedroom
+Left openings north of the closed cabinet drawer east of the open bathroom doors south of the bedrooms.
+The left opening east of the open bathroom door south of the bedrooms north of the closed cabinet drawers.
+Left openings north of the closed cabinet drawer east of the open bathroom door south of a bedroom.
+A left opening east of the open bathroom door south of a bedroom north of the closed cabinet drawer
+A left opening north of the closed cabinet drawer east of the open bathroom door south of a bedroom
+A left opening north of the closed cabinet drawer east of the open bathroom door south of the bedrooms.
+The left opening east of the open bathroom door south of a bedroom north of the closed cabinet drawer
+The left opening north of the closed cabinet drawer east of the open bathroom door south of a bedroom
+The left opening north of the closed cabinet drawer east of the open bathroom door south of the bedrooms.
+Left openings east of the open bathroom doors south of the bedroom north of the closed cabinet drawer.
+Left openings east of the open bathroom door south of a bedroom north of closed cabinet drawers
+Left openings north of closed cabinet drawers east of the open bathroom door south of a bedroom
+Left openings north of closed cabinet drawers east of the open bathroom door south of the bedrooms.
+Left openings east of the open bathroom door south of the bedroom north of a cabinets closed drawer
+Left openings north of a cabinets closed drawer east of the open bathroom door south of the bedroom
+Left openings east of the open bathroom doors south of the bedrooms north of the closed cabinet drawer.
+Left openings east of an open bathroom door south of a bedroom north of the closed cabinet drawer.
+A left opening east of the open bathroom door south of the bedroom north of the closed cabinet drawer.
+Left openings east of the open bathroom door south of the bedrooms north of a cabinets closed drawer
+Left openings north of a cabinets closed drawer east of the open bathroom door south of the bedrooms
+The left opening east of the open bathroom door south of the bedroom north of the closed cabinet drawer.
+A left opening east of the open bathroom door south of the bedrooms north of the closed cabinet drawer.
+The left opening east of the open bathroom door south of the bedrooms north of the closed cabinet drawer.
+Left openings east of the open bathroom doors south of a bedroom north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of the open bathroom doors south of a bedroom
+Left openings north of the closed cabinet drawers east of the open bathroom doors south of the bedrooms.
+Left openings north of the closed cabinet drawer east of the open bathroom door south of the bedroom.
+Left openings north of the closed cabinet drawers east of the open bathroom door south of a bedroom.
+A left opening east of an open bathroom door south of the bedroom north of the closed cabinet drawer
+A left opening north of the closed cabinet drawer east of an open bathroom door south of the bedroom
+A left opening east of the open bathroom door south of a bedroom north of the closed cabinet drawers
+A left opening north of the closed cabinet drawers east of the open bathroom door south of a bedroom
+Left openings east of the open bathroom door south of the bedroom north of the cabinets closed drawers.
+The left opening east of an open bathroom door south of the bedroom north of the closed cabinet drawer
+The left opening north of the closed cabinet drawer east of an open bathroom door south of the bedroom
+A left opening north of the closed cabinet drawers east of the open bathroom door south of the bedrooms.
+The left opening east of the open bathroom door south of a bedroom north of the closed cabinet drawers
+The left opening north of the closed cabinet drawers east of the open bathroom door south of a bedroom
+A left opening east of an open bathroom door south of the bedrooms north of the closed cabinet drawer
+A left opening north of the closed cabinet drawer east of an open bathroom door south of the bedrooms
+The left opening north of the closed cabinet drawers east of the open bathroom door south of the bedrooms.
+Left openings east of the open bathroom door south of the bedrooms north of the cabinets closed drawers.
+Left openings north of a closed cabinet drawer east of the open bathroom door south of bedrooms.
+The left opening east of an open bathroom door south of the bedrooms north of the closed cabinet drawer
+The left opening north of the closed cabinet drawer east of an open bathroom door south of the bedrooms
+Left openings east of the open bathroom door south of the bedroom north of the cabinets closed drawers
+Left openings north of the cabinets closed drawers east of the open bathroom door south of the bedroom
+Left openings east of the open bathroom door south of the bedrooms north of the cabinets closed drawers
+Left openings north of the cabinets closed drawers east of the open bathroom door south of the bedrooms
+Left openings east of an open bathroom door south of the bedroom north of closed cabinet drawers
+Left openings north of closed cabinet drawers east of an open bathroom door south of the bedroom
+Left openings east of an open bathroom door south of the bedrooms north of closed cabinet drawers
+Left openings north of closed cabinet drawers east of an open bathroom door south of the bedrooms
+Left openings east of the open bathroom doors south of a bedroom north of a closed cabinet drawer.
+Left openings east of open bathroom doors south of the bedroom north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of open bathroom doors south of the bedroom
+A left opening east of the open bathroom door south of a bedroom north of a closed cabinet drawer.
+Left openings east of open bathroom doors south of the bedrooms north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of open bathroom doors south of the bedrooms
+The left opening east of the open bathroom door south of a bedroom north of a closed cabinet drawer.
+Left openings east of the open bathroom door south of bedrooms north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of the open bathroom door south of bedrooms
+Left openings north of the closed cabinet drawers east of the open bathroom door south of the bedroom.
+A left opening east of an open bathroom door south of the bedroom north of the closed cabinet drawers
+A left opening north of the closed cabinet drawers east of an open bathroom door south of the bedroom
+Left openings east of the open bathroom door south of the bedroom north of the cabinets closed drawer.
+The left opening east of an open bathroom door south of the bedroom north of the closed cabinet drawers
+The left opening north of the closed cabinet drawers east of an open bathroom door south of the bedroom
+A left opening east of an open bathroom door south of the bedrooms north of the closed cabinet drawers
+A left opening north of the closed cabinet drawers east of an open bathroom door south of the bedrooms
+Left openings east of the open bathroom door south of the bedrooms north of the cabinets closed drawer.
+The left opening east of an open bathroom door south of the bedrooms north of the closed cabinet drawers
+The left opening north of the closed cabinet drawers east of an open bathroom door south of the bedrooms
+Left openings east of the open bathroom door south of a bedroom north of the cabinets closed drawer
+Left openings north of the cabinets closed drawer east of the open bathroom door south of a bedroom
+Left openings north of the cabinets closed drawer east of the open bathroom door south of the bedrooms.
+A left opening east of the open bathroom doors south of the bedroom north of a closed cabinet drawer
+A left opening north of a closed cabinet drawer east of the open bathroom doors south of the bedroom
+The left opening east of the open bathroom doors south of the bedroom north of a closed cabinet drawer
+The left opening north of a closed cabinet drawer east of the open bathroom doors south of the bedroom
+The left openings east of the open bathroom door south of the bedroom north of the closed cabinet drawer
+The left openings north of the closed cabinet drawer east of the open bathroom door south of the bedroom
+Left openings north of a closed cabinet drawer east of an open bathroom door south of a bedroom.
+A left opening east of the open bathroom doors south of the bedrooms north of a closed cabinet drawer
+A left opening north of a closed cabinet drawer east of the open bathroom doors south of the bedrooms
+A left opening east of an open bathroom door south of a bedroom north of a closed cabinet drawer
+A left opening north of a closed cabinet drawer east of an open bathroom door south of a bedroom
+The left opening east of the open bathroom doors south of the bedrooms north of a closed cabinet drawer
+The left opening north of a closed cabinet drawer east of the open bathroom doors south of the bedrooms
+A left opening north of a closed cabinet drawer east of an open bathroom door south of the bedrooms.
+The left openings east of the open bathroom door south of the bedrooms north of the closed cabinet drawer
+The left openings north of the closed cabinet drawer east of the open bathroom door south of the bedrooms
+The left opening east of an open bathroom door south of a bedroom north of a closed cabinet drawer
+The left opening north of a closed cabinet drawer east of an open bathroom door south of a bedroom
+The left opening north of a closed cabinet drawer east of an open bathroom door south of the bedrooms.
+Left openings east of the open bathroom door south of a bedroom north of closed cabinet drawers.
+A left opening east of an open bathroom door south of the bedroom north of a closed cabinet drawer.
+The left opening east of an open bathroom door south of the bedroom north of a closed cabinet drawer.
+A left opening east of an open bathroom door south of the bedrooms north of a closed cabinet drawer.
+The left opening east of an open bathroom door south of the bedrooms north of a closed cabinet drawer.
+Left openings east of the open bathroom door south of bedrooms north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of the open bathroom door south of bedrooms
+Left openings east of an open bathroom door south of the bedroom north of the cabinets closed drawer
+Left openings north of the cabinets closed drawer east of an open bathroom door south of the bedroom
+Left openings east of an open bathroom door south of the bedrooms north of the cabinets closed drawer
+Left openings north of the cabinets closed drawer east of an open bathroom door south of the bedrooms
+Left openings north of a closed cabinet drawer east of an open bathroom door south of the bedroom.
+The left openings east of the open bathroom door south of the bedroom north of the closed cabinet drawers
+The left openings north of the closed cabinet drawers east of the open bathroom door south of the bedroom
+The left openings east of the open bathroom door south of the bedrooms north of the closed cabinet drawers
+The left openings north of the closed cabinet drawers east of the open bathroom door south of the bedrooms
+Left openings east of the open bathroom door south of bedrooms north of a closed cabinet drawer.
+Left openings east of the open bathroom doors south of a bedroom north of the closed cabinet drawers.
+The left openings east of the open bathroom door south of a bedroom north of a closed cabinet drawer
+The left openings north of a closed cabinet drawer east of the open bathroom door south of a bedroom
+The left openings north of a closed cabinet drawer east of the open bathroom door south of the bedrooms.
+A left opening east of the open bathroom door south of a bedroom north of the closed cabinet drawers.
+Left openings north of the closed cabinet drawer east of the open bathroom door south of bedrooms.
+Left openings east of an open bathroom door south of the bedroom north of closed cabinet drawers.
+The left opening east of the open bathroom door south of a bedroom north of the closed cabinet drawers.
+Left openings east of an open bathroom door south of the bedrooms north of closed cabinet drawers.
+The left openings east of the open bathroom door south of the bedroom north of a closed cabinet drawer.
+The left openings east of the open bathroom door south of the bedrooms north of a closed cabinet drawer.
+Left openings east of the open bathroom door south of the bedroom north of a cabinets closed drawer.
+Left openings east of an open bathroom door south of bedrooms north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of an open bathroom door south of bedrooms
+Left openings east of the open bathroom doors south of a bedroom north of the closed cabinet drawer.
+Left openings east of open bathroom doors south of the bedroom north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of open bathroom doors south of the bedroom
+Left openings east of the open bathroom door south of the bedrooms north of a cabinets closed drawer.
+Left openings east of the open bathroom door south of a bedroom north of a cabinets closed drawer
+Left openings north of a cabinets closed drawer east of the open bathroom door south of a bedroom
+Left openings north of a cabinets closed drawer east of the open bathroom door south of the bedrooms.
+A left opening east of the open bathroom door south of a bedroom north of the closed cabinet drawer.
+Left openings east of open bathroom doors south of the bedrooms north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of open bathroom doors south of the bedrooms
+The left opening east of the open bathroom door south of a bedroom north of the closed cabinet drawer.
+The left openings east of an open bathroom door south of the bedroom north of a closed cabinet drawer
+The left openings north of a closed cabinet drawer east of an open bathroom door south of the bedroom
+The left openings east of an open bathroom door south of the bedrooms north of a closed cabinet drawer
+The left openings north of a closed cabinet drawer east of an open bathroom door south of the bedrooms
+A left opening east of an open bathroom door south of the bedroom north of the closed cabinet drawers.
+Left openings north of the closed cabinet drawers east of the open bathroom door south of bedrooms.
+The left opening east of an open bathroom door south of the bedroom north of the closed cabinet drawers.
+A left opening east of an open bathroom door south of the bedrooms north of the closed cabinet drawers.
+A left opening east of the open bathroom doors south of the bedroom north of the closed cabinet drawer
+A left opening north of the closed cabinet drawer east of the open bathroom doors south of the bedroom
+The left opening east of an open bathroom door south of the bedrooms north of the closed cabinet drawers.
+The left opening east of the open bathroom doors south of the bedroom north of the closed cabinet drawer
+The left opening north of the closed cabinet drawer east of the open bathroom doors south of the bedroom
+Left openings north of the closed cabinet drawer east of an open bathroom door south of a bedroom.
+A left opening east of the open bathroom doors south of the bedrooms north of the closed cabinet drawer
+A left opening north of the closed cabinet drawer east of the open bathroom doors south of the bedrooms
+A left opening east of an open bathroom door south of a bedroom north of the closed cabinet drawer
+A left opening north of the closed cabinet drawer east of an open bathroom door south of a bedroom
+The left opening east of the open bathroom doors south of the bedrooms north of the closed cabinet drawer
+The left opening north of the closed cabinet drawer east of the open bathroom doors south of the bedrooms
+A left opening north of the closed cabinet drawer east of an open bathroom door south of the bedrooms.
+Left openings east of the open bathroom door south of a bedroom north of the cabinets closed drawers.
+The left opening east of an open bathroom door south of a bedroom north of the closed cabinet drawer
+The left opening north of the closed cabinet drawer east of an open bathroom door south of a bedroom
+The left opening north of the closed cabinet drawer east of an open bathroom door south of the bedrooms.
+Left openings east of the open bathroom doors south of the bedroom north of closed cabinet drawers
+Left openings north of closed cabinet drawers east of the open bathroom doors south of the bedroom
+Left openings east of the open bathroom door south of a bedroom north of the cabinets closed drawers
+Left openings north of the cabinets closed drawers east of the open bathroom door south of a bedroom
+Left openings north of the cabinets closed drawers east of the open bathroom door south of the bedrooms.
+Left openings east of the open bathroom doors south of the bedrooms north of closed cabinet drawers
+Left openings north of closed cabinet drawers east of the open bathroom doors south of the bedrooms
+Left openings east of an open bathroom door south of a bedroom north of closed cabinet drawers
+Left openings north of closed cabinet drawers east of an open bathroom door south of a bedroom
+A left opening east of the open bathroom door south of the bedroom north of closed cabinet drawers
+A left opening north of closed cabinet drawers east of the open bathroom door south of the bedroom
+Left openings north of closed cabinet drawers east of an open bathroom door south of the bedrooms.
+Left openings east of open bathroom doors south of the bedroom north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of open bathroom doors south of the bedroom
+Left openings east of an open bathroom door south of the bedroom north of a cabinets closed drawer
+Left openings north of a cabinets closed drawer east of an open bathroom door south of the bedroom
+The left opening east of the open bathroom door south of the bedroom north of closed cabinet drawers
+The left opening north of closed cabinet drawers east of the open bathroom door south of the bedroom
+A left opening east of the open bathroom door south of the bedrooms north of closed cabinet drawers
+A left opening north of closed cabinet drawers east of the open bathroom door south of the bedrooms
+A left opening east of an open bathroom door south of the bedroom north of the closed cabinet drawer.
+Left openings east of open bathroom doors south of the bedrooms north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of open bathroom doors south of the bedrooms
+Left openings east of an open bathroom door south of the bedrooms north of a cabinets closed drawer
+Left openings north of a cabinets closed drawer east of an open bathroom door south of the bedrooms
+The left opening east of the open bathroom door south of the bedrooms north of closed cabinet drawers
+The left opening north of closed cabinet drawers east of the open bathroom door south of the bedrooms
+The left opening east of an open bathroom door south of the bedroom north of the closed cabinet drawer.
+A left opening east of an open bathroom door south of the bedrooms north of the closed cabinet drawer.
+The left opening east of an open bathroom door south of the bedrooms north of the closed cabinet drawer.
+Left openings east of the open bathroom door south of bedrooms north of the closed cabinet drawers.
+Left openings east of open bathroom doors south of a bedroom north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of open bathroom doors south of a bedroom
+Left openings north of a closed cabinet drawer east of open bathroom doors south of the bedrooms.
+A left opening east of the open bathroom doors south of the bedroom north of the closed cabinet drawers
+A left opening north of the closed cabinet drawers east of the open bathroom doors south of the bedroom
+Left openings north of the closed cabinet drawer east of an open bathroom door south of the bedroom.
+The left opening east of the open bathroom doors south of the bedroom north of the closed cabinet drawers
+The left opening north of the closed cabinet drawers east of the open bathroom doors south of the bedroom
+Left openings north of the closed cabinet drawers east of an open bathroom door south of a bedroom.
+A left opening east of the open bathroom doors south of the bedrooms north of the closed cabinet drawers
+A left opening north of the closed cabinet drawers east of the open bathroom doors south of the bedrooms
+A left opening east of an open bathroom door south of a bedroom north of the closed cabinet drawers
+A left opening north of the closed cabinet drawers east of an open bathroom door south of a bedroom
+Left openings east of an open bathroom door south of the bedroom north of the cabinets closed drawers.
+Left openings east of open bathroom doors south of the bedroom north of a closed cabinet drawer.
+The left opening east of the open bathroom doors south of the bedrooms north of the closed cabinet drawers
+The left opening north of the closed cabinet drawers east of the open bathroom doors south of the bedrooms
+A left opening north of the closed cabinet drawers east of an open bathroom door south of the bedrooms.
+The left openings east of the open bathroom door south of the bedroom north of the closed cabinet drawers.
+Left openings east of the open bathroom door south of a bedroom north of the cabinets closed drawer.
+The left opening east of an open bathroom door south of a bedroom north of the closed cabinet drawers
+The left opening north of the closed cabinet drawers east of an open bathroom door south of a bedroom
+The left opening north of the closed cabinet drawers east of an open bathroom door south of the bedrooms.
+Left openings east of an open bathroom door south of the bedrooms north of the cabinets closed drawers.
+Left openings east of open bathroom doors south of the bedrooms north of a closed cabinet drawer.
+Left openings north of a closed cabinet drawer east of an open bathroom door south of bedrooms.
+The left openings east of the open bathroom door south of the bedrooms north of the closed cabinet drawers.
+Left openings north of a closed cabinet drawer east of the open bathroom doors south of a bedroom.
+A left opening east of the open bathroom doors south of a bedroom north of a closed cabinet drawer
+A left opening north of a closed cabinet drawer east of the open bathroom doors south of a bedroom
+Left openings east of the open bathroom door south of bedrooms north of the closed cabinet drawer.
+A left opening north of a closed cabinet drawer east of the open bathroom doors south of the bedrooms.
+The left opening east of the open bathroom doors south of a bedroom north of a closed cabinet drawer
+The left opening north of a closed cabinet drawer east of the open bathroom doors south of a bedroom
+The left openings east of the open bathroom door south of a bedroom north of the closed cabinet drawer
+The left openings north of the closed cabinet drawer east of the open bathroom door south of a bedroom
+A left opening north of a closed cabinet drawer east of the open bathroom door south of a bedroom.
+The left opening north of a closed cabinet drawer east of the open bathroom doors south of the bedrooms.
+The left openings north of the closed cabinet drawer east of the open bathroom door south of the bedrooms.
+The left opening north of a closed cabinet drawer east of the open bathroom door south of a bedroom.
+Left openings east of an open bathroom door south of the bedroom north of the cabinets closed drawers
+Left openings north of the cabinets closed drawers east of an open bathroom door south of the bedroom
+Left openings east of an open bathroom door south of the bedrooms north of the cabinets closed drawers
+Left openings north of the cabinets closed drawers east of an open bathroom door south of the bedrooms
+A left opening east of the open bathroom doors south of the bedroom north of a closed cabinet drawer.
+The left opening east of the open bathroom doors south of the bedroom north of a closed cabinet drawer.
+The left openings east of the open bathroom door south of the bedroom north of the closed cabinet drawer.
+A left opening east of the open bathroom doors south of the bedrooms north of a closed cabinet drawer.
+A left opening east of an open bathroom door south of a bedroom north of a closed cabinet drawer.
+The left opening east of the open bathroom doors south of the bedrooms north of a closed cabinet drawer.
+The left openings east of the open bathroom door south of the bedrooms north of the closed cabinet drawer.
+The left opening east of an open bathroom door south of a bedroom north of a closed cabinet drawer.
+Left openings east of an open bathroom door south of bedrooms north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of an open bathroom door south of bedrooms
+Left openings north of the closed cabinet drawers east of an open bathroom door south of the bedroom.
+Left openings east of the open bathroom doors south of the bedroom north of the cabinets closed drawer
+Left openings north of the cabinets closed drawer east of the open bathroom doors south of the bedroom
+Left openings east of an open bathroom door south of the bedroom north of the cabinets closed drawer.
+Left openings east of the open bathroom doors south of the bedrooms north of the cabinets closed drawer
+Left openings north of the cabinets closed drawer east of the open bathroom doors south of the bedrooms
+Left openings north of a closed cabinet drawer east of the open bathroom doors south of the bedroom.
+Left openings east of an open bathroom door south of the bedrooms north of the cabinets closed drawer.
+Left openings east of an open bathroom door south of a bedroom north of the cabinets closed drawer
+Left openings north of the cabinets closed drawer east of an open bathroom door south of a bedroom
+A left opening east of the open bathroom door south of the bedroom north of the cabinets closed drawer
+A left opening north of the cabinets closed drawer east of the open bathroom door south of the bedroom
+Left openings north of the cabinets closed drawer east of an open bathroom door south of the bedrooms.
+The left opening east of the open bathroom door south of the bedroom north of the cabinets closed drawer
+The left opening north of the cabinets closed drawer east of the open bathroom door south of the bedroom
+A left opening east of the open bathroom door south of the bedrooms north of the cabinets closed drawer
+A left opening north of the cabinets closed drawer east of the open bathroom door south of the bedrooms
+A left opening north of a closed cabinet drawer east of the open bathroom door south of the bedroom.
+The left openings east of an open bathroom door south of the bedroom north of the closed cabinet drawer
+The left openings north of the closed cabinet drawer east of an open bathroom door south of the bedroom
+The left openings east of the open bathroom door south of a bedroom north of the closed cabinet drawers
+The left openings north of the closed cabinet drawers east of the open bathroom door south of a bedroom
+The left opening east of the open bathroom door south of the bedrooms north of the cabinets closed drawer
+The left opening north of the cabinets closed drawer east of the open bathroom door south of the bedrooms
+The left opening north of a closed cabinet drawer east of the open bathroom door south of the bedroom.
+The left openings north of the closed cabinet drawers east of the open bathroom door south of the bedrooms.
+The left openings east of an open bathroom door south of the bedrooms north of the closed cabinet drawer
+The left openings north of the closed cabinet drawer east of an open bathroom door south of the bedrooms
+Left openings east of the open bathroom doors south of the bedroom north of closed cabinet drawers.
+Left openings east of the bathrooms open door south of the bedroom north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of the bathrooms open door south of the bedroom
+Left openings east of the open bathroom doors south of the bedrooms north of closed cabinet drawers.
+Left openings east of an open bathroom door south of a bedroom north of closed cabinet drawers.
+Left openings east of the bathrooms open door south of the bedrooms north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of the bathrooms open door south of the bedrooms
+A left opening east of the open bathroom door south of the bedroom north of closed cabinet drawers.
+Left openings east of the bathrooms open doors south of the bedroom north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of the bathrooms open doors south of the bedroom
+The left opening east of the open bathroom door south of the bedroom north of closed cabinet drawers.
+A left opening east of the open bathroom door south of the bedrooms north of closed cabinet drawers.
+Left openings east of the bathrooms open doors south of the bedrooms north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of the bathrooms open doors south of the bedrooms
+The left opening east of the open bathroom door south of the bedrooms north of closed cabinet drawers.
+Left openings east of an open bathroom door south of bedrooms north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of an open bathroom door south of bedrooms
+The left openings east of the open bathroom door south of a bedroom north of a closed cabinet drawer.
+Left openings east of open bathroom doors south of the bedroom north of the closed cabinet drawers.
+Left openings east of the open bathroom doors south of bedrooms north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of the open bathroom doors south of bedrooms
+Left openings east of open bathroom doors south of the bedrooms north of the closed cabinet drawers.
+Left openings east of the open bathroom door south of a bedroom north of a cabinets closed drawer.
+A left opening east of the open bathroom door south of bedrooms north of a closed cabinet drawer
+A left opening north of a closed cabinet drawer east of the open bathroom door south of bedrooms
+The left opening east of the open bathroom door south of bedrooms north of a closed cabinet drawer
+The left opening north of a closed cabinet drawer east of the open bathroom door south of bedrooms
+Left openings east of open bathroom doors south of a bedroom north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of open bathroom doors south of a bedroom
+Left openings north of the closed cabinet drawer east of open bathroom doors south of the bedrooms.
+The left openings east of an open bathroom door south of the bedroom north of the closed cabinet drawers
+The left openings north of the closed cabinet drawers east of an open bathroom door south of the bedroom
+Left openings east of a bathrooms open door south of the bedroom north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of a bathrooms open door south of the bedroom
+The left openings east of an open bathroom door south of the bedrooms north of the closed cabinet drawers
+The left openings north of the closed cabinet drawers east of an open bathroom door south of the bedrooms
+Left openings east of a bathrooms open door south of the bedrooms north of a closed cabinet drawer
+Left openings north of a closed cabinet drawer east of a bathrooms open door south of the bedrooms
+The left openings east of the open bathroom doors south of the bedroom north of a closed cabinet drawer
+The left openings north of a closed cabinet drawer east of the open bathroom doors south of the bedroom
+Left openings east of an open bathroom door south of bedrooms north of a closed cabinet drawer.
+The left openings east of the open bathroom doors south of the bedrooms north of a closed cabinet drawer
+The left openings north of a closed cabinet drawer east of the open bathroom doors south of the bedrooms
+A left opening east of the open bathroom doors south of the bedroom north of the closed cabinet drawers.
+The left openings east of an open bathroom door south of a bedroom north of a closed cabinet drawer
+The left openings north of a closed cabinet drawer east of an open bathroom door south of a bedroom
+Left openings east of open bathroom doors south of the bedroom north of the closed cabinet drawer.
+The left opening east of the open bathroom doors south of the bedroom north of the closed cabinet drawers.
+The left openings north of a closed cabinet drawer east of an open bathroom door south of the bedrooms.
+A left opening east of the open bathroom doors south of the bedrooms north of the closed cabinet drawers.
+A left opening east of an open bathroom door south of a bedroom north of the closed cabinet drawers.
+Left openings east of open bathroom doors south of the bedrooms north of the closed cabinet drawer.
+The left opening east of the open bathroom doors south of the bedrooms north of the closed cabinet drawers.
+Left openings north of the closed cabinet drawer east of an open bathroom door south of bedrooms.
+Left openings north of the closed cabinet drawer east of the open bathroom doors south of a bedroom.
+The left opening east of an open bathroom door south of a bedroom north of the closed cabinet drawers.
+A left opening east of the open bathroom doors south of a bedroom north of the closed cabinet drawer
+A left opening north of the closed cabinet drawer east of the open bathroom doors south of a bedroom
+A left opening north of the closed cabinet drawer east of the open bathroom doors south of the bedrooms.
+The left opening east of the open bathroom doors south of a bedroom north of the closed cabinet drawer
+The left opening north of the closed cabinet drawer east of the open bathroom doors south of a bedroom
+A left opening north of the closed cabinet drawer east of the open bathroom door south of a bedroom.
+The left opening north of the closed cabinet drawer east of the open bathroom doors south of the bedrooms.
+The left opening north of the closed cabinet drawer east of the open bathroom door south of a bedroom.
+The left openings east of an open bathroom door south of the bedroom north of a closed cabinet drawer.
+The left openings east of an open bathroom door south of the bedrooms north of a closed cabinet drawer.
+Left openings east of the open bathroom doors south of a bedroom north of closed cabinet drawers
+Left openings north of closed cabinet drawers east of the open bathroom doors south of a bedroom
+Left openings north of closed cabinet drawers east of the open bathroom doors south of the bedrooms.
+Left openings east of the open bathroom doors south of the bedroom north of a cabinets closed drawer
+Left openings north of a cabinets closed drawer east of the open bathroom doors south of the bedroom
+Left openings east of an open bathroom door south of the bedroom north of a cabinets closed drawer.
+Left openings north of closed cabinet drawers east of the open bathroom door south of a bedroom.
+A left opening east of the open bathroom doors south of the bedroom north of the closed cabinet drawer.
+A left opening east of the open bathroom door south of a bedroom north of closed cabinet drawers
+A left opening north of closed cabinet drawers east of the open bathroom door south of a bedroom
+Left openings east of the open bathroom doors south of the bedrooms north of a cabinets closed drawer
+Left openings north of a cabinets closed drawer east of the open bathroom doors south of the bedrooms
+The left opening east of the open bathroom doors south of the bedroom north of the closed cabinet drawer.
+Left openings east of an open bathroom door south of the bedrooms north of a cabinets closed drawer.
+A left opening north of closed cabinet drawers east of the open bathroom door south of the bedrooms.
+Left openings east of open bathroom doors south of a bedroom north of the closed cabinet drawers
+Left openings north of the closed cabinet drawers east of open bathroom doors south of a bedroom
+Left openings east of an open bathroom door south of a bedroom north of a cabinets closed drawer
+Left openings north of a cabinets closed drawer east of an open bathroom door south of a bedroom
+The left opening east of the open bathroom door south of a bedroom north of closed cabinet drawers
+The left opening north of closed cabinet drawers east of the open bathroom door south of a bedroom
+A left opening east of the open bathroom door south of the bedroom north of a cabinets closed drawer
+A left opening north of a cabinets closed drawer east of the open bathroom door south of the bedroom
+A left opening east of the open bathroom doors south of the bedrooms north of the closed cabinet drawer.
+Left openings north of the closed cabinet drawers east of open bathroom doors south of the bedrooms.
+Left openings north of a cabinets closed drawer east of an open bathroom door south of the bedrooms.
+The left opening north of closed cabinet drawers east of the open bathroom door south of the bedrooms.
+A left opening east of an open bathroom door south of a bedroom north of the closed cabinet drawer.
+The left opening east of the open bathroom door south of the bedroom north of a cabinets closed drawer
+The left opening north of a cabinets closed drawer east of the open bathroom door south of the bedroom
+The left opening east of the open bathroom doors south of the bedrooms north of the closed cabinet drawer.
+A left opening east of the open bathroom door south of the bedrooms north of a cabinets closed drawer
+A left opening north of a cabinets closed drawer east of the open bathroom door south of the bedrooms
+The left opening east of an open bathroom door south of a bedroom north of the closed cabinet drawer.
+The left opening east of the open bathroom door south of the bedrooms north of a cabinets closed drawer
+The left opening north of a cabinets closed drawer east of the open bathroom door south of the bedrooms
+Left openings north of the closed cabinet drawer east of the open bathroom doors south of the bedroom.
+Left openings north of the closed cabinet drawers east of an open bathroom door south of bedrooms.
+Left openings north of the closed cabinet drawers east of the open bathroom doors south of a bedroom.
+A left opening east of the open bathroom doors south of a bedroom north of the closed cabinet drawers
+A left opening north of the closed cabinet drawers east of the open bathroom doors south of a bedroom
+Left openings east of the open bathroom doors south of the bedroom north of the cabinets closed drawers.
+A left opening north of the closed cabinet drawers east of the open bathroom doors south of the bedrooms.
+A left opening north of the closed cabinet drawer east of the open bathroom door south of the bedroom.
+The left opening east of the open bathroom doors south of a bedroom north of the closed cabinet drawers
+The left opening north of the closed cabinet drawers east of the open bathroom doors south of a bedroom
+A left opening north of the closed cabinet drawers east of the open bathroom door south of a bedroom.
+The left opening north of the closed cabinet drawers east of the open bathroom doors south of the bedrooms.
+The left opening north of the closed cabinet drawer east of the open bathroom door south of the bedroom.
+Left openings east of the open bathroom doors south of the bedrooms north of the cabinets closed drawers.
+Left openings north of a closed cabinet drawer east of the open bathroom doors south of bedrooms.
+The left opening north of the closed cabinet drawers east of the open bathroom door south of a bedroom.
+Left openings east of an open bathroom door south of a bedroom north of the cabinets closed drawers.
+Left openings east of open bathroom doors south of a bedroom north of a closed cabinet drawer.
+A left opening east of the open bathroom door south of the bedroom north of the cabinets closed drawers.
+The left openings east of the open bathroom door south of a bedroom north of the closed cabinet drawers.
+The left opening east of the open bathroom door south of the bedroom north of the cabinets closed drawers.
+A left opening east of the open bathroom door south of the bedrooms north of the cabinets closed drawers.
+A left opening north of a closed cabinet drawer east of the open bathroom door south of bedrooms.
+The left opening east of the open bathroom door south of the bedrooms north of the cabinets closed drawers.
+The left opening north of a closed cabinet drawer east of the open bathroom door south of bedrooms.
+Left openings east of the open bathroom doors south of the bedroom north of the cabinets closed drawers
+Left openings north of the cabinets closed drawers east of the open bathroom doors south of the bedroom
+Left openings east of the open bathroom doors south of the bedrooms north of the cabinets closed drawers
+Left openings north of the cabinets closed drawers east of the open bathroom doors south of the bedrooms
+Left openings east of the bathrooms open door south of the bedroom north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of the bathrooms open door south of the bedroom
+Left openings east of an open bathroom door south of a bedroom north of the cabinets closed drawers
+Left openings north of the cabinets closed drawers east of an open bathroom door south of a bedroom
+A left opening east of the open bathroom door south of the bedroom north of the cabinets closed drawers
+A left opening north of the cabinets closed drawers east of the open bathroom door south of the bedroom
+Left openings north of the cabinets closed drawers east of an open bathroom door south of the bedrooms.
+Left openings north of closed cabinet drawers east of the open bathroom door south of the bedroom.
+Left openings east of the bathrooms open door south of the bedrooms north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of the bathrooms open door south of the bedrooms
+The left opening east of the open bathroom door south of the bedroom north of the cabinets closed drawers
+The left opening north of the cabinets closed drawers east of the open bathroom door south of the bedroom
+Left openings east of the bathrooms open doors south of the bedroom north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of the bathrooms open doors south of the bedroom
+Left openings, north of a closed cabinet drawer east of the open bathroom door south of the bedroom
+Left openings, east of the open bathroom door south of the bedroom north of a closed cabinet drawer
+A left opening east of the open bathroom door south of the bedrooms north of the cabinets closed drawers
+A left opening north of the cabinets closed drawers east of the open bathroom door south of the bedrooms
+A left opening east of an open bathroom door south of the bedroom north of closed cabinet drawers
+A left opening north of closed cabinet drawers east of an open bathroom door south of the bedroom
+The left opening east of the open bathroom door south of the bedrooms north of the cabinets closed drawers
+The left opening north of the cabinets closed drawers east of the open bathroom door south of the bedrooms
+Left openings east of the bathrooms open doors south of the bedrooms north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of the bathrooms open doors south of the bedrooms
+The left opening east of an open bathroom door south of the bedroom north of closed cabinet drawers
+The left opening north of closed cabinet drawers east of an open bathroom door south of the bedroom
+Left openings, east of the open bathroom door south of the bedrooms north of a closed cabinet drawer
+Left openings, north of a closed cabinet drawer east of the open bathroom door south of the bedrooms
+A left opening east of an open bathroom door south of the bedrooms north of closed cabinet drawers
+A left opening north of closed cabinet drawers east of an open bathroom door south of the bedrooms
+The left opening east of an open bathroom door south of the bedrooms north of closed cabinet drawers
+The left opening north of closed cabinet drawers east of an open bathroom door south of the bedrooms
+A left opening east of the open bathroom doors south of a bedroom north of a closed cabinet drawer.
+Left openings east of an open bathroom door south of bedrooms north of the closed cabinet drawers.
+A left opening east of open bathroom doors south of the bedroom north of a closed cabinet drawer
+A left opening north of a closed cabinet drawer east of open bathroom doors south of the bedroom
+The left opening east of the open bathroom doors south of a bedroom north of a closed cabinet drawer.
+The left openings east of the open bathroom door south of a bedroom north of the closed cabinet drawer.
+The left opening east of open bathroom doors south of the bedroom north of a closed cabinet drawer
+The left opening north of a closed cabinet drawer east of open bathroom doors south of the bedroom
+Left openings east of the open bathroom doors south of bedrooms north of the closed cabinet drawer
+Left openings north of the closed cabinet drawer east of the open bathroom doors south of bedrooms
+A left opening east of open bathroom doors south of the bedrooms north of a closed cabinet drawer
+A left opening north of a closed cabinet drawer east of open bathroom doors south of the bedrooms
+The left opening east of open bathroom doors south of the bedrooms north of a closed cabinet drawer
+The left opening north of a closed cabinet drawer east of open bathroom doors south of the bedrooms
+A left opening east of the open bathroom door south of bedrooms north of the closed cabinet drawer
+A left opening north of the closed cabinet drawer east of the open bathroom door south of bedrooms
+The left opening east of the open bathroom door south of bedrooms north of the closed cabinet drawer
+The left opening north of the closed cabinet drawer east of the open bathroom door south of bedrooms
+Left openings north of the closed cabinet drawers east of the open bathroom doors south of the bedroom.
+
+TOTAL RESULTS: 600
+
+Node                        MRS Produced    Reason                 Included in MRS    Reason
+--------------------------  --------------  ---------------------  -----------------  ---------------
+closed_6                    True            MRS fragment produced  True               Included in MRS
+idBedroomToBathroomDoor_2   True            MRS fragment produced  True               Included in MRS
+idBedroom_4                 True            MRS fragment produced  True               Included in MRS
+idKitchCabDrawer_5          True            MRS fragment produced  True               Included in MRS
+idLivingroom1LeftOpening_1  True            MRS fragment produced  True               Included in MRS
+open_3                      True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idOpenState_1  True            MRS composed  True               Included in MRS
+idOpenState_4  True            MRS composed  True               Included in MRS
+isEastOf_3     True            MRS composed  True               Included in MRS
+isNorthOf_5    True            MRS composed  True               Included in MRS
+isSouthOf_2    True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        6           1
+Nodes              Included             6        6           1
+Edges              Produced             5        5           1
+Edges              Included             5        5           1

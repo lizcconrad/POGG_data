@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idBanner2_subgraph.dot
+[ TOP: h2148
+  INDEX: e2145
+  RELS: < [ unknown LBL: h2147 ARG: x2136 ARG0: e2145 ]
+          [ def_udef_a_q LBL: h2144 ARG0: x2136 RSTR: h2142 BODY: h2143 ]
+          [ _red_a_1 LBL: h2137 ARG0: i2138 ARG1: x2136 ]
+          [ _banner_n_1 LBL: h2137 ARG0: x2136 ] >
+  HCONS: < h2142 qeq h2137 h2148 qeq h2147 > ]
+GENERATED RESULTS ... 
+The red banners
+Red banners
+The red banner
+A red banner
+The red banners.
+Red banners.
+The red banner.
+Red banner
+A red banner.
+Red banner.
+
+TOTAL RESULTS: 10
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  ---------------
+idBanner_1  True            MRS fragment produced  True               Included in MRS
+red_2       True            MRS fragment produced  True               Included in MRS
+
+Edge       MRS Composed    Reason        Included in MRS    Reason
+---------  --------------  ------------  -----------------  ---------------
+idColor_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

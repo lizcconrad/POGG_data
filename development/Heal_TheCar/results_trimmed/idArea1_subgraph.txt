@@ -1,0 +1,77 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idArea1_subgraph.dot
+[ TOP: h265
+  INDEX: e262
+  RELS: < [ unknown LBL: h264 ARG: x252 ARG0: e262 ]
+          [ def_udef_a_q LBL: h261 ARG0: x252 RSTR: h259 BODY: h260 ]
+          [ _log_v_1 LBL: h257 ARG0: e254 ARG1: i255 ARG2: x252 ]
+          [ _area_n_of LBL: h257 ARG0: x252 ] >
+  HCONS: < h259 qeq h257 h265 qeq h264 > ]
+GENERATED RESULTS ... 
+The logged areas
+The logged areas.
+The areas to log.
+The logged area
+Logged areas
+The logged area.
+The areas to log
+A logged area
+Logged areas.
+A logged area.
+Logged area
+The areas logged.
+Areas logged.
+The areas logged
+Logged area.
+An area to log.
+The area to log.
+Logged area.
+Area logged.
+Areas logged
+Areas, to log.
+An area to log
+The area to log
+The areas, to log.
+Logged area
+Area, to log.
+Areas to log.
+An area, to log.
+An area logged.
+The area logged.
+Areas, logged.
+Area logged
+The area, to log.
+Area to log.
+An area logged
+The area logged
+Areas to log
+Area, logged.
+Area, to log.
+Area to log
+Area to log.
+The areas, logged.
+An area, logged.
+Area to log
+The area, logged.
+Area, logged.
+Area logged.
+Area logged
+
+TOTAL RESULTS: 48
+
+Node      MRS Produced    Reason                                Included in MRS    Reason
+--------  --------------  ------------------------------------  -----------------  ------------------------------------
+idArea_1  True            MRS fragment produced                 True               Included in MRS
+logged_2  True            MRS fragment produced                 True               Included in MRS
+stumpy_3  False           'stumpy' has no value in the lexicon  False              'stumpy' has no value in the lexicon
+
+Edge             MRS Composed    Reason                  Included in MRS    Reason
+---------------  --------------  ----------------------  -----------------  ----------------------
+idDescriptor_1   True            MRS composed            True               Included in MRS
+idDescriptor__2  False           Inbound to failed node  False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        3    0.666667
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

@@ -1,0 +1,33 @@
+KIDNEYKWEST
+- "bagofchips" ... didn't account for nouns that take a complement... not hard to do but didn't think of it... this does show the issue with rule-based etc in accounting for different types of things, data was not diverse enough ... im gonna go with "chip bag" even though that's like fake ... another issue with my results is the decisions i make that are catered to what i know the algorithm is capable of doing
+- "cattlewranglercostume" ... i could just call this costume or cowboy costume... but i'm just going to skip it, it can't be replicated as easily as bag of chips... like chip bag does feel semantically equivalent (well... it's literally not in the MRS lmfao but like... truth conditionally??? but it's not rly possible to do this with cattle wrangler)
+    - tho it is pretty interesting that it parses cattle as cow so i wonder what would happen if i generate...ok yeah it generates cow AND cattle which is pretty neat
+- "fairyworldlobby" just going with "lobby" ... idk
+- idGoggles... should be forced plural but i didn't do that yet
+- idPyloricSphincter ... can't do this
+- have a coding bug (unrelated to the semantics coverage) with boolean_adjective ... i only accounted for prefix possibilities on boolean_pass_part ... but "un interesting" needs it too ... not filling it out ... causes SEMI to break ... ? ... added try except to handle that error ... kinda cheating but it breaks the code otherwise
+- idButtonsPushed -> idThing ... skip (idDog1_subgraph)
+
+- idGastricFold ... could do compound but it has a material property so just call it a fold...dev consideration that the dev would know ... same with large and small intestine
+- idKelly, idVilli ... skip names
+- idBinderTakenTurns, idTurnsSinceFood
+-
+
+
+
+GRAPH NOTES
+- idBagOfChips1 ... material issue again... calling it descriptor, adjectives or "passive particples" should work but compounds (e.g. iron throne) won't
+
+- idBarrel1 ... interesting object, i can do "interesting' but there's a bug in the code that prevents [un, interesting] in the boolean adjective case ... so i left it blank, this surfaces another bug that causes the whole thing to fail if it can't produce Both the true and false ssement options so even though it should work it doesn't and skips it
+
+
+- idCaptainsChair1, idCoat1 ... won't generate with "_coat_n_of" ... no idea why
+
+- idCup1 ... giftbox fails it doens't look like an ERG predicate my regex didn't catch it
+- idLab1BackOpening, idLabel1, idLabelText ... wrong synopsis for label with ARG1
+
+- idMachine_prop_idPowercontrol ... same issue as always
+
+- idMachineNote ... wrong synopsis?
+
+- idThroatSphincter1 ... interesting bc intestine is related and in the graph but because i separated small from it it's just "intestine" which doesn't disambiguate

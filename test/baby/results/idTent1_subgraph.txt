@@ -1,0 +1,58 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idTent1_subgraph.dot
+[ TOP: h4680
+  INDEX: e4677
+  RELS: < [ unknown LBL: h4679 ARG: x4572 ARG0: e4677 ]
+          [ def_udef_a_q LBL: h4676 ARG0: x4572 RSTR: h4674 BODY: h4675 ]
+          [ loc_nonsp LBL: h4573 ARG0: i4669 ARG1: x4572 ARG2: x4656 ]
+          [ _un-_a_neg LBL: h4573 ARG0: i4585 ARG1: e4586 ]
+          [ _know_v_1 LBL: h4573 ARG0: e4586 ARG1: u4589 ARG2: x4572 ]
+          [ _un-_a_neg LBL: h4573 ARG0: i4578 ARG1: x4572 ]
+          [ _usual_a_for LBL: h4573 ARG0: i4574 ARG1: x4572 ARG2: i4576 ]
+          [ _tent_n_1 LBL: h4573 ARG0: x4572 ]
+          [ def_implicit_q LBL: h4668 ARG0: x4656 RSTR: h4666 BODY: h4667 ]
+          [ _east_a_1 LBL: h4658 ARG0: i4655 ARG1: x4656 ARG2: x4596 ]
+          [ def_udef_a_q LBL: h4662 ARG0: x4596 RSTR: h4660 BODY: h4661 ]
+          [ loc_nonsp LBL: h4597 ARG0: i4651 ARG1: x4596 ARG2: x4638 ]
+          [ _un-_a_neg LBL: h4597 ARG0: i4602 ARG1: e4605 ]
+          [ _know_v_1 LBL: h4597 ARG0: e4605 ARG1: u4606 ARG2: x4596 ]
+          [ _screen_n_1 LBL: h4597 ARG0: x4596 ]
+          [ def_implicit_q LBL: h4650 ARG0: x4638 RSTR: h4648 BODY: h4649 ]
+          [ _north_a_1 LBL: h4640 ARG0: i4637 ARG1: x4638 ARG2: x4641 ]
+          [ def_udef_a_q LBL: h4644 ARG0: x4641 RSTR: h4642 BODY: h4643 ]
+          [ poss LBL: h4614 ARG0: e4633 ARG1: x4641 ARG2: x4629 ]
+          [ compound LBL: h4614 ARG0: e4622 ARG1: x4641 ARG2: x4615 ]
+          [ udef_q LBL: h4621 ARG0: x4615 RSTR: h4619 BODY: h4620 ]
+          [ _right_n_of LBL: h4617 ARG0: x4615 ARG1: i4616 ]
+          [ _hand_n_1 LBL: h4614 ARG0: x4641 ]
+          [ def_udef_a_q LBL: h4632 ARG0: x4629 RSTR: h4630 BODY: h4631 ]
+          [ _player_n_of LBL: h4628 ARG0: x4629 ARG1: i4627 ]
+          [ place_n LBL: h4640 ARG0: x4638 ]
+          [ place_n LBL: h4658 ARG0: x4656 ] >
+  HCONS: < h4619 qeq h4617 h4630 qeq h4628 h4642 qeq h4614 h4648 qeq h4640 h4660 qeq h4597 h4666 qeq h4658 h4674 qeq h4573 h4680 qeq h4679 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node                 MRS Produced    Reason                 Included in MRS    Reason
+-------------------  --------------  ---------------------  -----------------  ---------------
+idPlayerRightHand_6  True            MRS fragment produced  True               Included in MRS
+idScreen_4           True            MRS fragment produced  True               Included in MRS
+idTent_1             True            MRS fragment produced  True               Included in MRS
+true_3               True            MRS fragment produced  True               Included in MRS
+true_5               True            MRS fragment produced  True               Included in MRS
+unusual_2            True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idShape_1          True            MRS composed  True               Included in MRS
+idUnknownObject_2  True            MRS composed  True               Included in MRS
+idUnknownObject_3  True            MRS composed  True               Included in MRS
+isEastOf_5         True            MRS composed  True               Included in MRS
+isNorthOf_4        True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             6        6           1
+Nodes              Included             6        6           1
+Edges              Produced             5        5           1
+Edges              Included             5        5           1

@@ -1,0 +1,28 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheLake/subgraphs/dot/complete/idMoss1_subgraph.dot
+[ TOP: h535
+  INDEX: e532
+  RELS: < [ unknown LBL: h534 ARG: x520 ARG0: e532 ]
+          [ def_udef_a_q LBL: h531 ARG0: x520 RSTR: h529 BODY: h530 ]
+          [ _un-_a_neg LBL: h521 ARG0: i525 ARG1: x520 ]
+          [ _countable_a_1 LBL: h521 ARG0: e522 ARG1: x520 ]
+          [ _moss_n_1 LBL: h521 ARG0: x520 ] >
+  HCONS: < h529 qeq h521 h535 qeq h534 > ]
+GENERATED RESULTS ... 
+
+TOTAL RESULTS: 0
+
+Node           MRS Produced    Reason                 Included in MRS    Reason
+-------------  --------------  ---------------------  -----------------  ---------------
+idMoss_1       True            MRS fragment produced  True               Included in MRS
+uncountable_2  True            MRS fragment produced  True               Included in MRS
+
+Edge             MRS Composed    Reason        Included in MRS    Reason
+---------------  --------------  ------------  -----------------  ---------------
+idArticleType_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

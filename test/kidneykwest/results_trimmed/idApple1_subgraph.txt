@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idApple1_subgraph.dot
+[ TOP: h338
+  INDEX: e335
+  RELS: < [ unknown LBL: h337 ARG: x331 ARG0: e335 ]
+          [ def_udef_a_q LBL: h334 ARG0: x331 RSTR: h332 BODY: h333 ]
+          [ _red_a_1 LBL: h323 ARG0: i324 ARG1: x331 ]
+          [ _apple_n_1 LBL: h323 ARG0: x331 ] >
+  HCONS: < h332 qeq h323 h338 qeq h337 > ]
+GENERATED RESULTS ... 
+The red apples
+Red apples
+The red apple
+A red apple
+The red apples.
+Red apples.
+The red apple.
+Red apple
+A red apple.
+Red apple.
+
+TOTAL RESULTS: 10
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  -------------------------
+idApple_1  True            MRS fragment produced  True               Included in MRS
+red_2      True            MRS fragment produced  True               Included in MRS
+true_3     True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idColor_1          True            MRS composed                               True               Included in MRS
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3    1
+Nodes              Included             2        3    0.666667
+Edges              Produced             1        2    0.5
+Edges              Included             1        2    0.5

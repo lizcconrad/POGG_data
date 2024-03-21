@@ -1,0 +1,39 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idCardKey1_subgraph.dot
+[ TOP: h801
+  INDEX: e798
+  RELS: < [ unknown LBL: h800 ARG: x778 ARG0: e798 ]
+          [ def_udef_a_q LBL: h797 ARG0: x778 RSTR: h795 BODY: h796 ]
+          [ compound LBL: h779 ARG0: e786 ARG1: x778 ARG2: x782 ]
+          [ udef_q LBL: h785 ARG0: x782 RSTR: h783 BODY: h784 ]
+          [ _key_n_1 LBL: h781 ARG0: x782 ]
+          [ _card_n_1 LBL: h779 ARG0: x778 ] >
+  HCONS: < h783 qeq h781 h795 qeq h779 h801 qeq h800 > ]
+GENERATED RESULTS ... 
+The key card
+The key cards
+A key card
+Key cards
+The key cards.
+Key cards.
+Key card
+The key card.
+A key card.
+Key card.
+
+TOTAL RESULTS: 10
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  -------------------------
+idCardKey_1  True            MRS fragment produced  True               Included in MRS
+true_2       True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idUnknownObject_1  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2         1
+Nodes              Included             1        2         0.5
+Edges              Produced             0        1         0
+Edges              Included             0        1         0

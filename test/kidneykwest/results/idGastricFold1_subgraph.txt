@@ -1,0 +1,68 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idGastricFold1_subgraph.dot
+[ TOP: h342
+  INDEX: e339
+  RELS: < [ unknown LBL: h341 ARG: x312 ARG0: e339 ]
+          [ def_udef_a_q LBL: h338 ARG0: x312 RSTR: h336 BODY: h337 ]
+          [ _immovable_a_1 LBL: h313 ARG0: e321 ARG1: x312 ]
+          [ _gastric_a_1 LBL: h313 ARG0: e314 ARG1: x312 ]
+          [ _fold_n_1 LBL: h313 ARG0: x312 ] >
+  HCONS: < h336 qeq h313 h342 qeq h341 > ]
+GENERATED RESULTS ... 
+An immovable gastric fold
+The gastric immovable fold
+The immovable gastric fold
+A gastric immovable fold
+Gastric immovable folds
+Immovable gastric folds
+The gastric immovable folds
+The immovable gastric folds
+Gastric immovable fold
+Immovable gastric fold
+The gastric immovable fold
+The immovable gastric fold
+Immovable gastric fold
+Gastric immovable fold
+Gastric immovable folds.
+Immovable gastric folds.
+The gastric immovable folds.
+The immovable gastric folds.
+Gastric immovable fold.
+Immovable gastric fold.
+The gastric immovable fold.
+The immovable gastric fold.
+Gastric immovable fold
+Immovable gastric fold
+The gastric immovable fold
+The immovable gastric fold
+Gastric immovable fold.
+Immovable gastric fold.
+The gastric immovable fold.
+The immovable gastric fold.
+An immovable gastric fold.
+The gastric immovable fold.
+The immovable gastric fold.
+A gastric immovable fold.
+Gastric immovable fold.
+Immovable gastric fold.
+
+TOTAL RESULTS: 36
+
+Node             MRS Produced    Reason                 Included in MRS    Reason
+---------------  --------------  ---------------------  -----------------  -------------------------
+gastric_2        True            MRS fragment produced  True               Included in MRS
+idGastricFold_1  True            MRS fragment produced  True               Included in MRS
+true_4           True            MRS fragment produced  False              Descends from failed edge
+yes_3            True            MRS fragment produced  True               Included in MRS
+
+Edge                   MRS Composed    Reason                      Included in MRS    Reason
+---------------------  --------------  --------------------------  -----------------  --------------------------
+idImmovable_2          True            MRS composed                True               Included in MRS
+idInterestingObject_3  False           Couldn't find  in the SEMI  False              Couldn't find  in the SEMI
+idMaterial_1           True            MRS composed                True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4    1
+Nodes              Included             3        4    0.75
+Edges              Produced             2        3    0.666667
+Edges              Included             2        3    0.666667

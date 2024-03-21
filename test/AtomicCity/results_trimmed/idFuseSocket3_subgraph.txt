@@ -1,0 +1,102 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idFuseSocket3_subgraph.dot
+[ TOP: h2983
+  INDEX: e2980
+  RELS: < [ unknown LBL: h2982 ARG: x2937 ARG0: e2980 ]
+          [ def_udef_a_q LBL: h2979 ARG0: x2937 RSTR: h2977 BODY: h2978 ]
+          [ loc_nonsp LBL: h2938 ARG0: i2972 ARG1: x2937 ARG2: x2966 ]
+          [ compound LBL: h2938 ARG0: e2945 ARG1: x2937 ARG2: x2939 ]
+          [ udef_q LBL: h2944 ARG0: x2939 RSTR: h2942 BODY: h2943 ]
+          [ _fuse_n_1 LBL: h2940 ARG0: x2939 ]
+          [ _socket_n_1 LBL: h2938 ARG0: x2937 ]
+          [ def_implicit_q LBL: h2971 ARG0: x2966 RSTR: h2969 BODY: h2970 ]
+          [ _south_a_1 LBL: h2967 ARG0: i2958 ARG1: x2966 ARG2: x2962 ]
+          [ def_udef_a_q LBL: h2965 ARG0: x2962 RSTR: h2963 BODY: h2964 ]
+          [ _rusty_a_1 LBL: h2953 ARG0: e2951 ARG1: x2962 ]
+          [ _fuse_n_1 LBL: h2953 ARG0: x2962 ]
+          [ place_n LBL: h2967 ARG0: x2966 ] >
+  HCONS: < h2942 qeq h2940 h2963 qeq h2953 h2969 qeq h2967 h2977 qeq h2938 h2983 qeq h2982 > ]
+GENERATED RESULTS ... 
+Fuse sockets south of a rusty fuse
+A fuse socket south of a rusty fuse
+The fuse socket south of a rusty fuse
+The fuse sockets south of a rusty fuse
+Fuse sockets south of the rusty fuse
+A fuse socket south of the rusty fuse
+The fuse socket south of the rusty fuse
+Fuse sockets south of the rusty fuses
+A fuse socket south of the rusty fuses
+The fuse socket south of the rusty fuses
+The fuse sockets south of the rusty fuse
+The fuse sockets south of the rusty fuses
+Fuse sockets south of the rusty fuses.
+A fuse socket south of the rusty fuses.
+The fuse socket south of the rusty fuses.
+Fuse socket south of a rusty fuse
+The fuse sockets south of the rusty fuses.
+Fuse sockets south of rusty fuses
+A fuse socket south of rusty fuses
+The fuse socket south of rusty fuses
+Fuse sockets south of a rusty fuse.
+A fuse socket south of a rusty fuse.
+The fuse socket south of a rusty fuse.
+The fuse sockets south of rusty fuses
+Fuse socket south of the rusty fuse
+Fuse sockets south of rusty fuses.
+A fuse socket south of rusty fuses.
+The fuse sockets south of a rusty fuse.
+The fuse socket south of rusty fuses.
+Fuse socket south of the rusty fuses
+Fuse sockets south of the rusty fuse.
+The fuse sockets south of rusty fuses.
+A fuse socket south of the rusty fuse.
+The fuse socket south of the rusty fuse.
+The fuse sockets south of the rusty fuse.
+Fuse socket south of the rusty fuses.
+The fuse sockets, south of a rusty fuse
+Fuse sockets, south of a rusty fuse
+The fuse socket, south of a rusty fuse
+Fuse socket south of rusty fuses
+Fuse socket, south of a rusty fuse
+The fuse sockets, south of the rusty fuse
+Fuse sockets, south of the rusty fuse
+Fuse socket south of a rusty fuse.
+The fuse socket, south of the rusty fuse
+A fuse socket, south of a rusty fuse
+The fuse sockets, south of the rusty fuses
+Fuse sockets, south of the rusty fuses
+The fuse socket, south of the rusty fuses
+Fuse socket south of rusty fuses.
+Fuse socket, south of the rusty fuse
+Fuse socket south of the rusty fuse.
+Fuse socket, south of the rusty fuses
+A fuse socket, south of the rusty fuse
+A fuse socket, south of the rusty fuses
+The fuse sockets, south of rusty fuses
+Fuse sockets, south of rusty fuses
+The fuse socket, south of rusty fuses
+Fuse socket, south of rusty fuses
+A fuse socket, south of rusty fuses
+
+TOTAL RESULTS: 60
+
+Node            MRS Produced    Reason                           Included in MRS    Reason
+--------------  --------------  -------------------------------  -----------------  -------------------------------
+3_2             False           '3' has no value in the lexicon  False              '3' has no value in the lexicon
+idFuse30A_3     True            MRS fragment produced            True               Included in MRS
+idFuseSocket_1  True            MRS fragment produced            True               Included in MRS
+rusty_4         True            MRS fragment produced            True               Included in MRS
+true_5          True            MRS fragment produced            False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idOrdinality_1     False           Inbound to failed node                     False              Inbound to failed node
+idTexture_2        True            MRS composed                               True               Included in MRS
+idUnknownObject_3  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isSouthOf_4        True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        5         0.8
+Nodes              Included             3        5         0.6
+Edges              Produced             2        4         0.5
+Edges              Included             2        4         0.5

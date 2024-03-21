@@ -1,0 +1,114 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idKnightCostume1_subgraph.dot
+[ TOP: h4116
+  INDEX: e4113
+  RELS: < [ unknown LBL: h4115 ARG: x4109 ARG0: e4113 ]
+          [ def_udef_a_q LBL: h4112 ARG0: x4109 RSTR: h4110 BODY: h4111 ]
+          [ _un-_a_neg LBL: h4100 ARG0: i4098 ARG1: e4099 ]
+          [ _know_v_1 LBL: h4100 ARG0: e4099 ARG1: u4102 ARG2: x4109 ]
+          [ _gold_a_1 LBL: h4100 ARG0: i4091 ARG1: x4109 ]
+          [ compound LBL: h4100 ARG0: e4087 ARG1: x4109 ARG2: x4083 ]
+          [ udef_q LBL: h4086 ARG0: x4083 RSTR: h4084 BODY: h4085 ]
+          [ _knight_n_1 LBL: h4082 ARG0: x4083 ]
+          [ _costume_n_1 LBL: h4100 ARG0: x4109 ] >
+  HCONS: < h4084 qeq h4082 h4110 qeq h4100 h4116 qeq h4115 > ]
+GENERATED RESULTS ... 
+Gold unknown knight costumes
+The gold unknown knight costumes
+The gold unknown knight costume
+The gold unknown knight costumes.
+An unknown knight gold costume
+The knight gold unknown costumes
+Gold unknown knight costumes.
+A gold unknown knight costume
+The unknown knight gold costume
+The unknown gold knight costumes
+Knight gold unknown costumes
+Unknown gold knight costumes
+An unknown gold knight costume
+The knight gold unknown costume
+The unknown knight gold costumes.
+The unknown gold knight costume
+The unknown gold knight costumes.
+Unknown knight gold costumes.
+A knight gold unknown costume
+The gold unknown knight costume.
+Knights gold unknown costume
+A gold unknown knight costume.
+Unknown gold knight costumes.
+Knight gold unknown costume
+The unknown knight gold costumes
+The knights gold unknown costumes
+Knights unknown gold costume
+The gold knights unknown costumes
+Unknown knight gold costumes
+An unknown knight gold costume.
+An unknown gold knight costume.
+Gold unknown knight costume
+The unknown knight gold costume.
+The unknown gold knight costume.
+Gold knights unknown costumes
+A knights gold unknown costume
+The knight gold unknown costumes.
+The knights gold unknown costume
+Knights gold unknown costumes
+The gold knights unknown costume
+Knight gold unknown costumes.
+An unknown knights gold costume
+The unknown knights gold costume
+A gold knights unknown costume
+The gold knights unknown costumes.
+A knights unknown gold costume
+Unknown knight gold costume
+The unknown knights gold costumes.
+The knights unknown gold costume
+Gold knights unknown costumes.
+Unknown gold knight costume
+The knight gold unknown costume.
+Gold unknown knight costume.
+Unknown knights gold costumes.
+The knights unknown gold costumes
+A knight gold unknown costume.
+Knights gold unknown costume.
+The knights gold unknown costumes.
+The unknown knights gold costumes
+Knights unknown gold costume.
+An unknown knights gold costume.
+The knights unknown gold costumes.
+The gold knights unknown costume.
+The unknown knights gold costume.
+Knight gold unknown costume.
+Knights unknown gold costumes
+A gold knights unknown costume.
+Unknown knights gold costumes
+Knights gold unknown costumes.
+Unknown knight gold costume.
+Knights unknown gold costumes.
+Gold knights unknown costume
+Unknown gold knight costume.
+A knights gold unknown costume.
+The knights gold unknown costume.
+A knights unknown gold costume.
+The knights unknown gold costume.
+Unknown knights gold costume
+Gold knights unknown costume.
+Unknown knights gold costume.
+
+TOTAL RESULTS: 80
+
+Node               MRS Produced    Reason                 Included in MRS    Reason
+-----------------  --------------  ---------------------  -----------------  ---------------
+gold_2             True            MRS fragment produced  True               Included in MRS
+idKnightCostume_1  True            MRS fragment produced  True               Included in MRS
+true_3             True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idColor_1          True            MRS composed  True               Included in MRS
+idUnknownObject_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

@@ -1,0 +1,283 @@
+{
+    "entityTypes": {
+        "idBoulder": "_boulder_n_1",
+        "idCavern": "_cavern_n_1",
+        "idCavern1FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idCavern1LeftOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idCavern1RightOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_right_n_of"
+            }
+        },
+        "idCavern2RightOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_right_n_of"
+            }
+        },
+        "idCavern3LeftOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idCavern4BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idCavern4FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idCavern5BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idCavern5LeftOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idCavern6FrontOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_front_n_1"
+            }
+        },
+        "idCavern6Outside": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_outside_n_of",
+                "modifier": "_cavern_n_1"
+            }
+        },
+        "idCavern6OutsideBottomOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_bottom_n_1"
+            }
+        },
+        "idCavern6TopOpening": {
+            "composition": "adjective",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_top_a_1"
+            }
+        },
+        "idCavern7BackOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_back_n_1"
+            }
+        },
+        "idCavern7LeftOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_left_n_of"
+            }
+        },
+        "idCavern7RightOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_right_n_of"
+            }
+        },
+        "idCavern8RightOpening": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_opening_n_1",
+                "modifier": "_right_n_of"
+            }
+        },
+        "idClearing": "_clearing_n_1",
+        "idDeerSkeleton": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_skeleton_n_1",
+                "modifier": "_deer_n_1"
+            }
+        },
+        "idGem": "_gem_n_1",
+        "idGlowingFlower": "_flower_n_1",
+        "idGrass": "_grass_n_1",
+        "idLiquid": "_liquid_n_1",
+        "idMushroom": "_mushroom_n_1",
+        "idPlayer": "_player_n_of",
+        "idPlayerBackside": {
+            "composition": "possessive",
+            "predicates": {
+                "head": "_backside_n_1",
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerLeftHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_left_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idPlayerRightHand": {
+            "composition": "possessive",
+            "predicates": {
+                "head": {
+                    "composition": "compound",
+                    "predicates": {
+                        "head": "_hand_n_1",
+                        "modifier": "_right_n_of"
+                    }
+                },
+                "modifier": "_player_n_of"
+            }
+        },
+        "idSpider": "_spider_n_1",
+        "idSpiderWeb": {
+            "composition": "compound",
+            "predicates": {
+                "head": "_web_n_of",
+                "modifier": "_spider_n_1"
+            }
+        },
+        "idTheCave": "_cave_n_1"
+    },
+    "propertyValues": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": "",
+        "7": "",
+        "8": "",
+        "black": "_black_a_1",
+        "blue": "_blue_a_1",
+        "bright": "_bright_a_1",
+        "cold": "_cold_a_1",
+        "dark": "_dark_a_1",
+        "dead": "_dead_a_1",
+        "dim": "_dim_a_1",
+        "false": "_false_a_of",
+        "glowing": "_glow_v_1",
+        "grassy": "_grassy_a_1",
+        "green": "_green_a_2",
+        "idLocalLeft": "_left_n_of",
+        "large": "_large_a_1",
+        "old": "_old_a_1",
+        "ominous": "",
+        "open": "_open_a_to",
+        "original": "_original_a_1",
+        "outside": "_outside_a_1",
+        "red": "_red_a_1",
+        "right": "_right_n_of",
+        "rocky": "_rocky_a_1",
+        "short": "_short_a_of",
+        "small": "_small_a_1",
+        "smelly": "_smelly_a_1",
+        "strange": "_strange_a_to",
+        "uncountable": "",
+        "wet": "_wet_a_1",
+        "white": "_white_a_1",
+        "yes": "_true_a_of"
+    },
+    "properties": {
+        "idDescriptor": "descriptor",
+        "idDescriptor_": "descriptor",
+        "idOrdinality": "",
+        "idTint": "descriptor",
+        "idSize": "adjective",
+        "idOpenState": "adjective",
+        "idColor": "adjective",
+        "idHeight": "adjective",
+        "idArticleType": "descriptor",
+        "idImmovable": "",
+        "idWebTouched": "",
+        "idBoulderMoved": "",
+        "idLocation": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_on_p_loc"
+            }
+        },
+        "isEastOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_east_a_1"
+            }
+        },
+        "isInsideOf": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_inside+of_p"
+            }
+        },
+        "isNear": {
+            "composition": "preposition",
+            "property_predicate": {
+                "predicate_type": "preposition_ssement",
+                "predicate_label": "_near_p"
+            }
+        },
+        "isNorthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_north_a_1"
+            }
+        },
+        "isSouthOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_south_a_1"
+            }
+        },
+        "isWestOf": {
+            "composition": "relative_direction",
+            "property_predicate": {
+                "predicate_type": "adjective_ssement",
+                "predicate_label": "_west_a_1"
+            }
+        }
+    }
+}

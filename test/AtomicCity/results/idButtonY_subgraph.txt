@@ -1,0 +1,93 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idButtonY_subgraph.dot
+[ TOP: h347
+  INDEX: e344
+  RELS: < [ unknown LBL: h346 ARG: x326 ARG0: e344 ]
+          [ def_udef_a_q LBL: h343 ARG0: x326 RSTR: h341 BODY: h342 ]
+          [ _near_p LBL: h335 ARG0: e332 ARG1: x326 ARG2: x328 ]
+          [ def_udef_a_q LBL: h339 ARG0: x328 RSTR: h337 BODY: h338 ]
+          [ _elevator_n_1 LBL: h329 ARG0: x328 ]
+          [ _button_n_1 LBL: h335 ARG0: x326 ] >
+  HCONS: < h337 qeq h329 h341 qeq h335 h347 qeq h346 > ]
+GENERATED RESULTS ... 
+The buttons near the elevators
+The buttons near the elevator
+Buttons near the elevators
+The buttons near elevators
+The buttons near the elevators.
+A button near the elevators
+The button near the elevators
+A button near the elevator
+The button near the elevator
+Buttons near an elevator
+Buttons near the elevator
+Buttons near the elevators.
+The buttons near elevators.
+The buttons near an elevator
+The buttons near an elevator.
+A button near elevators
+The button near elevators
+A button near the elevators.
+The button near the elevators.
+The buttons near the elevator.
+Buttons near elevators
+Buttons near an elevator.
+Buttons near the elevator.
+Buttons, near the elevators
+A button near elevators.
+The buttons, near the elevators
+The button near elevators.
+A button near an elevator
+The button near an elevator
+The button, near the elevators
+A button near an elevator.
+The button near an elevator.
+A button near the elevator.
+The button near the elevator.
+Button, near the elevators
+Buttons near elevators.
+Buttons, near the elevator
+The buttons, near the elevator
+The button, near the elevator
+A button, near the elevators
+Button, near the elevator
+Buttons, near an elevator
+The buttons, near an elevator
+Button near the elevator
+Button near the elevators
+The button, near an elevator
+A button, near the elevator
+Button, near an elevator
+The buttons, near elevators
+The button, near elevators
+Buttons, near elevators
+Button near the elevators.
+A button, near an elevator
+Button, near elevators
+Button near an elevator
+A button, near elevators
+Button near elevators
+Button near elevators.
+Button near an elevator.
+Button near the elevator.
+
+TOTAL RESULTS: 60
+
+Node          MRS Produced    Reason                           Included in MRS    Reason
+------------  --------------  -------------------------------  -----------------  -------------------------------
+3_2           False           '3' has no value in the lexicon  False              '3' has no value in the lexicon
+idButtonY_1   True            MRS fragment produced            True               Included in MRS
+idButton_4    True            MRS fragment produced            False              Descends from failed edge
+idElevator_3  True            MRS fragment produced            True               Included in MRS
+
+Edge              MRS Composed    Reason                                    Included in MRS    Reason
+----------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+idCurrentLevel_2  False           'idCurrentLevel' has no value in lexicon  False              'idCurrentLevel' has no value in lexicon
+idOrdinality_1    False           Inbound to failed node                    False              Inbound to failed node
+isNear_3          True            MRS composed                              True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        4    0.75
+Nodes              Included             2        4    0.5
+Edges              Produced             1        3    0.333333
+Edges              Included             1        3    0.333333

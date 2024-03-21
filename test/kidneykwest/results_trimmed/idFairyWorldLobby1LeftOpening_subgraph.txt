@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idFairyWorldLobby1LeftOpening_subgraph.dot
+[ TOP: h3456
+  INDEX: e3453
+  RELS: < [ unknown LBL: h3455 ARG: x3449 ARG0: e3453 ]
+          [ def_udef_a_q LBL: h3452 ARG0: x3449 RSTR: h3450 BODY: h3451 ]
+          [ compound LBL: h3448 ARG0: e3445 ARG1: x3449 ARG2: x3438 ]
+          [ udef_q LBL: h3444 ARG0: x3438 RSTR: h3442 BODY: h3443 ]
+          [ _left_n_of LBL: h3440 ARG0: x3438 ARG1: i3439 ]
+          [ _opening_n_1 LBL: h3448 ARG0: x3449 ] >
+  HCONS: < h3442 qeq h3440 h3450 qeq h3448 h3456 qeq h3455 > ]
+GENERATED RESULTS ... 
+The left opening
+The left openings
+A left opening
+The left openings.
+Left openings
+The left opening.
+Left opening
+A left opening.
+Left openings.
+Left opening.
+
+TOTAL RESULTS: 10
+
+Node                             MRS Produced    Reason                 Included in MRS    Reason
+-------------------------------  --------------  ---------------------  -----------------  ---------------
+idFairyWorldLobby1LeftOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

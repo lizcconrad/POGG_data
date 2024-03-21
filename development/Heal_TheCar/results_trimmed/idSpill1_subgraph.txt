@@ -1,0 +1,97 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/development/Heal_TheCar/subgraphs/dot/complete/idSpill1_subgraph.dot
+[ TOP: h36
+  INDEX: e33
+  RELS: < [ unknown LBL: h35 ARG: x29 ARG0: e33 ]
+          [ def_udef_a_q LBL: h32 ARG0: x29 RSTR: h30 BODY: h31 ]
+          [ loc_nonsp LBL: h1 ARG0: i25 ARG1: x29 ARG2: x21 ]
+          [ _black_a_1 LBL: h1 ARG0: i2 ARG1: x29 ]
+          [ _spill_n_1 LBL: h1 ARG0: x29 ]
+          [ def_implicit_q LBL: h24 ARG0: x21 RSTR: h22 BODY: h23 ]
+          [ _east_a_1 LBL: h20 ARG0: i11 ARG1: x21 ARG2: x15 ]
+          [ def_udef_a_q LBL: h18 ARG0: x15 RSTR: h16 BODY: h17 ]
+          [ _den_n_1 LBL: h10 ARG0: x15 ]
+          [ place_n LBL: h20 ARG0: x21 ] >
+  HCONS: < h16 qeq h10 h22 qeq h20 h30 qeq h1 h36 qeq h35 > ]
+GENERATED RESULTS ... 
+A black spill east of the dens
+The black spill east of the dens
+The black spills east of the dens
+A black spill east of the den
+The black spill east of the den
+The black spills east of the den
+Black spills east of the dens
+Black spills east of the den
+A black spill east of the dens.
+The black spill east of the dens.
+A black spill east of a den
+The black spill east of a den
+The black spills east of the dens.
+The black spills east of a den
+Black spills east of the dens.
+Black spills east of a den
+A black spill east of a den.
+The black spill east of a den.
+A black spill east of the den.
+The black spills east of a den.
+The black spill east of the den.
+The black spills east of the den.
+Black spills east of a den.
+Black spill east of the dens
+Black spills east of the den.
+A black spill east of dens
+The black spill east of dens
+Black spill east of the den
+The black spills east of dens
+A black spill east of dens.
+The black spill east of dens.
+Black spills east of dens
+The black spills east of dens.
+Black spill east of the dens.
+Black spill east of a den
+Black spills east of dens.
+Black spill east of a den.
+Black spill east of the den.
+The black spills, east of the dens
+The black spill, east of the dens
+Black spills, east of the dens
+Black spill east of dens
+The black spills, east of the den
+The black spill, east of the den
+Black spills, east of the den
+Black spill, east of the dens
+A black spill, east of the dens
+Black spill east of dens.
+Black spill, east of the den
+The black spills, east of a den
+The black spill, east of a den
+A black spill, east of the den
+Black spills, east of a den
+Black spill, east of a den
+A black spill, east of a den
+The black spills, east of dens
+The black spill, east of dens
+Black spills, east of dens
+Black spill, east of dens
+A black spill, east of dens
+
+TOTAL RESULTS: 60
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  -------------------------
+black_2    True            MRS fragment produced  True               Included in MRS
+idDen_4    True            MRS fragment produced  True               Included in MRS
+idSpill_1  True            MRS fragment produced  True               Included in MRS
+yes_3      True            MRS fragment produced  False              Descends from failed edge
+
+Edge           MRS Composed    Reason                                 Included in MRS    Reason
+-------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idColor_1      True            MRS composed                           True               Included in MRS
+idImmovable_2  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+isEastOf_3     True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4    1
+Nodes              Included             3        4    0.75
+Edges              Produced             2        3    0.666667
+Edges              Included             2        3    0.666667

@@ -1,0 +1,40 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idCabinet1_subgraph.dot
+[ TOP: h2461
+  INDEX: e2458
+  RELS: < [ unknown LBL: h2460 ARG: x2442 ARG0: e2458 ]
+          [ def_udef_a_q LBL: h2457 ARG0: x2442 RSTR: h2455 BODY: h2456 ]
+          [ _cabinet_n_1 LBL: h2443 ARG0: x2442 ] >
+  HCONS: < h2455 qeq h2443 h2461 qeq h2460 > ]
+GENERATED RESULTS ... 
+Cabinets
+Cabinet
+The cabinet
+A cabinet
+The cabinets
+The cabinets.
+Cabinet.
+Cabinets.
+A cabinet.
+The cabinet.
+
+TOTAL RESULTS: 10
+
+Node         MRS Produced    Reason                 Included in MRS    Reason
+-----------  --------------  ---------------------  -----------------  -------------------------
+idCabinet_1  True            MRS fragment produced  True               Included in MRS
+idmetal_3    True            MRS fragment produced  False              Descends from failed edge
+true_2       True            MRS fragment produced  False              Descends from failed edge
+yes_4        True            MRS fragment produced  False              Descends from failed edge
+
+Edge                   MRS Composed    Reason                                         Included in MRS    Reason
+---------------------  --------------  ---------------------------------------------  -----------------  ---------------------------------------------
+idImmovable_3          False           'idImmovable' has no value in lexicon          False              'idImmovable' has no value in lexicon
+idInterestingObject_1  False           'idInterestingObject' has no value in lexicon  False              'idInterestingObject' has no value in lexicon
+idMaterial_2           False           Semantic functor has no ARG1 hole              False              Semantic functor has no ARG1 hole
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        4        1
+Nodes              Included             1        4        0.25
+Edges              Produced             0        3        0
+Edges              Included             0        3        0

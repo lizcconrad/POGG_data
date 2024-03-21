@@ -1,0 +1,787 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idDriversSideFrontDoor_subgraph.dot
+[ TOP: h1228
+  INDEX: e1225
+  RELS: < [ unknown LBL: h1227 ARG: x1221 ARG0: e1225 ]
+          [ def_udef_a_q LBL: h1224 ARG0: x1221 RSTR: h1222 BODY: h1223 ]
+          [ _near_p LBL: h1216 ARG0: e1213 ARG1: x1221 ARG2: x1217 ]
+          [ def_udef_a_q LBL: h1220 ARG0: x1217 RSTR: h1218 BODY: h1219 ]
+          [ _outside_a_1 LBL: h1212 ARG0: e1210 ARG1: x1217 ]
+          [ _opening_n_1 LBL: h1212 ARG0: x1217 ]
+          [ loc_nonsp LBL: h1216 ARG0: i1204 ARG1: x1221 ARG2: x1200 ]
+          [ _on_p_loc LBL: h1216 ARG0: e1130 ARG1: x1221 ARG2: x1128 ]
+          [ def_udef_a_q LBL: h1137 ARG0: x1128 RSTR: h1135 BODY: h1136 ]
+          [ _front_n_1 LBL: h1129 ARG0: x1128 ]
+          [ _door_n_1 LBL: h1216 ARG0: x1221 ]
+          [ def_implicit_q LBL: h1203 ARG0: x1200 RSTR: h1201 BODY: h1202 ]
+          [ _west_a_1 LBL: h1199 ARG0: i1190 ARG1: x1200 ARG2: x1141 ]
+          [ def_udef_a_q LBL: h1197 ARG0: x1141 RSTR: h1195 BODY: h1196 ]
+          [ loc_nonsp LBL: h1142 ARG0: i1186 ARG1: x1141 ARG2: x1173 ]
+          [ _un-_a_neg LBL: h1142 ARG0: i1147 ARG1: e1148 ]
+          [ _know_v_1 LBL: h1142 ARG0: e1148 ARG1: u1151 ARG2: x1141 ]
+          [ _car_n_1 LBL: h1142 ARG0: x1141 ]
+          [ def_implicit_q LBL: h1185 ARG0: x1173 RSTR: h1183 BODY: h1184 ]
+          [ _east_a_1 LBL: h1175 ARG0: i1172 ARG1: x1173 ARG2: x1176 ]
+          [ def_udef_a_q LBL: h1179 ARG0: x1176 RSTR: h1177 BODY: h1178 ]
+          [ _backyard_n_1 LBL: h1171 ARG0: x1176 ]
+          [ place_n LBL: h1175 ARG0: x1173 ]
+          [ place_n LBL: h1199 ARG0: x1200 ] >
+  HCONS: < h1218 qeq h1212 h1135 qeq h1129 h1177 qeq h1171 h1183 qeq h1175 h1195 qeq h1142 h1201 qeq h1199 h1222 qeq h1216 h1228 qeq h1227 > ]
+GENERATED RESULTS ... 
+A door near the outside openings west of the unknown cars east of the back yards on the fronts
+A door near the outside openings west of the unknown cars east of the backyards on the fronts
+The door near the outside openings west of the unknown cars east of the back yards on the fronts
+The door near the outside openings west of the unknown cars east of the backyards on the fronts
+A door west of the unknown cars east of the back yards on the front near the outside openings
+A door west of the unknown cars east of the backyards on the front near the outside openings
+The door west of the unknown cars east of the back yards on the front near the outside openings
+The door west of the unknown cars east of the backyards on the front near the outside openings
+A door on the front west of the unknown cars east of the back yards near the outside openings
+A door on the front west of the unknown cars east of the backyards near the outside openings
+The door on the front west of the unknown cars east of the back yards near the outside openings
+The door on the front west of the unknown cars east of the backyards near the outside openings
+A door west of the unknown cars east of the back yards near the outside openings on the fronts
+A door west of the unknown cars east of the backyards near the outside openings on the fronts
+The door west of the unknown cars east of the back yards near the outside openings on the fronts
+The door west of the unknown cars east of the backyards near the outside openings on the fronts
+A door west of the unknown cars east of the back yards on the fronts near the outside openings
+A door west of the unknown cars east of the backyards on the fronts near the outside openings
+The door west of the unknown cars east of the back yards on the fronts near the outside openings
+The door west of the unknown cars east of the backyards on the fronts near the outside openings
+A door on the fronts west of the unknown cars east of the back yards near the outside openings
+A door on the fronts west of the unknown cars east of the backyards near the outside openings
+The door on the fronts west of the unknown cars east of the back yards near the outside openings
+The door on the fronts west of the unknown cars east of the backyards near the outside openings
+A door near outside openings west of the unknown cars east of the back yards on the fronts
+A door near outside openings west of the unknown cars east of the backyards on the fronts
+The door near outside openings west of the unknown cars east of the back yards on the fronts
+The door near outside openings west of the unknown cars east of the backyards on the fronts
+A door near an outside opening west of the unknown cars east of the back yards on the fronts
+A door near an outside opening west of the unknown cars east of the backyards on the fronts
+The door near an outside opening west of the unknown cars east of the back yards on the fronts
+The door near an outside opening west of the unknown cars east of the backyards on the fronts
+A door west of the unknown cars east of the back yards on the front near an outside opening
+A door west of the unknown cars east of the backyards on the front near an outside opening
+The door west of the unknown cars east of the back yards on the front near an outside opening
+The door west of the unknown cars east of the backyards on the front near an outside opening
+A door near the outside openings west of the unknown cars east of the backyard on the fronts
+A door near the outside openings west of the unknown cars east of the back yard on the fronts
+A door on the front west of the unknown cars east of the back yards near an outside opening
+A door on the front west of the unknown cars east of the backyards near an outside opening
+The door near the outside openings west of the unknown cars east of the backyard on the fronts
+The door near the outside openings west of the unknown cars east of the back yard on the fronts
+A door on fronts west of the unknown cars east of the back yards near the outside openings
+A door on fronts west of the unknown cars east of the backyards near the outside openings
+The door on the front west of the unknown cars east of the back yards near an outside opening
+The door on the front west of the unknown cars east of the backyards near an outside opening
+The door on fronts west of the unknown cars east of the back yards near the outside openings
+The door on fronts west of the unknown cars east of the backyards near the outside openings
+A door west of the unknown cars east of the backyard on the front near the outside openings
+A door west of the unknown cars east of the back yard on the front near the outside openings
+The door west of the unknown cars east of the backyard on the front near the outside openings
+The door west of the unknown cars east of the back yard on the front near the outside openings
+A door west of the unknown cars east of the back yards on the fronts near an outside opening
+A door west of the unknown cars east of the backyards on the fronts near an outside opening
+The door west of the unknown cars east of the back yards on the fronts near an outside opening
+The door west of the unknown cars east of the backyards on the fronts near an outside opening
+A door on the front west of the unknown cars east of the backyard near the outside openings
+A door on the front west of the unknown cars east of the back yard near the outside openings
+The door on the front west of the unknown cars east of the backyard near the outside openings
+The door on the front west of the unknown cars east of the back yard near the outside openings
+A door near the outside opening west of the unknown cars east of the back yards on the fronts
+A door near the outside opening west of the unknown cars east of the backyards on the fronts
+A door west of the unknown cars east of the back yards near an outside opening on the fronts
+A door west of the unknown cars east of the backyards near an outside opening on the fronts
+The door near the outside opening west of the unknown cars east of the back yards on the fronts
+The door near the outside opening west of the unknown cars east of the backyards on the fronts
+The door west of the unknown cars east of the back yards near an outside opening on the fronts
+The door west of the unknown cars east of the backyards near an outside opening on the fronts
+A door on the fronts west of the unknown cars east of the back yards near an outside opening
+A door on the fronts west of the unknown cars east of the backyards near an outside opening
+The door on the fronts west of the unknown cars east of the back yards near an outside opening
+The door on the fronts west of the unknown cars east of the backyards near an outside opening
+A door west of the unknown cars east of the backyard near the outside openings on the fronts
+A door west of the unknown cars east of the back yard near the outside openings on the fronts
+The door west of the unknown cars east of the backyard near the outside openings on the fronts
+The door west of the unknown cars east of the back yard near the outside openings on the fronts
+A door west of the unknown cars east of the back yards on the front near the outside opening
+A door west of the unknown cars east of the backyards on the front near the outside opening
+The door west of the unknown cars east of the back yards on the front near the outside opening
+The door west of the unknown cars east of the backyards on the front near the outside opening
+A door west of the unknown cars east of the backyard on the fronts near the outside openings
+A door west of the unknown cars east of the back yard on the fronts near the outside openings
+The door west of the unknown cars east of the backyard on the fronts near the outside openings
+The door west of the unknown cars east of the back yard on the fronts near the outside openings
+A door on the front west of the unknown cars east of the back yards near the outside opening
+A door on the front west of the unknown cars east of the backyards near the outside opening
+The door on the front west of the unknown cars east of the back yards near the outside opening
+The door on the front west of the unknown cars east of the backyards near the outside opening
+A door on the fronts west of the unknown cars east of the backyard near the outside openings
+A door on the fronts west of the unknown cars east of the back yard near the outside openings
+The door on the fronts west of the unknown cars east of the backyard near the outside openings
+The door on the fronts west of the unknown cars east of the back yard near the outside openings
+A door on fronts west of the unknown cars east of the back yards near an outside opening
+A door on fronts west of the unknown cars east of the backyards near an outside opening
+The door on fronts west of the unknown cars east of the back yards near an outside opening
+The door on fronts west of the unknown cars east of the backyards near an outside opening
+A door near outside openings west of the unknown cars east of the backyard on the fronts
+A door near outside openings west of the unknown cars east of the back yard on the fronts
+Doors, near the outside openings on the front west of the unknown cars east of the back yards
+Doors, near the outside openings on the front west of the unknown cars east of the backyards
+The door near outside openings west of the unknown cars east of the backyard on the fronts
+The door near outside openings west of the unknown cars east of the back yard on the fronts
+A door west of the unknown cars east of the back yards near the outside opening on the fronts
+A door west of the unknown cars east of the backyards near the outside opening on the fronts
+A door near an outside opening west of the unknown cars east of the backyard on the fronts
+A door near an outside opening west of the unknown cars east of the back yard on the fronts
+The door west of the unknown cars east of the back yards near the outside opening on the fronts
+The door west of the unknown cars east of the backyards near the outside opening on the fronts
+The door near an outside opening west of the unknown cars east of the backyard on the fronts
+The door near an outside opening west of the unknown cars east of the back yard on the fronts
+A door west of the unknown cars east of the backyard on the front near an outside opening
+A door west of the unknown cars east of the back yard on the front near an outside opening
+The door west of the unknown cars east of the backyard on the front near an outside opening
+The door west of the unknown cars east of the back yard on the front near an outside opening
+A door west of the unknown cars east of the back yards on the fronts near the outside opening
+A door west of the unknown cars east of the backyards on the fronts near the outside opening
+The door west of the unknown cars east of the back yards on the fronts near the outside opening
+The door west of the unknown cars east of the backyards on the fronts near the outside opening
+A door on the front west of the unknown cars east of the backyard near an outside opening
+A door on the front west of the unknown cars east of the back yard near an outside opening
+A door on fronts west of the unknown cars east of the backyard near the outside openings
+A door on fronts west of the unknown cars east of the back yard near the outside openings
+The door on the front west of the unknown cars east of the backyard near an outside opening
+The door on the front west of the unknown cars east of the back yard near an outside opening
+A door on the fronts west of the unknown cars east of the back yards near the outside opening
+A door on the fronts west of the unknown cars east of the backyards near the outside opening
+The door on fronts west of the unknown cars east of the backyard near the outside openings
+The door on fronts west of the unknown cars east of the back yard near the outside openings
+The door on the fronts west of the unknown cars east of the back yards near the outside opening
+The door on the fronts west of the unknown cars east of the backyards near the outside opening
+A door west of the unknown cars east of the back yards near outside openings on the fronts
+A door west of the unknown cars east of the backyards near outside openings on the fronts
+Doors, near the outside openings on the fronts west of the unknown cars east of the back yards
+Doors, near the outside openings on the fronts west of the unknown cars east of the backyards
+The door west of the unknown cars east of the back yards near outside openings on the fronts
+The door west of the unknown cars east of the backyards near outside openings on the fronts
+A door west of the unknown cars east of the backyard on the fronts near an outside opening
+A door west of the unknown cars east of the back yard on the fronts near an outside opening
+The door west of the unknown cars east of the backyard on the fronts near an outside opening
+The door west of the unknown cars east of the back yard on the fronts near an outside opening
+A door near the outside opening west of the unknown cars east of the backyard on the fronts
+A door near the outside opening west of the unknown cars east of the back yard on the fronts
+A door west of the unknown cars east of the backyard near an outside opening on the fronts
+A door west of the unknown cars east of the back yard near an outside opening on the fronts
+The door near the outside opening west of the unknown cars east of the backyard on the fronts
+The door near the outside opening west of the unknown cars east of the back yard on the fronts
+The door west of the unknown cars east of the backyard near an outside opening on the fronts
+The door west of the unknown cars east of the back yard near an outside opening on the fronts
+A door on fronts west of the unknown cars east of the back yards near the outside opening
+A door on fronts west of the unknown cars east of the backyards near the outside opening
+The door on fronts west of the unknown cars east of the back yards near the outside opening
+The door on fronts west of the unknown cars east of the backyards near the outside opening
+A door on the fronts west of the unknown cars east of the backyard near an outside opening
+A door on the fronts west of the unknown cars east of the back yard near an outside opening
+The door on the fronts west of the unknown cars east of the backyard near an outside opening
+The door on the fronts west of the unknown cars east of the back yard near an outside opening
+A door west of the unknown cars east of the backyard on the front near the outside opening
+A door west of the unknown cars east of the back yard on the front near the outside opening
+The door west of the unknown cars east of the backyard on the front near the outside opening
+The door west of the unknown cars east of the back yard on the front near the outside opening
+A door west of the unknown cars east of the back yards on a front near the outside openings
+A door west of the unknown cars east of the backyards on a front near the outside openings
+The door west of the unknown cars east of the back yards on a front near the outside openings
+The door west of the unknown cars east of the backyards on a front near the outside openings
+A door on the front west of the unknown cars east of the backyard near the outside opening
+A door on the front west of the unknown cars east of the back yard near the outside opening
+The door on the front west of the unknown cars east of the backyard near the outside opening
+The door on the front west of the unknown cars east of the back yard near the outside opening
+A door on a front west of the unknown cars east of the back yards near the outside openings
+A door on a front west of the unknown cars east of the backyards near the outside openings
+A door on fronts west of the unknown cars east of the backyard near an outside opening
+A door on fronts west of the unknown cars east of the back yard near an outside opening
+The door on a front west of the unknown cars east of the back yards near the outside openings
+The door on a front west of the unknown cars east of the backyards near the outside openings
+The door on fronts west of the unknown cars east of the backyard near an outside opening
+The door on fronts west of the unknown cars east of the back yard near an outside opening
+Doors, near the outside openings on the front west of the unknown cars east of the backyard
+Doors, near the outside openings on the front west of the unknown cars east of the back yard
+Doors, on the fronts near the outside openings west of the unknown cars east of the back yards
+Doors, on the fronts near the outside openings west of the unknown cars east of the backyards
+A door west of the unknown cars east of the backyard near the outside opening on the fronts
+A door west of the unknown cars east of the back yard near the outside opening on the fronts
+The door west of the unknown cars east of the backyard near the outside opening on the fronts
+The door west of the unknown cars east of the back yard near the outside opening on the fronts
+A door west of the unknown cars east of the backyard on the fronts near the outside opening
+A door west of the unknown cars east of the back yard on the fronts near the outside opening
+A door near the outside openings west of the unknown cars east of a back yard on the fronts
+A door near the outside openings west of the unknown cars east of a backyard on the fronts
+The door west of the unknown cars east of the backyard on the fronts near the outside opening
+The door west of the unknown cars east of the back yard on the fronts near the outside opening
+The door near the outside openings west of the unknown cars east of a back yard on the fronts
+The door near the outside openings west of the unknown cars east of a backyard on the fronts
+A door on the fronts west of the unknown cars east of the backyard near the outside opening
+A door on the fronts west of the unknown cars east of the back yard near the outside opening
+The door on the fronts west of the unknown cars east of the backyard near the outside opening
+The door on the fronts west of the unknown cars east of the back yard near the outside opening
+The doors, near the outside openings west of the unknown cars east of the back yards on the fronts
+The doors, near the outside openings west of the unknown cars east of the backyards on the fronts
+A door west of the unknown cars east of a back yard on the front near the outside openings
+A door west of the unknown cars east of a backyard on the front near the outside openings
+The door west of the unknown cars east of a back yard on the front near the outside openings
+The door west of the unknown cars east of a backyard on the front near the outside openings
+A door west of the unknown cars east of the backyard near outside openings on the fronts
+A door west of the unknown cars east of the back yard near outside openings on the fronts
+Doors, near the outside openings on the fronts west of the unknown cars east of the backyard
+Doors, near the outside openings on the fronts west of the unknown cars east of the back yard
+The door west of the unknown cars east of the backyard near outside openings on the fronts
+The door west of the unknown cars east of the back yard near outside openings on the fronts
+A door, near the outside openings west of the unknown cars east of the back yards on the fronts
+A door, near the outside openings west of the unknown cars east of the backyards on the fronts
+The door, near the outside openings west of the unknown cars east of the back yards on the fronts
+The door, near the outside openings west of the unknown cars east of the backyards on the fronts
+A door on the front west of the unknown cars east of a back yard near the outside openings
+A door on the front west of the unknown cars east of a backyard near the outside openings
+The door on the front west of the unknown cars east of a back yard near the outside openings
+The door on the front west of the unknown cars east of a backyard near the outside openings
+A door west of the unknown cars east of the back yards on a front near an outside opening
+A door west of the unknown cars east of the backyards on a front near an outside opening
+A door west of the unknown cars east of the back yards on the front near outside openings
+A door west of the unknown cars east of the backyards on the front near outside openings
+The door west of the unknown cars east of the back yards on a front near an outside opening
+The door west of the unknown cars east of the backyards on a front near an outside opening
+The doors, on the fronts west of the unknown cars east of the back yards near the outside openings
+The doors, on the fronts west of the unknown cars east of the backyards near the outside openings
+The door west of the unknown cars east of the back yards on the front near outside openings
+The door west of the unknown cars east of the backyards on the front near outside openings
+A door on fronts west of the unknown cars east of the backyard near the outside opening
+A door on fronts west of the unknown cars east of the back yard near the outside opening
+The door on fronts west of the unknown cars east of the backyard near the outside opening
+The door on fronts west of the unknown cars east of the back yard near the outside opening
+A door, on the fronts west of the unknown cars east of the back yards near the outside openings
+A door, on the fronts west of the unknown cars east of the backyards near the outside openings
+A door on a front west of the unknown cars east of the back yards near an outside opening
+A door on a front west of the unknown cars east of the backyards near an outside opening
+A door west of the unknown cars east of a back yard near the outside openings on the fronts
+A door west of the unknown cars east of a backyard near the outside openings on the fronts
+A door on the front west of the unknown cars east of the back yards near outside openings
+A door on the front west of the unknown cars east of the backyards near outside openings
+The door, on the fronts west of the unknown cars east of the back yards near the outside openings
+The door, on the fronts west of the unknown cars east of the backyards near the outside openings
+The door on a front west of the unknown cars east of the back yards near an outside opening
+The door on a front west of the unknown cars east of the backyards near an outside opening
+A door west of the unknown cars east of the back yards on fronts near the outside openings
+A door west of the unknown cars east of the backyards on fronts near the outside openings
+The door west of the unknown cars east of a back yard near the outside openings on the fronts
+The door west of the unknown cars east of a backyard near the outside openings on the fronts
+The door on the front west of the unknown cars east of the back yards near outside openings
+The door on the front west of the unknown cars east of the backyards near outside openings
+The door west of the unknown cars east of the back yards on fronts near the outside openings
+The door west of the unknown cars east of the backyards on fronts near the outside openings
+The doors west of the unknown cars east of the back yards on the front near the outside openings
+The doors west of the unknown cars east of the backyards on the front near the outside openings
+A door west of the unknown cars east of a back yard on the fronts near the outside openings
+A door west of the unknown cars east of a backyard on the fronts near the outside openings
+The door west of the unknown cars east of a back yard on the fronts near the outside openings
+The door west of the unknown cars east of a backyard on the fronts near the outside openings
+A door west of the unknown cars east of the backyard on a front near the outside openings
+A door west of the unknown cars east of the back yard on a front near the outside openings
+The door west of the unknown cars east of the backyard on a front near the outside openings
+The door west of the unknown cars east of the back yard on a front near the outside openings
+A door on the fronts west of the unknown cars east of a back yard near the outside openings
+A door on the fronts west of the unknown cars east of a backyard near the outside openings
+Doors, on the fronts near an outside opening west of the unknown cars east of the back yards
+Doors, on the fronts near an outside opening west of the unknown cars east of the backyards
+The door on the fronts west of the unknown cars east of a back yard near the outside openings
+The door on the fronts west of the unknown cars east of a backyard near the outside openings
+A door west of the unknown cars east of the back yards on the fronts near outside openings
+A door west of the unknown cars east of the backyards on the fronts near outside openings
+A door near the outside openings west of the unknown cars east of the back yards on the fronts.
+A door near the outside openings west of the unknown cars east of the backyards on the fronts.
+A door near outside openings west of the unknown cars east of a back yard on the fronts
+A door near outside openings west of the unknown cars east of a backyard on the fronts
+A door on a front west of the unknown cars east of the backyard near the outside openings
+A door on a front west of the unknown cars east of the back yard near the outside openings
+The door west of the unknown cars east of the back yards on the fronts near outside openings
+The door west of the unknown cars east of the backyards on the fronts near outside openings
+The door near the outside openings west of the unknown cars east of the back yards on the fronts.
+The door near the outside openings west of the unknown cars east of the backyards on the fronts.
+The door near outside openings west of the unknown cars east of a back yard on the fronts
+The door near outside openings west of the unknown cars east of a backyard on the fronts
+The door on a front west of the unknown cars east of the backyard near the outside openings
+The door on a front west of the unknown cars east of the back yard near the outside openings
+A door near an outside opening west of the unknown cars east of a back yard on the fronts
+A door near an outside opening west of the unknown cars east of a backyard on the fronts
+Doors, on the fronts near the outside openings west of the unknown cars east of the backyard
+Doors, on the fronts near the outside openings west of the unknown cars east of the back yard
+The doors west of the unknown cars east of the back yards near the outside openings on the fronts
+The doors west of the unknown cars east of the backyards near the outside openings on the fronts
+The door near an outside opening west of the unknown cars east of a back yard on the fronts
+The door near an outside opening west of the unknown cars east of a backyard on the fronts
+A door near the outside openings west of the unknown cars east of the back yards on the front
+A door near the outside openings west of the unknown cars east of the backyards on the front
+A door on the fronts west of the unknown cars east of the back yards near outside openings
+A door on the fronts west of the unknown cars east of the backyards near outside openings
+A door west of the unknown cars east of a back yard on the front near an outside opening
+A door west of the unknown cars east of a backyard on the front near an outside opening
+The door near the outside openings west of the unknown cars east of the back yards on the front
+The door near the outside openings west of the unknown cars east of the backyards on the front
+The door on the fronts west of the unknown cars east of the back yards near outside openings
+The door on the fronts west of the unknown cars east of the backyards near outside openings
+The door west of the unknown cars east of a back yard on the front near an outside opening
+The door west of the unknown cars east of a backyard on the front near an outside opening
+The doors west of the unknown cars east of the back yards on the fronts near the outside openings
+The doors west of the unknown cars east of the backyards on the fronts near the outside openings
+A door west of the unknown cars east of the back yards on a front near the outside opening
+A door west of the unknown cars east of the backyards on a front near the outside opening
+A door on the front west of the unknown cars east of a back yard near an outside opening
+A door on the front west of the unknown cars east of a backyard near an outside opening
+The door west of the unknown cars east of the back yards on a front near the outside opening
+The door west of the unknown cars east of the backyards on a front near the outside opening
+A door on fronts west of the unknown cars east of a back yard near the outside openings
+A door on fronts west of the unknown cars east of a backyard near the outside openings
+The door on the front west of the unknown cars east of a back yard near an outside opening
+The door on the front west of the unknown cars east of a backyard near an outside opening
+The door on fronts west of the unknown cars east of a back yard near the outside openings
+The door on fronts west of the unknown cars east of a backyard near the outside openings
+The doors, on the fronts west of the unknown cars east of the back yards near an outside opening
+The doors, on the fronts west of the unknown cars east of the backyards near an outside opening
+Doors near the outside openings on the front west of the unknown cars east of the back yards
+Doors near the outside openings on the front west of the unknown cars east of the backyards
+Doors on the fronts, near the outside openings west of the unknown cars east of the back yards
+Doors on the fronts, near the outside openings west of the unknown cars east of the backyards
+A door on a front west of the unknown cars east of the back yards near the outside opening
+A door on a front west of the unknown cars east of the backyards near the outside opening
+A door near the outside openings on the front west of the unknown cars east of the back yards
+A door near the outside openings on the front west of the unknown cars east of the backyards
+The door on a front west of the unknown cars east of the back yards near the outside opening
+The door on a front west of the unknown cars east of the backyards near the outside opening
+The door near the outside openings on the front west of the unknown cars east of the back yards
+The door near the outside openings on the front west of the unknown cars east of the backyards
+A door, on the fronts west of the unknown cars east of the back yards near an outside opening
+A door, on the fronts west of the unknown cars east of the backyards near an outside opening
+The doors, near the outside openings west of the unknown cars east of the backyard on the fronts
+The doors, near the outside openings west of the unknown cars east of the back yard on the fronts
+Doors, on the fronts near the outside opening west of the unknown cars east of the back yards
+Doors, on the fronts near the outside opening west of the unknown cars east of the backyards
+The door, on the fronts west of the unknown cars east of the back yards near an outside opening
+The door, on the fronts west of the unknown cars east of the backyards near an outside opening
+A door west of the unknown cars east of the back yards on fronts near an outside opening
+A door west of the unknown cars east of the backyards on fronts near an outside opening
+A door on fronts west of the unknown cars east of the back yards near outside openings
+A door on fronts west of the unknown cars east of the backyards near outside openings
+The door west of the unknown cars east of the back yards on fronts near an outside opening
+The door west of the unknown cars east of the backyards on fronts near an outside opening
+The door on fronts west of the unknown cars east of the back yards near outside openings
+The door on fronts west of the unknown cars east of the backyards near outside openings
+A door west of the unknown cars east of the back yards near the outside openings on the fronts.
+A door west of the unknown cars east of the backyards near the outside openings on the fronts.
+The doors west of the unknown cars east of the back yards on the front near an outside opening
+The doors west of the unknown cars east of the backyards on the front near an outside opening
+Doors, near the outside openings on a front west of the unknown cars east of the back yards
+Doors, near the outside openings on a front west of the unknown cars east of the backyards
+A door west of the unknown cars east of a back yard on the fronts near an outside opening
+A door west of the unknown cars east of a backyard on the fronts near an outside opening
+The door west of the unknown cars east of the back yards near the outside openings on the fronts.
+The door west of the unknown cars east of the backyards near the outside openings on the fronts.
+A door, near the outside openings west of the unknown cars east of the backyard on the fronts
+A door, near the outside openings west of the unknown cars east of the back yard on the fronts
+The doors on the fronts, near the outside openings west of the unknown cars east of the back yards
+The doors on the fronts, near the outside openings west of the unknown cars east of the backyards
+The door west of the unknown cars east of a back yard on the fronts near an outside opening
+The door west of the unknown cars east of a backyard on the fronts near an outside opening
+The door, near the outside openings west of the unknown cars east of the backyard on the fronts
+The door, near the outside openings west of the unknown cars east of the back yard on the fronts
+A door near the outside opening west of the unknown cars east of a back yard on the fronts
+A door near the outside opening west of the unknown cars east of a backyard on the fronts
+A door west of the unknown cars east of a back yard near an outside opening on the fronts
+A door west of the unknown cars east of a backyard near an outside opening on the fronts
+A door west of the unknown cars east of the backyard on a front near an outside opening
+A door west of the unknown cars east of the back yard on a front near an outside opening
+The door near the outside opening west of the unknown cars east of a back yard on the fronts
+The door near the outside opening west of the unknown cars east of a backyard on the fronts
+The door west of the unknown cars east of a back yard near an outside opening on the fronts
+The door west of the unknown cars east of a backyard near an outside opening on the fronts
+A door west of the unknown cars east of the back yards near the outside openings on the front
+A door west of the unknown cars east of the backyards near the outside openings on the front
+A door west of the unknown cars east of the backyard on the front near outside openings
+A door west of the unknown cars east of the back yard on the front near outside openings
+A door west of the unknown cars east of the back yards on the front near the outside openings.
+A door west of the unknown cars east of the backyards on the front near the outside openings.
+The door west of the unknown cars east of the backyard on a front near an outside opening
+The door west of the unknown cars east of the back yard on a front near an outside opening
+The doors, on the fronts west of the unknown cars east of the backyard near the outside openings
+The doors, on the fronts west of the unknown cars east of the back yard near the outside openings
+The door west of the unknown cars east of the back yards near the outside openings on the front
+The door west of the unknown cars east of the backyards near the outside openings on the front
+The door west of the unknown cars east of the backyard on the front near outside openings
+The door west of the unknown cars east of the back yard on the front near outside openings
+A door on the fronts west of the unknown cars east of a back yard near an outside opening
+A door on the fronts west of the unknown cars east of a backyard near an outside opening
+The door west of the unknown cars east of the back yards on the front near the outside openings.
+The door west of the unknown cars east of the backyards on the front near the outside openings.
+The door on the fronts west of the unknown cars east of a back yard near an outside opening
+The door on the fronts west of the unknown cars east of a backyard near an outside opening
+A door, on the fronts west of the unknown cars east of the backyard near the outside openings
+A door, on the fronts west of the unknown cars east of the back yard near the outside openings
+A door on a front west of the unknown cars east of the backyard near an outside opening
+A door on a front west of the unknown cars east of the back yard near an outside opening
+Doors near the outside openings on the fronts west of the unknown cars east of the back yards
+Doors near the outside openings on the fronts west of the unknown cars east of the backyards
+A door on the front west of the unknown cars east of the backyard near outside openings
+A door on the front west of the unknown cars east of the back yard near outside openings
+A door on the front west of the unknown cars east of the back yards near the outside openings.
+A door on the front west of the unknown cars east of the backyards near the outside openings.
+The door, on the fronts west of the unknown cars east of the backyard near the outside openings
+The door, on the fronts west of the unknown cars east of the back yard near the outside openings
+The door on a front west of the unknown cars east of the backyard near an outside opening
+The door on a front west of the unknown cars east of the back yard near an outside opening
+A door near the outside openings on the fronts west of the unknown cars east of the back yards
+A door near the outside openings on the fronts west of the unknown cars east of the backyards
+A door west of the unknown cars east of the backyard on fronts near the outside openings
+A door west of the unknown cars east of the back yard on fronts near the outside openings
+The door on the front west of the unknown cars east of the backyard near outside openings
+The door on the front west of the unknown cars east of the back yard near outside openings
+The door on the front west of the unknown cars east of the back yards near the outside openings.
+The door on the front west of the unknown cars east of the backyards near the outside openings.
+A door west of the unknown cars east of a back yard on the front near the outside opening
+A door west of the unknown cars east of a backyard on the front near the outside opening
+The door near the outside openings on the fronts west of the unknown cars east of the back yards
+The door near the outside openings on the fronts west of the unknown cars east of the backyards
+The door west of the unknown cars east of the backyard on fronts near the outside openings
+The door west of the unknown cars east of the back yard on fronts near the outside openings
+A door near outside openings west of the unknown cars east of the back yards on the fronts.
+A door near outside openings west of the unknown cars east of the backyards on the fronts.
+The door west of the unknown cars east of a back yard on the front near the outside opening
+The door west of the unknown cars east of a backyard on the front near the outside opening
+The doors west of the unknown cars east of the backyard on the front near the outside openings
+The doors west of the unknown cars east of the back yard on the front near the outside openings
+The door near outside openings west of the unknown cars east of the back yards on the fronts.
+The door near outside openings west of the unknown cars east of the backyards on the fronts.
+A door near an outside opening west of the unknown cars east of the back yards on the fronts.
+A door near an outside opening west of the unknown cars east of the backyards on the fronts.
+The door near an outside opening west of the unknown cars east of the back yards on the fronts.
+The door near an outside opening west of the unknown cars east of the backyards on the fronts.
+The doors west of the unknown cars east of the back yards on the fronts near an outside opening
+The doors west of the unknown cars east of the backyards on the fronts near an outside opening
+A door on the front west of the unknown cars east of a back yard near the outside opening
+A door on the front west of the unknown cars east of a backyard near the outside opening
+A door near outside openings west of the unknown cars east of the back yards on the front
+A door near outside openings west of the unknown cars east of the backyards on the front
+Doors, near the outside openings on the front west of the unknown cars east of the backyards.
+Doors, near the outside openings on the front west of the unknown cars east of the back yards.
+The door on the front west of the unknown cars east of a back yard near the outside opening
+The door on the front west of the unknown cars east of a backyard near the outside opening
+The door near outside openings west of the unknown cars east of the back yards on the front
+The door near outside openings west of the unknown cars east of the backyards on the front
+Doors, on the fronts near an outside opening west of the unknown cars east of the backyard
+Doors, on the fronts near an outside opening west of the unknown cars east of the back yard
+The doors west of the unknown cars east of the back yards near an outside opening on the fronts
+The doors west of the unknown cars east of the backyards near an outside opening on the fronts
+The doors, on the fronts west of the unknown cars east of the back yards near the outside opening
+The doors, on the fronts west of the unknown cars east of the backyards near the outside opening
+The doors near the outside openings west of the unknown cars east of the back yards on the fronts
+The doors near the outside openings west of the unknown cars east of the backyards on the fronts
+A door near an outside opening west of the unknown cars east of the back yards on the front
+A door near an outside opening west of the unknown cars east of the backyards on the front
+A door on fronts west of the unknown cars east of a back yard near an outside opening
+A door on fronts west of the unknown cars east of a backyard near an outside opening
+A door on the front near the outside openings west of the unknown cars east of the back yards
+A door on the front near the outside openings west of the unknown cars east of the backyards
+The door near an outside opening west of the unknown cars east of the back yards on the front
+The door near an outside opening west of the unknown cars east of the backyards on the front
+The door on fronts west of the unknown cars east of a back yard near an outside opening
+The door on fronts west of the unknown cars east of a backyard near an outside opening
+A door west of the unknown cars east of the backyard on the fronts near outside openings
+A door west of the unknown cars east of the back yard on the fronts near outside openings
+The door on the front near the outside openings west of the unknown cars east of the back yards
+The door on the front near the outside openings west of the unknown cars east of the backyards
+A door west of the unknown cars east of the back yards on the fronts near the outside openings.
+A door west of the unknown cars east of the backyards on the fronts near the outside openings.
+A door near the outside openings west of the unknown cars east of the backyard on the fronts.
+A door near the outside openings west of the unknown cars east of the back yard on the fronts.
+The door west of the unknown cars east of the backyard on the fronts near outside openings
+The door west of the unknown cars east of the back yard on the fronts near outside openings
+The door west of the unknown cars east of the back yards on the fronts near the outside openings.
+The door west of the unknown cars east of the backyards on the fronts near the outside openings.
+The door near the outside openings west of the unknown cars east of the backyard on the fronts.
+The door near the outside openings west of the unknown cars east of the back yard on the fronts.
+A door west of the unknown cars east of the back yards on the front near outside openings.
+A door west of the unknown cars east of the backyards on the front near outside openings.
+Doors, near the outside openings on the front west of the unknown cars east of a back yard
+Doors, near the outside openings on the front west of the unknown cars east of a backyard
+The door west of the unknown cars east of the back yards on the front near outside openings.
+The door west of the unknown cars east of the backyards on the front near outside openings.
+A door, on the fronts west of the unknown cars east of the back yards near the outside opening
+A door, on the fronts west of the unknown cars east of the backyards near the outside opening
+A door west of the unknown cars east of a back yard near the outside opening on the fronts
+A door west of the unknown cars east of a backyard near the outside opening on the fronts
+The door, on the fronts west of the unknown cars east of the back yards near the outside opening
+The door, on the fronts west of the unknown cars east of the backyards near the outside opening
+A door west of the unknown cars east of the back yards on fronts near the outside opening
+A door west of the unknown cars east of the backyards on fronts near the outside opening
+The door west of the unknown cars east of a back yard near the outside opening on the fronts
+The door west of the unknown cars east of a backyard near the outside opening on the fronts
+The doors west of the unknown cars east of the backyard near the outside openings on the fronts
+The doors west of the unknown cars east of the back yard near the outside openings on the fronts
+The door west of the unknown cars east of the back yards on fronts near the outside opening
+The door west of the unknown cars east of the backyards on fronts near the outside opening
+A door near the outside openings west of the unknown cars east of the backyard on the front
+A door near the outside openings west of the unknown cars east of the back yard on the front
+Doors near outside openings on the front west of the unknown cars east of the back yards
+Doors near outside openings on the front west of the unknown cars east of the backyards
+A door on the fronts west of the unknown cars east of the backyard near outside openings
+A door on the fronts west of the unknown cars east of the back yard near outside openings
+Doors, on the fronts near outside openings west of the unknown cars east of the back yards
+Doors, on the fronts near outside openings west of the unknown cars east of the backyards
+A door on the fronts west of the unknown cars east of the back yards near the outside openings.
+A door on the fronts west of the unknown cars east of the backyards near the outside openings.
+The door near the outside openings west of the unknown cars east of the backyard on the front
+The door near the outside openings west of the unknown cars east of the back yard on the front
+The doors west of the unknown cars east of the back yards on the front near the outside opening
+The doors west of the unknown cars east of the backyards on the front near the outside opening
+A door near outside openings on the front west of the unknown cars east of the back yards
+A door near outside openings on the front west of the unknown cars east of the backyards
+The door on the fronts west of the unknown cars east of the backyard near outside openings
+The door on the fronts west of the unknown cars east of the back yard near outside openings
+The door on the fronts west of the unknown cars east of the back yards near the outside openings.
+The door on the fronts west of the unknown cars east of the backyards near the outside openings.
+A door on the front west of the unknown cars east of the back yards near outside openings.
+A door on the front west of the unknown cars east of the backyards near outside openings.
+A door west of the unknown cars east of a back yard on the fronts near the outside opening
+A door west of the unknown cars east of a backyard on the fronts near the outside opening
+The door near outside openings on the front west of the unknown cars east of the back yards
+The door near outside openings on the front west of the unknown cars east of the backyards
+The door on the front west of the unknown cars east of the back yards near outside openings.
+The door on the front west of the unknown cars east of the backyards near outside openings.
+The door west of the unknown cars east of a back yard on the fronts near the outside opening
+The door west of the unknown cars east of a backyard on the fronts near the outside opening
+The doors west of the unknown cars east of the backyard on the fronts near the outside openings
+The doors west of the unknown cars east of the back yard on the fronts near the outside openings
+Doors near an outside opening on the front west of the unknown cars east of the back yards
+Doors near an outside opening on the front west of the unknown cars east of the backyards
+A door near an outside opening on the front west of the unknown cars east of the back yards
+A door near an outside opening on the front west of the unknown cars east of the backyards
+The door near an outside opening on the front west of the unknown cars east of the back yards
+The door near an outside opening on the front west of the unknown cars east of the backyards
+A door west of the unknown cars east of the backyard on a front near the outside opening
+A door west of the unknown cars east of the back yard on a front near the outside opening
+The door west of the unknown cars east of the backyard on a front near the outside opening
+The door west of the unknown cars east of the back yard on a front near the outside opening
+A door on the fronts west of the unknown cars east of a back yard near the outside opening
+A door on the fronts west of the unknown cars east of a backyard near the outside opening
+The doors on the front west of the unknown cars east of the back yards near the outside openings
+The doors on the front west of the unknown cars east of the backyards near the outside openings
+Doors, near the outside openings on the fronts west of the unknown cars east of the backyards.
+Doors, near the outside openings on the fronts west of the unknown cars east of the back yards.
+The door on the fronts west of the unknown cars east of a back yard near the outside opening
+The door on the fronts west of the unknown cars east of a backyard near the outside opening
+Doors on fronts, near the outside openings west of the unknown cars east of the back yards
+Doors on fronts, near the outside openings west of the unknown cars east of the backyards
+The doors, on the fronts west of the unknown cars east of the backyard near an outside opening
+The doors, on the fronts west of the unknown cars east of the back yard near an outside opening
+A door on the fronts, near the outside openings west of the unknown cars east of the back yards
+A door on the fronts, near the outside openings west of the unknown cars east of the backyards
+Doors near the outside openings on the front west of the unknown cars east of the backyard
+Doors near the outside openings on the front west of the unknown cars east of the back yard
+A door near the outside opening west of the unknown cars east of the back yards on the fronts.
+A door near the outside opening west of the unknown cars east of the backyards on the fronts.
+Doors on the fronts, near the outside openings west of the unknown cars east of the backyard
+Doors on the fronts, near the outside openings west of the unknown cars east of the back yard
+A door west of the unknown cars east of the back yards near an outside opening on the fronts.
+A door west of the unknown cars east of the backyards near an outside opening on the fronts.
+The door on the fronts, near the outside openings west of the unknown cars east of the back yards
+The door on the fronts, near the outside openings west of the unknown cars east of the backyards
+A door on a front west of the unknown cars east of the backyard near the outside opening
+A door on a front west of the unknown cars east of the back yard near the outside opening
+A door near the outside openings on the front west of the unknown cars east of the backyard
+A door near the outside openings on the front west of the unknown cars east of the back yard
+The door near the outside opening west of the unknown cars east of the back yards on the fronts.
+The door near the outside opening west of the unknown cars east of the backyards on the fronts.
+A door on the fronts near the outside openings west of the unknown cars east of the back yards
+A door on the fronts near the outside openings west of the unknown cars east of the backyards
+The door west of the unknown cars east of the back yards near an outside opening on the fronts.
+The door west of the unknown cars east of the backyards near an outside opening on the fronts.
+The door on a front west of the unknown cars east of the backyard near the outside opening
+The door on a front west of the unknown cars east of the back yard near the outside opening
+The door near the outside openings on the front west of the unknown cars east of the backyard
+The door near the outside openings on the front west of the unknown cars east of the back yard
+The door on the fronts near the outside openings west of the unknown cars east of the back yards
+The door on the fronts near the outside openings west of the unknown cars east of the backyards
+A door west of the unknown cars east of a back yard near outside openings on the fronts
+A door west of the unknown cars east of a backyard near outside openings on the fronts
+A door near the outside openings west of the unknown cars east of the back yards on a front
+A door near the outside openings west of the unknown cars east of the backyards on a front
+A door west of the unknown cars east of the back yards on the fronts near outside openings.
+A door west of the unknown cars east of the backyards on the fronts near outside openings.
+A door, on the fronts west of the unknown cars east of the backyard near an outside opening
+A door, on the fronts west of the unknown cars east of the back yard near an outside opening
+Doors, near the outside openings on the fronts west of the unknown cars east of a back yard
+Doors, near the outside openings on the fronts west of the unknown cars east of a backyard
+The door west of the unknown cars east of a back yard near outside openings on the fronts
+The door west of the unknown cars east of a backyard near outside openings on the fronts
+The door near the outside openings west of the unknown cars east of the back yards on a front
+The door near the outside openings west of the unknown cars east of the backyards on a front
+Doors, on the fronts near the outside opening west of the unknown cars east of the backyard
+Doors, on the fronts near the outside opening west of the unknown cars east of the back yard
+The door west of the unknown cars east of the back yards on the fronts near outside openings.
+The door west of the unknown cars east of the backyards on the fronts near outside openings.
+Doors, near the outside opening on the front west of the unknown cars east of the back yards
+Doors, near the outside opening on the front west of the unknown cars east of the backyards
+The door, on the fronts west of the unknown cars east of the backyard near an outside opening
+The door, on the fronts west of the unknown cars east of the back yard near an outside opening
+The doors west of the unknown cars east of the back yards near the outside opening on the fronts
+The doors west of the unknown cars east of the backyards near the outside opening on the fronts
+A door west of the unknown cars east of the backyard on fronts near an outside opening
+A door west of the unknown cars east of the back yard on fronts near an outside opening
+A door near the outside opening west of the unknown cars east of the back yards on the front
+A door near the outside opening west of the unknown cars east of the backyards on the front
+A door on fronts west of the unknown cars east of the backyard near outside openings
+A door on fronts west of the unknown cars east of the back yard near outside openings
+A door on fronts west of the unknown cars east of the back yards near the outside openings.
+A door on fronts west of the unknown cars east of the backyards near the outside openings.
+A door west of the unknown cars east of the back yards near an outside opening on the front
+A door west of the unknown cars east of the backyards near an outside opening on the front
+Doors on the front near the outside openings west of the unknown cars east of the back yards
+Doors on the front near the outside openings west of the unknown cars east of the backyards
+The door west of the unknown cars east of the backyard on fronts near an outside opening
+The door west of the unknown cars east of the back yard on fronts near an outside opening
+The door near the outside opening west of the unknown cars east of the back yards on the front
+The door near the outside opening west of the unknown cars east of the backyards on the front
+The door on fronts west of the unknown cars east of the backyard near outside openings
+The door on fronts west of the unknown cars east of the back yard near outside openings
+The door on fronts west of the unknown cars east of the back yards near the outside openings.
+The door on fronts west of the unknown cars east of the backyards near the outside openings.
+The door west of the unknown cars east of the back yards near an outside opening on the front
+The door west of the unknown cars east of the backyards near an outside opening on the front
+A door west of the unknown cars east of the backyard near the outside openings on the fronts.
+A door west of the unknown cars east of the back yard near the outside openings on the fronts.
+The doors west of the unknown cars east of the backyard on the front near an outside opening
+The doors west of the unknown cars east of the back yard on the front near an outside opening
+The doors on fronts, near the outside openings west of the unknown cars east of the back yards
+The doors on fronts, near the outside openings west of the unknown cars east of the backyards
+Doors, near the outside openings on a front west of the unknown cars east of the backyard
+Doors, near the outside openings on a front west of the unknown cars east of the back yard
+Doors near outside openings on the fronts west of the unknown cars east of the back yards
+Doors near outside openings on the fronts west of the unknown cars east of the backyards
+The door west of the unknown cars east of the backyard near the outside openings on the fronts.
+The door west of the unknown cars east of the back yard near the outside openings on the fronts.
+The doors west of the unknown cars east of the back yards on the fronts near the outside opening
+The doors west of the unknown cars east of the backyards on the fronts near the outside opening
+A door near outside openings on the fronts west of the unknown cars east of the back yards
+A door near outside openings on the fronts west of the unknown cars east of the backyards
+The doors on the fronts, near the outside openings west of the unknown cars east of the backyard
+The doors on the fronts, near the outside openings west of the unknown cars east of the back yard
+A door on the fronts west of the unknown cars east of the back yards near outside openings.
+A door on the fronts west of the unknown cars east of the backyards near outside openings.
+The door near outside openings on the fronts west of the unknown cars east of the back yards
+The door near outside openings on the fronts west of the unknown cars east of the backyards
+The door on the fronts west of the unknown cars east of the back yards near outside openings.
+The door on the fronts west of the unknown cars east of the backyards near outside openings.
+Doors near an outside opening on the fronts west of the unknown cars east of the back yards
+Doors near an outside opening on the fronts west of the unknown cars east of the backyards
+A door near an outside opening on the fronts west of the unknown cars east of the back yards
+A door near an outside opening on the fronts west of the unknown cars east of the backyards
+A door on fronts west of the unknown cars east of a back yard near the outside opening
+A door on fronts west of the unknown cars east of a backyard near the outside opening
+A door west of the unknown cars east of the backyard near the outside openings on the front
+A door west of the unknown cars east of the back yard near the outside openings on the front
+A door west of the unknown cars east of the backyard on the front near the outside openings.
+A door west of the unknown cars east of the back yard on the front near the outside openings.
+The door near an outside opening on the fronts west of the unknown cars east of the back yards
+The door near an outside opening on the fronts west of the unknown cars east of the backyards
+The door on fronts west of the unknown cars east of a back yard near the outside opening
+The door on fronts west of the unknown cars east of a backyard near the outside opening
+The door west of the unknown cars east of the backyard near the outside openings on the front
+The door west of the unknown cars east of the back yard near the outside openings on the front
+The door west of the unknown cars east of the backyard on the front near the outside openings.
+The door west of the unknown cars east of the back yard on the front near the outside openings.
+The doors on the fronts west of the unknown cars east of the back yards near the outside openings
+The doors on the fronts west of the unknown cars east of the backyards near the outside openings
+Doors near the outside opening on the front west of the unknown cars east of the back yards
+Doors near the outside opening on the front west of the unknown cars east of the backyards
+A door on fronts near the outside openings west of the unknown cars east of the back yards
+A door on fronts near the outside openings west of the unknown cars east of the backyards
+A door near the outside opening on the front west of the unknown cars east of the back yards
+A door near the outside opening on the front west of the unknown cars east of the backyards
+The door on fronts near the outside openings west of the unknown cars east of the back yards
+The door on fronts near the outside openings west of the unknown cars east of the backyards
+The door near the outside opening on the front west of the unknown cars east of the back yards
+The door near the outside opening on the front west of the unknown cars east of the backyards
+Doors near the outside openings on the fronts west of the unknown cars east of the backyard
+Doors near the outside openings on the fronts west of the unknown cars east of the back yard
+A door on the front west of the unknown cars east of the backyard near the outside openings.
+A door on the front west of the unknown cars east of the back yard near the outside openings.
+The doors near outside openings west of the unknown cars east of the back yards on the fronts
+The doors near outside openings west of the unknown cars east of the backyards on the fronts
+A door near the outside openings on the fronts west of the unknown cars east of the backyard
+A door near the outside openings on the fronts west of the unknown cars east of the back yard
+The door on the front west of the unknown cars east of the backyard near the outside openings.
+The door on the front west of the unknown cars east of the back yard near the outside openings.
+The door near the outside openings on the fronts west of the unknown cars east of the backyard
+The door near the outside openings on the fronts west of the unknown cars east of the back yard
+The doors west of the unknown cars east of the back yards near outside openings on the fronts
+The doors west of the unknown cars east of the backyards near outside openings on the fronts
+A door near outside openings west of the unknown cars east of the backyard on the fronts.
+A door near outside openings west of the unknown cars east of the back yard on the fronts.
+The door near outside openings west of the unknown cars east of the backyard on the fronts.
+The door near outside openings west of the unknown cars east of the back yard on the fronts.
+The doors near an outside opening west of the unknown cars east of the back yards on the fronts
+The doors near an outside opening west of the unknown cars east of the backyards on the fronts
+Doors near outside openings, on the fronts west of the unknown cars east of the back yards
+Doors near outside openings, on the fronts west of the unknown cars east of the backyards
+Doors, near the outside opening on the fronts west of the unknown cars east of the back yards
+Doors, near the outside opening on the fronts west of the unknown cars east of the backyards
+A door on the front near an outside opening west of the unknown cars east of the back yards
+A door on the front near an outside opening west of the unknown cars east of the backyards
+A door west of the unknown cars east of a back yard on a front near the outside openings
+A door west of the unknown cars east of a backyard on a front near the outside openings
+A door west of the unknown cars east of the back yards near the outside opening on the fronts.
+A door west of the unknown cars east of the backyards near the outside opening on the fronts.
+Doors on the fronts near the outside openings west of the unknown cars east of the back yards
+Doors on the fronts near the outside openings west of the unknown cars east of the backyards
+The door on the front near an outside opening west of the unknown cars east of the back yards
+The door on the front near an outside opening west of the unknown cars east of the backyards
+A door near an outside opening west of the unknown cars east of the backyard on the fronts.
+A door near an outside opening west of the unknown cars east of the back yard on the fronts.
+The door west of the unknown cars east of a back yard on a front near the outside openings
+The door west of the unknown cars east of a backyard on a front near the outside openings
+The door west of the unknown cars east of the back yards near the outside opening on the fronts.
+The door west of the unknown cars east of the backyards near the outside opening on the fronts.
+A door on fronts west of the unknown cars east of the back yards near outside openings.
+A door on fronts west of the unknown cars east of the backyards near outside openings.
+Doors, on the fronts west of the unknown cars east of the back yards near the outside openings
+Doors, on the fronts west of the unknown cars east of the backyards near the outside openings
+The door near an outside opening west of the unknown cars east of the backyard on the fronts.
+The door near an outside opening west of the unknown cars east of the back yard on the fronts.
+
+TOTAL RESULTS: 726
+
+Node                                    MRS Produced    Reason                 Included in MRS    Reason
+--------------------------------------  --------------  ---------------------  -----------------  -------------------------
+idBackyard_8                            True            MRS fragment produced  True               Included in MRS
+idCar_5                                 True            MRS fragment produced  True               Included in MRS
+idDriver_2                              True            MRS fragment produced  False              Descends from failed edge
+idDriver_4                              True            MRS fragment produced  False              Descends from failed edge
+idDriversSideFrontDoorOutsideOpening_9  True            MRS fragment produced  True               Included in MRS
+idDriversSideFrontDoor_1                True            MRS fragment produced  True               Included in MRS
+idLocalFront_3                          True            MRS fragment produced  True               Included in MRS
+idStartButton_7                         True            MRS fragment produced  False              Descends from failed edge
+true_6                                  True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason                                    Included in MRS    Reason
+-----------------  --------------  ----------------------------------------  -----------------  ----------------------------------------
+idCarSide_1        False           'idCarSide' has no value in lexicon       False              'idCarSide' has no value in lexicon
+idLocation_2       True            MRS composed                              True               Included in MRS
+idOwnedBy_3        False           'idOwnedBy' has no value in lexicon       False              'idOwnedBy' has no value in lexicon
+idPowerControl_5   False           'idPowerControl' has no value in lexicon  False              'idPowerControl' has no value in lexicon
+idUnknownObject_4  True            MRS composed                              True               Included in MRS
+isEastOf_6         True            MRS composed                              True               Included in MRS
+isNear_8           True            MRS composed                              True               Included in MRS
+isWestOf_7         True            MRS composed                              True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             9        9    1
+Nodes              Included             6        9    0.666667
+Edges              Produced             5        8    0.625
+Edges              Included             5        8    0.625

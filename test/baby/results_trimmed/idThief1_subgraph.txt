@@ -1,0 +1,95 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idThief1_subgraph.dot
+[ TOP: h3553
+  INDEX: e3550
+  RELS: < [ unknown LBL: h3552 ARG: x3546 ARG0: e3550 ]
+          [ def_udef_a_q LBL: h3549 ARG0: x3546 RSTR: h3547 BODY: h3548 ]
+          [ _near_p LBL: h3541 ARG0: e3538 ARG1: x3546 ARG2: x3528 ]
+          [ def_udef_a_q LBL: h3545 ARG0: x3528 RSTR: h3543 BODY: h3544 ]
+          [ _car_n_1 LBL: h3529 ARG0: x3528 ]
+          [ _thief_n_1 LBL: h3541 ARG0: x3546 ] >
+  HCONS: < h3543 qeq h3529 h3547 qeq h3541 h3553 qeq h3552 > ]
+GENERATED RESULTS ... 
+Thieves near the cars
+The thieves near the cars
+The thieves near the car
+The thieves near a car
+Thieves near the car
+The thieves near cars
+Thieves near the cars.
+The thieves near the cars.
+A thief near the cars
+The thief near the cars
+Thieves near a car
+A thief near the car
+The thief near the car
+A thief near a car
+The thief near a car
+Thieves near cars
+The thieves near cars.
+Thieves, near the cars
+The thieves, near the cars
+Thieves near a car.
+The thieves near a car.
+A thief near cars
+The thief near cars
+A thief near the cars.
+Thieves near the car.
+The thief near the cars.
+The thieves near the car.
+Thieves, near the car
+The thieves, near the car
+Thieves near cars.
+A thief near cars.
+The thief near cars.
+Thieves, near a car
+The thieves, near a car
+The thief, near the cars
+A thief near a car.
+The thief near a car.
+A thief near the car.
+The thief near the car.
+Thief, near the cars
+The thieves, near cars
+Thieves, near cars
+The thief, near the car
+A thief, near the cars
+Thief, near the car
+Thief near the car
+Thief near the cars
+The thief, near a car
+A thief, near the car
+Thief, near a car
+The thief, near cars
+Thief near a car
+A thief, near a car
+Thief near the cars.
+Thief, near cars
+A thief, near cars
+Thief near cars
+Thief near cars.
+Thief near a car.
+Thief near the car.
+
+TOTAL RESULTS: 60
+
+Node       MRS Produced    Reason                 Included in MRS    Reason
+---------  --------------  ---------------------  -----------------  -------------------------
+idCar_3    True            MRS fragment produced  True               Included in MRS
+idThief_1  True            MRS fragment produced  True               Included in MRS
+true_2     True            MRS fragment produced  False              Descends from failed edge
+true_4     True            MRS fragment produced  False              Descends from failed edge
+yes_5      True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idImmovable_3      False           'idImmovable' has no value in lexicon      False              'idImmovable' has no value in lexicon
+idUnknownObject_1  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+idUnknownObject_2  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+isNear_4           True            MRS composed                               True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             5        5        1
+Nodes              Included             2        5        0.4
+Edges              Produced             1        4        0.25
+Edges              Included             1        4        0.25

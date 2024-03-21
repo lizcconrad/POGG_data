@@ -1,0 +1,86 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Scenario/subgraphs/dot/complete/idDarkCaveFrontOpening_subgraph.dot
+[ TOP: h701
+  INDEX: e698
+  RELS: < [ unknown LBL: h700 ARG: x667 ARG0: e698 ]
+          [ def_udef_a_q LBL: h697 ARG0: x667 RSTR: h695 BODY: h696 ]
+          [ _medium_a_1 LBL: h681 ARG0: e679 ARG1: x667 ]
+          [ compound LBL: h681 ARG0: e675 ARG1: x667 ARG2: x669 ]
+          [ udef_q LBL: h674 ARG0: x669 RSTR: h672 BODY: h673 ]
+          [ _front_n_1 LBL: h670 ARG0: x669 ]
+          [ _opening_n_1 LBL: h681 ARG0: x667 ] >
+  HCONS: < h672 qeq h670 h695 qeq h681 h701 qeq h700 > ]
+GENERATED RESULTS ... 
+The medium front opening
+A medium front opening
+The medium front openings
+Medium front openings
+The medium front openings.
+Medium front openings.
+Medium front opening
+Fronts medium opening
+The medium front opening.
+The fronted medium opening
+The medium fronted opening
+A medium front opening.
+A fronted medium opening
+A medium fronted opening
+Medium fronted openings
+Medium fronted openings.
+Fronted medium openings
+A fronts medium opening
+The fronts medium opening
+The fronted medium openings
+The medium fronted, openings.
+The medium fronted, openings
+Medium fronted, openings.
+The medium fronted, opening
+The medium fronted openings
+Medium fronted, openings
+The medium fronted openings.
+A medium fronted, opening
+Medium fronted opening
+The fronts medium openings
+The fronts medium openings.
+Fronts medium opening.
+The medium fronted, opening.
+A medium fronted, opening.
+Fronts medium openings
+Fronted medium opening
+The fronted medium openings.
+The medium fronted opening.
+Fronts medium openings.
+Medium front opening.
+A medium fronted opening.
+Fronted medium openings.
+A fronts medium opening.
+The fronts medium opening.
+Medium fronted, opening
+The fronted medium opening.
+A fronted medium opening.
+Medium fronted opening.
+Medium fronted, opening.
+Fronted medium opening.
+
+TOTAL RESULTS: 50
+
+Node                      MRS Produced    Reason                                 Included in MRS    Reason
+------------------------  --------------  -------------------------------------  -----------------  -------------------------------------
+2_4                       False           '2' has no value in the lexicon        False              '2' has no value in the lexicon
+idDarkCaveFrontOpening_1  True            MRS fragment produced                  True               Included in MRS
+idPlageBackOpening_5      True            MRS fragment produced                  False              Descends from failed node
+idPlage_3                 False           'idPlage' has no value in the lexicon  False              'idPlage' has no value in the lexicon
+medium_2                  True            MRS fragment produced                  True               Included in MRS
+
+Edge            MRS Composed    Reason                     Included in MRS    Reason
+--------------  --------------  -------------------------  -----------------  -------------------------
+idHeight_1      True            MRS composed               True               Included in MRS
+idOrdinality_2  False           Outbound from failed node  False              Outbound from failed node
+isNorthOf_3     False           Outbound from failed node  False              Outbound from failed node
+isSouthOf_4     False           Inbound to failed node     False              Inbound to failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        5        0.6
+Nodes              Included             2        5        0.4
+Edges              Produced             1        4        0.25
+Edges              Included             1        4        0.25

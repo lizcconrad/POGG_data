@@ -1,0 +1,828 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idDramaBuilding1Door_subgraph.dot
+[ TOP: h1015
+  INDEX: e1012
+  RELS: < [ unknown LBL: h1014 ARG: x856 ARG0: e1012 ]
+          [ def_udef_a_q LBL: h1011 ARG0: x856 RSTR: h1009 BODY: h1010 ]
+          [ loc_nonsp LBL: h1007 ARG0: i1004 ARG1: x856 ARG2: x1000 ]
+          [ loc_nonsp LBL: h1007 ARG0: i953 ARG1: x856 ARG2: x940 ]
+          [ _open_a_to LBL: h1007 ARG0: e881 ARG1: x856 ARG2: u883 ]
+          [ _white_a_1 LBL: h1007 ARG0: i878 ARG1: x856 ]
+          [ compound LBL: h1007 ARG0: e874 ARG1: x856 ARG2: x858 ]
+          [ udef_q LBL: h873 ARG0: x858 RSTR: h871 BODY: h872 ]
+          [ compound LBL: h869 ARG0: e866 ARG1: x858 ARG2: x862 ]
+          [ udef_q LBL: h865 ARG0: x862 RSTR: h863 BODY: h864 ]
+          [ _drama_n_1 LBL: h861 ARG0: x862 ]
+          [ _building_n_1 LBL: h869 ARG0: x858 ]
+          [ _door_n_1 LBL: h1007 ARG0: x856 ]
+          [ def_implicit_q LBL: h952 ARG0: x940 RSTR: h950 BODY: h951 ]
+          [ _south_a_1 LBL: h942 ARG0: i939 ARG1: x940 ARG2: x943 ]
+          [ def_udef_a_q LBL: h946 ARG0: x943 RSTR: h944 BODY: h945 ]
+          [ loc_nonsp LBL: h896 ARG0: i935 ARG1: x943 ARG2: x922 ]
+          [ compound LBL: h896 ARG0: e893 ARG1: x943 ARG2: x887 ]
+          [ udef_q LBL: h892 ARG0: x887 RSTR: h890 BODY: h891 ]
+          [ _back_n_1 LBL: h888 ARG0: x887 ]
+          [ _opening_n_1 LBL: h896 ARG0: x943 ]
+          [ def_implicit_q LBL: h934 ARG0: x922 RSTR: h932 BODY: h933 ]
+          [ _north_a_1 LBL: h930 ARG0: i921 ARG1: x922 ARG2: x918 ]
+          [ def_udef_a_q LBL: h928 ARG0: x918 RSTR: h926 BODY: h927 ]
+          [ poss LBL: h909 ARG0: e917 ARG1: x918 ARG2: x910 ]
+          [ compound LBL: h909 ARG0: e906 ARG1: x918 ARG2: x902 ]
+          [ udef_q LBL: h905 ARG0: x902 RSTR: h903 BODY: h904 ]
+          [ _right_n_of LBL: h901 ARG0: x902 ARG1: i900 ]
+          [ _hand_n_1 LBL: h909 ARG0: x918 ]
+          [ def_udef_a_q LBL: h916 ARG0: x910 RSTR: h914 BODY: h915 ]
+          [ _player_n_of LBL: h912 ARG0: x910 ARG1: i911 ]
+          [ place_n LBL: h930 ARG0: x922 ]
+          [ place_n LBL: h942 ARG0: x940 ]
+          [ def_implicit_q LBL: h1003 ARG0: x1000 RSTR: h1001 BODY: h1002 ]
+          [ _north_a_1 LBL: h993 ARG0: i990 ARG1: x1000 ARG2: x957 ]
+          [ def_udef_a_q LBL: h997 ARG0: x957 RSTR: h995 BODY: h996 ]
+          [ loc_nonsp LBL: h989 ARG0: i986 ARG1: x957 ARG2: x973 ]
+          [ _player_n_of LBL: h989 ARG0: x957 ARG1: i958 ]
+          [ def_implicit_q LBL: h985 ARG0: x973 RSTR: h983 BODY: h984 ]
+          [ _south_a_1 LBL: h981 ARG0: i972 ARG1: x973 ARG2: x960 ]
+          [ def_udef_a_q LBL: h979 ARG0: x960 RSTR: h977 BODY: h978 ]
+          [ compound LBL: h971 ARG0: e968 ARG1: x960 ARG2: x962 ]
+          [ udef_q LBL: h967 ARG0: x962 RSTR: h965 BODY: h966 ]
+          [ _front_n_1 LBL: h963 ARG0: x962 ]
+          [ _opening_n_1 LBL: h971 ARG0: x960 ]
+          [ place_n LBL: h981 ARG0: x973 ]
+          [ place_n LBL: h993 ARG0: x1000 ] >
+  HCONS: < h863 qeq h861 h871 qeq h869 h890 qeq h888 h903 qeq h901 h914 qeq h912 h926 qeq h909 h932 qeq h930 h944 qeq h896 h950 qeq h942 h965 qeq h963 h977 qeq h971 h983 qeq h981 h995 qeq h989 h1001 qeq h993 h1009 qeq h1007 h1015 qeq h1014 > ]
+GENERATED RESULTS ... 
+Open drama building white doors south of the back opening north of the player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of a back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of a back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back openings north of the player's right hand
+Open drama building white doors north of the players south of the front openings south of the back opening north of the player's right hands.
+Open drama building white doors north of the players south of the front opening south of the back opening north of the player's right hands.
+Open drama building white doors north of the players south of the front openings south of a back opening north of the player's right hands.
+Open drama building white doors north of the players south of the front openings south of the back openings north of the player's right hands.
+Open drama building white doors north of the players south of the front opening south of a back opening north of the player's right hands.
+Open drama building white doors north of the players south of the front opening south of the back openings north of the player's right hands.
+Open drama building white doors north of the player south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of the player south of the front openings
+Open drama building white doors south of the back opening north of the player's right hand north of the players south of a front opening
+Open drama building white doors north of the players south of a front opening south of the back opening north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of the player south of the front opening
+Open drama building white doors north of the player south of the front opening south of the back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the player south of the front openings
+Open drama building white doors north of the player south of the front openings south of a back opening north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of a player south of the front openings
+Open drama building white doors north of a player south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the player south of the front openings
+Open drama building white doors north of the player south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the players south of a front opening
+Open drama building white doors north of the players south of a front opening south of a back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the player south of the front opening
+Open drama building white doors north of the player south of the front opening south of a back opening north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of a player south of the front opening
+Open drama building white doors north of a player south of the front opening south of the back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the players south of a front opening
+Open drama building white doors north of the players south of a front opening south of the back openings north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the player south of the front opening
+Open drama building white doors north of the player south of the front opening south of the back openings north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of a player south of the front openings
+Open drama building white doors north of a player south of the front openings south of a back opening north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of the players south of the front openings.
+Open drama building white doors south of the back openings north of the player's right hand north of a player south of the front openings
+Open drama building white doors north of a player south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hands north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back opening north of the player's right hands
+Open drama building white doors south of a back opening north of the player's right hand north of a player south of the front opening
+Open drama building white doors north of a player south of the front opening south of a back opening north of the player's right hand
+Open drama building white doors north of the player south of the front openings south of the back opening north of the player's right hands.
+Open drama building white doors south of the back openings north of the player's right hand north of a player south of the front opening
+Open drama building white doors north of a player south of the front opening south of the back openings north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the players south of the front openings.
+Open drama building white doors south of the back openings north of the player's right hand north of the players south of the front openings.
+Open drama building white doors south of the back opening north of a player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back opening north of a player's right hand
+Open white drama building doors south of the back opening north of the player's right hand north of the players south of the front openings
+Open white drama building doors north of the players south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hands north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back opening north of the player's right hands
+Open drama building white doors north of the players south of a front opening south of the back opening north of the player's right hands.
+Open drama building white doors north of the player south of the front opening south of the back opening north of the player's right hands.
+Open drama building white doors south of a back opening north of the player's right hands north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of a back opening north of the player's right hands
+Open drama building white doors north of the player south of the front openings south of a back opening north of the player's right hands.
+Open drama building white doors north of a player south of the front openings south of the back opening north of the player's right hands.
+Open drama building white doors south of the back openings north of the player's right hands north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back openings north of the player's right hands
+Open drama building white doors north of the player south of the front openings south of the back openings north of the player's right hands.
+Open drama building white doors north of the players south of the front opening south of the back opening north of a player's right hand
+Open drama building white doors south of the back opening north of a player's right hand north of the players south of the front opening
+Open white drama building doors south of the back opening north of the player's right hand north of the players south of the front opening
+Open white drama building doors north of the players south of the front opening south of the back opening north of the player's right hand
+Open drama building white doors south of a back opening north of a player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of a back opening north of a player's right hand
+Open white drama building doors south of a back opening north of the player's right hand north of the players south of the front openings
+Open white drama building doors north of the players south of the front openings south of a back opening north of the player's right hand
+Open drama building white doors south of the back openings north of a player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back openings north of a player's right hand
+Open white drama building doors south of the back openings north of the player's right hand north of the players south of the front openings
+Open white drama building doors north of the players south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hands north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of a back opening north of the player's right hands
+Open drama building white doors north of the players south of a front opening south of a back opening north of the player's right hands.
+Open drama building white doors north of the player south of the front opening south of a back opening north of the player's right hands.
+Open drama building white doors north of a player south of the front opening south of the back opening north of the player's right hands.
+Open drama building white doors south of the back openings north of the player's right hands north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back openings north of the player's right hands
+Open drama building white doors north of the players south of a front opening south of the back openings north of the player's right hands.
+Open drama building white doors north of the player south of the front opening south of the back openings north of the player's right hands.
+Open drama building white doors north of a player south of the front openings south of a back opening north of the player's right hands.
+White open drama building doors south of the back opening north of the player's right hand north of the players south of the front openings
+White open drama building doors north of the players south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors north of a player south of the front openings south of the back openings north of the player's right hands.
+Open drama building white doors south of a back opening north of a player's right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of a back opening north of a player's right hand
+Open white drama building doors south of a back opening north of the player's right hand north of the players south of the front opening
+Open white drama building doors north of the players south of the front opening south of a back opening north of the player's right hand
+Open drama building white doors south of the back openings north of a player's right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back openings north of a player's right hand
+Open white drama building doors south of the back openings north of the player's right hand north of the players south of the front opening
+Open white drama building doors north of the players south of the front opening south of the back openings north of the player's right hand
+Open drama building white doors north of a player south of the front opening south of a back opening north of the player's right hands.
+Open drama building white doors south of the back opening north of the players' right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back opening north of the players' right hand
+White open drama building doors south of the back opening north of the player's right hand north of the players south of the front opening
+White open drama building doors north of the players south of the front opening south of the back opening north of the player's right hand
+Open drama building white doors north of a player south of the front opening south of the back openings north of the player's right hands.
+White open drama building doors south of a back opening north of the player's right hand north of the players south of the front openings
+White open drama building doors north of the players south of the front openings south of a back opening north of the player's right hand
+White open drama building doors south of the back openings north of the player's right hand north of the players south of the front openings
+White open drama building doors north of the players south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors north of the players south of the front openings south of the back opening north of a player's right hands.
+Open white drama building doors north of the players south of the front openings south of the back opening north of the player's right hands.
+Open drama building white doors south of the back opening north of the players' right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back opening north of the players' right hand
+Open drama building white doors south of the back opening north of the player's right hand north of the player south of a front opening
+Open drama building white doors north of the player south of a front opening south of the back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the players' right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of a back opening north of the players' right hand
+White open drama building doors south of a back opening north of the player's right hand north of the players south of the front opening
+White open drama building doors north of the players south of the front opening south of a back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the players' right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back openings north of the players' right hand
+White open drama building doors south of the back openings north of the player's right hand north of the players south of the front opening
+White open drama building doors north of the players south of the front opening south of the back openings north of the player's right hand
+Open drama building white doors north of the players south of the front opening south of the back opening north of a player's right hands.
+Open white drama building doors north of the players south of the front opening south of the back opening north of the player's right hands.
+Open drama building white doors north of the players south of the front openings south of a back opening north of a player's right hands.
+Open white drama building doors north of the players south of the front openings south of a back opening north of the player's right hands.
+Open drama buildings white doors south of the back opening north of the player's right hand north of the players south of the front openings
+Open drama buildings white doors north of the players south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors north of the players south of the front openings south of the back openings north of a player's right hands.
+Open white drama building doors north of the players south of the front openings south of the back openings north of the player's right hands.
+Open drama building white doors south of a back opening north of the players' right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of a back opening north of the players' right hand
+Open drama building white doors south of the back opening north of the player's right hand north of a player south of a front opening
+Open drama building white doors north of a player south of a front opening south of the back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the player south of a front opening
+Open drama building white doors north of the player south of a front opening south of a back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the players' right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back openings north of the players' right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the player south of a front opening
+Open drama building white doors north of the player south of a front opening south of the back openings north of the player's right hand
+White open drama building doors north of the players south of the front openings south of the back opening north of the player's right hands.
+Open drama building white doors south of the back opening north of the player's right hand north of players south of the front openings
+Open drama building white doors north of players south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of the player south of the front openings.
+Open drama building white doors north of the players south of the front opening south of a back opening north of a player's right hands.
+Open white drama building doors north of the players south of the front opening south of a back opening north of the player's right hands.
+Open drama buildings white doors south of the back opening north of the player's right hand north of the players south of the front opening
+Open drama buildings white doors north of the players south of the front opening south of the back opening north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of the players south of the fronted, openings.
+Open drama building white doors north of the players south of the front opening south of the back openings north of a player's right hands.
+Open white drama building doors north of the players south of the front opening south of the back openings north of the player's right hands.
+Open drama buildings white doors south of a back opening north of the player's right hand north of the players south of the front openings
+Open drama buildings white doors north of the players south of the front openings south of a back opening north of the player's right hand
+Open drama buildings white doors south of the back openings north of the player's right hand north of the players south of the front openings
+Open drama buildings white doors north of the players south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors north of the players south of the front openings south of the back opening north of the players' right hands.
+Open drama building white doors south of the back opening north of the player's right hands north of the player south of the front openings
+Open drama building white doors north of the player south of the front openings south of the back opening north of the player's right hands
+White open drama building doors north of the players south of the front opening south of the back opening north of the player's right hands.
+Open drama building white doors south of the back opening north of the player's right hand north of players south of the front opening
+Open drama building white doors north of players south of the front opening south of the back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of a player south of a front opening
+Open drama building white doors north of a player south of a front opening south of a back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of a player south of a front opening
+Open drama building white doors north of a player south of a front opening south of the back openings north of the player's right hand
+White open drama building doors north of the players south of the front openings south of a back opening north of the player's right hands.
+Open drama building white doors south of a back opening north of the player's right hand north of players south of the front openings
+Open drama building white doors north of players south of the front openings south of a back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the player south of the front openings.
+Open drama building white doors south of the back opening north of the player's right hand north of a player south of the front openings.
+Open drama building white doors south of the back opening north of the player's right hand north of the players south of the fronted, openings
+Open drama building white doors north of the players south of the fronted, openings south of the back opening north of the player's right hand
+White open drama building doors north of the players south of the front openings south of the back openings north of the player's right hands.
+Open drama building white doors south of the back openings north of the player's right hand north of players south of the front openings
+Open drama building white doors north of players south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the player south of the front openings.
+Open drama building white doors south of the back opening north of the player's right hand north of the players south of the front opening.
+Open drama buildings white doors south of a back opening north of the player's right hand north of the players south of the front opening
+Open drama buildings white doors north of the players south of the front opening south of a back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the players south of the fronted, openings.
+Open drama building white doors south of the back opening north of a player's right hand north of the player south of the front openings
+Open drama building white doors north of the player south of the front openings south of the back opening north of a player's right hand
+Open white drama building doors south of the back opening north of the player's right hand north of the player south of the front openings
+Open white drama building doors north of the player south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of the players south of the fronted, opening
+Open drama building white doors north of the players south of the fronted, opening south of the back opening north of the player's right hand
+Open drama buildings white doors south of the back openings north of the player's right hand north of the players south of the front opening
+Open drama buildings white doors north of the players south of the front opening south of the back openings north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the players south of the fronted, openings.
+Open drama building white doors south of the back opening north of the player's right hands north of the players south of a front opening
+Open drama building white doors north of the players south of a front opening south of the back opening north of the player's right hands
+Open drama building white doors north of the players south of the front opening south of the back opening north of the players' right hands.
+Open drama building white doors south of the back opening north of the player's right hands north of the player south of the front opening
+Open drama building white doors north of the player south of the front opening south of the back opening north of the player's right hands
+Open drama building white doors north of the players south of the front openings south of the back opening north of the player's right hand.
+Open drama building white doors north of the player south of a front opening south of the back opening north of the player's right hands.
+Open drama building white doors north of the players south of the front openings south of a back opening north of the players' right hands.
+Open drama building white doors south of a back opening north of the player's right hands north of the player south of the front openings
+Open drama building white doors north of a player south of the front openings south of the back opening north of the player's right hands
+Open drama building white doors south of the back opening north of the player's right hands north of a player south of the front openings
+Open drama building white doors north of the player south of the front openings south of a back opening north of the player's right hands
+White open drama building doors north of the players south of the front opening south of a back opening north of the player's right hands.
+Open drama building white doors south of a back opening north of the player's right hand north of players south of the front opening
+Open drama building white doors north of players south of the front opening south of a back opening north of the player's right hand
+Open drama building white doors north of the players south of the front openings south of the back openings north of the players' right hands.
+Open drama building white doors south of the back openings north of the player's right hands north of the player south of the front openings
+Open drama building white doors north of the player south of the front openings south of the back openings north of the player's right hands
+White open drama building doors north of the players south of the front opening south of the back openings north of the player's right hands.
+Open drama building white doors south of the back openings north of the player's right hand north of players south of the front opening
+Open drama building white doors north of players south of the front opening south of the back openings north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of a player south of the front openings.
+Open drama building white doors south of the back opening north of a player's right hand north of the players south of a front opening
+Open drama building white doors north of the players south of a front opening south of the back opening north of a player's right hand
+Open drama building white doors south of the back opening north of a player's right hand north of the player south of the front opening
+Open drama building white doors north of the player south of the front opening south of the back opening north of a player's right hand
+Open white drama building doors south of the back opening north of the player's right hand north of the players south of a front opening
+Open white drama building doors north of the players south of a front opening south of the back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the players south of the fronted, openings
+Open drama building white doors north of the players south of the fronted, openings south of a back opening north of the player's right hand
+Open white drama building doors south of the back opening north of the player's right hand north of the player south of the front opening
+Open white drama building doors north of the player south of the front opening south of the back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of a player south of the front openings.
+Open drama building white doors south of a back opening north of the player's right hand north of the players south of the front opening.
+Open drama building white doors south of the back openings north of the player's right hand north of the players south of the fronted, openings
+Open drama building white doors north of the players south of the fronted, openings south of the back openings north of the player's right hand
+Open drama buildings white doors north of the players south of the front openings south of the back opening north of the player's right hands.
+Open drama building white doors north of the players south of the front opening south of the back opening north of the player's right hand.
+Open drama building white doors south of the back opening north of a player's right hand north of a player south of the front openings
+Open drama building white doors north of a player south of the front openings south of the back opening north of a player's right hand
+Open drama building white doors south of a back opening north of a player's right hand north of the player south of the front openings
+Open drama building white doors north of the player south of the front openings south of a back opening north of a player's right hand
+Open white drama building doors south of the back opening north of the player's right hand north of a player south of the front openings
+Open white drama building doors south of a back opening north of the player's right hand north of the player south of the front openings
+Open white drama building doors north of a player south of the front openings south of the back opening north of the player's right hand
+Open white drama building doors north of the player south of the front openings south of a back opening north of the player's right hand
+Open drama building white doors south of the backed, openings north of the player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the backed, openings north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the players south of the fronted, opening
+Open drama building white doors north of the players south of the fronted, opening south of a back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the players south of the front opening.
+Open drama building white doors south of the back openings north of a player's right hand north of the player south of the front openings
+Open drama building white doors north of the player south of the front openings south of the back openings north of a player's right hand
+Open drama building white doors south of a back opening north of the player's right hands north of the players south of a front opening
+Open drama building white doors north of the players south of a front opening south of a back opening north of the player's right hands
+Open white drama building doors south of the back openings north of the player's right hand north of the player south of the front openings
+Open white drama building doors north of the player south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors north of the players south of the front opening south of a back opening north of the players' right hands.
+Open drama building white doors south of a back opening north of the player's right hands north of the player south of the front opening
+Open drama building white doors north of the player south of the front opening south of a back opening north of the player's right hands
+Open drama building white doors south of the back opening north of the player's right hands north of a player south of the front opening
+Open drama building white doors north of a player south of the front opening south of the back opening north of the player's right hands
+Open drama building white doors north of the players south of the front openings south of a back opening north of the player's right hand.
+Drama buildings open white doors south of the back opening north of the player's right hand north of the players south of the front openings
+Drama buildings open white doors north of the players south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors north of a player south of a front opening south of the back opening north of the player's right hands.
+Open drama building white doors north of the player south of a front opening south of a back opening north of the player's right hands.
+Open drama building white doors south of the back openings north of the player's right hand north of the players south of the fronted, opening
+Open drama building white doors north of the players south of the fronted, opening south of the back openings north of the player's right hand
+Open drama building white doors south of the backed, opening north of the player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the backed, opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hands north of the players south of a front opening
+Open drama building white doors north of the players south of a front opening south of the back openings north of the player's right hands
+Open drama building white doors north of the players south of the front opening south of the back openings north of the players' right hands.
+Open drama building white doors south of the back openings north of the player's right hands north of the player south of the front opening
+Open drama building white doors north of the player south of the front opening south of the back openings north of the player's right hands
+Open drama building white doors north of the players south of the front openings south of the back openings north of the player's right hand.
+Open drama building white doors south of a back opening north of the player's right hands north of a player south of the front openings
+Open drama building white doors north of a player south of the front openings south of a back opening north of the player's right hands
+Open drama building white doors south of the back opening north of the player's right hands north of the players south of the front openings.
+Open drama building white doors north of the player south of a front opening south of the back openings north of the player's right hands.
+Open drama building white doors north of players south of the front openings south of the back opening north of the player's right hands.
+White open drama building doors south of the back opening north of the player's right hand north of the player south of the front openings
+White open drama building doors north of the player south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hands north of a player south of the front openings
+Open drama building white doors north of a player south of the front openings south of the back openings north of the player's right hands
+Open drama building white doors south of the back opening north of the player's right hand north of the players south of a fronted, opening
+Open drama building white doors north of the players south of a fronted, opening south of the back opening north of the player's right hand
+Open drama building white doors south of a back opening north of a player's right hand north of the players south of a front opening
+Open drama building white doors north of the players south of a front opening south of a back opening north of a player's right hand
+Open drama buildings white doors north of the players south of the front opening south of the back opening north of the player's right hands.
+Open drama building white doors south of a back opening north of a player's right hand north of the player south of the front opening
+Open drama building white doors north of the player south of the front opening south of a back opening north of a player's right hand
+Open drama building white doors south of the back opening north of a player's right hand north of a player south of the front opening
+Open drama building white doors north of a player south of the front opening south of the back opening north of a player's right hand
+Open white drama building doors south of a back opening north of the player's right hand north of the players south of a front opening
+Open white drama building doors north of the players south of a front opening south of a back opening north of the player's right hand
+Open white drama building doors south of the back opening north of the player's right hand north of a player south of the front opening
+Open white drama building doors south of a back opening north of the player's right hand north of the player south of the front opening
+Open white drama building doors north of a player south of the front opening south of the back opening north of the player's right hand
+Open white drama building doors north of the player south of the front opening south of a back opening north of the player's right hand
+Open drama building white doors south of the backed, openings north of the player's right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the backed, openings north of the player's right hand
+Open drama building white doors south of the back openings north of a player's right hand north of the players south of a front opening
+Open drama building white doors north of the players south of a front opening south of the back openings north of a player's right hand
+Open drama building white doors south of the back openings north of a player's right hand north of the player south of the front opening
+Open drama building white doors north of the player south of the front opening south of the back openings north of a player's right hand
+Open white drama building doors south of the back openings north of the player's right hand north of the players south of a front opening
+Open white drama building doors north of the players south of a front opening south of the back openings north of the player's right hand
+Open white drama building doors south of the back openings north of the player's right hand north of the player south of the front opening
+Open white drama building doors north of the player south of the front opening south of the back openings north of the player's right hand
+Open drama buildings white doors north of the players south of the front openings south of a back opening north of the player's right hands.
+Open drama building white doors north of the players south of the front opening south of a back opening north of the player's right hand.
+Open drama building white doors south of a back opening north of a player's right hand north of a player south of the front openings
+Open drama building white doors north of a player south of the front openings south of a back opening north of a player's right hand
+Drama buildings open white doors south of the back opening north of the player's right hand north of the players south of the front opening
+Drama buildings open white doors north of the players south of the front opening south of the back opening north of the player's right hand
+Open drama building white doors south of the back opening north of a player's right hand north of the players south of the front openings.
+Open white drama building doors south of a back opening north of the player's right hand north of a player south of the front openings
+Open white drama building doors north of a player south of the front openings south of a back opening north of the player's right hand
+Open white drama building doors south of the back opening north of the player's right hand north of the players south of the front openings.
+Open drama building white doors south of the backed, opening north of the player's right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the backed, opening north of the player's right hand
+Open drama buildings white doors north of the players south of the front openings south of the back openings north of the player's right hands.
+Open drama building white doors north of the players south of the front opening south of the back openings north of the player's right hand.
+Open drama building white doors south of the back openings north of a player's right hand north of a player south of the front openings
+Open drama building white doors north of a player south of the front openings south of the back openings north of a player's right hand
+Open white drama building doors south of the back openings north of the player's right hand north of a player south of the front openings
+Open white drama building doors north of a player south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hands north of a player south of the front opening
+Open drama building white doors north of a player south of the front opening south of a back opening north of the player's right hands
+Drama buildings open white doors south of a back opening north of the player's right hand north of the players south of the front openings
+Drama buildings open white doors north of the players south of the front openings south of a back opening north of the player's right hand
+Open drama building white doors north of players south of the front opening south of the back opening north of the player's right hands.
+Open drama building white doors north of a player south of a front opening south of a back opening north of the player's right hands.
+Open drama building white doors south of the back opening north of the players' right hand north of the player south of the front openings
+Open drama building white doors north of the player south of the front openings south of the back opening north of the players' right hand
+White open drama building doors south of the back opening north of the player's right hand north of the players south of a front opening
+White open drama building doors north of the players south of a front opening south of the back opening north of the player's right hand
+Open drama building white doors south of a backed, opening north of the player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of a backed, opening north of the player's right hand
+White open drama building doors south of the back opening north of the player's right hand north of the player south of the front opening
+White open drama building doors north of the player south of the front opening south of the back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hands north of a player south of the front opening
+Open drama building white doors north of a player south of the front opening south of the back openings north of the player's right hands
+Drama buildings open white doors south of the back openings north of the player's right hand north of the players south of the front openings
+Drama buildings open white doors north of the players south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hands north of the players south of the front openings.
+Open drama building white doors north of a player south of a front opening south of the back openings north of the player's right hands.
+Open drama building white doors north of players south of the front openings south of a back opening north of the player's right hands.
+Open drama building white doors south of the backed openings north of the player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the backed openings north of the player's right hand
+White open drama building doors south of a back opening north of the player's right hand north of the player south of the front openings
+White open drama building doors north of a player south of the front openings south of the back opening north of the player's right hand
+White open drama building doors south of the back opening north of the player's right hand north of a player south of the front openings
+White open drama building doors north of the player south of the front openings south of a back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the players south of a fronted, opening
+Open drama building white doors north of the players south of a fronted, opening south of a back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hands north of the players south of the front openings.
+Open drama building white doors north of the players south of the fronted, openings south of the back opening north of the player's right hands.
+Open drama building white doors north of players south of the front openings south of the back openings north of the player's right hands.
+Open drama building white doors south of the back opening north of a player's right hands north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back opening north of a player's right hands
+Open white drama building doors south of the back opening north of the player's right hands north of the players south of the front openings
+Open white drama building doors north of the players south of the front openings south of the back opening north of the player's right hands
+White open drama building doors south of the back openings north of the player's right hand north of the player south of the front openings
+White open drama building doors north of the player south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the players south of a fronted, opening
+Open drama building white doors north of the players south of a fronted, opening south of the back openings north of the player's right hand
+Open drama buildings white doors north of the players south of the front opening south of a back opening north of the player's right hands.
+Open drama building white doors south of a back opening north of a player's right hand north of a player south of the front opening
+Open drama building white doors north of a player south of the front opening south of a back opening north of a player's right hand
+Open drama building white doors north of the player south of the front openings south of the back opening north of a player's right hands.
+Open white drama building doors south of a back opening north of the player's right hand north of a player south of the front opening
+Open white drama building doors north of a player south of the front opening south of a back opening north of the player's right hand
+Open white drama building doors north of the player south of the front openings south of the back opening north of the player's right hands.
+Open drama building white doors north of the players south of the fronted, opening south of the back opening north of the player's right hands.
+Open drama buildings white doors north of the players south of the front opening south of the back openings north of the player's right hands.
+Open drama building white doors south of the back openings north of a player's right hand north of a player south of the front opening
+Open drama building white doors north of a player south of the front opening south of the back openings north of a player's right hand
+Open drama building white doors south of the backed opening north of the player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the backed opening north of the player's right hand
+Open white drama building doors south of the back openings north of the player's right hand north of a player south of the front opening
+Open white drama building doors north of a player south of the front opening south of the back openings north of the player's right hand
+Drama buildings open white doors south of a back opening north of the player's right hand north of the players south of the front opening
+Drama buildings open white doors north of the players south of the front opening south of a back opening north of the player's right hand
+Open drama building white doors south of a back opening north of a player's right hand north of the players south of the front openings.
+Open white drama building doors south of a back opening north of the player's right hand north of the players south of the front openings.
+Open drama building white doors south of the back opening north of the players' right hand north of the players south of a front opening
+Open drama building white doors north of the players south of a front opening south of the back opening north of the players' right hand
+Open drama building white doors south of the back opening north of the players' right hand north of the player south of the front opening
+Open drama building white doors north of the player south of the front opening south of the back opening north of the players' right hand
+Open drama building white doors south of a backed, opening north of the player's right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of a backed, opening north of the player's right hand
+Drama buildings open white doors south of the back openings north of the player's right hand north of the players south of the front opening
+Drama buildings open white doors north of the players south of the front opening south of the back openings north of the player's right hand
+Open drama building white doors south of the back openings north of a player's right hand north of the players south of the front openings.
+Open white drama building doors south of the back openings north of the player's right hand north of the players south of the front openings.
+Open drama building white doors north of players south of the front opening south of a back opening north of the player's right hands.
+Open drama building white doors south of the backed openings north of the player's right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the backed openings north of the player's right hand
+White drama buildings open doors south of the back opening north of the player's right hand north of the players south of the front openings
+White drama buildings open doors north of the players south of the front openings south of the back opening north of the player's right hand
+Open white drama building doors south of the back opening north of a player's right hand north of the players south of the front openings
+Open white drama building doors north of the players south of the front openings south of the back opening north of a player's right hand
+Open drama building white doors south of a back opening north of the players' right hand north of the player south of the front openings
+Open drama building white doors north of a player south of the front openings south of the back opening north of the players' right hand
+Open drama building white doors south of the back opening north of the players' right hand north of a player south of the front openings
+Open drama building white doors north of the player south of the front openings south of a back opening north of the players' right hand
+White open drama building doors south of a back opening north of the player's right hand north of the players south of a front opening
+White open drama building doors north of the players south of a front opening south of a back opening north of the player's right hand
+White open drama building doors south of the back opening north of the player's right hand north of a player south of the front opening
+White open drama building doors north of a player south of the front opening south of the back opening north of the player's right hand
+White open drama building doors south of a back opening north of the player's right hand north of the player south of the front opening
+White open drama building doors north of the player south of the front opening south of a back opening north of the player's right hand
+Open drama building white doors north of players south of the front opening south of the back openings north of the player's right hands.
+Open drama building white doors south of the back openings north of the players' right hand north of the player south of the front openings
+Open drama building white doors north of the player south of the front openings south of the back openings north of the players' right hand
+Open drama building white doors south of the back opening north of a player's right hands north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back opening north of a player's right hands
+White open drama building doors south of the back openings north of the player's right hand north of the players south of a front opening
+White open drama building doors north of the players south of a front opening south of the back openings north of the player's right hand
+Open white drama building doors south of the back opening north of the player's right hands north of the players south of the front opening
+Open white drama building doors north of the players south of the front opening south of the back opening north of the player's right hands
+White open drama building doors south of the back openings north of the player's right hand north of the player south of the front opening
+White open drama building doors north of the player south of the front opening south of the back openings north of the player's right hand
+Drama buildings white open doors south of the back opening north of the player's right hand north of the players south of the front openings
+Drama buildings white open doors north of the players south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors north of the players south of a front opening south of the back opening north of a player's right hands.
+White open drama building doors south of a back opening north of the player's right hand north of a player south of the front openings
+White open drama building doors north of a player south of the front openings south of a back opening north of the player's right hand
+White open drama building doors south of the back opening north of the player's right hand north of the players south of the front openings.
+Open drama building white doors north of the player south of the front opening south of the back opening north of a player's right hands.
+Open white drama building doors north of the players south of a front opening south of the back opening north of the player's right hands.
+Open drama building white doors north of the players south of the fronted, openings south of a back opening north of the player's right hands.
+Open white drama building doors north of the player south of the front opening south of the back opening north of the player's right hands.
+Open drama building white doors south of the back opening north of players' right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back opening north of players' right hand
+Open drama building white doors south of a back opening north of a player's right hands north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of a back opening north of a player's right hands
+Open white drama building doors south of a back opening north of the player's right hands north of the players south of the front openings
+Open white drama building doors north of the players south of the front openings south of a back opening north of the player's right hands
+White open drama building doors south of the back openings north of the player's right hand north of a player south of the front openings
+White open drama building doors north of a player south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors south of the backed opening north of the player's right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the backed opening north of the player's right hand
+Open drama building white doors north of the players south of the fronted, openings south of the back openings north of the player's right hands.
+Open drama building white doors north of a player south of the front openings south of the back opening north of a player's right hands.
+Open drama building white doors north of the player south of the front openings south of a back opening north of a player's right hands.
+Open white drama building doors north of a player south of the front openings south of the back opening north of the player's right hands.
+Open white drama building doors north of the player south of the front openings south of a back opening north of the player's right hands.
+Open drama building white doors north of the players south of the front openings south of the backed, openings north of the player's right hands.
+Open drama building white doors south of the back openings north of a player's right hands north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back openings north of a player's right hands
+Open drama buildings white doors south of the back opening north of the player's right hand north of the player south of the front openings
+Open drama buildings white doors north of the player south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors north of the players south of the fronted, opening south of a back opening north of the player's right hands.
+Open white drama building doors south of the back openings north of the player's right hands north of the players south of the front openings
+Open white drama building doors north of the players south of the front openings south of the back openings north of the player's right hands
+Open drama building white doors north of the player south of the front openings south of the back openings north of a player's right hands.
+Open drama building white doors south of a backed opening north of the player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of a backed opening north of the player's right hand
+Open white drama building doors north of the player south of the front openings south of the back openings north of the player's right hands.
+Drama buildings open white doors north of the players south of the front openings south of the back opening north of the player's right hands.
+Open drama building white doors north of the players south of the fronted, opening south of the back openings north of the player's right hands.
+White drama buildings open doors south of the back opening north of the player's right hand north of the players south of the front opening
+White drama buildings open doors north of the players south of the front opening south of the back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the players' right hand north of the players south of a front opening
+Open drama building white doors north of the players south of a front opening south of a back opening north of the players' right hand
+Open white drama building doors south of the back opening north of a player's right hand north of the players south of the front opening
+Open white drama building doors north of the players south of the front opening south of the back opening north of a player's right hand
+Open drama building white doors south of a back opening north of the players' right hand north of the player south of the front opening
+Open drama building white doors north of the player south of the front opening south of a back opening north of the players' right hand
+Open drama building white doors south of the back opening north of the players' right hand north of a player south of the front opening
+Open drama building white doors north of a player south of the front opening south of the back opening north of the players' right hand
+Open drama building white doors north of the players south of the front openings south of the backed, opening north of the player's right hands.
+Open drama building white doors south of the back openings north of the players' right hand north of the players south of a front opening
+Open drama building white doors north of the players south of a front opening south of the back openings north of the players' right hand
+Open drama building white doors south of the back openings north of the players' right hand north of the player south of the front opening
+Open drama building white doors north of the player south of the front opening south of the back openings north of the players' right hand
+White open drama building doors south of the back opening north of the player's right hands north of the players south of the front openings
+White open drama building doors north of the players south of the front openings south of the back opening north of the player's right hands
+White drama buildings open doors south of a back opening north of the player's right hand north of the players south of the front openings
+White drama buildings open doors north of the players south of the front openings south of a back opening north of the player's right hand
+Open white drama building doors south of a back opening north of a player's right hand north of the players south of the front openings
+Open white drama building doors north of the players south of the front openings south of a back opening north of a player's right hand
+Open drama building white doors south of a back opening north of the players' right hand north of a player south of the front openings
+Open drama building white doors north of a player south of the front openings south of a back opening north of the players' right hand
+Open drama building white doors south of the back opening north of the players' right hand north of the players south of the front openings.
+Drama buildings white open doors south of the back opening north of the player's right hand north of the players south of the front opening
+Drama buildings white open doors north of the players south of the front opening south of the back opening north of the player's right hand
+White open drama building doors south of a back opening north of the player's right hand north of a player south of the front opening
+White open drama building doors north of a player south of the front opening south of a back opening north of the player's right hand
+White open drama building doors north of the player south of the front openings south of the back opening north of the player's right hands.
+Open drama building white doors south of back openings north of the player's right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of back openings north of the player's right hand
+Open drama building white doors north of the players south of a fronted, opening south of the back opening north of the player's right hands.
+Open drama building white doors south of the back opening north of players' right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back opening north of players' right hand
+White drama buildings open doors south of the back openings north of the player's right hand north of the players south of the front openings
+White drama buildings open doors north of the players south of the front openings south of the back openings north of the player's right hand
+Open white drama building doors south of the back openings north of a player's right hand north of the players south of the front openings
+Open white drama building doors north of the players south of the front openings south of the back openings north of a player's right hand
+Open drama building white doors south of the back openings north of the players' right hand north of a player south of the front openings
+Open drama building white doors north of a player south of the front openings south of the back openings north of the players' right hand
+Open drama building white doors south of a back opening north of a player's right hands north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of a back opening north of a player's right hands
+Open white drama building doors south of a back opening north of the player's right hands north of the players south of the front opening
+Open white drama building doors north of the players south of the front opening south of a back opening north of the player's right hands
+White open drama building doors south of the back openings north of the player's right hand north of a player south of the front opening
+White open drama building doors north of a player south of the front opening south of the back openings north of the player's right hand
+Drama buildings white open doors south of a back opening north of the player's right hand north of the players south of the front openings
+Drama buildings white open doors north of the players south of the front openings south of a back opening north of the player's right hand
+Open drama building white doors north of the players south of a front opening south of a back opening north of a player's right hands.
+White open drama building doors south of a back opening north of the player's right hand north of the players south of the front openings.
+Open drama building white doors north of the player south of the front opening south of a back opening north of a player's right hands.
+Open drama building white doors north of a player south of the front opening south of the back opening north of a player's right hands.
+Open white drama building doors north of the players south of a front opening south of a back opening north of the player's right hands.
+Open white drama building doors north of a player south of the front opening south of the back opening north of the player's right hands.
+Open white drama building doors north of the player south of the front opening south of a back opening north of the player's right hands.
+Open drama building white doors north of the players south of the front opening south of the backed, openings north of the player's right hands.
+Open drama building white doors south of a back opening north of players' right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of a back opening north of players' right hand
+Open drama building white doors south of the back openings north of a player's right hands north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back openings north of a player's right hands
+Open drama buildings white doors south of the back opening north of the player's right hand north of the players south of a front opening
+Open drama buildings white doors north of the players south of a front opening south of the back opening north of the player's right hand
+Open drama buildings white doors south of the back opening north of the player's right hand north of the player south of the front opening
+Open drama buildings white doors north of the player south of the front opening south of the back opening north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of the player south of the fronted, openings.
+Open white drama building doors south of the back openings north of the player's right hands north of the players south of the front opening
+Open white drama building doors north of the players south of the front opening south of the back openings north of the player's right hands
+Drama buildings white open doors south of the back openings north of the player's right hand north of the players south of the front openings
+Drama buildings white open doors north of the players south of the front openings south of the back openings north of the player's right hand
+Open drama building white doors north of the players south of a front opening south of the back openings north of a player's right hands.
+White open drama building doors south of the back openings north of the player's right hand north of the players south of the front openings.
+Open drama building white doors north of the player south of the front opening south of the back openings north of a player's right hands.
+Open drama building white doors south of a backed opening north of the player's right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of a backed opening north of the player's right hand
+Open white drama building doors north of the players south of a front opening south of the back openings north of the player's right hands.
+Open white drama building doors north of the player south of the front opening south of the back openings north of the player's right hands.
+Open drama building white doors north of a player south of the front openings south of a back opening north of a player's right hands.
+Drama buildings open white doors north of the players south of the front opening south of the back opening north of the player's right hands.
+Open white drama building doors north of a player south of the front openings south of a back opening north of the player's right hands.
+Open drama building white doors south of the back openings north of players' right hand north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back openings north of players' right hand
+White open drama building doors south of the back opening north of a player's right hand north of the players south of the front openings
+White open drama building doors north of the players south of the front openings south of the back opening north of a player's right hand
+Open drama buildings white doors south of a back opening north of the player's right hand north of the player south of the front openings
+Open drama buildings white doors north of a player south of the front openings south of the back opening north of the player's right hand
+Open drama buildings white doors south of the back opening north of the player's right hand north of a player south of the front openings
+Open drama buildings white doors north of the player south of the front openings south of a back opening north of the player's right hand
+Open drama building white doors north of the players south of the front opening south of the backed, opening north of the player's right hands.
+Open drama building white doors south of the back opening north of the player's right hand north of the players south of the fronted, opening.
+Open drama building white doors north of a player south of the front openings south of the back openings north of a player's right hands.
+Open white drama building doors north of a player south of the front openings south of the back openings north of the player's right hands.
+Drama buildings open white doors north of the players south of the front openings south of a back opening north of the player's right hands.
+Open drama building white doors south of the back opening north of the players' right hands north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back opening north of the players' right hands
+White open drama building doors south of the back opening north of the player's right hands north of the players south of the front opening
+White open drama building doors north of the players south of the front opening south of the back opening north of the player's right hands
+Open drama buildings white doors south of the back openings north of the player's right hand north of the player south of the front openings
+Open drama buildings white doors north of the player south of the front openings south of the back openings north of the player's right hand
+White drama buildings open doors south of a back opening north of the player's right hand north of the players south of the front opening
+White drama buildings open doors north of the players south of the front opening south of a back opening north of the player's right hand
+Open white drama building doors south of a back opening north of a player's right hand north of the players south of the front opening
+Open white drama building doors north of the players south of the front opening south of a back opening north of a player's right hand
+Open drama building white doors south of a back opening north of the players' right hand north of a player south of the front opening
+Open drama building white doors north of a player south of the front opening south of a back opening north of the players' right hand
+Open drama building white doors north of the player south of the front openings south of the back opening north of the players' right hands.
+White open drama building doors north of the players south of a front opening south of the back opening north of the player's right hands.
+Open drama building white doors south of the back opening north of the player's right hand north of players south of a front opening
+Open drama building white doors north of players south of a front opening south of the back opening north of the player's right hand
+Open drama building white doors north of the players south of the front openings south of a backed, opening north of the player's right hands.
+White open drama building doors north of the player south of the front opening south of the back opening north of the player's right hands.
+Open drama building white doors south of back openings north of the player's right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of back openings north of the player's right hand
+Drama buildings open white doors north of the players south of the front openings south of the back openings north of the player's right hands.
+White drama buildings open doors south of the back openings north of the player's right hand north of the players south of the front opening
+White drama buildings open doors north of the players south of the front opening south of the back openings north of the player's right hand
+Open white drama building doors south of the back openings north of a player's right hand north of the players south of the front opening
+Open white drama building doors north of the players south of the front opening south of the back openings north of a player's right hand
+Open drama building white doors south of the back openings north of the players' right hand north of a player south of the front opening
+Open drama building white doors north of a player south of the front opening south of the back openings north of the players' right hand
+Open drama building white doors north of the players south of the front openings south of the backed openings north of the player's right hands.
+White open drama building doors south of a back opening north of the player's right hands north of the players south of the front openings
+White open drama building doors north of the players south of the front openings south of a back opening north of the player's right hands
+Open drama building white doors south of a back opening north of the players' right hand north of the players south of the front openings.
+Drama buildings white open doors south of a back opening north of the player's right hand north of the players south of the front opening
+Drama buildings white open doors north of the players south of the front opening south of a back opening north of the player's right hand
+White open drama building doors north of a player south of the front openings south of the back opening north of the player's right hands.
+White open drama building doors north of the player south of the front openings south of a back opening north of the player's right hands.
+Open drama building white doors north of the players south of a fronted, opening south of a back opening north of the player's right hands.
+Open drama building white doors south of a back opening north of players' right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of a back opening north of players' right hand
+White open drama building doors south of the back openings north of the player's right hands north of the players south of the front openings
+White open drama building doors north of the players south of the front openings south of the back openings north of the player's right hands
+Open drama building white doors south of the back openings north of the players' right hand north of the players south of the front openings.
+Drama buildings white open doors south of the back openings north of the player's right hand north of the players south of the front opening
+Drama buildings white open doors north of the players south of the front opening south of the back openings north of the player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of the player south of the fronted, openings
+Open drama building white doors north of the player south of the fronted, openings south of the back opening north of the player's right hand
+White open drama building doors north of the player south of the front openings south of the back openings north of the player's right hands.
+Open drama building white doors north of the players south of a fronted, opening south of the back openings north of the player's right hands.
+Open drama building white doors north of a player south of the front opening south of a back opening north of a player's right hands.
+Open white drama building doors north of a player south of the front opening south of a back opening north of the player's right hands.
+Open drama building white doors south of the back openings north of players' right hand north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back openings north of players' right hand
+Open white drama building doors south of the back opening north of the players' right hand north of the players south of the front openings
+Open white drama building doors north of the players south of the front openings south of the back opening north of the players' right hand
+Open drama building white doors south of the back opening north of the player's right hand north of the players south of a front opening.
+White open drama building doors south of the back opening north of a player's right hand north of the players south of the front opening
+White open drama building doors north of the players south of the front opening south of the back opening north of a player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of the player south of the front opening.
+Open drama buildings white doors south of a back opening north of the player's right hand north of the players south of a front opening
+Open drama buildings white doors north of the players south of a front opening south of a back opening north of the player's right hand
+Open drama buildings white doors south of a back opening north of the player's right hand north of the player south of the front opening
+Open drama buildings white doors north of a player south of the front opening south of the back opening north of the player's right hand
+Open drama buildings white doors south of the back opening north of the player's right hand north of a player south of the front opening
+Open drama buildings white doors north of the player south of the front opening south of a back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the player south of the fronted, openings.
+Open drama building white doors south of the back opening north of the player's right hand north of a player south of the fronted, openings.
+Open drama building white doors north of a player south of the front opening south of the back openings north of a player's right hands.
+Open drama building white doors north of the players south of the front openings south of the backed opening north of the player's right hands.
+Open white drama building doors north of a player south of the front opening south of the back openings north of the player's right hands.
+Drama buildings open white doors north of the players south of the front opening south of a back opening north of the player's right hands.
+Open drama building white doors south of the back opening north of the player's right hand north of the player south of the fronted, opening
+Open drama building white doors north of the player south of the fronted, opening south of the back opening north of the player's right hand
+Open drama building white doors south of the back opening north of the players' right hands north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back opening north of the players' right hands
+Open drama buildings white doors south of the back openings north of the player's right hand north of the players south of a front opening
+Open drama buildings white doors north of the players south of a front opening south of the back openings north of the player's right hand
+Open drama buildings white doors south of the back openings north of the player's right hand north of the player south of the front opening
+Open drama buildings white doors north of the player south of the front opening south of the back openings north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the player south of the fronted, openings.
+White open drama building doors south of a back opening north of a player's right hand north of the players south of the front openings
+White open drama building doors north of the players south of the front openings south of a back opening north of a player's right hand
+Open drama building white doors north of the players south of a front opening south of the back opening north of the players' right hands.
+Open drama building white doors south of the back opening north of the player's right hands north of the player south of a front opening
+Open drama building white doors north of the player south of a front opening south of the back opening north of the player's right hands
+Open drama buildings white doors south of a back opening north of the player's right hand north of a player south of the front openings
+Open drama buildings white doors north of a player south of the front openings south of a back opening north of the player's right hand
+Open drama buildings white doors south of the back opening north of the player's right hand north of the players south of the front openings.
+Open drama building white doors north of the player south of the front opening south of the back opening north of the players' right hands.
+Open drama building white doors north of the player south of the front openings south of the back opening north of the player's right hand.
+Open drama building white doors north of the players south of the front opening south of a backed, opening north of the player's right hands.
+Open drama building white doors south of a back opening north of the player's right hand north of the players south of the fronted, opening.
+Drama buildings open white doors north of the players south of the front opening south of the back openings north of the player's right hands.
+White open drama building doors south of the back openings north of a player's right hand north of the players south of the front openings
+White open drama building doors north of the players south of the front openings south of the back openings north of a player's right hand
+Open drama building white doors south of a back opening north of the players' right hands north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of a back opening north of the players' right hands
+Open drama building white doors north of the players south of the front opening south of the backed openings north of the player's right hands.
+White open drama building doors south of a back opening north of the player's right hands north of the players south of the front opening
+White open drama building doors north of the players south of the front opening south of a back opening north of the player's right hands
+Open drama buildings white doors south of the back openings north of the player's right hand north of a player south of the front openings
+Open drama buildings white doors north of a player south of the front openings south of the back openings north of the player's right hand
+White drama buildings open doors north of the players south of the front openings south of the back opening north of the player's right hands.
+Open drama building white doors south of the back openings north of the player's right hand north of the players south of the fronted, opening.
+Open white drama building doors north of the players south of the front openings south of the back opening north of a player's right hands.
+Open drama building white doors north of a player south of the front openings south of the back opening north of the players' right hands.
+Open drama building white doors north of the player south of the front openings south of a back opening north of the players' right hands.
+White open drama building doors north of the players south of a front opening south of a back opening north of the player's right hands.
+Open drama building white doors south of a back opening north of the player's right hand north of players south of a front opening
+Open drama building white doors north of players south of a front opening south of a back opening north of the player's right hand
+White open drama building doors north of a player south of the front opening south of the back opening north of the player's right hands.
+White open drama building doors north of the player south of the front opening south of a back opening north of the player's right hands.
+Open drama building white doors south of the back openings north of the players' right hands north of the players south of the front openings
+Open drama building white doors north of the players south of the front openings south of the back openings north of the players' right hands
+White open drama building doors south of the back openings north of the player's right hands north of the players south of the front opening
+White open drama building doors north of the players south of the front opening south of the back openings north of the player's right hands
+Open drama building white doors north of the player south of the front openings south of the back openings north of the players' right hands.
+White open drama building doors north of the players south of a front opening south of the back openings north of the player's right hands.
+Open drama building white doors south of the back openings north of the player's right hand north of players south of a front opening
+Open drama building white doors north of players south of a front opening south of the back openings north of the player's right hand
+White open drama building doors north of the player south of the front opening south of the back openings north of the player's right hands.
+Drama buildings white open doors north of the players south of the front openings south of the back opening north of the player's right hands.
+White open drama building doors north of a player south of the front openings south of a back opening north of the player's right hands.
+Open drama building white doors south of the back opening north of the player's right hand north of players south of the front openings.
+Open drama building white doors south of the back opening north of the player's right hand north of the players south of a fronted, opening.
+Open white drama building doors south of the back opening north of the players' right hand north of the players south of the front opening
+Open white drama building doors north of the players south of the front opening south of the back opening north of the players' right hand
+Open drama building white doors north of the players south of the front openings south of the back opening north of players' right hands.
+Open drama building white doors south of the back opening north of a player's right hand north of the player south of a front opening
+Open drama building white doors north of the player south of a front opening south of the back opening north of a player's right hand
+Open white drama building doors south of the back opening north of the player's right hand north of the player south of a front opening
+Open white drama building doors north of the player south of a front opening south of the back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the player south of the fronted, openings
+Open drama building white doors south of the back opening north of the player's right hand north of a player south of the fronted, openings
+Open drama building white doors north of the player south of the fronted, openings south of a back opening north of the player's right hand
+Open drama building white doors north of a player south of the fronted, openings south of the back opening north of the player's right hand
+White open drama building doors north of a player south of the front openings south of the back openings north of the player's right hands.
+Open drama building white doors north of the players south of the front opening south of the backed opening north of the player's right hands.
+Open drama buildings white doors south of the back opening north of the player's right hands north of the players south of the front openings
+Open drama buildings white doors north of the players south of the front openings south of the back opening north of the player's right hands
+Open white drama building doors south of a back opening north of the players' right hand north of the players south of the front openings
+Open white drama building doors north of the players south of the front openings south of a back opening north of the players' right hand
+Open drama building white doors south of a back opening north of the player's right hand north of the players south of a front opening.
+White open drama building doors south of a back opening north of a player's right hand north of the players south of the front opening
+White open drama building doors north of the players south of the front opening south of a back opening north of a player's right hand
+Open drama building white doors south of the back opening north of the player's right hand north of a player south of the front opening.
+Open drama building white doors south of a back opening north of the player's right hand north of the player south of the front opening.
+Open drama building white doors north of the players south of a front opening south of the back opening north of the player's right hand.
+Open drama building white doors south of the back openings north of the player's right hand north of the player south of the fronted, openings
+Open drama building white doors north of the player south of the fronted, openings south of the back openings north of the player's right hand
+Open drama buildings white doors south of a back opening north of the player's right hand north of a player south of the front opening
+Open drama buildings white doors north of a player south of the front opening south of a back opening north of the player's right hand
+Open drama building white doors south of a back opening north of the player's right hand north of a player south of the fronted, openings.
+Open drama buildings white doors north of the player south of the front openings south of the back opening north of the player's right hands.
+Open drama building white doors north of the player south of the front opening south of the back opening north of the player's right hand.
+Open drama building white doors south of the backed, openings north of the player's right hand north of the player south of the front openings
+Open drama building white doors north of the player south of the front openings south of the backed, openings north of the player's right hand
+Open drama building white doors north of the players south of the front openings south of a backed opening north of the player's right hands.
+Open white drama building doors south of the back openings north of the players' right hand north of the players south of the front openings
+Open white drama building doors north of the players south of the front openings south of the back openings north of the players' right hand
+Open drama building white doors south of the back opening north of the player's right hand north of a player south of the fronted, opening
+Open drama building white doors south of a back opening north of the player's right hand north of the player south of the fronted, opening
+Open drama building white doors north of the player south of the fronted, opening south of a back opening north of the player's right hand
+Open drama building white doors north of a player south of the fronted, opening south of the back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the players south of a front opening.
+White open drama building doors south of the back openings north of a player's right hand north of the players south of the front opening
+White open drama building doors north of the players south of the front opening south of the back openings north of a player's right hand
+Open drama building white doors south of a back opening north of the players' right hands north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of a back opening north of the players' right hands
+Open drama building white doors south of the back openings north of the player's right hand north of the player south of the front opening.
+Open drama buildings white doors south of the back openings north of the player's right hand north of a player south of the front opening
+Open drama buildings white doors north of a player south of the front opening south of the back openings north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of a player south of the fronted, openings.
+White drama buildings open doors north of the players south of the front opening south of the back opening north of the player's right hands.
+Open drama building white doors north of the players south of a front opening south of a back opening north of the players' right hands.
+Open drama building white doors south of a back opening north of the player's right hands north of the player south of a front opening
+Open drama building white doors north of a player south of a front opening south of the back opening north of the player's right hands
+Open drama building white doors south of the back opening north of the player's right hands north of a player south of a front opening
+Open drama building white doors north of the player south of a front opening south of a back opening north of the player's right hands
+Open white drama building doors north of the players south of the front opening south of the back opening north of a player's right hands.
+Open drama buildings white doors south of a back opening north of the player's right hand north of the players south of the front openings.
+Open drama building white doors north of the player south of the front opening south of a back opening north of the players' right hands.
+Open drama building white doors north of a player south of the front opening south of the back opening north of the players' right hands.
+Open drama building white doors north of a player south of the front openings south of the back opening north of the player's right hand.
+Open drama building white doors north of the player south of the front openings south of a back opening north of the player's right hand.
+Drama buildings open white doors south of the back opening north of the player's right hand north of the player south of the front openings
+Drama buildings open white doors north of the player south of the front openings south of the back opening north of the player's right hand
+Open drama building white doors south of the back openings north of the player's right hand north of the player south of the fronted, opening
+Open drama building white doors north of the player south of the fronted, opening south of the back openings north of the player's right hand
+Open drama building white doors south of the back openings north of the players' right hands north of the players south of the front opening
+Open drama building white doors north of the players south of the front opening south of the back openings north of the players' right hands
+Open drama building white doors south of the backed, opening north of the player's right hand north of the player south of the front openings
+Open drama building white doors north of the player south of the front openings south of the backed, opening north of the player's right hand
+Open drama building white doors north of the players south of a front opening south of the back openings north of the players' right hands.
+Open drama building white doors south of the back openings north of the player's right hands north of the player south of a front opening
+Open drama building white doors north of the player south of a front opening south of the back openings north of the player's right hands
+
+TOTAL RESULTS: 744
+
+Node                            MRS Produced    Reason                           Included in MRS    Reason
+------------------------------  --------------  -------------------------------  -----------------  -------------------------------
+0_7                             False           '0' has no value in the lexicon  False              '0' has no value in the lexicon
+3_8                             False           '3' has no value in the lexicon  False              '3' has no value in the lexicon
+idCostumeCloset1BackOpening_4   True            MRS fragment produced            True               Included in MRS
+idDramaBuilding1Door_1          True            MRS fragment produced            True               Included in MRS
+idDramaBuilding1FrontOpening_9  True            MRS fragment produced            True               Included in MRS
+idPlayerRightHand_5             True            MRS fragment produced            True               Included in MRS
+idPlayer_6                      True            MRS fragment produced            True               Included in MRS
+open_3                          True            MRS fragment produced            True               Included in MRS
+white_2                         True            MRS fragment produced            True               Included in MRS
+
+Edge                  MRS Composed    Reason                  Included in MRS    Reason
+--------------------  --------------  ----------------------  -----------------  ----------------------
+idBinderTakenTurns_5  False           Inbound to failed node  False              Inbound to failed node
+idColor_1             True            MRS composed            True               Included in MRS
+idOpenState_2         True            MRS composed            True               Included in MRS
+idTurnsSinceFood_6    False           Inbound to failed node  False              Inbound to failed node
+isNorthOf_3           True            MRS composed            True               Included in MRS
+isNorthOf_8           True            MRS composed            True               Included in MRS
+isSouthOf_4           True            MRS composed            True               Included in MRS
+isSouthOf_7           True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             7        9    0.777778
+Nodes              Included             7        9    0.777778
+Edges              Produced             6        8    0.75
+Edges              Included             6        8    0.75

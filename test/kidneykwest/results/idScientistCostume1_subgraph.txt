@@ -1,0 +1,114 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/kidneykwest/subgraphs/dot/complete/idScientistCostume1_subgraph.dot
+[ TOP: h149
+  INDEX: e146
+  RELS: < [ unknown LBL: h148 ARG: x142 ARG0: e146 ]
+          [ def_udef_a_q LBL: h145 ARG0: x142 RSTR: h143 BODY: h144 ]
+          [ _un-_a_neg LBL: h133 ARG0: i131 ARG1: e132 ]
+          [ _know_v_1 LBL: h133 ARG0: e132 ARG1: u135 ARG2: x142 ]
+          [ _gold_a_1 LBL: h133 ARG0: i124 ARG1: x142 ]
+          [ compound LBL: h133 ARG0: e120 ARG1: x142 ARG2: x116 ]
+          [ udef_q LBL: h119 ARG0: x116 RSTR: h117 BODY: h118 ]
+          [ _scientist_n_1 LBL: h115 ARG0: x116 ]
+          [ _costume_n_1 LBL: h133 ARG0: x142 ] >
+  HCONS: < h117 qeq h115 h143 qeq h133 h149 qeq h148 > ]
+GENERATED RESULTS ... 
+Gold unknown scientist costumes
+The gold unknown scientist costumes
+The gold unknown scientist costume
+The gold unknown scientist costumes.
+An unknown scientist gold costume
+The scientist gold unknown costumes
+Gold unknown scientist costumes.
+A gold unknown scientist costume
+The unknown scientist gold costume
+The unknown gold scientist costumes
+Scientist gold unknown costumes
+Unknown gold scientist costumes
+An unknown gold scientist costume
+The scientist gold unknown costume
+The unknown scientist gold costumes.
+The unknown gold scientist costume
+The unknown gold scientist costumes.
+Unknown scientist gold costumes.
+A scientist gold unknown costume
+The gold unknown scientist costume.
+Scientists gold unknown costume
+A gold unknown scientist costume.
+Unknown gold scientist costumes.
+Scientist gold unknown costume
+The unknown scientist gold costumes
+The scientists gold unknown costumes
+Scientists unknown gold costume
+The gold scientists unknown costumes
+Unknown scientist gold costumes
+An unknown scientist gold costume.
+An unknown gold scientist costume.
+Gold unknown scientist costume
+The unknown scientist gold costume.
+The unknown gold scientist costume.
+Gold scientists unknown costumes
+A scientists gold unknown costume
+The scientist gold unknown costumes.
+The scientists gold unknown costume
+Scientists gold unknown costumes
+The gold scientists unknown costume
+Scientist gold unknown costumes.
+An unknown scientists gold costume
+The unknown scientists gold costume
+A gold scientists unknown costume
+The gold scientists unknown costumes.
+A scientists unknown gold costume
+Unknown scientist gold costume
+The unknown scientists gold costumes.
+The scientists unknown gold costume
+Gold scientists unknown costumes.
+Unknown gold scientist costume
+The scientist gold unknown costume.
+Gold unknown scientist costume.
+Unknown scientists gold costumes.
+The scientists unknown gold costumes
+A scientist gold unknown costume.
+Scientists gold unknown costume.
+The scientists gold unknown costumes.
+The unknown scientists gold costumes
+Scientists unknown gold costume.
+An unknown scientists gold costume.
+The scientists unknown gold costumes.
+The gold scientists unknown costume.
+The unknown scientists gold costume.
+Scientist gold unknown costume.
+Scientists unknown gold costumes
+A gold scientists unknown costume.
+Unknown scientists gold costumes
+Scientists gold unknown costumes.
+Unknown scientist gold costume.
+Scientists unknown gold costumes.
+Gold scientists unknown costume
+Unknown gold scientist costume.
+A scientists gold unknown costume.
+The scientists gold unknown costume.
+A scientists unknown gold costume.
+The scientists unknown gold costume.
+Unknown scientists gold costume
+Gold scientists unknown costume.
+Unknown scientists gold costume.
+
+TOTAL RESULTS: 80
+
+Node                  MRS Produced    Reason                 Included in MRS    Reason
+--------------------  --------------  ---------------------  -----------------  ---------------
+gold_2                True            MRS fragment produced  True               Included in MRS
+idScientistCostume_1  True            MRS fragment produced  True               Included in MRS
+true_3                True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idColor_1          True            MRS composed  True               Included in MRS
+idUnknownObject_2  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             3        3           1
+Nodes              Included             3        3           1
+Edges              Produced             2        2           1
+Edges              Included             2        2           1

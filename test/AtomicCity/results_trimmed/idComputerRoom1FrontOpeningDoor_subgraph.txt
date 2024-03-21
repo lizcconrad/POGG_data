@@ -1,0 +1,80 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idComputerRoom1FrontOpeningDoor_subgraph.dot
+[ TOP: h669
+  INDEX: e666
+  RELS: < [ unknown LBL: h668 ARG: x662 ARG0: e666 ]
+          [ def_udef_a_q LBL: h665 ARG0: x662 RSTR: h663 BODY: h664 ]
+          [ _open_a_to LBL: h657 ARG0: e658 ARG1: x662 ARG2: u660 ]
+          [ compound LBL: h657 ARG0: e654 ARG1: x662 ARG2: x648 ]
+          [ udef_q LBL: h653 ARG0: x648 RSTR: h651 BODY: h652 ]
+          [ _front_n_1 LBL: h649 ARG0: x648 ]
+          [ _door_n_1 LBL: h657 ARG0: x662 ] >
+  HCONS: < h651 qeq h649 h663 qeq h657 h669 qeq h668 > ]
+GENERATED RESULTS ... 
+An open front door
+The open front door
+The open front doors
+Open front doors
+The open front doors.
+Open front doors.
+Open front door
+An open front door.
+An open fronted door
+The open front door.
+The open fronted door
+The open fronted, doors.
+An open fronted, door
+The open fronted, doors
+The open fronted, door
+Fronts open door
+Open fronted, doors.
+The fronted open door
+Open fronted doors
+Open fronted, doors
+The fronted open doors
+Open fronted doors.
+The open fronted doors
+A fronted open door
+The open fronted doors.
+An open fronted, door.
+The open fronted, door.
+The fronted open doors.
+A fronts open door
+The fronts open doors.
+The fronts open doors
+Fronts open door.
+The fronts open door
+Fronted open doors
+Open fronted door
+An open fronted door.
+The open fronted door.
+Open front door.
+Fronts open doors
+Fronts open doors.
+Fronted open doors.
+A fronts open door.
+The fronted open door.
+Open fronted, door
+The fronts open door.
+A fronted open door.
+Fronted open door
+Open fronted, door.
+Open fronted door.
+Fronted open door.
+
+TOTAL RESULTS: 50
+
+Node                               MRS Produced    Reason                 Included in MRS    Reason
+---------------------------------  --------------  ---------------------  -----------------  ---------------
+idComputerRoom1FrontOpeningDoor_1  True            MRS fragment produced  True               Included in MRS
+open_2                             True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason        Included in MRS    Reason
+-------------  --------------  ------------  -----------------  ---------------
+idOpenState_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

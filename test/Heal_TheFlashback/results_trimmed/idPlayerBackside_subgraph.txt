@@ -1,0 +1,562 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheFlashback/subgraphs/dot/complete/idPlayerBackside_subgraph.dot
+[ TOP: h277
+  INDEX: e274
+  RELS: < [ unknown LBL: h276 ARG: x154 ARG0: e274 ]
+          [ def_udef_a_q LBL: h273 ARG0: x154 RSTR: h271 BODY: h272 ]
+          [ loc_nonsp LBL: h214 ARG0: i266 ARG1: x154 ARG2: x260 ]
+          [ loc_nonsp LBL: h214 ARG0: i211 ARG1: x154 ARG2: x207 ]
+          [ poss LBL: h214 ARG0: e163 ARG1: x154 ARG2: x159 ]
+          [ _backside_n_1 LBL: h214 ARG0: x154 ]
+          [ def_udef_a_q LBL: h162 ARG0: x159 RSTR: h160 BODY: h161 ]
+          [ _player_n_of LBL: h158 ARG0: x159 ARG1: i157 ]
+          [ def_implicit_q LBL: h210 ARG0: x207 RSTR: h208 BODY: h209 ]
+          [ _west_a_1 LBL: h206 ARG0: i197 ARG1: x207 ARG2: x201 ]
+          [ def_udef_a_q LBL: h204 ARG0: x201 RSTR: h202 BODY: h203 ]
+          [ _near_p LBL: h172 ARG0: e189 ARG1: x201 ARG2: x177 ]
+          [ def_udef_a_q LBL: h196 ARG0: x177 RSTR: h194 BODY: h195 ]
+          [ compound LBL: h188 ARG0: e185 ARG1: x177 ARG2: x181 ]
+          [ udef_q LBL: h184 ARG0: x181 RSTR: h182 BODY: h183 ]
+          [ _living_n_1 LBL: h180 ARG0: x181 ]
+          [ _room_n_unit LBL: h188 ARG0: x177 ]
+          [ _green_a_2 LBL: h172 ARG0: i170 ARG1: x201 ]
+          [ _painting_n_of LBL: h172 ARG0: x201 ARG1: i168 ]
+          [ place_n LBL: h206 ARG0: x207 ]
+          [ def_implicit_q LBL: h265 ARG0: x260 RSTR: h263 BODY: h264 ]
+          [ _west_a_1 LBL: h261 ARG0: i252 ARG1: x260 ARG2: x215 ]
+          [ def_udef_a_q LBL: h259 ARG0: x215 RSTR: h257 BODY: h258 ]
+          [ loc_nonsp LBL: h251 ARG0: i248 ARG1: x215 ARG2: x242 ]
+          [ _open_a_to LBL: h251 ARG0: e227 ARG1: x215 ARG2: u229 ]
+          [ compound LBL: h251 ARG0: e223 ARG1: x215 ARG2: x217 ]
+          [ udef_q LBL: h222 ARG0: x217 RSTR: h220 BODY: h221 ]
+          [ _kitchen_n_1 LBL: h218 ARG0: x217 ]
+          [ _door_n_1 LBL: h251 ARG0: x215 ]
+          [ def_implicit_q LBL: h247 ARG0: x242 RSTR: h245 BODY: h246 ]
+          [ _east_a_1 LBL: h237 ARG0: i234 ARG1: x242 ARG2: x231 ]
+          [ def_udef_a_q LBL: h241 ARG0: x231 RSTR: h239 BODY: h240 ]
+          [ _player_n_of LBL: h233 ARG0: x231 ARG1: i232 ]
+          [ place_n LBL: h237 ARG0: x242 ]
+          [ place_n LBL: h261 ARG0: x260 ] >
+  HCONS: < h160 qeq h158 h182 qeq h180 h194 qeq h188 h202 qeq h172 h208 qeq h206 h220 qeq h218 h239 qeq h233 h245 qeq h237 h257 qeq h251 h263 qeq h261 h271 qeq h214 h277 qeq h276 > ]
+GENERATED RESULTS ... 
+The player's backside west of the open kitchen door east of the players west of the green painting near a living room
+The player's backside west of the green painting near a living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of the green painting near the living rooms
+The player's backside west of the green painting near the living rooms west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of the green painting near the living room
+The player's backside west of the green painting near the living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of a green painting near a living room
+The player's backside west of a green painting near a living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of a green painting near the living rooms
+The player's backside west of a green painting near the living rooms west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of the green painting near a living room
+The player's backsides west of the green painting near a living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of the green paintings near a living room
+The player's backside west of the green paintings near a living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of a green painting near the living room
+The player's backside west of a green painting near the living room west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of the green painting near the living rooms
+The player's backsides west of the green painting near the living rooms west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of the green paintings near the living rooms
+The player's backside west of the green paintings near the living rooms west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of the green painting near the living room
+The player's backsides west of the green painting near the living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of the green paintings near the living room
+The player's backside west of the green paintings near the living room west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of a green painting near a living room
+The player's backsides west of a green painting near a living room west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of a green painting near the living rooms
+The player's backsides west of a green painting near the living rooms west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of the green paintings near a living room
+The player's backsides west of the green paintings near a living room west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of a green painting near the living room
+The player's backsides west of a green painting near the living room west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of the green paintings near the living rooms
+The player's backsides west of the green paintings near the living rooms west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of the green paintings near the living room
+The player's backsides west of the green paintings near the living room west of the open kitchen door east of the players
+The player's backside west of an open kitchen door east of the players west of the green painting near a living room
+The player's backside west of the green painting near a living room west of an open kitchen door east of the players
+The player's backside west of the open kitchen door east of the player west of the green painting near a living room
+The player's backside west of the green painting near a living room west of the open kitchen door east of the player
+A player's backside west of the open kitchen door east of the players west of the green painting near a living room
+A player's backside west of the green painting near a living room west of the open kitchen door east of the players
+The player's backside west of the green painting near the living rooms west of an open kitchen door east of the players
+The player's backside west of an open kitchen door east of the players west of the green painting near the living rooms
+The player's backside west of the open kitchen door east of the player west of the green painting near the living rooms
+The player's backside west of the green painting near the living rooms west of the open kitchen door east of the player
+A player's backside west of the green painting near the living rooms west of the open kitchen door east of the players
+A player's backside west of the open kitchen door east of the players west of the green painting near the living rooms
+The player's backside west of an open kitchen door east of the players west of the green painting near the living room
+The player's backside west of the green painting near the living room west of an open kitchen door east of the players
+The player's backside west of the open kitchen door east of the player west of the green painting near the living room
+The player's backside west of the green painting near the living room west of the open kitchen door east of the player
+The players' backside west of the open kitchen door east of the players west of the green painting near a living room
+The players' backside west of the green painting near a living room west of the open kitchen door east of the players
+A player's backside west of the open kitchen door east of the players west of the green painting near the living room
+A player's backside west of the green painting near the living room west of the open kitchen door east of the players
+The player's backside west of an open kitchen door east of the players west of a green painting near a living room
+The player's backside west of a green painting near a living room west of an open kitchen door east of the players
+The players' backside west of the open kitchen door east of the players west of the green painting near the living rooms
+The players' backside west of the green painting near the living rooms west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the player west of a green painting near a living room
+The player's backside west of a green painting near a living room west of the open kitchen door east of the player
+The player's backside west of the open kitchen door east of the players west of the green painting near the living rooms.
+A player's backside west of the open kitchen door east of the players west of a green painting near a living room
+A player's backside west of a green painting near a living room west of the open kitchen door east of the players
+The players' backside west of the open kitchen door east of the players west of the green painting near the living room
+The players' backside west of the green painting near the living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of the green painting near living rooms
+The player's backside west of the green painting near living rooms west of the open kitchen door east of the players
+The player's backside west of an open kitchen door east of the players west of a green painting near the living rooms
+The player's backside west of a green painting near the living rooms west of an open kitchen door east of the players
+The player's backsides west of an open kitchen door east of the players west of the green painting near a living room
+The player's backsides west of the green painting near a living room west of an open kitchen door east of the players
+The player's backside west of the open kitchen door east of the player west of a green painting near the living rooms
+The player's backside west of a green painting near the living rooms west of the open kitchen door east of the player
+The player's backsides west of the open kitchen door east of the player west of the green painting near a living room
+The player's backsides west of the green painting near a living room west of the open kitchen door east of the player
+The player's backside west of an open kitchen door east of the players west of the green paintings near a living room
+The player's backside west of the green paintings near a living room west of an open kitchen door east of the players
+The player's backside west of the open kitchen door east of the player west of the green paintings near a living room
+The player's backside west of the green paintings near a living room west of the open kitchen door east of the player
+A player's backside west of the open kitchen door east of the players west of a green painting near the living rooms
+A player's backside west of a green painting near the living rooms west of the open kitchen door east of the players
+The player's backside west of an open kitchen door east of the players west of a green painting near the living room
+The player's backside west of a green painting near the living room west of an open kitchen door east of the players
+A player's backsides west of the open kitchen door east of the players west of the green painting near a living room
+A player's backsides west of the green painting near a living room west of the open kitchen door east of the players
+The player's backside west of a green painting near the living room west of the open kitchen door east of the player
+The player's backside west of the open kitchen door east of the player west of a green painting near the living room
+A player's backside west of the open kitchen door east of the players west of the green paintings near a living room
+A player's backside west of the green paintings near a living room west of the open kitchen door east of the players
+The players' backside west of the open kitchen door east of the players west of a green painting near a living room
+The players' backside west of a green painting near a living room west of the open kitchen door east of the players
+The player's backsides west of an open kitchen door east of the players west of the green painting near the living rooms
+The player's backsides west of the green painting near the living rooms west of an open kitchen door east of the players
+A player's backside west of the open kitchen door east of the players west of a green painting near the living room
+A player's backside west of a green painting near the living room west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the player west of the green painting near the living rooms
+The player's backsides west of the green painting near the living rooms west of the open kitchen door east of the player
+The player's backside west of an open kitchen door east of the players west of the green paintings near the living rooms
+The player's backside west of the green paintings near the living rooms west of an open kitchen door east of the players
+The player's backside west of the open kitchen door east of the player west of the green paintings near the living rooms
+The player's backside west of the green paintings near the living rooms west of the open kitchen door east of the player
+A player's backsides west of the open kitchen door east of the players west of the green painting near the living rooms
+A player's backsides west of the green painting near the living rooms west of the open kitchen door east of the players
+The player's backsides west of the green painting near the living room west of an open kitchen door east of the players
+The player's backsides west of an open kitchen door east of the players west of the green painting near the living room
+A player's backside west of the open kitchen door east of the players west of the green paintings near the living rooms
+A player's backside west of the green paintings near the living rooms west of the open kitchen door east of the players
+The player's backsides west of the green painting near the living room west of the open kitchen door east of the player
+The player's backsides west of the open kitchen door east of the player west of the green painting near the living room
+The player's backside west of an open kitchen door east of the players west of the green paintings near the living room
+The player's backside west of the green paintings near the living room west of an open kitchen door east of the players
+The players' backside west of the open kitchen door east of the players west of a green painting near the living rooms
+The players' backside west of a green painting near the living rooms west of the open kitchen door east of the players
+The players' backsides west of the open kitchen door east of the players west of the green painting near a living room
+The players' backsides west of the green painting near a living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the player west of the green paintings near the living room
+The player's backside west of the green paintings near the living room west of the open kitchen door east of the player
+A player's backsides west of the open kitchen door east of the players west of the green painting near the living room
+A player's backsides west of the green painting near the living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of a green painting near the living rooms.
+The players' backside west of the open kitchen door east of the players west of the green paintings near a living room
+The players' backside west of the green paintings near a living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of the green painting near living rooms.
+A player's backside west of the open kitchen door east of the players west of the green paintings near the living room
+A player's backside west of the green paintings near the living room west of the open kitchen door east of the players
+The players' backside west of the open kitchen door east of the players west of a green painting near the living room
+The players' backside west of a green painting near the living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of a green painting near living rooms
+The player's backside west of a green painting near living rooms west of the open kitchen door east of the players
+The player's backsides west of a green painting near a living room west of an open kitchen door east of the players
+The player's backsides west of an open kitchen door east of the players west of a green painting near a living room
+The players' backsides west of the open kitchen door east of the players west of the green painting near the living rooms
+The players' backsides west of the green painting near the living rooms west of the open kitchen door east of the players
+The player's backsides west of a green painting near a living room west of the open kitchen door east of the player
+The player's backsides west of the open kitchen door east of the player west of a green painting near a living room
+The players' backside west of the open kitchen door east of the players west of the green paintings near the living rooms
+The players' backside west of the green paintings near the living rooms west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of the green painting near the living rooms.
+A player's backsides west of the open kitchen door east of the players west of a green painting near a living room
+A player's backsides west of a green painting near a living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of the green paintings near the living rooms.
+The players' backsides west of the open kitchen door east of the players west of the green painting near the living room
+The players' backsides west of the green painting near the living room west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of the green painting near living rooms
+The player's backsides west of the green painting near living rooms west of the open kitchen door east of the players
+The player's backsides west of an open kitchen door east of the players west of a green painting near the living rooms
+The player's backsides west of a green painting near the living rooms west of an open kitchen door east of the players
+The players' backside west of the open kitchen door east of the players west of the green paintings near the living room
+The players' backside west of the green paintings near the living room west of the open kitchen door east of the players
+The player's backsides west of a green painting near the living rooms west of the open kitchen door east of the player
+The player's backsides west of the open kitchen door east of the player west of a green painting near the living rooms
+The player's backside west of the open kitchen door east of the players west of the green paintings near living rooms
+The player's backside west of the green paintings near living rooms west of the open kitchen door east of the players
+The player's backsides west of the green paintings near a living room west of an open kitchen door east of the players
+The player's backsides west of an open kitchen door east of the players west of the green paintings near a living room
+The player's backsides west of the green paintings near a living room west of the open kitchen door east of the player
+The player's backsides west of the open kitchen door east of the player west of the green paintings near a living room
+A player's backsides west of the open kitchen door east of the players west of a green painting near the living rooms
+A player's backsides west of a green painting near the living rooms west of the open kitchen door east of the players
+The player's backsides west of a green painting near the living room west of an open kitchen door east of the players
+The player's backsides west of an open kitchen door east of the players west of a green painting near the living room
+The player's backsides west of a green painting near the living room west of the open kitchen door east of the player
+The player's backsides west of the open kitchen door east of the player west of a green painting near the living room
+A player's backsides west of the green paintings near a living room west of the open kitchen door east of the players
+A player's backsides west of the open kitchen door east of the players west of the green paintings near a living room
+The player's backside west of the green painting near a living room west of the open kitchen door east of the player.
+The players' backsides west of the open kitchen door east of the players west of a green painting near a living room
+The players' backsides west of a green painting near a living room west of the open kitchen door east of the players
+A player's backsides west of a green painting near the living room west of the open kitchen door east of the players
+A player's backsides west of the open kitchen door east of the players west of a green painting near the living room
+The player's backsides west of the green paintings near the living rooms west of an open kitchen door east of the players
+The player's backsides west of an open kitchen door east of the players west of the green paintings near the living rooms
+The player's backside west of the open kitchen door east of the players west of a green painting near living rooms.
+The player's backsides west of the green paintings near the living rooms west of the open kitchen door east of the player
+The player's backsides west of the open kitchen door east of the player west of the green paintings near the living rooms
+A player's backsides west of the open kitchen door east of the players west of the green paintings near the living rooms
+A player's backsides west of the green paintings near the living rooms west of the open kitchen door east of the players
+The player's backsides west of the green paintings near the living room west of an open kitchen door east of the players
+The player's backsides west of an open kitchen door east of the players west of the green paintings near the living room
+The player's backside west of the green painting near the living rooms west of the open kitchen door east of the player.
+The players' backsides west of the open kitchen door east of the players west of a green painting near the living rooms
+The players' backsides west of a green painting near the living rooms west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the player west of the green paintings near the living room
+The player's backsides west of the green paintings near the living room west of the open kitchen door east of the player
+The player's backside west of the green painting near a living room west of the open kitchen door east of the players.
+The player's backsides west of the open kitchen door east of the players west of a green painting near the living rooms.
+The players' backsides west of the open kitchen door east of the players west of the green paintings near a living room
+The players' backsides west of the green paintings near a living room west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of the green painting near living rooms.
+A player's backsides west of the green paintings near the living room west of the open kitchen door east of the players
+A player's backsides west of the open kitchen door east of the players west of the green paintings near the living room
+The player's backside west of the green painting near the living room west of the open kitchen door east of the player.
+The players' backsides west of the open kitchen door east of the players west of a green painting near the living room
+The players' backsides west of a green painting near the living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of the green paintings near living rooms.
+The player's backsides west of the open kitchen door east of the players west of a green painting near living rooms
+The player's backsides west of a green painting near living rooms west of the open kitchen door east of the players
+The player's backside west of the green painting near the living rooms west of the open kitchen door east of the players.
+The players' backsides west of the open kitchen door east of the players west of the green paintings near the living rooms
+The players' backsides west of the green paintings near the living rooms west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of the green paintings near the living rooms.
+The player's backside west of the green painting near the living room west of the open kitchen door east of the players.
+The player's backside west of a green painting near a living room west of the open kitchen door east of the player.
+The players' backsides west of the open kitchen door east of the players west of the green paintings near the living room
+The players' backsides west of the green paintings near the living room west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of the green paintings near living rooms
+The player's backsides west of the green paintings near living rooms west of the open kitchen door east of the players
+The player's backside west of green paintings near a living room west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of green paintings near a living room
+The player's backside west of a green painting near the living rooms west of the open kitchen door east of the player.
+The player's backsides west of the green painting near a living room west of the open kitchen door east of the player.
+The player's backside west of a green painting near a living room west of the open kitchen door east of the players.
+The player's backside west of the green paintings near a living room west of the open kitchen door east of the player.
+The player's backsides west of the open kitchen door east of the players west of a green painting near living rooms.
+The player's backside west of a green painting near the living room west of the open kitchen door east of the player.
+The player's backsides west of the green painting near the living rooms west of the open kitchen door east of the player.
+The player's backside west of the green painting near a living room west of the open kitchen doors east of the players
+The player's backside west of the open kitchen doors east of the players west of the green painting near a living room
+The player's backside west of a green painting near the living rooms west of the open kitchen door east of the players.
+The player's backside west of the green paintings near the living rooms west of the open kitchen door east of the player.
+The player's backsides west of the green painting near a living room west of the open kitchen door east of the players.
+The player's backside west of the green paintings near a living room west of the open kitchen door east of the players.
+The player's backsides west of the green painting near the living room west of the open kitchen door east of the player.
+The player's backsides west of the open kitchen door east of the players west of the green paintings near living rooms.
+The player's backside west of a green painting near the living room west of the open kitchen door east of the players.
+The player's backside west of the green paintings near the living room west of the open kitchen door east of the player.
+The player's backside west of the open kitchen doors east of the players west of the green painting near the living rooms
+The player's backside west of the green painting near the living rooms west of the open kitchen doors east of the players
+The player's backsides west of the green painting near the living rooms west of the open kitchen door east of the players.
+The player's backside west of the green paintings near the living rooms west of the open kitchen door east of the players.
+The player's backside west of the open kitchen doors east of the players west of the green painting near the living room
+The player's backside west of the green painting near the living room west of the open kitchen doors east of the players
+The player's backsides west of the green painting near the living room west of the open kitchen door east of the players.
+The player's backsides west of a green painting near a living room west of the open kitchen door east of the player.
+The player's backside west of the green paintings near the living room west of the open kitchen door east of the players.
+The player's backsides west of the open kitchen door east of the players west of green paintings near a living room
+The player's backsides west of green paintings near a living room west of the open kitchen door east of the players
+The player's backsides west of a green painting near the living rooms west of the open kitchen door east of the player.
+The player's backside west of a green painting near a living room west of the open kitchen doors east of the players
+The player's backside west of the open kitchen doors east of the players west of a green painting near a living room
+The player's backsides west of a green painting near a living room west of the open kitchen door east of the players.
+The player's backsides west of the green paintings near a living room west of the open kitchen door east of the player.
+The player's backsides west of a green painting near the living room west of the open kitchen door east of the player.
+The player's backside west of the open kitchen doors east of the players west of a green painting near the living rooms
+The player's backside west of a green painting near the living rooms west of the open kitchen doors east of the players
+The player's backsides west of the green painting near a living room west of the open kitchen doors east of the players
+The player's backsides west of the open kitchen doors east of the players west of the green painting near a living room
+The player's backsides west of a green painting near the living rooms west of the open kitchen door east of the players.
+The player's backsides west of the green paintings near the living rooms west of the open kitchen door east of the player.
+The player's backside west of the open kitchen doors east of the players west of the green paintings near a living room
+The player's backside west of the green paintings near a living room west of the open kitchen doors east of the players
+The player's backsides west of the green paintings near a living room west of the open kitchen door east of the players.
+The player's backside west of an open kitchen door east of the player west of the green painting near a living room
+The player's backside west of the green painting near a living room west of an open kitchen door east of the player
+The player's backside west of the open kitchen doors east of the players west of a green painting near the living room
+The player's backside west of a green painting near the living room west of the open kitchen doors east of the players
+The player's backsides west of a green painting near the living room west of the open kitchen door east of the players.
+The player's backsides west of the green paintings near the living room west of the open kitchen door east of the player.
+A player's backside west of an open kitchen door east of the players west of the green painting near a living room
+A player's backside west of the green painting near a living room west of an open kitchen door east of the players
+The player's backsides west of the green painting near the living rooms west of the open kitchen doors east of the players
+The player's backsides west of the open kitchen doors east of the players west of the green painting near the living rooms
+A player's backside west of the green painting near a living room west of the open kitchen door east of the player
+A player's backside west of the open kitchen door east of the player west of the green painting near a living room
+The player's backside west of the open kitchen doors east of the players west of the green paintings near the living rooms
+The player's backside west of the green paintings near the living rooms west of the open kitchen doors east of the players
+The player's backsides west of the green paintings near the living rooms west of the open kitchen door east of the players.
+The player's backside west of an open kitchen door east of the player west of the green painting near the living rooms
+The player's backside west of the green painting near the living rooms west of an open kitchen door east of the player
+The player's backsides west of the green painting near the living room west of the open kitchen doors east of the players
+The player's backsides west of the open kitchen doors east of the players west of the green painting near the living room
+A player's backside west of an open kitchen door east of the players west of the green painting near the living rooms
+A player's backside west of the green painting near the living rooms west of an open kitchen door east of the players
+The player's backside west of the open kitchen doors east of the players west of the green paintings near the living room
+The player's backside west of the green paintings near the living room west of the open kitchen doors east of the players
+The player's backsides west of the green paintings near the living room west of the open kitchen door east of the players.
+Players' backside west of the open kitchen door east of the players west of the green painting near a living room
+Players' backside west of the green painting near a living room west of the open kitchen door east of the players
+A player's backside west of the open kitchen door east of the player west of the green painting near the living rooms
+A player's backside west of the green painting near the living rooms west of the open kitchen door east of the player
+The player's backside west of an open kitchen door east of the player west of the green painting near the living room
+The player's backside west of the green painting near the living room west of an open kitchen door east of the player
+The players' backside west of an open kitchen door east of the players west of the green painting near a living room
+The players' backside west of the green painting near a living room west of an open kitchen door east of the players
+A player's backside west of the green painting near the living room west of an open kitchen door east of the players
+A player's backside west of an open kitchen door east of the players west of the green painting near the living room
+The players' backside west of the green painting near a living room west of the open kitchen door east of the player
+The players' backside west of the open kitchen door east of the player west of the green painting near a living room
+A player's backside west of the green painting near the living room west of the open kitchen door east of the player
+A player's backside west of the open kitchen door east of the player west of the green painting near the living room
+The player's backsides west of a green painting near a living room west of the open kitchen doors east of the players
+The player's backsides west of the open kitchen doors east of the players west of a green painting near a living room
+Players' backside west of the open kitchen door east of the players west of the green painting near the living rooms
+Players' backside west of the green painting near the living rooms west of the open kitchen door east of the players
+The players' backside west of the green painting near the living rooms west of an open kitchen door east of the players
+The players' backside west of an open kitchen door east of the players west of the green painting near the living rooms
+The player's backside west of a green painting near a living room west of an open kitchen door east of the player
+The player's backside west of an open kitchen door east of the player west of a green painting near a living room
+The players' backside west of the green painting near the living rooms west of the open kitchen door east of the player
+The players' backside west of the open kitchen door east of the player west of the green painting near the living rooms
+The player's backside west of an open kitchen door east of the players west of the green painting near the living rooms.
+Players' backside west of the open kitchen door east of the players west of the green painting near the living room
+Players' backside west of the green painting near the living room west of the open kitchen door east of the players
+A player's backside west of a green painting near a living room west of an open kitchen door east of the players
+A player's backside west of an open kitchen door east of the players west of a green painting near a living room
+The player's backside west of the open kitchen door east of the player west of the green painting near the living rooms.
+The player's backside west of the open kitchen door east of the players west of the green painting near a living room.
+The player's backsides west of the open kitchen doors east of the players west of a green painting near the living rooms
+The player's backsides west of a green painting near the living rooms west of the open kitchen doors east of the players
+The players' backside west of the green painting near the living room west of an open kitchen door east of the players
+The players' backside west of an open kitchen door east of the players west of the green painting near the living room
+A player's backside west of a green painting near a living room west of the open kitchen door east of the player
+A player's backside west of the open kitchen door east of the player west of a green painting near a living room
+A player's backside west of the open kitchen door east of the players west of the green painting near the living rooms.
+The players' backside west of the green painting near the living room west of the open kitchen door east of the player
+The players' backside west of the open kitchen door east of the player west of the green painting near the living room
+The player's backside west of an open kitchen door east of the players west of the green painting near living rooms
+The player's backside west of the green painting near living rooms west of an open kitchen door east of the players
+The player's backside west of green paintings near the living rooms west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of green paintings near the living rooms
+The player's backsides west of the open kitchen doors east of the players west of the green paintings near a living room
+The player's backsides west of the green paintings near a living room west of the open kitchen doors east of the players
+The player's backside west of the green painting near living rooms west of the open kitchen door east of the player
+The player's backside west of the open kitchen door east of the player west of the green painting near living rooms
+The player's backside west of a green painting near the living rooms west of an open kitchen door east of the player
+The player's backside west of an open kitchen door east of the player west of a green painting near the living rooms
+The player's backsides west of an open kitchen door east of the player west of the green painting near a living room
+The player's backsides west of the green painting near a living room west of an open kitchen door east of the player
+The player's backsides west of the open kitchen doors east of the players west of a green painting near the living room
+The player's backsides west of a green painting near the living room west of the open kitchen doors east of the players
+The player's backside west of the green paintings near a living room west of an open kitchen door east of the player
+The player's backside west of an open kitchen door east of the player west of the green paintings near a living room
+A player's backside west of the open kitchen door east of the players west of the green painting near living rooms
+A player's backside west of the green painting near living rooms west of the open kitchen door east of the players
+A player's backside west of an open kitchen door east of the players west of a green painting near the living rooms
+A player's backside west of a green painting near the living rooms west of an open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of green paintings near the living room
+The player's backside west of green paintings near the living room west of the open kitchen door east of the players
+A player's backsides west of the green painting near a living room west of an open kitchen door east of the players
+A player's backsides west of an open kitchen door east of the players west of the green painting near a living room
+Players' backside west of the open kitchen door east of the players west of a green painting near a living room
+Players' backside west of a green painting near a living room west of the open kitchen door east of the players
+A player's backside west of a green painting near the living rooms west of the open kitchen door east of the player
+A player's backside west of the open kitchen door east of the player west of a green painting near the living rooms
+The player's backside west of an open kitchen door east of the player west of a green painting near the living room
+The player's backside west of a green painting near the living room west of an open kitchen door east of the player
+A player's backsides west of the green painting near a living room west of the open kitchen door east of the player
+A player's backsides west of the open kitchen door east of the player west of the green painting near a living room
+A player's backside west of the green paintings near a living room west of an open kitchen door east of the players
+A player's backside west of an open kitchen door east of the players west of the green paintings near a living room
+The players' backside west of an open kitchen door east of the players west of a green painting near a living room
+The players' backside west of a green painting near a living room west of an open kitchen door east of the players
+The player's backsides west of the open kitchen doors east of the players west of the green paintings near the living rooms
+The player's backsides west of the green paintings near the living rooms west of the open kitchen doors east of the players
+A player's backside west of the open kitchen door east of the player west of the green paintings near a living room
+A player's backside west of the green paintings near a living room west of the open kitchen door east of the player
+A player's backside west of a green painting near the living room west of an open kitchen door east of the players
+A player's backside west of an open kitchen door east of the players west of a green painting near the living room
+The players' backside west of a green painting near a living room west of the open kitchen door east of the player
+The players' backside west of the open kitchen door east of the player west of a green painting near a living room
+The player's backside west of the open kitchen door east of the players west of the green painting near the living room.
+The player's backsides west of an open kitchen door east of the player west of the green painting near the living rooms
+The player's backsides west of the green painting near the living rooms west of an open kitchen door east of the player
+A player's backside west of a green painting near the living room west of the open kitchen door east of the player
+A player's backside west of the open kitchen door east of the player west of a green painting near the living room
+The players' backside west of the open kitchen door east of the players west of the green painting near the living rooms.
+The player's backside west of the green paintings near the living rooms west of an open kitchen door east of the player
+The player's backside west of an open kitchen door east of the player west of the green paintings near the living rooms
+A player's backsides west of an open kitchen door east of the players west of the green painting near the living rooms
+A player's backsides west of the green painting near the living rooms west of an open kitchen door east of the players
+The player's backsides west of the green paintings near the living room west of the open kitchen doors east of the players
+The player's backsides west of the open kitchen doors east of the players west of the green paintings near the living room
+Players' backside west of the open kitchen door east of the players west of a green painting near the living rooms
+Players' backside west of a green painting near the living rooms west of the open kitchen door east of the players
+Players' backsides west of the open kitchen door east of the players west of the green painting near a living room
+Players' backsides west of the green painting near a living room west of the open kitchen door east of the players
+A player's backsides west of the open kitchen door east of the player west of the green painting near the living rooms
+A player's backsides west of the green painting near the living rooms west of the open kitchen door east of the player
+A player's backside west of an open kitchen door east of the players west of the green paintings near the living rooms
+A player's backside west of the green paintings near the living rooms west of an open kitchen door east of the players
+The player's backsides west of an open kitchen door east of the player west of the green painting near the living room
+The player's backsides west of the green painting near the living room west of an open kitchen door east of the player
+The players' backside west of the green painting near living rooms west of the open kitchen door east of the players
+The players' backside west of the open kitchen door east of the players west of the green painting near living rooms
+The players' backside west of a green painting near the living rooms west of an open kitchen door east of the players
+The players' backside west of an open kitchen door east of the players west of a green painting near the living rooms
+Players' backside west of the open kitchen door east of the players west of the green paintings near a living room
+Players' backside west of the green paintings near a living room west of the open kitchen door east of the players
+A player's backside west of the open kitchen door east of the player west of the green paintings near the living rooms
+A player's backside west of the green paintings near the living rooms west of the open kitchen door east of the player
+The players' backsides west of the green painting near a living room west of an open kitchen door east of the players
+The players' backsides west of an open kitchen door east of the players west of the green painting near a living room
+The player's backside west of the green paintings near the living room west of an open kitchen door east of the player
+The player's backside west of an open kitchen door east of the player west of the green paintings near the living room
+A player's backsides west of an open kitchen door east of the players west of the green painting near the living room
+A player's backsides west of the green painting near the living room west of an open kitchen door east of the players
+The players' backside west of the open kitchen door east of the player west of a green painting near the living rooms
+The players' backside west of a green painting near the living rooms west of the open kitchen door east of the player
+The player's backside west of an open kitchen door east of the players west of a green painting near the living rooms.
+The players' backsides west of the green painting near a living room west of the open kitchen door east of the player
+The players' backsides west of the open kitchen door east of the player west of the green painting near a living room
+The players' backside west of an open kitchen door east of the players west of the green paintings near a living room
+The players' backside west of the green paintings near a living room west of an open kitchen door east of the players
+Players' backside west of the open kitchen door east of the players west of a green painting near the living room
+Players' backside west of a green painting near the living room west of the open kitchen door east of the players
+The player's backside west of an open kitchen door east of the players west of the green painting near living rooms.
+A player's backsides west of the open kitchen door east of the player west of the green painting near the living room
+A player's backsides west of the green painting near the living room west of the open kitchen door east of the player
+A player's backside west of an open kitchen door east of the players west of the green paintings near the living room
+A player's backside west of the green paintings near the living room west of an open kitchen door east of the players
+The player's backside west of the open kitchen door east of the player west of a green painting near the living rooms.
+The player's backside west of the open kitchen door east of the players west of a green painting near a living room.
+The players' backside west of the open kitchen door east of the player west of the green paintings near a living room
+The players' backside west of the green paintings near a living room west of the open kitchen door east of the player
+The players' backside west of an open kitchen door east of the players west of a green painting near the living room
+The players' backside west of a green painting near the living room west of an open kitchen door east of the players
+The player's backside west of the open kitchen door east of the player west of the green painting near living rooms.
+A player's backside west of the open kitchen door east of the player west of the green paintings near the living room
+A player's backside west of the green paintings near the living room west of the open kitchen door east of the player
+A player's backside west of the open kitchen door east of the players west of a green painting near the living rooms.
+Players' backsides west of the open kitchen door east of the players west of the green painting near the living rooms
+Players' backsides west of the green painting near the living rooms west of the open kitchen door east of the players
+The players' backside west of the open kitchen door east of the player west of a green painting near the living room
+The players' backside west of a green painting near the living room west of the open kitchen door east of the player
+The player's backside west of a green painting near living rooms west of an open kitchen door east of the players
+The player's backside west of an open kitchen door east of the players west of a green painting near living rooms
+A player's backside west of the open kitchen door east of the players west of the green painting near living rooms.
+The player's backside west of a green painting near living rooms west of the open kitchen door east of the player
+The player's backside west of the open kitchen door east of the player west of a green painting near living rooms
+Players' backside west of the open kitchen door east of the players west of the green paintings near the living rooms
+Players' backside west of the green paintings near the living rooms west of the open kitchen door east of the players
+The players' backsides west of the green painting near the living rooms west of an open kitchen door east of the players
+The players' backsides west of an open kitchen door east of the players west of the green painting near the living rooms
+The player's backsides west of a green painting near a living room west of an open kitchen door east of the player
+The player's backsides west of an open kitchen door east of the player west of a green painting near a living room
+The players' backsides west of the open kitchen door east of the player west of the green painting near the living rooms
+The players' backsides west of the green painting near the living rooms west of the open kitchen door east of the player
+The players' backside west of an open kitchen door east of the players west of the green paintings near the living rooms
+The players' backside west of the green paintings near the living rooms west of an open kitchen door east of the players
+The player's backsides west of an open kitchen door east of the players west of the green painting near the living rooms.
+A player's backside west of the open kitchen door east of the players west of a green painting near living rooms
+A player's backside west of a green painting near living rooms west of the open kitchen door east of the players
+Players' backsides west of the open kitchen door east of the players west of the green painting near the living room
+Players' backsides west of the green painting near the living room west of the open kitchen door east of the players
+A player's backsides west of an open kitchen door east of the players west of a green painting near a living room
+A player's backsides west of a green painting near a living room west of an open kitchen door east of the players
+The players' backside west of the open kitchen door east of the player west of the green paintings near the living rooms
+The players' backside west of the green paintings near the living rooms west of the open kitchen door east of the player
+The player's backsides west of the open kitchen door east of the player west of the green painting near the living rooms.
+The player's backside west of an open kitchen door east of the players west of the green paintings near the living rooms.
+The player's backsides west of the open kitchen door east of the players west of the green painting near a living room.
+Players' backside west of the open kitchen door east of the players west of the green paintings near the living room
+Players' backside west of the green paintings near the living room west of the open kitchen door east of the players
+The players' backsides west of the green painting near the living room west of an open kitchen door east of the players
+The players' backsides west of an open kitchen door east of the players west of the green painting near the living room
+A player's backsides west of a green painting near a living room west of the open kitchen door east of the player
+A player's backsides west of the open kitchen door east of the player west of a green painting near a living room
+The player's backside west of the open kitchen door east of the player west of the green paintings near the living rooms.
+The player's backside west of the open kitchen door east of the players west of the green paintings near a living room.
+A player's backsides west of the open kitchen door east of the players west of the green painting near the living rooms.
+The players' backsides west of the green painting near the living room west of the open kitchen door east of the player
+The players' backsides west of the open kitchen door east of the player west of the green painting near the living room
+The player's backsides west of an open kitchen door east of the players west of the green painting near living rooms
+The player's backsides west of the green painting near living rooms west of an open kitchen door east of the players
+The players' backside west of an open kitchen door east of the players west of the green paintings near the living room
+The players' backside west of the green paintings near the living room west of an open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of green paintings near the living rooms
+The player's backsides west of green paintings near the living rooms west of the open kitchen door east of the players
+The player's backside west of the open kitchen door east of the players west of a green painting near the living room.
+The player's backsides west of the open kitchen door east of the player west of the green painting near living rooms
+The player's backsides west of the green painting near living rooms west of the open kitchen door east of the player
+A player's backside west of the open kitchen door east of the players west of the green paintings near the living rooms.
+The player's backsides west of an open kitchen door east of the player west of a green painting near the living rooms
+The player's backsides west of a green painting near the living rooms west of an open kitchen door east of the player
+The players' backside west of the open kitchen door east of the player west of the green paintings near the living room
+The players' backside west of the green paintings near the living room west of the open kitchen door east of the player
+The player's backside west of the green paintings near living rooms west of an open kitchen door east of the players
+The player's backside west of an open kitchen door east of the players west of the green paintings near living rooms
+The players' backside west of the open kitchen door east of the players west of a green painting near the living rooms.
+The player's backside west of the open kitchen door east of the player west of the green paintings near living rooms
+The player's backside west of the green paintings near living rooms west of the open kitchen door east of the player
+The players' backside west of the open kitchen door east of the players west of the green painting near living rooms.
+The player's backsides west of the green paintings near a living room west of an open kitchen door east of the player
+The player's backsides west of an open kitchen door east of the player west of the green paintings near a living room
+A player's backsides west of the open kitchen door east of the players west of the green painting near living rooms
+A player's backsides west of the green painting near living rooms west of the open kitchen door east of the players
+A player's backsides west of an open kitchen door east of the players west of a green painting near the living rooms
+A player's backsides west of a green painting near the living rooms west of an open kitchen door east of the players
+The player's backsides west of green paintings near the living room west of the open kitchen door east of the players
+The player's backsides west of the open kitchen door east of the players west of green paintings near the living room
+
+TOTAL RESULTS: 492
+
+Node                         MRS Produced    Reason                 Included in MRS    Reason
+---------------------------  --------------  ---------------------  -----------------  -------------------------
+green_3                      True            MRS fragment produced  True               Included in MRS
+idLivingRoomToKitchenDoor_6  True            MRS fragment produced  True               Included in MRS
+idLivingroom_5               True            MRS fragment produced  True               Included in MRS
+idPainting_2                 True            MRS fragment produced  True               Included in MRS
+idPlayerBackside_1           True            MRS fragment produced  True               Included in MRS
+idPlayer_8                   True            MRS fragment produced  True               Included in MRS
+open_7                       True            MRS fragment produced  True               Included in MRS
+yes_4                        True            MRS fragment produced  False              Descends from failed edge
+
+Edge           MRS Composed    Reason                                 Included in MRS    Reason
+-------------  --------------  -------------------------------------  -----------------  -------------------------------------
+idColor_1      True            MRS composed                           True               Included in MRS
+idImmovable_2  False           'idImmovable' has no value in lexicon  False              'idImmovable' has no value in lexicon
+idOpenState_5  True            MRS composed                           True               Included in MRS
+isEastOf_6     True            MRS composed                           True               Included in MRS
+isNear_3       True            MRS composed                           True               Included in MRS
+isWestOf_4     True            MRS composed                           True               Included in MRS
+isWestOf_7     True            MRS composed                           True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             8        8    1
+Nodes              Included             7        8    0.875
+Edges              Produced             6        7    0.857143
+Edges              Included             6        7    0.857143

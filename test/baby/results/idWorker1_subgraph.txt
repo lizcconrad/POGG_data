@@ -1,0 +1,38 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idWorker1_subgraph.dot
+[ TOP: h4834
+  INDEX: e4831
+  RELS: < [ unknown LBL: h4833 ARG: x4810 ARG0: e4831 ]
+          [ def_udef_a_q LBL: h4830 ARG0: x4810 RSTR: h4828 BODY: h4829 ]
+          [ _un-_a_neg LBL: h4818 ARG0: i4816 ARG1: e4817 ]
+          [ _know_v_1 LBL: h4818 ARG0: e4817 ARG1: u4820 ARG2: x4810 ]
+          [ _worker_n_1 LBL: h4818 ARG0: x4810 ] >
+  HCONS: < h4828 qeq h4818 h4834 qeq h4833 > ]
+GENERATED RESULTS ... 
+The unknown workers
+Unknown workers
+The unknown worker
+An unknown worker
+The unknown workers.
+Unknown workers.
+The unknown worker.
+Unknown worker
+An unknown worker.
+Unknown worker.
+
+TOTAL RESULTS: 10
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  ---------------
+idWorker_1  True            MRS fragment produced  True               Included in MRS
+true_2      True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idUnknownObject_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

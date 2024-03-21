@@ -1,0 +1,38 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idCloset1_subgraph.dot
+[ TOP: h966
+  INDEX: e963
+  RELS: < [ unknown LBL: h965 ARG: x959 ARG0: e963 ]
+          [ def_udef_a_q LBL: h962 ARG0: x959 RSTR: h960 BODY: h961 ]
+          [ _un-_a_neg LBL: h943 ARG0: i948 ARG1: e949 ]
+          [ _know_v_1 LBL: h943 ARG0: e949 ARG1: u952 ARG2: x959 ]
+          [ _closet_n_1 LBL: h943 ARG0: x959 ] >
+  HCONS: < h960 qeq h943 h966 qeq h965 > ]
+GENERATED RESULTS ... 
+The unknown closets
+Unknown closets
+The unknown closet
+An unknown closet
+The unknown closets.
+Unknown closets.
+The unknown closet.
+Unknown closet
+An unknown closet.
+Unknown closet.
+
+TOTAL RESULTS: 10
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  ---------------
+idCloset_1  True            MRS fragment produced  True               Included in MRS
+true_2      True            MRS fragment produced  True               Included in MRS
+
+Edge               MRS Composed    Reason        Included in MRS    Reason
+-----------------  --------------  ------------  -----------------  ---------------
+idUnknownObject_1  True            MRS composed  True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2           1
+Nodes              Included             2        2           1
+Edges              Produced             1        1           1
+Edges              Included             1        1           1

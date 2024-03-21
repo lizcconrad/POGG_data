@@ -1,0 +1,301 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/AtomicCity/subgraphs/dot/complete/idDesk1_subgraph.dot
+[ TOP: h1329
+  INDEX: e1326
+  RELS: < [ unknown LBL: h1328 ARG: x1322 ARG0: e1326 ]
+          [ def_udef_a_q LBL: h1325 ARG0: x1322 RSTR: h1323 BODY: h1324 ]
+          [ loc_nonsp LBL: h1203 ARG0: i1318 ARG1: x1322 ARG2: x1312 ]
+          [ loc_nonsp LBL: h1203 ARG0: i1258 ARG1: x1322 ARG2: x1254 ]
+          [ _immovable_a_1 LBL: h1203 ARG0: e1201 ARG1: x1322 ]
+          [ _desk_n_1 LBL: h1203 ARG0: x1322 ]
+          [ def_implicit_q LBL: h1257 ARG0: x1254 RSTR: h1255 BODY: h1256 ]
+          [ _east_a_1 LBL: h1253 ARG0: i1244 ARG1: x1254 ARG2: x1207 ]
+          [ def_udef_a_q LBL: h1251 ARG0: x1207 RSTR: h1249 BODY: h1250 ]
+          [ loc_nonsp LBL: h1243 ARG0: i1240 ARG1: x1207 ARG2: x1234 ]
+          [ _grey_a_1 LBL: h1243 ARG0: i1210 ARG1: x1207 ]
+          [ _office_n_of LBL: h1243 ARG0: x1207 ARG1: i1208 ]
+          [ def_implicit_q LBL: h1239 ARG0: x1234 RSTR: h1237 BODY: h1238 ]
+          [ _west_a_1 LBL: h1235 ARG0: i1226 ARG1: x1234 ARG2: x1230 ]
+          [ def_udef_a_q LBL: h1233 ARG0: x1230 RSTR: h1231 BODY: h1232 ]
+          [ compound LBL: h1214 ARG0: e1222 ARG1: x1230 ARG2: x1218 ]
+          [ udef_q LBL: h1221 ARG0: x1218 RSTR: h1219 BODY: h1220 ]
+          [ _right_n_of LBL: h1217 ARG0: x1218 ARG1: i1216 ]
+          [ _opening_n_1 LBL: h1214 ARG0: x1230 ]
+          [ place_n LBL: h1235 ARG0: x1234 ]
+          [ place_n LBL: h1253 ARG0: x1254 ]
+          [ def_implicit_q LBL: h1317 ARG0: x1312 RSTR: h1315 BODY: h1316 ]
+          [ _north_a_1 LBL: h1313 ARG0: i1304 ARG1: x1312 ARG2: x1262 ]
+          [ def_udef_a_q LBL: h1311 ARG0: x1262 RSTR: h1309 BODY: h1310 ]
+          [ loc_nonsp LBL: h1263 ARG0: i1300 ARG1: x1262 ARG2: x1294 ]
+          [ _un-_a_neg LBL: h1263 ARG0: i1281 ARG1: e1277 ]
+          [ _light_v_cause LBL: h1263 ARG0: e1277 ARG1: i1278 ARG2: x1262 ]
+          [ _off_a_1 LBL: h1263 ARG0: e1274 ARG1: x1262 ]
+          [ compound LBL: h1263 ARG0: e1270 ARG1: x1262 ARG2: x1264 ]
+          [ udef_q LBL: h1269 ARG0: x1264 RSTR: h1267 BODY: h1268 ]
+          [ _valve_n_1 LBL: h1265 ARG0: x1264 ]
+          [ _light_n_1 LBL: h1263 ARG0: x1262 ]
+          [ def_implicit_q LBL: h1299 ARG0: x1294 RSTR: h1297 BODY: h1298 ]
+          [ _south_a_1 LBL: h1289 ARG0: i1286 ARG1: x1294 ARG2: x1284 ]
+          [ def_udef_a_q LBL: h1293 ARG0: x1284 RSTR: h1291 BODY: h1292 ]
+          [ _fuse_n_1 LBL: h1285 ARG0: x1284 ]
+          [ place_n LBL: h1289 ARG0: x1294 ]
+          [ place_n LBL: h1313 ARG0: x1312 ] >
+  HCONS: < h1219 qeq h1217 h1231 qeq h1214 h1237 qeq h1235 h1249 qeq h1243 h1255 qeq h1253 h1267 qeq h1265 h1291 qeq h1285 h1297 qeq h1289 h1309 qeq h1263 h1315 qeq h1313 h1323 qeq h1203 h1329 qeq h1328 > ]
+GENERATED RESULTS ... 
+Immovable desks north of the off unlighted valve lights south of the fuses east of the gray offices west of the right openings
+Immovable desks east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuses
+Immovable desks north of the off unlighted valve lights south of the fuses east of the grey offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuses
+Immovable desks north of the unlighted off valve lights south of the fuses east of the gray offices west of the right openings
+Immovable desks east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuses
+Immovable desks north of the unlighted off valve lights south of the fuses east of the grey offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuses
+Immovable desks north of the off unlighted valve lights south of the fuse east of the gray offices west of the right openings
+Immovable desks east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuse
+Immovable desks north of the off unlighted valve lights south of the fuse east of the grey offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuse
+Immovable desks north of the unlighted off valve lights south of the fuse east of the gray offices west of the right openings
+Immovable desks east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuse
+Immovable desks north of the unlighted off valve lights south of the fuse east of the grey offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuse
+Immovable desks north of the off unlighted valve lights south of the fuses east of the gray offices west of the right opening
+Immovable desks east of the gray offices west of the right opening north of the off unlighted valve lights south of the fuses
+Immovable desks north of the off unlighted valve lights south of the fuses east of the grey offices west of the right opening
+Immovable desks east of the grey offices west of the right opening north of the off unlighted valve lights south of the fuses
+Immovable desks north of the unlighted off valve lights south of the fuses east of the gray offices west of the right opening
+Immovable desks east of the gray offices west of the right opening north of the unlighted off valve lights south of the fuses
+Immovable desks north of the unlighted off valve lights south of the fuses east of the grey offices west of the right opening
+Immovable desks east of the grey offices west of the right opening north of the unlighted off valve lights south of the fuses
+The immovable desk north of the off unlighted valve lights south of the fuses east of the gray offices west of the right openings
+The immovable desk east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuses
+The immovable desk north of the off unlighted valve lights south of the fuses east of the grey offices west of the right openings
+The immovable desk east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuses
+The immovable desk north of the unlighted off valve lights south of the fuses east of the gray offices west of the right openings
+The immovable desk east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuses
+The immovable desk north of the unlighted off valve lights south of the fuses east of the grey offices west of the right openings
+The immovable desk east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuses
+Immovable desks north of the off unlighted valve lights south of the fuse east of the gray offices west of the right opening
+Immovable desks east of the gray offices west of the right opening north of the off unlighted valve lights south of the fuse
+Immovable desks north of the off unlighted valve lights south of the fuse east of the grey offices west of the right opening
+Immovable desks east of the grey offices west of the right opening north of the off unlighted valve lights south of the fuse
+Immovable desks north of the unlighted off valve lights south of the fuse east of the gray offices west of the right opening
+Immovable desks east of the gray offices west of the right opening north of the unlighted off valve lights south of the fuse
+Immovable desks north of the unlighted off valve lights south of the fuse east of the grey offices west of the right opening
+Immovable desks east of the grey offices west of the right opening north of the unlighted off valve lights south of the fuse
+Immovable desks east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuses.
+Immovable desks east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuses.
+An immovable desk north of the off unlighted valve lights south of the fuses east of the gray offices west of the right openings
+An immovable desk east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuses
+An immovable desk north of the off unlighted valve lights south of the fuses east of the grey offices west of the right openings
+An immovable desk east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuses
+The immovable desk north of the off unlighted valve lights south of the fuse east of the gray offices west of the right openings
+The immovable desk east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuse
+The immovable desk north of the off unlighted valve lights south of the fuse east of the grey offices west of the right openings
+The immovable desk east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuse
+Immovable desks east of the gray offices west of the right openings north of unlighted off valve lights south of the fuses
+Immovable desks north of unlighted off valve lights south of the fuses east of the gray offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of unlighted off valve lights south of the fuses
+Immovable desks north of unlighted off valve lights south of the fuses east of the grey offices west of the right openings
+Immovable desks east of the gray offices west of the right openings north of the off unlighted valve lights south of a fuse
+Immovable desks north of the off unlighted valve lights south of a fuse east of the gray offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of the off unlighted valve lights south of a fuse
+Immovable desks north of the off unlighted valve lights south of a fuse east of the grey offices west of the right openings
+Immovable desks east of the gray offices west of the right openings north of the valves off unlighted lights south of the fuses
+Immovable desks north of the valves off unlighted lights south of the fuses east of the gray offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of the valves off unlighted lights south of the fuses
+Immovable desks north of the valves off unlighted lights south of the fuses east of the grey offices west of the right openings
+Immovable desks east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuses.
+Immovable desks east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuses.
+An immovable desk north of the unlighted off valve lights south of the fuses east of the gray offices west of the right openings
+An immovable desk east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuses
+An immovable desk north of the unlighted off valve lights south of the fuses east of the grey offices west of the right openings
+An immovable desk east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuses
+The immovable desk north of the unlighted off valve lights south of the fuse east of the gray offices west of the right openings
+The immovable desk east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuse
+The immovable desk north of the unlighted off valve lights south of the fuse east of the grey offices west of the right openings
+The immovable desk east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuse
+Immovable desks east of the gray offices west of the right openings north of the unlighted off valve lights south of a fuse
+Immovable desks north of the unlighted off valve lights south of a fuse east of the gray offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of the unlighted off valve lights south of a fuse
+Immovable desks north of the unlighted off valve lights south of a fuse east of the grey offices west of the right openings
+The immovable desk north of the off unlighted valve lights south of the fuses east of the gray offices west of the right opening
+The immovable desk east of the gray offices west of the right opening north of the off unlighted valve lights south of the fuses
+The immovable desk north of the off unlighted valve lights south of the fuses east of the grey offices west of the right opening
+The immovable desk east of the grey offices west of the right opening north of the off unlighted valve lights south of the fuses
+The immovable desk north of the unlighted off valve lights south of the fuses east of the gray offices west of the right opening
+The immovable desk east of the gray offices west of the right opening north of the unlighted off valve lights south of the fuses
+The immovable desk north of the unlighted off valve lights south of the fuses east of the grey offices west of the right opening
+The immovable desk east of the grey offices west of the right opening north of the unlighted off valve lights south of the fuses
+Immovable desks east of the gray offices west of the right openings north of the off unlighted valve light south of the fuses
+Immovable desks north of the off unlighted valve light south of the fuses east of the gray offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of the off unlighted valve light south of the fuses
+Immovable desks north of the off unlighted valve light south of the fuses east of the grey offices west of the right openings
+Immovable desks north of the off unlighted valve lights south of the fuses east of the gray offices west of a right opening
+Immovable desks east of the gray offices west of a right opening north of the off unlighted valve lights south of the fuses
+Immovable desks north of the off unlighted valve lights south of the fuses east of the grey offices west of a right opening
+Immovable desks east of the grey offices west of a right opening north of the off unlighted valve lights south of the fuses
+Immovable desks north of off unlighted valve lights south of the fuses east of the gray offices west of the right openings
+Immovable desks east of the gray offices west of the right openings north of off unlighted valve lights south of the fuses
+Immovable desks north of off unlighted valve lights south of the fuses east of the grey offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of off unlighted valve lights south of the fuses
+Immovable desks north of the unlighted off valve light south of the fuses east of the gray offices west of the right openings
+Immovable desks east of the gray offices west of the right openings north of the unlighted off valve light south of the fuses
+Immovable desks north of the unlighted off valve light south of the fuses east of the grey offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of the unlighted off valve light south of the fuses
+Immovable desks north of the unlighted off valve lights south of the fuses east of the gray offices west of a right opening
+Immovable desks east of the gray offices west of a right opening north of the unlighted off valve lights south of the fuses
+Immovable desks north of the unlighted off valve lights south of the fuses east of the grey offices west of a right opening
+Immovable desks east of the grey offices west of a right opening north of the unlighted off valve lights south of the fuses
+Immovable desks north of the off unlighted valve lights south of the fuses east of the gray offices west of the right openings.
+Immovable desks north of the off unlighted valve lights south of the fuses east of the grey offices west of the right openings.
+An immovable desk north of the off unlighted valve lights south of the fuse east of the gray offices west of the right openings
+An immovable desk east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuse
+An immovable desk north of the off unlighted valve lights south of the fuse east of the grey offices west of the right openings
+An immovable desk east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuse
+Immovable desks north of the unlighted off valve lights south of the fuses east of the gray offices west of the right openings.
+Immovable desks north of the unlighted off valve lights south of the fuses east of the grey offices west of the right openings.
+Immovable desks north of unlighted off valve lights south of the fuse east of the gray offices west of the right openings
+Immovable desks east of the gray offices west of the right openings north of unlighted off valve lights south of the fuse
+Immovable desks north of unlighted off valve lights south of the fuse east of the grey offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of unlighted off valve lights south of the fuse
+Immovable desks north of the valves off unlighted lights south of the fuse east of the gray offices west of the right openings
+Immovable desks east of the gray offices west of the right openings north of the valves off unlighted lights south of the fuse
+Immovable desks north of the valves off unlighted lights south of the fuse east of the grey offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of the valves off unlighted lights south of the fuse
+An immovable desk north of the unlighted off valve lights south of the fuse east of the gray offices west of the right openings
+An immovable desk east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuse
+An immovable desk north of the unlighted off valve lights south of the fuse east of the grey offices west of the right openings
+An immovable desk east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuse
+Immovable desks east of the gray offices west of the right opening north of the off unlighted valve lights south of the fuses.
+Immovable desks east of the grey offices west of the right opening north of the off unlighted valve lights south of the fuses.
+An immovable desk north of the off unlighted valve lights south of the fuses east of the gray offices west of the right opening
+An immovable desk east of the gray offices west of the right opening north of the off unlighted valve lights south of the fuses
+An immovable desk north of the off unlighted valve lights south of the fuses east of the grey offices west of the right opening
+An immovable desk east of the grey offices west of the right opening north of the off unlighted valve lights south of the fuses
+The immovable desk north of the off unlighted valve lights south of the fuse east of the gray offices west of the right opening
+The immovable desk east of the gray offices west of the right opening north of the off unlighted valve lights south of the fuse
+The immovable desk north of the off unlighted valve lights south of the fuse east of the grey offices west of the right opening
+The immovable desk east of the grey offices west of the right opening north of the off unlighted valve lights south of the fuse
+Immovable desks north of unlighted off valve lights south of the fuses east of the gray offices west of the right opening
+Immovable desks east of the gray offices west of the right opening north of unlighted off valve lights south of the fuses
+Immovable desks north of unlighted off valve lights south of the fuses east of the grey offices west of the right opening
+Immovable desks east of the grey offices west of the right opening north of unlighted off valve lights south of the fuses
+Immovable desks north of the off unlighted valve lights south of a fuse east of the gray offices west of the right opening
+Immovable desks east of the gray offices west of the right opening north of the off unlighted valve lights south of a fuse
+Immovable desks north of the off unlighted valve lights south of a fuse east of the grey offices west of the right opening
+Immovable desks east of the grey offices west of the right opening north of the off unlighted valve lights south of a fuse
+Immovable desks east of the gray offices west of the right opening north of the valves off unlighted lights south of the fuses
+Immovable desks north of the valves off unlighted lights south of the fuses east of the gray offices west of the right opening
+Immovable desks east of the grey offices west of the right opening north of the valves off unlighted lights south of the fuses
+Immovable desks north of the valves off unlighted lights south of the fuses east of the grey offices west of the right opening
+Immovable desks east of the gray offices west of the right opening north of the unlighted off valve lights south of the fuses.
+Immovable desks east of the grey offices west of the right opening north of the unlighted off valve lights south of the fuses.
+An immovable desk north of the unlighted off valve lights south of the fuses east of the gray offices west of the right opening
+An immovable desk east of the gray offices west of the right opening north of the unlighted off valve lights south of the fuses
+An immovable desk north of the unlighted off valve lights south of the fuses east of the grey offices west of the right opening
+An immovable desk east of the grey offices west of the right opening north of the unlighted off valve lights south of the fuses
+The immovable desk north of the unlighted off valve lights south of the fuse east of the gray offices west of the right opening
+The immovable desk east of the gray offices west of the right opening north of the unlighted off valve lights south of the fuse
+The immovable desk north of the unlighted off valve lights south of the fuse east of the grey offices west of the right opening
+The immovable desk east of the grey offices west of the right opening north of the unlighted off valve lights south of the fuse
+Immovable desks east of the gray offices west of the right openings north of the off unlighted valve light south of the fuse
+Immovable desks north of the off unlighted valve light south of the fuse east of the gray offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of the off unlighted valve light south of the fuse
+Immovable desks north of the off unlighted valve light south of the fuse east of the grey offices west of the right openings
+Immovable desks east of the gray offices west of the right opening north of the unlighted off valve lights south of a fuse
+Immovable desks north of the unlighted off valve lights south of a fuse east of the gray offices west of the right opening
+Immovable desks east of the grey offices west of the right opening north of the unlighted off valve lights south of a fuse
+Immovable desks north of the unlighted off valve lights south of a fuse east of the grey offices west of the right opening
+Immovable desks east of the gray offices west of a right opening north of the off unlighted valve lights south of the fuse
+Immovable desks north of the off unlighted valve lights south of the fuse east of the gray offices west of a right opening
+Immovable desks east of the grey offices west of a right opening north of the off unlighted valve lights south of the fuse
+Immovable desks north of the off unlighted valve lights south of the fuse east of the grey offices west of a right opening
+Immovable desks east of the gray offices west of the right openings north of off unlighted valve lights south of the fuse
+Immovable desks north of off unlighted valve lights south of the fuse east of the gray offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of off unlighted valve lights south of the fuse
+Immovable desks north of off unlighted valve lights south of the fuse east of the grey offices west of the right openings
+Immovable desks north of the unlighted off valve light south of the fuse east of the gray offices west of the right openings
+Immovable desks east of the gray offices west of the right openings north of the unlighted off valve light south of the fuse
+Immovable desks north of the unlighted off valve light south of the fuse east of the grey offices west of the right openings
+Immovable desks east of the grey offices west of the right openings north of the unlighted off valve light south of the fuse
+Immovable desks north of the off unlighted valve light south of the fuses east of the gray offices west of the right opening
+Immovable desks east of the gray offices west of the right opening north of the off unlighted valve light south of the fuses
+Immovable desks north of the off unlighted valve light south of the fuses east of the grey offices west of the right opening
+Immovable desks east of the grey offices west of the right opening north of the off unlighted valve light south of the fuses
+Immovable desks north of the unlighted off valve lights south of the fuse east of the gray offices west of a right opening
+Immovable desks east of the gray offices west of a right opening north of the unlighted off valve lights south of the fuse
+Immovable desks north of the unlighted off valve lights south of the fuse east of the grey offices west of a right opening
+Immovable desks east of the grey offices west of a right opening north of the unlighted off valve lights south of the fuse
+Immovable desks north of the off unlighted valve lights south of the fuse east of the gray offices west of the right openings.
+Immovable desks north of the off unlighted valve lights south of the fuse east of the grey offices west of the right openings.
+The immovable desk east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuses.
+The immovable desk east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuses.
+Immovable desks north of off unlighted valve lights south of the fuses east of the gray offices west of the right opening
+Immovable desks east of the gray offices west of the right opening north of off unlighted valve lights south of the fuses
+Immovable desks north of off unlighted valve lights south of the fuses east of the grey offices west of the right opening
+Immovable desks east of the grey offices west of the right opening north of off unlighted valve lights south of the fuses
+Immovable desks north of the unlighted off valve light south of the fuses east of the gray offices west of the right opening
+Immovable desks east of the gray offices west of the right opening north of the unlighted off valve light south of the fuses
+Immovable desks north of the unlighted off valve light south of the fuses east of the grey offices west of the right opening
+Immovable desks east of the grey offices west of the right opening north of the unlighted off valve light south of the fuses
+The immovable desk north of unlighted off valve lights south of the fuses east of the gray offices west of the right openings
+The immovable desk east of the gray offices west of the right openings north of unlighted off valve lights south of the fuses
+The immovable desk north of unlighted off valve lights south of the fuses east of the grey offices west of the right openings
+The immovable desk east of the grey offices west of the right openings north of unlighted off valve lights south of the fuses
+The immovable desk north of the off unlighted valve lights south of a fuse east of the gray offices west of the right openings
+The immovable desk east of the gray offices west of the right openings north of the off unlighted valve lights south of a fuse
+The immovable desk north of the off unlighted valve lights south of a fuse east of the grey offices west of the right openings
+The immovable desk east of the grey offices west of the right openings north of the off unlighted valve lights south of a fuse
+The immovable desk north of the valves off unlighted lights south of the fuses east of the gray offices west of the right openings
+The immovable desk east of the gray offices west of the right openings north of the valves off unlighted lights south of the fuses
+The immovable desk north of the valves off unlighted lights south of the fuses east of the grey offices west of the right openings
+The immovable desk east of the grey offices west of the right openings north of the valves off unlighted lights south of the fuses
+Immovable desks north of the unlighted off valve lights south of the fuse east of the gray offices west of the right openings.
+Immovable desks north of the unlighted off valve lights south of the fuse east of the grey offices west of the right openings.
+The immovable desk east of the gray offices west of the right openings north of the unlighted off valve lights south of the fuses.
+The immovable desk east of the grey offices west of the right openings north of the unlighted off valve lights south of the fuses.
+The immovable desk north of the unlighted off valve lights south of a fuse east of the gray offices west of the right openings
+The immovable desk east of the gray offices west of the right openings north of the unlighted off valve lights south of a fuse
+The immovable desk north of the unlighted off valve lights south of a fuse east of the grey offices west of the right openings
+The immovable desk east of the grey offices west of the right openings north of the unlighted off valve lights south of a fuse
+An immovable desk north of the off unlighted valve lights south of the fuse east of the gray offices west of the right opening
+An immovable desk east of the gray offices west of the right opening north of the off unlighted valve lights south of the fuse
+An immovable desk north of the off unlighted valve lights south of the fuse east of the grey offices west of the right opening
+An immovable desk east of the grey offices west of the right opening north of the off unlighted valve lights south of the fuse
+The immovable desks north of the off unlighted valve lights south of the fuses east of the gray offices west of the right openings
+The immovable desks east of the gray offices west of the right openings north of the off unlighted valve lights south of the fuses
+The immovable desks north of the off unlighted valve lights south of the fuses east of the grey offices west of the right openings
+The immovable desks east of the grey offices west of the right openings north of the off unlighted valve lights south of the fuses
+
+TOTAL RESULTS: 224
+
+Node                     MRS Produced    Reason                 Included in MRS    Reason
+-----------------------  --------------  ---------------------  -----------------  -------------------------
+grey_5                   True            MRS fragment produced  True               Included in MRS
+idDesk_1                 True            MRS fragment produced  True               Included in MRS
+idFuse30A_10             True            MRS fragment produced  True               Included in MRS
+idOffice1RightOpening_6  True            MRS fragment produced  True               Included in MRS
+idOffice_4               True            MRS fragment produced  True               Included in MRS
+idShutoffValveLight_7    True            MRS fragment produced  True               Included in MRS
+idaluminum_2             True            MRS fragment produced  False              Descends from failed edge
+off_8                    True            MRS fragment produced  True               Included in MRS
+unlit_9                  True            MRS fragment produced  True               Included in MRS
+yes_3                    True            MRS fragment produced  True               Included in MRS
+
+Edge           MRS Composed    Reason                                       Included in MRS    Reason
+-------------  --------------  -------------------------------------------  -----------------  -------------------------------------------
+idColor_3      True            MRS composed                                 True               Included in MRS
+idColor_6      True            MRS composed                                 True               Included in MRS
+idImmovable_2  True            MRS composed                                 True               Included in MRS
+idLitState_7   True            MRS composed                                 True               Included in MRS
+idMaterial_1   False           No legitimate composition type for compound  False              No legitimate composition type for compound
+isEastOf_5     True            MRS composed                                 True               Included in MRS
+isNorthOf_9    True            MRS composed                                 True               Included in MRS
+isSouthOf_8    True            MRS composed                                 True               Included in MRS
+isWestOf_4     True            MRS composed                                 True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced            10       10    1
+Nodes              Included             9       10    0.9
+Edges              Produced             8        9    0.888889
+Edges              Included             8        9    0.888889

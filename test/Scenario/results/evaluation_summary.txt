@@ -1,0 +1,401 @@
+EVALUATION SUMMARY
+
+  Graphs Generated From    Total Graphs    Graph Coverage
+-----------------------  --------------  ----------------
+                     37              48          0.770833
+
+Graph Name                                    Results  Reason
+------------------------------------------  ---------  ----------------------
+idBook1Page1Text_subgraph                          12  Successfully generated
+idBook1Page1_subgraph                              60  Successfully generated
+idBook1Page2Text_subgraph                          12  Successfully generated
+idBook1Page2_subgraph                             840  Successfully generated
+idBook1Page3TornText_subgraph                       0  MRS not produced
+idBook1Page3Torn_subgraph                           0  MRS not produced
+idBook1Page3_subgraph                              20  Successfully generated
+idBook1_subgraph                                 1292  Successfully generated
+idCrystal1_subgraph                                12  Successfully generated
+idDarkCaveFrontOpening_subgraph                    50  Successfully generated
+idDarkCave_subgraph                              1125  Successfully generated
+idDiamond1_subgraph                                10  Successfully generated
+idEntrancecaveBackOpening_subgraph               1506  Successfully generated
+idEntrancecave_subgraph                           960  Successfully generated
+idFlashlight1Switch_subgraph                      823  Successfully generated
+idFlashlight1_prop_idPowerControl_subgraph          0  MRS not produced
+idFlashlight1_subgraph                            360  Successfully generated
+idFlashlight2_prop_idPowerControl_subgraph          0  MRS not produced
+idFlashlight2_subgraph                           1009  Successfully generated
+idFlashlightHandle_subgraph                       300  Successfully generated
+idGreenRoomBackOpeningDoorKeyhole_subgraph       1148  Successfully generated
+idGreenRoomBackOpeningDoor_subgraph                 0  Graph contains cycles
+idGreenRoomBackOpening_subgraph                    50  Successfully generated
+idGreenRoomFrontOpening_subgraph                  140  Successfully generated
+idGreenRoom_subgraph                               10  Successfully generated
+idKey1_subgraph                                    10  Successfully generated
+idKeyhole1_subgraph                               433  Successfully generated
+idKeyhole2_subgraph                              1268  Successfully generated
+idLexiLeftHand_subgraph                             0  MRS not produced
+idLexiRightHand_subgraph                            0  MRS not produced
+idLexi_subgraph                                     0  MRS not produced
+idLight1_subgraph                                  60  Successfully generated
+idLock1_subgraph                                   10  Successfully generated
+idLock2_subgraph                                 1437  Successfully generated
+idLockFace1_subgraph                               60  Successfully generated
+idLockFace2_subgraph                               12  Successfully generated
+idMachine1_prop_idPowerControl_subgraph             0  MRS not produced
+idMachine1_subgraph                                10  Successfully generated
+idOnSwitch1_subgraph                                0  Graph contains cycles
+idPlageBackOpening_subgraph                       768  Successfully generated
+idPlageFrontOpening_subgraph                       50  Successfully generated
+idPlage_subgraph                                    0  MRS not produced
+idRock1_subgraph                                   24  Successfully generated
+idRock2_subgraph                                   24  Successfully generated
+idSafe1_subgraph                                   10  Successfully generated
+idSafe2_subgraph                                   10  Successfully generated
+idTable1_subgraph                                  10  Successfully generated
+idWorld1_subgraph                                  10  Successfully generated
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced           150      189    0.793651
+Nodes              Included           130      189    0.687831
+Edges              Produced           102      143    0.713287
+Edges              Included            93      143    0.65035
+
+Node                                                                            MRS Produced    Reason                                                       Included in MRS    Reason
+------------------------------------------------------------------------------  --------------  -----------------------------------------------------------  -----------------  -----------------------------------------------------------
+idBook1Page1Text_subgraph_idBook1Page1Text_1                                    True            MRS fragment produced                                        True               Included in MRS
+idBook1Page1_subgraph_1_2                                                       False           '1' has no value in the lexicon                              False              '1' has no value in the lexicon
+idBook1Page1_subgraph_idBook1Page1_1                                            True            MRS fragment produced                                        True               Included in MRS
+idBook1Page1_subgraph_idKey_3                                                   True            MRS fragment produced                                        True               Included in MRS
+idBook1Page1_subgraph_idOnSwitch_5                                              False           'idOnSwitch' has no value in the lexicon                     False              'idOnSwitch' has no value in the lexicon
+idBook1Page1_subgraph_red_4                                                     True            MRS fragment produced                                        True               Included in MRS
+idBook1Page2Text_subgraph_idBook1Page2Text_1                                    True            MRS fragment produced                                        True               Included in MRS
+idBook1Page2_subgraph_2_2                                                       False           '2' has no value in the lexicon                              False              '2' has no value in the lexicon
+idBook1Page2_subgraph_idBook1Page2_1                                            True            MRS fragment produced                                        True               Included in MRS
+idBook1Page2_subgraph_idEntrancecaveBackOpening_3                               True            MRS fragment produced                                        True               Included in MRS
+idBook1Page2_subgraph_open_5                                                    True            MRS fragment produced                                        True               Included in MRS
+idBook1Page2_subgraph_tall_4                                                    True            MRS fragment produced                                        True               Included in MRS
+idBook1Page3TornText_subgraph_idBook1Page3TornText_1                            False           'idBook1Page3TornText' has no value in the lexicon           False              'idBook1Page3TornText' has no value in the lexicon
+idBook1Page3Torn_subgraph_2_4                                                   False           '2' has no value in the lexicon                              False              '2' has no value in the lexicon
+idBook1Page3Torn_subgraph_3_2                                                   False           '3' has no value in the lexicon                              False              '3' has no value in the lexicon
+idBook1Page3Torn_subgraph_idBook1Page3Torn_1                                    False           'idBook1Page3Torn' has no value in the lexicon               False              'idBook1Page3Torn' has no value in the lexicon
+idBook1Page3Torn_subgraph_idPlage_3                                             False           'idPlage' has no value in the lexicon                        False              'idPlage' has no value in the lexicon
+idBook1Page3Torn_subgraph_idRock_5                                              True            MRS fragment produced                                        False              Descends from failed node
+idBook1Page3Torn_subgraph_red_6                                                 True            MRS fragment produced                                        False              Descends from failed node
+idBook1Page3Torn_subgraph_rough_7                                               True            MRS fragment produced                                        False              Descends from failed node
+idBook1Page3_subgraph_3_2                                                       False           '3' has no value in the lexicon                              False              '3' has no value in the lexicon
+idBook1Page3_subgraph_idBook1Page3_1                                            True            MRS fragment produced                                        True               Included in MRS
+idBook1Page3_subgraph_true_3                                                    True            MRS fragment produced                                        True               Included in MRS
+idBook1_subgraph_idBook_1                                                       True            MRS fragment produced                                        True               Included in MRS
+idBook1_subgraph_idFlashlightHandle_4                                           True            MRS fragment produced                                        True               Included in MRS
+idBook1_subgraph_idKeyhole_3                                                    True            MRS fragment produced                                        True               Included in MRS
+idBook1_subgraph_idLight_5                                                      True            MRS fragment produced                                        True               Included in MRS
+idBook1_subgraph_lit_7                                                          True            MRS fragment produced                                        True               Included in MRS
+idBook1_subgraph_on_6                                                           False           'on' has no value in the lexicon                             False              'on' has no value in the lexicon
+idBook1_subgraph_open_2                                                         True            MRS fragment produced                                        True               Included in MRS
+idCrystal1_subgraph_idCrystal_1                                                 True            MRS fragment produced                                        True               Included in MRS
+idDarkCaveFrontOpening_subgraph_2_4                                             False           '2' has no value in the lexicon                              False              '2' has no value in the lexicon
+idDarkCaveFrontOpening_subgraph_idDarkCaveFrontOpening_1                        True            MRS fragment produced                                        True               Included in MRS
+idDarkCaveFrontOpening_subgraph_idPlageBackOpening_5                            True            MRS fragment produced                                        False              Descends from failed node
+idDarkCaveFrontOpening_subgraph_idPlage_3                                       False           'idPlage' has no value in the lexicon                        False              'idPlage' has no value in the lexicon
+idDarkCaveFrontOpening_subgraph_medium_2                                        True            MRS fragment produced                                        True               Included in MRS
+idDarkCave_subgraph_3_2                                                         False           '3' has no value in the lexicon                              False              '3' has no value in the lexicon
+idDarkCave_subgraph_dark_3                                                      True            MRS fragment produced                                        True               Included in MRS
+idDarkCave_subgraph_idDarkCave_1                                                True            MRS fragment produced                                        True               Included in MRS
+idDarkCave_subgraph_idFlashlight2Switch_6                                       True            MRS fragment produced                                        True               Included in MRS
+idDarkCave_subgraph_idFlashlight_4                                              True            MRS fragment produced                                        True               Included in MRS
+idDarkCave_subgraph_idLock_7                                                    True            MRS fragment produced                                        True               Included in MRS
+idDarkCave_subgraph_lit_5                                                       True            MRS fragment produced                                        True               Included in MRS
+idDiamond1_subgraph_idDiamond_1                                                 True            MRS fragment produced                                        True               Included in MRS
+idEntrancecaveBackOpening_subgraph_idEntrancecaveBackOpening_1                  True            MRS fragment produced                                        True               Included in MRS
+idEntrancecaveBackOpening_subgraph_idGreenRoomFrontOpening_7                    True            MRS fragment produced                                        True               Included in MRS
+idEntrancecaveBackOpening_subgraph_idRock_10                                    True            MRS fragment produced                                        True               Included in MRS
+idEntrancecaveBackOpening_subgraph_idRock_4                                     True            MRS fragment produced                                        True               Included in MRS
+idEntrancecaveBackOpening_subgraph_open_3                                       True            MRS fragment produced                                        True               Included in MRS
+idEntrancecaveBackOpening_subgraph_open_9                                       True            MRS fragment produced                                        True               Included in MRS
+idEntrancecaveBackOpening_subgraph_red_11                                       True            MRS fragment produced                                        True               Included in MRS
+idEntrancecaveBackOpening_subgraph_red_5                                        True            MRS fragment produced                                        True               Included in MRS
+idEntrancecaveBackOpening_subgraph_rough_12                                     True            MRS fragment produced                                        True               Included in MRS
+idEntrancecaveBackOpening_subgraph_rough_6                                      True            MRS fragment produced                                        True               Included in MRS
+idEntrancecaveBackOpening_subgraph_short_8                                      True            MRS fragment produced                                        True               Included in MRS
+idEntrancecaveBackOpening_subgraph_tall_2                                       True            MRS fragment produced                                        True               Included in MRS
+idEntrancecave_subgraph_1_2                                                     False           '1' has no value in the lexicon                              False              '1' has no value in the lexicon
+idEntrancecave_subgraph_idEntrancecave_1                                        True            MRS fragment produced                                        True               Included in MRS
+idEntrancecave_subgraph_idFlashlight_7                                          True            MRS fragment produced                                        True               Included in MRS
+idEntrancecave_subgraph_idMachine_4                                             True            MRS fragment produced                                        True               Included in MRS
+idEntrancecave_subgraph_idOnSwitch_6                                            False           'idOnSwitch' has no value in the lexicon                     False              'idOnSwitch' has no value in the lexicon
+idEntrancecave_subgraph_off_5                                                   True            MRS fragment produced                                        True               Included in MRS
+idEntrancecave_subgraph_open_3                                                  True            MRS fragment produced                                        True               Included in MRS
+idFlashlight1Switch_subgraph_idFlashlight1Switch_1                              True            MRS fragment produced                                        True               Included in MRS
+idFlashlight1Switch_subgraph_idLockFace_5                                       True            MRS fragment produced                                        True               Included in MRS
+idFlashlight1Switch_subgraph_idSafe_6                                           True            MRS fragment produced                                        True               Included in MRS
+idFlashlight1Switch_subgraph_idWorld_4                                          True            MRS fragment produced                                        True               Included in MRS
+idFlashlight1Switch_subgraph_off_3                                              True            MRS fragment produced                                        True               Included in MRS
+idFlashlight1Switch_subgraph_yellow_2                                           True            MRS fragment produced                                        True               Included in MRS
+idFlashlight1_prop_idPowerControl_subgraph_idFlashlight1_prop_idPowerControl_1  False           Couldn't find idFlashlight1_prop_idPowerControl in the SEMI  False              Couldn't find idFlashlight1_prop_idPowerControl in the SEMI
+idFlashlight1_subgraph_idFlashlight_1                                           True            MRS fragment produced                                        True               Included in MRS
+idFlashlight1_subgraph_idLockFace_5                                             True            MRS fragment produced                                        True               Included in MRS
+idFlashlight1_subgraph_off_3                                                    True            MRS fragment produced                                        True               Included in MRS
+idFlashlight1_subgraph_unlit_4                                                  True            MRS fragment produced                                        True               Included in MRS
+idFlashlight1_subgraph_yellow_2                                                 True            MRS fragment produced                                        True               Included in MRS
+idFlashlight2_prop_idPowerControl_subgraph_idFlashlight2_prop_idPowerControl_1  False           Couldn't find idFlashlight2_prop_idPowerControl in the SEMI  False              Couldn't find idFlashlight2_prop_idPowerControl in the SEMI
+idFlashlight2_subgraph_idFlashlight2Switch_2                                    True            MRS fragment produced                                        True               Included in MRS
+idFlashlight2_subgraph_idFlashlight_1                                           True            MRS fragment produced                                        True               Included in MRS
+idFlashlight2_subgraph_idGreenRoomBackOpening_5                                 True            MRS fragment produced                                        True               Included in MRS
+idFlashlight2_subgraph_idSafe_7                                                 True            MRS fragment produced                                        True               Included in MRS
+idFlashlight2_subgraph_medium_6                                                 True            MRS fragment produced                                        True               Included in MRS
+idFlashlight2_subgraph_on_3                                                     False           'on' has no value in the lexicon                             False              'on' has no value in the lexicon
+idFlashlight2_subgraph_orange_4                                                 True            MRS fragment produced                                        True               Included in MRS
+idFlashlightHandle_subgraph_idFlashlightHandle_1                                True            MRS fragment produced                                        True               Included in MRS
+idFlashlightHandle_subgraph_idGreenRoomBackOpening_2                            True            MRS fragment produced                                        True               Included in MRS
+idFlashlightHandle_subgraph_idLexiLeftHand_4                                    False           'idLexiLeftHand' has no value in the lexicon                 False              'idLexiLeftHand' has no value in the lexicon
+idFlashlightHandle_subgraph_medium_3                                            True            MRS fragment produced                                        True               Included in MRS
+idGreenRoomBackOpeningDoorKeyhole_subgraph_closed_4                             True            MRS fragment produced                                        True               Included in MRS
+idGreenRoomBackOpeningDoorKeyhole_subgraph_idEntrancecave_5                     True            MRS fragment produced                                        True               Included in MRS
+idGreenRoomBackOpeningDoorKeyhole_subgraph_idGreenRoomBackOpeningDoorKeyhole_1  True            MRS fragment produced                                        True               Included in MRS
+idGreenRoomBackOpeningDoorKeyhole_subgraph_idGreenRoomBackOpeningDoor_2         True            MRS fragment produced                                        True               Included in MRS
+idGreenRoomBackOpeningDoorKeyhole_subgraph_locked_3                             True            MRS fragment produced                                        True               Included in MRS
+idGreenRoomBackOpening_subgraph_idGreenRoomBackOpening_1                        True            MRS fragment produced                                        True               Included in MRS
+idGreenRoomBackOpening_subgraph_medium_2                                        True            MRS fragment produced                                        True               Included in MRS
+idGreenRoomFrontOpening_subgraph_idGreenRoomFrontOpening_1                      True            MRS fragment produced                                        True               Included in MRS
+idGreenRoomFrontOpening_subgraph_open_3                                         True            MRS fragment produced                                        True               Included in MRS
+idGreenRoomFrontOpening_subgraph_short_2                                        True            MRS fragment produced                                        True               Included in MRS
+idGreenRoom_subgraph_green_2                                                    True            MRS fragment produced                                        True               Included in MRS
+idGreenRoom_subgraph_idGreenRoom_1                                              True            MRS fragment produced                                        True               Included in MRS
+idKey1_subgraph_idKey_1                                                         True            MRS fragment produced                                        True               Included in MRS
+idKey1_subgraph_red_2                                                           True            MRS fragment produced                                        True               Included in MRS
+idKeyhole1_subgraph_idFlashlight_3                                              True            MRS fragment produced                                        True               Included in MRS
+idKeyhole1_subgraph_idKeyhole_1                                                 True            MRS fragment produced                                        True               Included in MRS
+idKeyhole1_subgraph_idKeyhole_7                                                 True            MRS fragment produced                                        True               Included in MRS
+idKeyhole1_subgraph_idLockFace_2                                                True            MRS fragment produced                                        True               Included in MRS
+idKeyhole1_subgraph_idMachine_4                                                 True            MRS fragment produced                                        True               Included in MRS
+idKeyhole1_subgraph_idOnSwitch_6                                                False           'idOnSwitch' has no value in the lexicon                     False              'idOnSwitch' has no value in the lexicon
+idKeyhole1_subgraph_off_5                                                       True            MRS fragment produced                                        True               Included in MRS
+idKeyhole2_subgraph_2_3                                                         False           '2' has no value in the lexicon                              False              '2' has no value in the lexicon
+idKeyhole2_subgraph_idEntrancecaveBackOpening_4                                 True            MRS fragment produced                                        True               Included in MRS
+idKeyhole2_subgraph_idFlashlight2Switch_7                                       True            MRS fragment produced                                        True               Included in MRS
+idKeyhole2_subgraph_idKeyhole_1                                                 True            MRS fragment produced                                        True               Included in MRS
+idKeyhole2_subgraph_idPlage_2                                                   False           'idPlage' has no value in the lexicon                        False              'idPlage' has no value in the lexicon
+idKeyhole2_subgraph_open_6                                                      True            MRS fragment produced                                        True               Included in MRS
+idKeyhole2_subgraph_tall_5                                                      True            MRS fragment produced                                        True               Included in MRS
+idLexiLeftHand_subgraph_closed_4                                                True            MRS fragment produced                                        False              Descends from failed node
+idLexiLeftHand_subgraph_idGreenRoomBackOpeningDoor_3                            True            MRS fragment produced                                        False              Descends from failed node
+idLexiLeftHand_subgraph_idLexiLeftHand_1                                        False           'idLexiLeftHand' has no value in the lexicon                 False              'idLexiLeftHand' has no value in the lexicon
+idLexiLeftHand_subgraph_idLexiRightHand_6                                       False           'idLexiRightHand' has no value in the lexicon                False              'idLexiRightHand' has no value in the lexicon
+idLexiLeftHand_subgraph_left_2                                                  True            MRS fragment produced                                        False              Descends from failed node
+idLexiLeftHand_subgraph_locked_5                                                True            MRS fragment produced                                        False              Descends from failed node
+idLexiRightHand_subgraph_idFlashlight2Switch_3                                  True            MRS fragment produced                                        False              Descends from failed node
+idLexiRightHand_subgraph_idLexiRightHand_1                                      False           'idLexiRightHand' has no value in the lexicon                False              'idLexiRightHand' has no value in the lexicon
+idLexiRightHand_subgraph_on_5                                                   False           'on' has no value in the lexicon                             False              'on' has no value in the lexicon
+idLexiRightHand_subgraph_orange_4                                               True            MRS fragment produced                                        False              Descends from failed node
+idLexiRightHand_subgraph_right_2                                                True            MRS fragment produced                                        False              Descends from failed node
+idLexi_subgraph_idDiamond_5                                                     True            MRS fragment produced                                        False              Descends from failed node
+idLexi_subgraph_idLexi_1                                                        False           'idLexi' has no value in the lexicon                         False              'idLexi' has no value in the lexicon
+idLexi_subgraph_idMachine_2                                                     True            MRS fragment produced                                        False              Descends from failed node
+idLexi_subgraph_idOnSwitch_4                                                    False           'idOnSwitch' has no value in the lexicon                     False              'idOnSwitch' has no value in the lexicon
+idLexi_subgraph_off_3                                                           True            MRS fragment produced                                        False              Descends from failed node
+idLight1_subgraph_idLight_1                                                     True            MRS fragment produced                                        True               Included in MRS
+idLight1_subgraph_lit_4                                                         True            MRS fragment produced                                        True               Included in MRS
+idLight1_subgraph_on_3                                                          False           'on' has no value in the lexicon                             False              'on' has no value in the lexicon
+idLight1_subgraph_purple_2                                                      True            MRS fragment produced                                        True               Included in MRS
+idLock1_subgraph_idLock_1                                                       True            MRS fragment produced                                        True               Included in MRS
+idLock1_subgraph_idOnSwitch_3                                                   False           'idOnSwitch' has no value in the lexicon                     False              'idOnSwitch' has no value in the lexicon
+idLock1_subgraph_off_4                                                          True            MRS fragment produced                                        False              Descends from failed node
+idLock1_subgraph_unlocked_2                                                     True            MRS fragment produced                                        True               Included in MRS
+idLock2_subgraph_1_4                                                            False           '1' has no value in the lexicon                              False              '1' has no value in the lexicon
+idLock2_subgraph_idDiamond_6                                                    True            MRS fragment produced                                        True               Included in MRS
+idLock2_subgraph_idEntrancecave_3                                               True            MRS fragment produced                                        True               Included in MRS
+idLock2_subgraph_idLock_1                                                       True            MRS fragment produced                                        True               Included in MRS
+idLock2_subgraph_idRock_7                                                       True            MRS fragment produced                                        True               Included in MRS
+idLock2_subgraph_locked_2                                                       True            MRS fragment produced                                        True               Included in MRS
+idLock2_subgraph_open_5                                                         True            MRS fragment produced                                        True               Included in MRS
+idLock2_subgraph_red_8                                                          True            MRS fragment produced                                        True               Included in MRS
+idLock2_subgraph_rough_9                                                        True            MRS fragment produced                                        True               Included in MRS
+idLockFace1_subgraph_3_3                                                        False           '3' has no value in the lexicon                              False              '3' has no value in the lexicon
+idLockFace1_subgraph_dark_4                                                     True            MRS fragment produced                                        True               Included in MRS
+idLockFace1_subgraph_idDarkCave_2                                               True            MRS fragment produced                                        True               Included in MRS
+idLockFace1_subgraph_idLockFace_1                                               True            MRS fragment produced                                        True               Included in MRS
+idLockFace2_subgraph_idLockFace_1                                               True            MRS fragment produced                                        True               Included in MRS
+idMachine1_prop_idPowerControl_subgraph_idMachine1_prop_idPowerControl_1        False           Couldn't find idMachine1_prop_idPowerControl in the SEMI     False              Couldn't find idMachine1_prop_idPowerControl in the SEMI
+idMachine1_subgraph_2_5                                                         False           '2' has no value in the lexicon                              False              '2' has no value in the lexicon
+idMachine1_subgraph_idMachine_1                                                 True            MRS fragment produced                                        True               Included in MRS
+idMachine1_subgraph_idOnSwitch_3                                                False           'idOnSwitch' has no value in the lexicon                     False              'idOnSwitch' has no value in the lexicon
+idMachine1_subgraph_idPlage_4                                                   False           'idPlage' has no value in the lexicon                        False              'idPlage' has no value in the lexicon
+idMachine1_subgraph_off_2                                                       True            MRS fragment produced                                        True               Included in MRS
+idPlageBackOpening_subgraph_idFlashlight1Switch_7                               True            MRS fragment produced                                        True               Included in MRS
+idPlageBackOpening_subgraph_idGreenRoomFrontOpening_4                           True            MRS fragment produced                                        True               Included in MRS
+idPlageBackOpening_subgraph_idLock_10                                           True            MRS fragment produced                                        True               Included in MRS
+idPlageBackOpening_subgraph_idPlageBackOpening_1                                True            MRS fragment produced                                        True               Included in MRS
+idPlageBackOpening_subgraph_off_9                                               True            MRS fragment produced                                        True               Included in MRS
+idPlageBackOpening_subgraph_open_3                                              True            MRS fragment produced                                        True               Included in MRS
+idPlageBackOpening_subgraph_open_6                                              True            MRS fragment produced                                        True               Included in MRS
+idPlageBackOpening_subgraph_short_2                                             True            MRS fragment produced                                        True               Included in MRS
+idPlageBackOpening_subgraph_short_5                                             True            MRS fragment produced                                        True               Included in MRS
+idPlageBackOpening_subgraph_yellow_8                                            True            MRS fragment produced                                        True               Included in MRS
+idPlageFrontOpening_subgraph_idPlageFrontOpening_1                              True            MRS fragment produced                                        True               Included in MRS
+idPlageFrontOpening_subgraph_tall_2                                             True            MRS fragment produced                                        True               Included in MRS
+idPlage_subgraph_2_2                                                            False           '2' has no value in the lexicon                              False              '2' has no value in the lexicon
+idPlage_subgraph_idGreenRoom_6                                                  True            MRS fragment produced                                        False              Descends from failed node
+idPlage_subgraph_idPlageBackOpening_3                                           True            MRS fragment produced                                        False              Descends from failed node
+idPlage_subgraph_idPlage_1                                                      False           'idPlage' has no value in the lexicon                        False              'idPlage' has no value in the lexicon
+idPlage_subgraph_open_5                                                         True            MRS fragment produced                                        False              Descends from failed node
+idPlage_subgraph_short_4                                                        True            MRS fragment produced                                        False              Descends from failed node
+idRock1_subgraph_blue_2                                                         True            MRS fragment produced                                        True               Included in MRS
+idRock1_subgraph_idRock_1                                                       True            MRS fragment produced                                        True               Included in MRS
+idRock1_subgraph_smooth_3                                                       True            MRS fragment produced                                        True               Included in MRS
+idRock2_subgraph_idRock_1                                                       True            MRS fragment produced                                        True               Included in MRS
+idRock2_subgraph_red_2                                                          True            MRS fragment produced                                        True               Included in MRS
+idRock2_subgraph_rough_3                                                        True            MRS fragment produced                                        True               Included in MRS
+idSafe1_subgraph_idSafe_1                                                       True            MRS fragment produced                                        True               Included in MRS
+idSafe2_subgraph_idSafe_1                                                       True            MRS fragment produced                                        True               Included in MRS
+idTable1_subgraph_idTable_1                                                     True            MRS fragment produced                                        True               Included in MRS
+idWorld1_subgraph_idFlashlightHandle_3                                          True            MRS fragment produced                                        False              Descends from failed node
+idWorld1_subgraph_idLexi_2                                                      False           'idLexi' has no value in the lexicon                         False              'idLexi' has no value in the lexicon
+idWorld1_subgraph_idWorld_1                                                     True            MRS fragment produced                                        True               Included in MRS
+
+Edge                                                        MRS Composed    Reason                     Included in MRS    Reason
+----------------------------------------------------------  --------------  -------------------------  -----------------  -------------------------
+idBook1Page1_subgraph_idColor_2                             True            MRS composed               True               Included in MRS
+idBook1Page1_subgraph_idOrdinality_1                        False           Inbound to failed node     False              Inbound to failed node
+idBook1Page1_subgraph_isNorthOf_3                           False           Inbound to failed node     False              Inbound to failed node
+idBook1Page1_subgraph_isNorthOf_4                           True            MRS composed               True               Included in MRS
+idBook1Page2_subgraph_idHeight_2                            True            MRS composed               True               Included in MRS
+idBook1Page2_subgraph_idOpenState_3                         True            MRS composed               True               Included in MRS
+idBook1Page2_subgraph_idOrdinality_1                        False           Inbound to failed node     False              Inbound to failed node
+idBook1Page2_subgraph_isNorthOf_4                           True            MRS composed               True               Included in MRS
+idBook1Page3Torn_subgraph_idCardinality_1                   False           Outbound from failed node  False              Outbound from failed node
+idBook1Page3Torn_subgraph_idColor_4                         True            MRS composed               False              Descends from failed node
+idBook1Page3Torn_subgraph_idOrdinality_2                    False           Outbound from failed node  False              Outbound from failed node
+idBook1Page3Torn_subgraph_idTexture_5                       True            MRS composed               False              Descends from failed node
+idBook1Page3Torn_subgraph_isNorthOf_3                       False           Outbound from failed node  False              Outbound from failed node
+idBook1Page3Torn_subgraph_isNorthOf_6                       False           Outbound from failed node  False              Outbound from failed node
+idBook1Page3_subgraph_idCardinality_1                       False           Inbound to failed node     False              Inbound to failed node
+idBook1Page3_subgraph_idUnknownObject_2                     True            MRS composed               True               Included in MRS
+idBook1_subgraph_idLitState_5                               True            MRS composed               True               Included in MRS
+idBook1_subgraph_idOpenState_1                              True            MRS composed               True               Included in MRS
+idBook1_subgraph_idPowerState_4                             False           Inbound to failed node     False              Inbound to failed node
+idBook1_subgraph_isNorthOf_2                                True            MRS composed               True               Included in MRS
+idBook1_subgraph_isNorthOf_3                                True            MRS composed               True               Included in MRS
+idBook1_subgraph_isNorthOf_6                                True            MRS composed               True               Included in MRS
+idDarkCaveFrontOpening_subgraph_idHeight_1                  True            MRS composed               True               Included in MRS
+idDarkCaveFrontOpening_subgraph_idOrdinality_2              False           Outbound from failed node  False              Outbound from failed node
+idDarkCaveFrontOpening_subgraph_isNorthOf_3                 False           Outbound from failed node  False              Outbound from failed node
+idDarkCaveFrontOpening_subgraph_isSouthOf_4                 False           Inbound to failed node     False              Inbound to failed node
+idDarkCave_subgraph_idLitState_3                            True            MRS composed               True               Included in MRS
+idDarkCave_subgraph_idOrdinality_1                          False           Inbound to failed node     False              Inbound to failed node
+idDarkCave_subgraph_idPowerControl_4                        True            MRS composed               True               Included in MRS
+idDarkCave_subgraph_idTone_2                                True            MRS composed               True               Included in MRS
+idDarkCave_subgraph_isNear_6                                True            MRS composed               True               Included in MRS
+idDarkCave_subgraph_isSouthOf_5                             True            MRS composed               True               Included in MRS
+idEntrancecaveBackOpening_subgraph_idColor_3                True            MRS composed               True               Included in MRS
+idEntrancecaveBackOpening_subgraph_idColor_8                True            MRS composed               True               Included in MRS
+idEntrancecaveBackOpening_subgraph_idHeight_1               True            MRS composed               True               Included in MRS
+idEntrancecaveBackOpening_subgraph_idHeight_6               True            MRS composed               True               Included in MRS
+idEntrancecaveBackOpening_subgraph_idOpenState_2            True            MRS composed               True               Included in MRS
+idEntrancecaveBackOpening_subgraph_idOpenState_7            True            MRS composed               True               Included in MRS
+idEntrancecaveBackOpening_subgraph_idTexture_4              True            MRS composed               True               Included in MRS
+idEntrancecaveBackOpening_subgraph_idTexture_9              True            MRS composed               True               Included in MRS
+idEntrancecaveBackOpening_subgraph_isNorthOf_11             True            MRS composed               True               Included in MRS
+idEntrancecaveBackOpening_subgraph_isNorthOf_5              True            MRS composed               True               Included in MRS
+idEntrancecaveBackOpening_subgraph_isSouthOf_10             True            MRS composed               True               Included in MRS
+idEntrancecave_subgraph_idOpenState_2                       True            MRS composed               True               Included in MRS
+idEntrancecave_subgraph_idOrdinality_1                      False           Inbound to failed node     False              Inbound to failed node
+idEntrancecave_subgraph_idPowerControl_4                    False           Inbound to failed node     False              Inbound to failed node
+idEntrancecave_subgraph_idPowerState_3                      True            MRS composed               True               Included in MRS
+idEntrancecave_subgraph_isNear_5                            True            MRS composed               True               Included in MRS
+idEntrancecave_subgraph_isNorthOf_6                         True            MRS composed               True               Included in MRS
+idFlashlight1Switch_subgraph_idColor_1                      True            MRS composed               True               Included in MRS
+idFlashlight1Switch_subgraph_idPowerState_2                 True            MRS composed               True               Included in MRS
+idFlashlight1Switch_subgraph_isInsideOf_3                   True            MRS composed               True               Included in MRS
+idFlashlight1Switch_subgraph_isNorthOf_4                    True            MRS composed               True               Included in MRS
+idFlashlight1Switch_subgraph_isSouthOf_5                    True            MRS composed               True               Included in MRS
+idFlashlight1_subgraph_idColor_1                            True            MRS composed               True               Included in MRS
+idFlashlight1_subgraph_idLitState_3                         True            MRS composed               True               Included in MRS
+idFlashlight1_subgraph_idPowerState_2                       True            MRS composed               True               Included in MRS
+idFlashlight1_subgraph_isSouthOf_4                          True            MRS composed               True               Included in MRS
+idFlashlight2_subgraph_idColor_3                            True            MRS composed               True               Included in MRS
+idFlashlight2_subgraph_idHeight_4                           True            MRS composed               True               Included in MRS
+idFlashlight2_subgraph_idPowerControl_1                     True            MRS composed               True               Included in MRS
+idFlashlight2_subgraph_idPowerState_2                       False           Inbound to failed node     False              Inbound to failed node
+idFlashlight2_subgraph_isSouthOf_5                          True            MRS composed               True               Included in MRS
+idFlashlight2_subgraph_isSouthOf_6                          True            MRS composed               True               Included in MRS
+idFlashlightHandle_subgraph_idHeight_1                      True            MRS composed               True               Included in MRS
+idFlashlightHandle_subgraph_isSouthOf_2                     False           Inbound to failed node     False              Inbound to failed node
+idFlashlightHandle_subgraph_isSouthOf_3                     True            MRS composed               True               Included in MRS
+idGreenRoomBackOpeningDoorKeyhole_subgraph_idLockedState_1  True            MRS composed               True               Included in MRS
+idGreenRoomBackOpeningDoorKeyhole_subgraph_idOpenState_2    True            MRS composed               True               Included in MRS
+idGreenRoomBackOpeningDoorKeyhole_subgraph_isNear_4         True            MRS composed               True               Included in MRS
+idGreenRoomBackOpeningDoorKeyhole_subgraph_isSouthOf_3      True            MRS composed               True               Included in MRS
+idGreenRoomBackOpening_subgraph_idHeight_1                  True            MRS composed               True               Included in MRS
+idGreenRoomFrontOpening_subgraph_idHeight_1                 True            MRS composed               True               Included in MRS
+idGreenRoomFrontOpening_subgraph_idOpenState_2              True            MRS composed               True               Included in MRS
+idGreenRoom_subgraph_idColor_1                              True            MRS composed               True               Included in MRS
+idKey1_subgraph_idColor_1                                   True            MRS composed               True               Included in MRS
+idKeyhole1_subgraph_idPowerControl_4                        False           Inbound to failed node     False              Inbound to failed node
+idKeyhole1_subgraph_idPowerState_3                          True            MRS composed               True               Included in MRS
+idKeyhole1_subgraph_isNear_2                                True            MRS composed               True               Included in MRS
+idKeyhole1_subgraph_isNorthOf_1                             True            MRS composed               True               Included in MRS
+idKeyhole1_subgraph_isNorthOf_6                             True            MRS composed               True               Included in MRS
+idKeyhole1_subgraph_isSouthOf_5                             True            MRS composed               True               Included in MRS
+idKeyhole2_subgraph_idHeight_3                              True            MRS composed               True               Included in MRS
+idKeyhole2_subgraph_idOpenState_4                           True            MRS composed               True               Included in MRS
+idKeyhole2_subgraph_idOrdinality_1                          False           Outbound from failed node  False              Outbound from failed node
+idKeyhole2_subgraph_isNorthOf_5                             True            MRS composed               True               Included in MRS
+idKeyhole2_subgraph_isSouthOf_2                             False           Inbound to failed node     False              Inbound to failed node
+idKeyhole2_subgraph_isSouthOf_6                             True            MRS composed               True               Included in MRS
+idLexiLeftHand_subgraph_idLockedState_3                     True            MRS composed               False              Descends from failed node
+idLexiLeftHand_subgraph_idOpenState_2                       True            MRS composed               False              Descends from failed node
+idLexiLeftHand_subgraph_idSide_1                            False           Outbound from failed node  False              Outbound from failed node
+idLexiLeftHand_subgraph_isNorthOf_5                         False           Outbound from failed node  False              Outbound from failed node
+idLexiLeftHand_subgraph_isSouthOf_4                         False           Inbound to failed node     False              Inbound to failed node
+idLexiRightHand_subgraph_idColor_2                          True            MRS composed               False              Descends from failed node
+idLexiRightHand_subgraph_idPowerState_3                     False           Inbound to failed node     False              Inbound to failed node
+idLexiRightHand_subgraph_idSide_1                           False           Outbound from failed node  False              Outbound from failed node
+idLexiRightHand_subgraph_isNorthOf_4                        False           Outbound from failed node  False              Outbound from failed node
+idLexi_subgraph_idPowerControl_2                            False           Inbound to failed node     False              Inbound to failed node
+idLexi_subgraph_idPowerState_1                              True            MRS composed               False              Descends from failed node
+idLexi_subgraph_isNear_4                                    False           Outbound from failed node  False              Outbound from failed node
+idLexi_subgraph_isNorthOf_3                                 False           Outbound from failed node  False              Outbound from failed node
+idLight1_subgraph_idColor_1                                 True            MRS composed               True               Included in MRS
+idLight1_subgraph_idLitState_3                              True            MRS composed               True               Included in MRS
+idLight1_subgraph_idPowerState_2                            False           Inbound to failed node     False              Inbound to failed node
+idLock1_subgraph_idLockedState_1                            True            MRS composed               True               Included in MRS
+idLock1_subgraph_idPowerState_2                             False           Outbound from failed node  False              Outbound from failed node
+idLock1_subgraph_isNorthOf_3                                False           Inbound to failed node     False              Inbound to failed node
+idLock2_subgraph_idColor_6                                  True            MRS composed               True               Included in MRS
+idLock2_subgraph_idLockedState_1                            True            MRS composed               True               Included in MRS
+idLock2_subgraph_idOpenState_3                              True            MRS composed               True               Included in MRS
+idLock2_subgraph_idOrdinality_2                             False           Inbound to failed node     False              Inbound to failed node
+idLock2_subgraph_idTexture_7                                True            MRS composed               True               Included in MRS
+idLock2_subgraph_isNear_4                                   True            MRS composed               True               Included in MRS
+idLock2_subgraph_isSouthOf_5                                True            MRS composed               True               Included in MRS
+idLock2_subgraph_isSouthOf_8                                True            MRS composed               True               Included in MRS
+idLockFace1_subgraph_idOrdinality_1                         False           Inbound to failed node     False              Inbound to failed node
+idLockFace1_subgraph_idTone_2                               True            MRS composed               True               Included in MRS
+idLockFace1_subgraph_isNorthOf_3                            True            MRS composed               True               Included in MRS
+idMachine1_subgraph_idOrdinality_3                          False           Outbound from failed node  False              Outbound from failed node
+idMachine1_subgraph_idPowerControl_2                        False           Inbound to failed node     False              Inbound to failed node
+idMachine1_subgraph_idPowerState_1                          True            MRS composed               True               Included in MRS
+idMachine1_subgraph_isSouthOf_4                             False           Inbound to failed node     False              Inbound to failed node
+idPlageBackOpening_subgraph_idColor_6                       True            MRS composed               True               Included in MRS
+idPlageBackOpening_subgraph_idHeight_1                      True            MRS composed               True               Included in MRS
+idPlageBackOpening_subgraph_idHeight_3                      True            MRS composed               True               Included in MRS
+idPlageBackOpening_subgraph_idOpenState_2                   True            MRS composed               True               Included in MRS
+idPlageBackOpening_subgraph_idOpenState_4                   True            MRS composed               True               Included in MRS
+idPlageBackOpening_subgraph_idPowerState_7                  True            MRS composed               True               Included in MRS
+idPlageBackOpening_subgraph_isNorthOf_5                     True            MRS composed               True               Included in MRS
+idPlageBackOpening_subgraph_isNorthOf_9                     True            MRS composed               True               Included in MRS
+idPlageBackOpening_subgraph_isSouthOf_8                     True            MRS composed               True               Included in MRS
+idPlageFrontOpening_subgraph_idHeight_1                     True            MRS composed               True               Included in MRS
+idPlage_subgraph_idHeight_2                                 True            MRS composed               False              Descends from failed node
+idPlage_subgraph_idOpenState_3                              True            MRS composed               False              Descends from failed node
+idPlage_subgraph_idOrdinality_1                             False           Outbound from failed node  False              Outbound from failed node
+idPlage_subgraph_isNorthOf_4                                True            MRS composed               False              Descends from failed node
+idPlage_subgraph_isNorthOf_5                                False           Outbound from failed node  False              Outbound from failed node
+idRock1_subgraph_idColor_1                                  True            MRS composed               True               Included in MRS
+idRock1_subgraph_idTexture_2                                True            MRS composed               True               Included in MRS
+idRock2_subgraph_idColor_1                                  True            MRS composed               True               Included in MRS
+idRock2_subgraph_idTexture_2                                True            MRS composed               True               Included in MRS
+idWorld1_subgraph_isNear_2                                  False           Inbound to failed node     False              Inbound to failed node
+idWorld1_subgraph_isNorthOf_1                               False           Outbound from failed node  False              Outbound from failed node

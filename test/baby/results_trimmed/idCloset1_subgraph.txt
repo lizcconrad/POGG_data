@@ -1,0 +1,36 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idCloset1_subgraph.dot
+[ TOP: h828
+  INDEX: e825
+  RELS: < [ unknown LBL: h827 ARG: x815 ARG0: e825 ]
+          [ def_udef_a_q LBL: h824 ARG0: x815 RSTR: h822 BODY: h823 ]
+          [ _closet_n_1 LBL: h816 ARG0: x815 ] >
+  HCONS: < h822 qeq h816 h828 qeq h827 > ]
+GENERATED RESULTS ... 
+Closets
+Closet
+The closet
+A closet
+The closets
+The closets.
+Closet.
+Closets.
+A closet.
+The closet.
+
+TOTAL RESULTS: 10
+
+Node        MRS Produced    Reason                 Included in MRS    Reason
+----------  --------------  ---------------------  -----------------  -------------------------
+idCloset_1  True            MRS fragment produced  True               Included in MRS
+true_2      True            MRS fragment produced  False              Descends from failed edge
+
+Edge               MRS Composed    Reason                                     Included in MRS    Reason
+-----------------  --------------  -----------------------------------------  -----------------  -----------------------------------------
+idUnknownObject_1  False           'idUnknownObject' has no value in lexicon  False              'idUnknownObject' has no value in lexicon
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             2        2         1
+Nodes              Included             1        2         0.5
+Edges              Produced             0        1         0
+Edges              Included             0        1         0

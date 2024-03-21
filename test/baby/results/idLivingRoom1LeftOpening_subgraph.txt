@@ -1,0 +1,37 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/baby/subgraphs/dot/complete/idLivingRoom1LeftOpening_subgraph.dot
+[ TOP: h20
+  INDEX: e17
+  RELS: < [ unknown LBL: h19 ARG: x13 ARG0: e17 ]
+          [ def_udef_a_q LBL: h16 ARG0: x13 RSTR: h14 BODY: h15 ]
+          [ compound LBL: h12 ARG0: e9 ARG1: x13 ARG2: x2 ]
+          [ udef_q LBL: h8 ARG0: x2 RSTR: h6 BODY: h7 ]
+          [ _left_n_of LBL: h4 ARG0: x2 ARG1: i3 ]
+          [ _opening_n_1 LBL: h12 ARG0: x13 ] >
+  HCONS: < h6 qeq h4 h14 qeq h12 h20 qeq h19 > ]
+GENERATED RESULTS ... 
+The left opening
+The left openings
+A left opening
+The left openings.
+Left openings
+The left opening.
+Left opening
+A left opening.
+Left openings.
+Left opening.
+
+TOTAL RESULTS: 10
+
+Node                        MRS Produced    Reason                 Included in MRS    Reason
+--------------------------  --------------  ---------------------  -----------------  ---------------
+idLivingRoom1LeftOpening_1  True            MRS fragment produced  True               Included in MRS
+
+Edge    MRS Composed    Reason    Included in MRS    Reason
+------  --------------  --------  -----------------  --------
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             1        1           1
+Nodes              Included             1        1           1
+Edges              Produced             0        0           0
+Edges              Included             0        0           0

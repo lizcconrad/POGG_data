@@ -1,0 +1,100 @@
+/Users/lizcconrad/Documents/PhD/GP2/GG_project/GG_data/test/Heal_TheCave/subgraphs/dot/complete/idMushroom1_subgraph.dot
+[ TOP: h1056
+  INDEX: e1053
+  RELS: < [ unknown LBL: h1055 ARG: x1049 ARG0: e1053 ]
+          [ def_udef_a_q LBL: h1052 ARG0: x1049 RSTR: h1050 BODY: h1051 ]
+          [ loc_nonsp LBL: h1022 ARG0: i1045 ARG1: x1049 ARG2: x1041 ]
+          [ _blue_a_1 LBL: h1022 ARG0: i1023 ARG1: x1049 ]
+          [ _mushroom_n_1 LBL: h1022 ARG0: x1049 ]
+          [ def_implicit_q LBL: h1044 ARG0: x1041 RSTR: h1042 BODY: h1043 ]
+          [ _east_a_1 LBL: h1040 ARG0: i1031 ARG1: x1041 ARG2: x1035 ]
+          [ def_udef_a_q LBL: h1038 ARG0: x1035 RSTR: h1036 BODY: h1037 ]
+          [ _cold_a_1 LBL: h1027 ARG0: e1028 ARG1: x1035 ]
+          [ _cavern_n_1 LBL: h1027 ARG0: x1035 ]
+          [ place_n LBL: h1040 ARG0: x1041 ] >
+  HCONS: < h1036 qeq h1027 h1042 qeq h1040 h1050 qeq h1022 h1056 qeq h1055 > ]
+GENERATED RESULTS ... 
+A blue mushroom east of a cold cavern
+The blue mushroom east of a cold cavern
+The blue mushrooms east of a cold cavern
+Blue mushrooms east of a cold cavern
+A blue mushroom east of the cold cavern
+The blue mushroom east of the cold cavern
+The blue mushrooms east of the cold cavern
+A blue mushroom east of the cold caverns
+The blue mushroom east of the cold caverns
+The blue mushrooms east of the cold caverns
+Blue mushrooms east of the cold cavern
+Blue mushrooms east of the cold caverns
+A blue mushroom east of the cold caverns.
+The blue mushroom east of the cold caverns.
+The blue mushrooms east of the cold caverns.
+A blue mushroom east of cold caverns
+The blue mushroom east of cold caverns
+Blue mushrooms east of the cold caverns.
+The blue mushrooms east of cold caverns
+A blue mushroom east of a cold cavern.
+The blue mushroom east of a cold cavern.
+The blue mushrooms east of a cold cavern.
+A blue mushroom east of cold caverns.
+The blue mushroom east of cold caverns.
+Blue mushrooms east of cold caverns
+Blue mushroom east of a cold cavern
+The blue mushrooms east of cold caverns.
+Blue mushrooms east of a cold cavern.
+A blue mushroom east of the cold cavern.
+The blue mushroom east of the cold cavern.
+The blue mushrooms east of the cold cavern.
+Blue mushrooms east of cold caverns.
+Blue mushroom east of the cold cavern
+Blue mushrooms east of the cold cavern.
+Blue mushroom east of the cold caverns
+Blue mushroom east of the cold caverns.
+Blue mushroom east of cold caverns
+Blue mushroom east of a cold cavern.
+The blue mushrooms, east of a cold cavern
+The blue mushroom, east of a cold cavern
+Blue mushroom east of cold caverns.
+Blue mushrooms, east of a cold cavern
+Blue mushroom east of the cold cavern.
+Blue mushroom, east of a cold cavern
+The blue mushrooms, east of the cold cavern
+The blue mushroom, east of the cold cavern
+Blue mushrooms, east of the cold cavern
+A blue mushroom, east of a cold cavern
+The blue mushrooms, east of the cold caverns
+The blue mushroom, east of the cold caverns
+Blue mushrooms, east of the cold caverns
+Blue mushroom, east of the cold cavern
+A blue mushroom, east of the cold cavern
+Blue mushroom, east of the cold caverns
+A blue mushroom, east of the cold caverns
+The blue mushrooms, east of cold caverns
+The blue mushroom, east of cold caverns
+Blue mushrooms, east of cold caverns
+Blue mushroom, east of cold caverns
+A blue mushroom, east of cold caverns
+
+TOTAL RESULTS: 60
+
+Node          MRS Produced    Reason                           Included in MRS    Reason
+------------  --------------  -------------------------------  -----------------  -------------------------------
+5_5           False           '5' has no value in the lexicon  False              '5' has no value in the lexicon
+blue_2        True            MRS fragment produced            True               Included in MRS
+cold_4        True            MRS fragment produced            True               Included in MRS
+idCavern_3    True            MRS fragment produced            True               Included in MRS
+idMushroom_1  True            MRS fragment produced            True               Included in MRS
+
+Edge             MRS Composed    Reason                  Included in MRS    Reason
+---------------  --------------  ----------------------  -----------------  ----------------------
+idColor_1        True            MRS composed            True               Included in MRS
+idDescriptor__2  True            MRS composed            True               Included in MRS
+idOrdinality_3   False           Inbound to failed node  False              Inbound to failed node
+isEastOf_4       True            MRS composed            True               Included in MRS
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             4        5        0.8
+Nodes              Included             4        5        0.8
+Edges              Produced             3        4        0.75
+Edges              Included             3        4        0.75
