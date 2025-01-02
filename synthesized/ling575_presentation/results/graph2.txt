@@ -1,0 +1,24 @@
+/Users/lizcconrad/Documents/PhD/POGG/POGG_project/POGG_data/synthesized/ling575_presentation/graphs/graph2.dot
+
+
+TOTAL RESULTS: 0
+
+Node     MRS Produced    Reason                                        Included in MRS    Reason
+-------  --------------  --------------------------------------------  -----------------  --------------------------------------------
+ball_1   False           "Can't find 'ball' as a key in the lexicon"   False              "Can't find 'ball' as a key in the lexicon"
+blue_2   False           "Can't find 'blue' as a key in the lexicon"   False              "Can't find 'blue' as a key in the lexicon"
+box_4    False           "Can't find 'box' as a key in the lexicon"    False              "Can't find 'box' as a key in the lexicon"
+small_3  False           "Can't find 'small' as a key in the lexicon"  False              "Can't find 'small' as a key in the lexicon"
+
+Edge        MRS Composed    Reason                     Included in MRS    Reason
+----------  --------------  -------------------------  -----------------  -------------------------
+color_1     False           Outbound from failed node  False              Outbound from failed node
+insideOf_3  False           Outbound from failed node  False              Outbound from failed node
+size_2      False           Outbound from failed node  False              Outbound from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             0        4           0
+Nodes              Included             0        4           0
+Edges              Produced             0        3           0
+Edges              Included             0        3           0

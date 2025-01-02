@@ -21,20 +21,19 @@
 
         }
       },
-      "idPainting": {
-        "composition": "synonyms",
-        "predicates": [
-          "_painting_n_of",
-          "_picture_n_of"
-        ]
-      },
+      "idPainting": "_painting_n_of",
       "idCake": "_cake_n_1",
       "idDoor": "_door_n_1"
     },
+  "propertyValues":
+  {
+    "strawberry": "_strawberry_a_1"
+  },
   "properties":
   {
     "isDirection": "compound",
     "idColor": "adjective",
+    "idFlavor": "adjective",
     "isNorthOf": {
       "composition": "relative_direction",
       "direction": "_north_a_1"

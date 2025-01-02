@@ -1,0 +1,33 @@
+EVALUATION SUMMARY
+
+  Graphs Generated From    Total Graphs    Graph Coverage
+-----------------------  --------------  ----------------
+                      0               2                 0
+
+Graph Name      Results  Reason
+------------  ---------  ----------------
+graph1                0  MRS not produced
+graph2                0  MRS not produced
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             0        6           0
+Nodes              Included             0        6           0
+Edges              Produced             0        4           0
+Edges              Included             0        4           0
+
+Node            MRS Produced    Reason                                        Included in MRS    Reason
+--------------  --------------  --------------------------------------------  -----------------  --------------------------------------------
+graph1_apple_1  False           "Can't find 'apple' as a key in the lexicon"  False              "Can't find 'apple' as a key in the lexicon"
+graph1_red_2    False           "Can't find 'red' as a key in the lexicon"    False              "Can't find 'red' as a key in the lexicon"
+graph2_ball_1   False           "Can't find 'ball' as a key in the lexicon"   False              "Can't find 'ball' as a key in the lexicon"
+graph2_blue_2   False           "Can't find 'blue' as a key in the lexicon"   False              "Can't find 'blue' as a key in the lexicon"
+graph2_box_4    False           "Can't find 'box' as a key in the lexicon"    False              "Can't find 'box' as a key in the lexicon"
+graph2_small_3  False           "Can't find 'small' as a key in the lexicon"  False              "Can't find 'small' as a key in the lexicon"
+
+Edge               MRS Composed    Reason                     Included in MRS    Reason
+-----------------  --------------  -------------------------  -----------------  -------------------------
+graph1_color_1     False           Outbound from failed node  False              Outbound from failed node
+graph2_color_1     False           Outbound from failed node  False              Outbound from failed node
+graph2_insideOf_3  False           Outbound from failed node  False              Outbound from failed node
+graph2_size_2      False           Outbound from failed node  False              Outbound from failed node

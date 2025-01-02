@@ -1,0 +1,21 @@
+{
+  "entityTypes": {
+    "ball": "_ball_n_of",
+    "box":  "_box_n_of"
+  },
+  "propertyValues": {
+    "blue": "_blue_a_1",
+    "small": "_small_a_1"
+  },
+  "properties": {
+    "color": "adjective",
+    "size": "adjective",
+    "inside of": {
+      "composition": "preposition",
+      "property_predicate": {
+        "predicate_type": "preposition_ssement",
+        "predicate_label": "_inside+of_p"
+      }
+    }
+  }
+}

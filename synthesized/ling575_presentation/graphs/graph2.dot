@@ -1,0 +1,11 @@
+digraph {
+blue;
+small;
+ball;
+box;
+
+
+ball -> blue [label=color];
+ball -> small [label=size];
+ball -> box [label=insideOf];
+}

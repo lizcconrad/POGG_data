@@ -1,0 +1,21 @@
+{
+  "entityTypes": {
+    "idCave": "_cave_n_1",
+    "idClearing": "_clearing_n_1"
+  },
+    "propertyValues": {
+      "dark": "_dark_a_1",
+      "grassy": "_grassy_a_1"
+    },
+    "properties": {
+      "idTint": "adjective",
+      "idDescriptor": "adjective",
+      "isEastOf": {
+        "composition": "relative_direction",
+        "property_predicate": {
+          "predicate_type": "adjective_sement",
+          "predicate_label": "_north_a_1"
+        }
+      }
+    }
+ }

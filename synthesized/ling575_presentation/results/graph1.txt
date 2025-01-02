@@ -1,0 +1,20 @@
+/Users/lizcconrad/Documents/PhD/POGG/POGG_project/POGG_data/synthesized/ling575_presentation/graphs/graph1.dot
+
+
+TOTAL RESULTS: 0
+
+Node     MRS Produced    Reason                                        Included in MRS    Reason
+-------  --------------  --------------------------------------------  -----------------  --------------------------------------------
+apple_1  False           "Can't find 'apple' as a key in the lexicon"  False              "Can't find 'apple' as a key in the lexicon"
+red_2    False           "Can't find 'red' as a key in the lexicon"    False              "Can't find 'red' as a key in the lexicon"
+
+Edge     MRS Composed    Reason                     Included in MRS    Reason
+-------  --------------  -------------------------  -----------------  -------------------------
+color_1  False           Outbound from failed node  False              Outbound from failed node
+
+Graph Component    Metric      Successful    Total    Coverage
+-----------------  --------  ------------  -------  ----------
+Nodes              Produced             0        2           0
+Nodes              Included             0        2           0
+Edges              Produced             0        1           0
+Edges              Included             0        1           0
